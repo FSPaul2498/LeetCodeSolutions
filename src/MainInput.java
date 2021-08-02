@@ -25,6 +25,11 @@ public class MainInput {
                 // add-two-numbers
                 run2();
                 break;
+            case 3:
+                // Q3. 无重复字符的最长子串
+                // longest-substring-without-repeating-characters
+                run3();
+                break;
             case 743:
                 // Q743. 网络延迟时间
                 // network-delay-time
@@ -69,6 +74,13 @@ public class MainInput {
             if (head == null) head = temp;
         }
         return head;
+    }
+
+    static void run3() {
+        String s = "abcabcbb";
+        S3 run = new S3();
+        int result = run.lengthOfLongestSubstring(s);
+        print(result);
     }
 
     static void run743() {

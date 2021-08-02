@@ -20,6 +20,11 @@ public class MainInput {
                 // two-sum
                 run1();
                 break;
+            case 743:
+                // Q743. 网络延迟时间
+                // network-delay-time
+                run743();
+                break;
             case 1337:
                 // Q1337. 矩阵中战斗力最弱的 K 行
                 // the-k-weakest-rows-in-a-matrix
@@ -30,21 +35,19 @@ public class MainInput {
         }
     }
 
-    static void run0() {
-        /*
-         This is a Method Template
-         Initialize Variables
-         S0 run = new S0();
-         int result = run.methods();
-         print(result);
-        */
-    }
-
     static void run1() {
         int[] nums = {2, 7, 11, 15};
         int target = 9;
         S1 run = new S1();
         int[] result = run.twoSum(nums, target);
+        print(result);
+    }
+
+    static void run743() {
+        int[][] times = {{2, 1, 1}, {2, 3, 1}, {3, 4, 1}};
+        int n = 4, k = 2;
+        S743 run = new S743();
+        int result = run.networkDelayTime(times, n, k);
         print(result);
     }
 

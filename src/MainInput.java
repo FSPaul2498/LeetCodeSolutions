@@ -20,6 +20,11 @@ public class MainInput {
                 // two-sum
                 run1();
                 break;
+            case 2:
+                // Q2. 两数相加
+                // add-two-numbers
+                run2();
+                break;
             case 743:
                 // Q743. 网络延迟时间
                 // network-delay-time
@@ -41,6 +46,29 @@ public class MainInput {
         S1 run = new S1();
         int[] result = run.twoSum(nums, target);
         print(result);
+    }
+
+    static void run2() {
+        int[] l1nums = {2, 4, 3}, l2nums = {5, 6, 4};
+        ListNode l1 = makeLinkedList(l1nums);
+        ListNode l2 = makeLinkedList(l2nums);
+        print(l1);
+        print("");
+        print(l2);
+        print("");
+        S2 run = new S2();
+        ListNode result = run.addTwoNumbers(l1, l2);
+        print(result);
+    }
+
+    static ListNode makeLinkedList(int[] source) {
+        ListNode head = null, temp = new ListNode();
+        for (int i : source) {
+            temp.next = new ListNode(i);
+            temp = temp.next;
+            if (head == null) head = temp;
+        }
+        return head;
     }
 
     static void run743() {
@@ -74,5 +102,10 @@ public class MainInput {
 
     static void print(String input) {
         System.out.println(input);
+    }
+
+    static void print(ListNode head) {
+        for (ListNode now = head; now != null; now = now.next)
+            System.out.print(now.val + " ");
     }
 }

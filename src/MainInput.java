@@ -30,6 +30,11 @@ public class MainInput {
                 // longest-substring-without-repeating-characters
                 run3();
                 break;
+            case 4:
+                // Q4. 寻找两个正序数组的中位数
+                // median-of-two-sorted-arrays
+                run4();
+                break;
             case 581:
                 // Q581. 最短无序连续子数组
                 // shortest-unsorted-continuous-subarray
@@ -88,6 +93,13 @@ public class MainInput {
         print(result);
     }
 
+    static void run4() {
+        int[] nums1 = {1, 3}, nums2 = {2};
+        S4 run = new S4();
+        double result = run.findMedianSortedArrays(nums1, nums2);
+        print(result);
+    }
+
     static void run581() {
         int[] nums = {2, 6, 4, 8, 10, 9, 15};
         S581 run = new S581();
@@ -122,6 +134,10 @@ public class MainInput {
 
     static void print(int[] input) {
         System.out.println(Arrays.toString(input));
+    }
+
+    static void print(double input) {
+        System.out.println(input);
     }
 
     static void print(String input) {

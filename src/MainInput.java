@@ -30,6 +30,11 @@ public class MainInput {
                 // longest-substring-without-repeating-characters
                 run3();
                 break;
+            case 581:
+                // Q581. 最短无序连续子数组
+                // shortest-unsorted-continuous-subarray
+                run581();
+                break;
             case 743:
                 // Q743. 网络延迟时间
                 // network-delay-time
@@ -80,6 +85,13 @@ public class MainInput {
         String s = "abcabcbb";
         S3 run = new S3();
         int result = run.lengthOfLongestSubstring(s);
+        print(result);
+    }
+
+    static void run581() {
+        int[] nums = {2, 6, 4, 8, 10, 9, 15};
+        S581 run = new S581();
+        int result = run.findUnsortedSubarray(nums);
         print(result);
     }
 

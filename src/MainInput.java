@@ -29,6 +29,9 @@ public class MainInput {
             case 581:
                 run581();
                 break;
+            case 611:
+                run611();
+                break;
             case 743:
                 run743();
                 break;
@@ -89,6 +92,13 @@ public class MainInput {
         int[] nums = {2, 6, 4, 8, 10, 9, 15};
         S581 run = new S581();
         int result = run.findUnsortedSubarray(nums);
+        print(result);
+    }
+
+    static void run611() {
+        int[] nums = {2, 2, 3, 4};
+        S611 run = new S611();
+        int result = run.triangleNumber(nums);
         print(result);
     }
 

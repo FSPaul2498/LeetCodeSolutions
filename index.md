@@ -22,6 +22,9 @@ https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
 > Q581.最短无序连续子数组  
 https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
 
+> Q611. 有效三角形的个数  
+https://leetcode-cn.com/problems/valid-triangle-number/
+
 > Q743.网络延迟时间  
 https://leetcode-cn.com/problems/network-delay-time/
 

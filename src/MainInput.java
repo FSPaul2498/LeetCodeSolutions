@@ -26,6 +26,9 @@ public class MainInput {
             case 4:
                 run4();
                 break;
+            case 5:
+                run5();
+                break;
             case 581:
                 run581();
                 break;
@@ -85,6 +88,13 @@ public class MainInput {
         int[] nums1 = {1, 3}, nums2 = {2};
         S4 run = new S4();
         double result = run.findMedianSortedArrays(nums1, nums2);
+        print(result);
+    }
+
+    static void run5() {
+        String s = "babad";
+        S5 run = new S5();
+        String result = run.longestPalindrome(s);
         print(result);
     }
 

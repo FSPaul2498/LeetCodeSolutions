@@ -1,7 +1,6 @@
 // Author BaiXu
 // LeetCode Solutions
 // Main Input Class
-// Questions and Examples Index
 
 import java.util.Arrays;
 
@@ -13,45 +12,31 @@ public class MainInput {
         } catch (ArrayIndexOutOfBoundsException | NumberFormatException e) {
             option = 0;
         }
-        print("Solve Question #" + option);
+        print("Solve Problem #" + option);
         switch (option) {
             case 1:
-                // Q1. 两数之和
-                // two-sum
                 run1();
                 break;
             case 2:
-                // Q2. 两数相加
-                // add-two-numbers
                 run2();
                 break;
             case 3:
-                // Q3. 无重复字符的最长子串
-                // longest-substring-without-repeating-characters
                 run3();
                 break;
             case 4:
-                // Q4. 寻找两个正序数组的中位数
-                // median-of-two-sorted-arrays
                 run4();
                 break;
             case 581:
-                // Q581. 最短无序连续子数组
-                // shortest-unsorted-continuous-subarray
                 run581();
                 break;
             case 743:
-                // Q743. 网络延迟时间
-                // network-delay-time
                 run743();
                 break;
             case 1337:
-                // Q1337. 矩阵中战斗力最弱的 K 行
-                // the-k-weakest-rows-in-a-matrix
                 run1337();
                 break;
             default:
-                print("Wrong Question Num");
+                print("Wrong Problem Num");
         }
     }
 

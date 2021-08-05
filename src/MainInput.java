@@ -30,6 +30,9 @@ public class MainInput {
             case 5:
                 run5();
                 break;
+            case 6:
+                run6();
+                break;
             case 581:
                 run581();
                 break;
@@ -99,6 +102,14 @@ public class MainInput {
         String s = "babad";
         S5 run = new S5();
         String result = run.longestPalindrome(s);
+        print(result);
+    }
+
+    static void run6() {
+        String s = "PAYPALISHIRING";
+        int numRows = 3;
+        S6 run = new S6();
+        String result = run.convert(s, numRows);
         print(result);
     }
 

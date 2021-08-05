@@ -27,6 +27,10 @@ This is the index of problems which I have solved and submitted to LeetCode CN.
 > Solved at 2021-08-04  
 > https://leetcode-cn.com/problems/longest-palindromic-substring/
 
+> P6. Z 字形变换  
+> Solved at 2021-08-05  
+> https://leetcode-cn.com/problems/zigzag-conversion/
+
 > P581.最短无序连续子数组  
 > Solved at 2021-08-03  
 > https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/

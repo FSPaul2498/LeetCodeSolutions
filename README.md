@@ -7,8 +7,11 @@ LeetCode力扣题解
 This is my code submission record of LeetCode CN Site.  
 For reference only, your comment is appreciated on any mistake.
 
-另，题库文件请参考 index.md  
-Refer to index.md for index of problems
+另，我已将提交过的题目标题、链接、提交日期整合成日志，具体请参考 [log.md](log.md)  
+I have recorded the title, link and submission date of the problems I submitted, refer to [log.md](log.md) for the submission log.
+
+本项目使用 MIT 开源许可协议，详情请参考 [LICENSE](LICENSE)  
+This repository is licensed under the MIT License, refer to [LICENSE](LICENSE) for more information.
 
 ## 代码结构
 

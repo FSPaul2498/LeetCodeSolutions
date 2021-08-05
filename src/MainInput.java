@@ -33,6 +33,9 @@ public class MainInput {
             case 6:
                 run6();
                 break;
+            case 7:
+                run7();
+                break;
             case 581:
                 run581();
                 break;
@@ -110,6 +113,13 @@ public class MainInput {
         int numRows = 3;
         S6 run = new S6();
         String result = run.convert(s, numRows);
+        print(result);
+    }
+
+    static void run7() {
+        int x = 123;
+        S7 run = new S7();
+        int result = run.reverse(x);
         print(result);
     }
 

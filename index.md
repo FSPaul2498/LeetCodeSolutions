@@ -39,6 +39,10 @@ This is the index of problems which I have solved and submitted to LeetCode CN.
 > Solved at 2021-08-02  
 > https://leetcode-cn.com/problems/network-delay-time/
 
+> P802. 找到最终的安全状态  
+> Solved at 2021-08-05  
+> https://leetcode-cn.com/problems/find-eventual-safe-states/
+
 > P1337.矩阵中战斗力最弱的 K 行  
 > Solved at 2021-08-01  
 > https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/

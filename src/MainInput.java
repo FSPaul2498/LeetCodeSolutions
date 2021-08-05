@@ -3,6 +3,7 @@
 // Main Input Class
 
 import java.util.Arrays;
+import java.util.List;
 
 public class MainInput {
     public static void main(String[] args) {
@@ -37,6 +38,9 @@ public class MainInput {
                 break;
             case 743:
                 run743();
+                break;
+            case 802:
+                run802();
                 break;
             case 1337:
                 run1337();
@@ -120,6 +124,13 @@ public class MainInput {
         print(result);
     }
 
+    static void run802() {
+        int[][] graph = {{1, 2}, {2, 3}, {5}, {0}, {5}, {}, {}};
+        S802 run = new S802();
+        List<Integer> result = run.eventualSafeNodes(graph);
+        print(result);
+    }
+
     static void run1337() {
         int[][] mat = {{1, 1, 0, 0, 0},
                 {1, 1, 1, 1, 0},
@@ -146,6 +157,10 @@ public class MainInput {
     }
 
     static void print(String input) {
+        System.out.println(input);
+    }
+
+    static void print(List<Integer> input) {
         System.out.println(input);
     }
 

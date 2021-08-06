@@ -48,6 +48,9 @@ public class MainInput {
             case 802:
                 run802();
                 break;
+            case 847:
+                run847();
+                break;
             case 1337:
                 run1337();
                 break;
@@ -149,6 +152,13 @@ public class MainInput {
         int[][] graph = {{1, 2}, {2, 3}, {5}, {0}, {5}, {}, {}};
         S802 run = new S802();
         List<Integer> result = run.eventualSafeNodes(graph);
+        print(result);
+    }
+
+    static void run847() {
+        int[][] graph = {{1, 2, 3}, {0}, {0}, {0}};
+        S847 run = new S847();
+        int result = run.shortestPathLength(graph);
         print(result);
     }
 

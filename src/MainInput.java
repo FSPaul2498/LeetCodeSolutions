@@ -36,6 +36,9 @@ public class MainInput {
             case 7:
                 run7();
                 break;
+            case 8:
+                run8();
+                break;
             case 581:
                 run581();
                 break;
@@ -123,6 +126,13 @@ public class MainInput {
         int x = 123;
         S7 run = new S7();
         int result = run.reverse(x);
+        print(result);
+    }
+
+    static void run8() {
+        String x = "42";
+        S8 run = new S8();
+        int result = run.myAtoi(x);
         print(result);
     }
 

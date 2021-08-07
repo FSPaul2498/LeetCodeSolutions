@@ -44,6 +44,11 @@ which I have solved and submitted the solution to LeetCode CN.
 > Solved at 2021-08-05  
 > https://leetcode-cn.com/problems/reverse-integer/
 
+8. 字符串转换整数 (atoi)
+
+> Solved at 2021-08-07  
+> https://leetcode-cn.com/problems/string-to-integer-atoi/
+
 581. 最短无序连续子数组
 
 > Solved at 2021-08-03  

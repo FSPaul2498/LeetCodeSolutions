@@ -39,6 +39,9 @@ public class MainInput {
             case 8:
                 run8();
                 break;
+            case 457:
+                run457();
+                break;
             case 581:
                 run581();
                 break;
@@ -136,6 +139,13 @@ public class MainInput {
         print(result);
     }
 
+    static void run457() {
+        int[] nums = {2, -1, 1, 2, 2};
+        S457 run = new S457();
+        boolean result = run.circularArrayLoop(nums);
+        print(result);
+    }
+
     static void run581() {
         int[] nums = {2, 6, 4, 8, 10, 9, 15};
         S581 run = new S581();
@@ -185,6 +195,10 @@ public class MainInput {
     }
 
     // Simplify System.out.println
+    static void print(boolean input) {
+        System.out.println(input);
+    }
+
     static void print(int input) {
         System.out.println(input);
     }

@@ -49,6 +49,11 @@ which I have solved and submitted the solution to LeetCode CN.
 > Solved at 2021-08-07  
 > https://leetcode-cn.com/problems/string-to-integer-atoi/
 
+457. 环形数组是否存在循环
+
+> Solved at 2021-08-07  
+> https://leetcode-cn.com/problems/circular-array-loop/
+
 581. 最短无序连续子数组
 
 > Solved at 2021-08-03  

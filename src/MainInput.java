@@ -39,6 +39,9 @@ public class MainInput {
             case 8:
                 run8();
                 break;
+            case 9:
+                run9();
+                break;
             case 457:
                 run457();
                 break;
@@ -136,6 +139,13 @@ public class MainInput {
         String x = "42";
         S8 run = new S8();
         int result = run.myAtoi(x);
+        print(result);
+    }
+
+    static void run9() {
+        int x = 121;
+        S9 run = new S9();
+        boolean result = run.isPalindrome(x);
         print(result);
     }
 

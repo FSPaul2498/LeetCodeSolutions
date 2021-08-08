@@ -54,6 +54,12 @@ which I have solved and submitted the solution to LeetCode CN.
 > Solved at 2021-08-07  
 > https://leetcode-cn.com/problems/palindrome-number/
 
+10. 正则表达式匹配
+
+> Solved at 2021-08-08  
+> 本题有参考[【从失败递归到动态规划】][10]社区Java题解代码  
+> https://leetcode-cn.com/problems/regular-expression-matching/
+
 457. 环形数组是否存在循环
 
 > Solved at 2021-08-07  
@@ -95,5 +101,6 @@ which I have solved and submitted the solution to LeetCode CN.
 > Solved at 2021-08-01  
 > https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/
 
+[10]:https://leetcode-cn.com/problems/regular-expression-matching/solution/cong-shi-bai-di-gui-dao-dong-tai-gui-hua-tncj/
 
 [847]: https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/solution/fang-wen-suo-you-jie-dian-de-zui-duan-lu-mqc2/

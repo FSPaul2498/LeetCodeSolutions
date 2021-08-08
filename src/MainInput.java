@@ -42,6 +42,9 @@ public class MainInput {
             case 9:
                 run9();
                 break;
+            case 10:
+                run10();
+                break;
             case 457:
                 run457();
                 break;
@@ -149,6 +152,13 @@ public class MainInput {
         int x = 121;
         S9 run = new S9();
         boolean result = run.isPalindrome(x);
+        print(result);
+    }
+
+    static void run10() {
+        String s = "aa", p = "a";
+        S10 run = new S10();
+        boolean result = run.isMatch(s, p);
         print(result);
     }
 

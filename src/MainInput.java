@@ -60,6 +60,9 @@ public class MainInput {
             case 847:
                 run847();
                 break;
+            case 1137:
+                run1137();
+                break;
             case 1337:
                 run1337();
                 break;
@@ -189,6 +192,13 @@ public class MainInput {
         int[][] graph = {{1, 2, 3}, {0}, {0}, {0}};
         S847 run = new S847();
         int result = run.shortestPathLength(graph);
+        print(result);
+    }
+
+    static void run1137() {
+        int n = 4;
+        S1137 run = new S1137();
+        int result = run.tribonacci(n);
         print(result);
     }
 

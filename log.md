@@ -85,6 +85,11 @@ which I have solved and submitted the solution to LeetCode CN.
 > 本题有参考[【访问所有节点的最短路径】][847]官方Java题解代码  
 > https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/
 
+1137. 第 N 个泰波那契数
+
+> Solved at 2021-08-08  
+> https://leetcode-cn.com/problems/n-th-tribonacci-number/
+
 1337. 矩阵中战斗力最弱的 K 行
 
 > Solved at 2021-08-01  

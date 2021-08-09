@@ -21,6 +21,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #8    | 字符串转换整数 (atoi)    | 中等 | 2021-08-07 | [力扣][P8]    |      |
 | #9    | 回文数                   | 简单 | 2021-08-07 | [力扣][P9]    |      |
 | #10   | 正则表达式匹配           | 困难 | 2021-08-08 | [力扣][P10]   | 本题有参考[【从失败递归到动态规划】][S10]<br>社区Java题解代码 |
+| #313  | 超级丑数                 | 中等 | 2021-08-09 | [力扣][P313]  | 本题有参考[【超级丑数】][S313]<br>官方Java题解代码 |
 | #457  | 环形数组是否存在循环     | 中等 | 2021-08-07 | [力扣][P457]  |      |
 | #581  | 最短无序连续子数组       | 中等 | 2021-08-03 | [力扣][P581]  |      |
 | #611  | 有效三角形的个数         | 中等 | 2021-08-04 | [力扣][P611]  |      |
@@ -50,6 +51,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P10]:https://leetcode-cn.com/problems/regular-expression-matching/
 
+[P313]:https://leetcode-cn.com/problems/super-ugly-number/
+
 [P457]:https://leetcode-cn.com/problems/circular-array-loop/
 
 [P581]:https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
@@ -67,5 +70,7 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1337]:https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/
 
 [S10]:https://leetcode-cn.com/problems/regular-expression-matching/solution/cong-shi-bai-di-gui-dao-dong-tai-gui-hua-tncj/
+
+[S313]:https://leetcode-cn.com/problems/super-ugly-number/solution/chao-ji-chou-shu-by-leetcode-solution-uzff/
 
 [S847]: https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/solution/fang-wen-suo-you-jie-dian-de-zui-duan-lu-mqc2/

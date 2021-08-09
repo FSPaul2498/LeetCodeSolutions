@@ -45,6 +45,9 @@ public class MainInput {
             case 10:
                 run10();
                 break;
+            case 313:
+                run313();
+                break;
             case 457:
                 run457();
                 break;
@@ -159,6 +162,14 @@ public class MainInput {
         String s = "aa", p = "a";
         S10 run = new S10();
         boolean result = run.isMatch(s, p);
+        print(result);
+    }
+
+    static void run313() {
+        int n = 12;
+        int[] primes = {2, 7, 13, 19};
+        S313 run = new S313();
+        int result = run.nthSuperUglyNumber(n, primes);
         print(result);
     }
 

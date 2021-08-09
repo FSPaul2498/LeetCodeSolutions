@@ -45,6 +45,9 @@ public class MainInput {
             case 10:
                 run10();
                 break;
+            case 11:
+                run11();
+                break;
             case 313:
                 run313();
                 break;
@@ -162,6 +165,13 @@ public class MainInput {
         String s = "aa", p = "a";
         S10 run = new S10();
         boolean result = run.isMatch(s, p);
+        print(result);
+    }
+
+    static void run11() {
+        int[] height = {1, 8, 6, 2, 5, 4, 8, 3, 7};
+        S11 run = new S11();
+        int result = run.maxArea(height);
         print(result);
     }
 

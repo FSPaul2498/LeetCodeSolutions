@@ -48,6 +48,9 @@ public class MainInput {
             case 11:
                 run11();
                 break;
+            case 12:
+                run12();
+                break;
             case 313:
                 run313();
                 break;
@@ -175,6 +178,13 @@ public class MainInput {
         int[] height = {1, 8, 6, 2, 5, 4, 8, 3, 7};
         S11 run = new S11();
         int result = run.maxArea(height);
+        print(result);
+    }
+
+    static void run12() {
+        int num = 3;
+        S12 run = new S12();
+        String result = run.intToRoman(num);
         print(result);
     }
 

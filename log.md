@@ -23,6 +23,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #10   | 正则表达式匹配           | 困难 | 2021-08-08 | [力扣][P10]   | 本题有参考[【从失败递归到动态规划】][S10]<br>社区Java题解代码 |
 | #11   | 盛最多水的容器           | 中等 | 2021-08-09 | [力扣][P11]   |      |
 | #12   | 整数转罗马数字           | 中等 | 2021-08-10 | [力扣][P12]   |      |
+| #13   | 罗马数字转整数           | 简单 | 2021-08-10 | [力扣][P13]   |      |
 | #313  | 超级丑数                 | 中等 | 2021-08-09 | [力扣][P313]  | 本题有参考[【超级丑数】][S313]<br>官方Java题解代码 |
 | #413  | 等差数列划分             | 中等 | 2021-08-10 | [力扣][P413]  |      |
 | #457  | 环形数组是否存在循环     | 中等 | 2021-08-07 | [力扣][P457]  |      |
@@ -57,6 +58,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P11]:https://leetcode-cn.com/problems/container-with-most-water/
 
 [P12]:https://leetcode-cn.com/problems/integer-to-roman/
+
+[P13]:https://leetcode-cn.com/problems/roman-to-integer/
 
 [P313]:https://leetcode-cn.com/problems/super-ugly-number/
 

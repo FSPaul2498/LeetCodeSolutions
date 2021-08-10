@@ -51,6 +51,9 @@ public class MainInput {
             case 12:
                 run12();
                 break;
+            case 13:
+                run13();
+                break;
             case 313:
                 run313();
                 break;
@@ -185,6 +188,13 @@ public class MainInput {
         int num = 3;
         S12 run = new S12();
         String result = run.intToRoman(num);
+        print(result);
+    }
+
+    static void run13() {
+        String s = "III";
+        S13 run = new S13();
+        int result = run.romanToInt(s);
         print(result);
     }
 

@@ -54,6 +54,9 @@ public class MainInput {
             case 13:
                 run13();
                 break;
+            case 14:
+                run14();
+                break;
             case 313:
                 run313();
                 break;
@@ -198,6 +201,13 @@ public class MainInput {
         String s = "III";
         S13 run = new S13();
         int result = run.romanToInt(s);
+        print(result);
+    }
+
+    static void run14() {
+        String[] strs = {"flower", "flow", "flight"};
+        S14 run = new S14();
+        String result = run.longestCommonPrefix(strs);
         print(result);
     }
 

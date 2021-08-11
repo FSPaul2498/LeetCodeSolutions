@@ -60,6 +60,9 @@ public class MainInput {
             case 413:
                 run413();
                 break;
+            case 446:
+                run446();
+                break;
             case 457:
                 run457();
                 break;
@@ -209,6 +212,13 @@ public class MainInput {
     static void run413() {
         int[] nums = {1, 2, 3, 4};
         S413 run = new S413();
+        int result = run.numberOfArithmeticSlices(nums);
+        print(result);
+    }
+
+    static void run446() {
+        int[] nums = {2, 4, 6, 8, 10};
+        S446 run = new S446();
         int result = run.numberOfArithmeticSlices(nums);
         print(result);
     }

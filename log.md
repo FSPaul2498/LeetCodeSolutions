@@ -26,6 +26,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #13   | 罗马数字转整数           | 简单 | 2021-08-10 | [力扣][P13]   |      |
 | #313  | 超级丑数                 | 中等 | 2021-08-09 | [力扣][P313]  | 本题有参考[【超级丑数】][S313]<br>官方Java题解代码 |
 | #413  | 等差数列划分             | 中等 | 2021-08-10 | [力扣][P413]  |      |
+| #446  | 等差数列划分 II - 子序列 | 困难 | 2021-08-11 | [力扣][P446]  | 本题有参考[【等差数列划分 II - 子序列】][S446]<br>官方Java题解代码 |
 | #457  | 环形数组是否存在循环     | 中等 | 2021-08-07 | [力扣][P457]  |      |
 | #581  | 最短无序连续子数组       | 中等 | 2021-08-03 | [力扣][P581]  |      |
 | #611  | 有效三角形的个数         | 中等 | 2021-08-04 | [力扣][P611]  |      |
@@ -65,6 +66,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P413]:https://leetcode-cn.com/problems/arithmetic-slices/
 
+[P446]:https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/
+
 [P457]:https://leetcode-cn.com/problems/circular-array-loop/
 
 [P581]:https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
@@ -84,5 +87,7 @@ which I have solved and submitted the solution to LeetCode CN.
 [S10]:https://leetcode-cn.com/problems/regular-expression-matching/solution/cong-shi-bai-di-gui-dao-dong-tai-gui-hua-tncj/
 
 [S313]:https://leetcode-cn.com/problems/super-ugly-number/solution/chao-ji-chou-shu-by-leetcode-solution-uzff/
+
+[S446]:https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/solution/deng-chai-shu-lie-hua-fen-ii-zi-xu-lie-b-77pl/
 
 [S847]: https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/solution/fang-wen-suo-you-jie-dian-de-zui-duan-lu-mqc2/

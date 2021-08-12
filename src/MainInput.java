@@ -57,6 +57,9 @@ public class MainInput {
             case 14:
                 run14();
                 break;
+            case 15:
+                run15();
+                break;
             case 313:
                 run313();
                 break;
@@ -214,6 +217,13 @@ public class MainInput {
         print(result);
     }
 
+    static void run15() {
+        int[] nums = {-1, 0, 1, 2, -1, -4};
+        S15 run = new S15();
+        List<List<Integer>> result = run.threeSum(nums);
+        printll(result);
+    }
+
     static void run313() {
         int n = 12;
         int[] primes = {2, 7, 13, 19};
@@ -328,6 +338,10 @@ public class MainInput {
 
     static void print(List<Integer> input) {
         System.out.println(input);
+    }
+
+    static void printll(List<List<Integer>> input) {
+        input.forEach(list -> print(list));
     }
 
     static void print(ListNode head) {

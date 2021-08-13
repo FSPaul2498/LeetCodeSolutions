@@ -60,6 +60,9 @@ public class MainInput {
             case 15:
                 run15();
                 break;
+            case 16:
+                run16();
+                break;
             case 233:
                 run233();
                 break;
@@ -225,6 +228,14 @@ public class MainInput {
         S15 run = new S15();
         List<List<Integer>> result = run.threeSum(nums);
         printll(result);
+    }
+
+    static void run16() {
+        int[] nums = {-1, 2, 1, -4};
+        int target = 1;
+        S16 run = new S16();
+        int result = run.threeSumClosest(nums, target);
+        print(result);
     }
 
     static void run233() {

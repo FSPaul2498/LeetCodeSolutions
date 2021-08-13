@@ -60,6 +60,9 @@ public class MainInput {
             case 15:
                 run15();
                 break;
+            case 233:
+                run233();
+                break;
             case 313:
                 run313();
                 break;
@@ -222,6 +225,13 @@ public class MainInput {
         S15 run = new S15();
         List<List<Integer>> result = run.threeSum(nums);
         printll(result);
+    }
+
+    static void run233() {
+        int n = 13;
+        S233 run = new S233();
+        int result = run.countDigitOne(n);
+        print(result);
     }
 
     static void run313() {

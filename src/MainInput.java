@@ -63,6 +63,9 @@ public class MainInput {
             case 16:
                 run16();
                 break;
+            case 17:
+                run17();
+                break;
             case 233:
                 run233();
                 break;
@@ -230,7 +233,7 @@ public class MainInput {
         int[] nums = {-1, 0, 1, 2, -1, -4};
         S15 run = new S15();
         List<List<Integer>> result = run.threeSum(nums);
-        printll(result);
+        print(result);
     }
 
     static void run16() {
@@ -238,6 +241,13 @@ public class MainInput {
         int target = 1;
         S16 run = new S16();
         int result = run.threeSumClosest(nums, target);
+        print(result);
+    }
+
+    static void run17() {
+        String digits = "23";
+        S17 run = new S17();
+        List<String> result = run.letterCombinations(digits);
         print(result);
     }
 
@@ -369,12 +379,8 @@ public class MainInput {
         System.out.println(input);
     }
 
-    static void print(List<Integer> input) {
+    static void print(List<?> input) {
         System.out.println(input);
-    }
-
-    static void printll(List<List<Integer>> input) {
-        input.forEach(list -> print(list));
     }
 
     static void print(ListNode head) {

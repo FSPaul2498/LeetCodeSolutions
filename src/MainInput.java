@@ -102,6 +102,9 @@ public class MainInput {
             case 1337:
                 run1337();
                 break;
+            case 1583:
+                run1583();
+                break;
             default:
                 print("Wrong Problem Num");
         }
@@ -333,6 +336,15 @@ public class MainInput {
         int k = 3;
         S1337 run = new S1337();
         int[] result = run.kWeakestRows(mat, k);
+        print(result);
+    }
+
+    static void run1583() {
+        int n = 4;
+        int[][] preferences = {{1, 2, 3}, {3, 2, 0}, {3, 1, 0}, {1, 2, 0}};
+        int[][] pairs = {{0, 1}, {2, 3}};
+        S1583 run = new S1583();
+        int result = run.unhappyFriends(n, preferences, pairs);
         print(result);
     }
 

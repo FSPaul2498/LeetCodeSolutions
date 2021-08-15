@@ -66,6 +66,9 @@ public class MainInput {
             case 17:
                 run17();
                 break;
+            case 18:
+                run18();
+                break;
             case 233:
                 run233();
                 break;
@@ -251,6 +254,14 @@ public class MainInput {
         String digits = "23";
         S17 run = new S17();
         List<String> result = run.letterCombinations(digits);
+        print(result);
+    }
+
+    static void run18() {
+        int[] nums = {1, 0, -1, 0, -2, 2};
+        int target = 0;
+        S18 run = new S18();
+        List<List<Integer>> result = run.fourSum(nums, target);
         print(result);
     }
 

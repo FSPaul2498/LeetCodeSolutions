@@ -84,6 +84,9 @@ public class MainInput {
             case 516:
                 run516();
                 break;
+            case 576:
+                run576();
+                break;
             case 581:
                 run581();
                 break;
@@ -291,6 +294,13 @@ public class MainInput {
         String s = "bbbab";
         S516 run = new S516();
         int result = run.longestPalindromeSubseq(s);
+        print(result);
+    }
+
+    static void run576() {
+        int m = 2, n = 2, maxMove = 2, startRow = 0, startColumn = 0;
+        S576 run = new S576();
+        int result = run.findPaths(m, n, maxMove, startRow, startColumn);
         print(result);
     }
 

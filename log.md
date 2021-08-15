@@ -34,6 +34,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #446  | 等差数列划分 II - 子序列 | 困难 | 2021-08-11 | [力扣][P446]  | 本题有参考[【等差数列划分 II - 子序列】][S446]<br>官方Java题解代码 |
 | #457  | 环形数组是否存在循环     | 中等 | 2021-08-07 | [力扣][P457]  |      |
 | #516  | 最长回文子序列           | 中等 | 2021-08-12 | [力扣][P516]  |      |
+| #576  | 出界的路径数             | 中等 | 2021-08-15 | [力扣][P576]  |      |
 | #581  | 最短无序连续子数组       | 中等 | 2021-08-03 | [力扣][P581]  |      |
 | #611  | 有效三角形的个数         | 中等 | 2021-08-04 | [力扣][P611]  |      |
 | #743  | 网络延迟时间             | 中等 | 2021-08-02 | [力扣][P743]  |      |
@@ -88,6 +89,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P457]:https://leetcode-cn.com/problems/circular-array-loop/
 
 [P516]:https://leetcode-cn.com/problems/longest-palindromic-subsequence/
+
+[P576]:https://leetcode-cn.com/problems/out-of-boundary-paths/
 
 [P581]:https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
 

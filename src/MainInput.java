@@ -87,6 +87,9 @@ public class MainInput {
             case 516:
                 run516();
                 break;
+            case 526:
+                run526();
+                break;
             case 576:
                 run576();
                 break;
@@ -305,6 +308,13 @@ public class MainInput {
         String s = "bbbab";
         S516 run = new S516();
         int result = run.longestPalindromeSubseq(s);
+        print(result);
+    }
+
+    static void run526() {
+        int n = 15;
+        S526 run = new S526();
+        int result = run.countArrangement(n);
         print(result);
     }
 

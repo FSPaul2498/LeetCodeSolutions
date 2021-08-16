@@ -35,6 +35,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #446  | 等差数列划分 II - 子序列 | 困难 | 2021-08-11 | [力扣][P446]  | 本题有参考[【等差数列划分 II - 子序列】][S446]<br>官方Java题解代码 |
 | #457  | 环形数组是否存在循环     | 中等 | 2021-08-07 | [力扣][P457]  |      |
 | #516  | 最长回文子序列           | 中等 | 2021-08-12 | [力扣][P516]  |      |
+| #526  | 优美的排列               | 中等 | 2021-08-16 | [力扣][P526]  | 本题有参考[【优美的排列】][S526]<br>官方Java题解代码 |
 | #576  | 出界的路径数             | 中等 | 2021-08-15 | [力扣][P576]  |      |
 | #581  | 最短无序连续子数组       | 中等 | 2021-08-03 | [力扣][P581]  |      |
 | #611  | 有效三角形的个数         | 中等 | 2021-08-04 | [力扣][P611]  |      |
@@ -93,6 +94,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P516]:https://leetcode-cn.com/problems/longest-palindromic-subsequence/
 
+[P526]:https://leetcode-cn.com/problems/beautiful-arrangement/
+
 [P576]:https://leetcode-cn.com/problems/out-of-boundary-paths/
 
 [P581]:https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
@@ -116,5 +119,7 @@ which I have solved and submitted the solution to LeetCode CN.
 [S313]:https://leetcode-cn.com/problems/super-ugly-number/solution/chao-ji-chou-shu-by-leetcode-solution-uzff/
 
 [S446]:https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/solution/deng-chai-shu-lie-hua-fen-ii-zi-xu-lie-b-77pl/
+
+[S526]:https://leetcode-cn.com/problems/beautiful-arrangement/solution/you-mei-de-pai-lie-by-leetcode-solution-vea2/
 
 [S847]: https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/solution/fang-wen-suo-you-jie-dian-de-zui-duan-lu-mqc2/

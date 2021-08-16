@@ -69,6 +69,9 @@ public class MainInput {
             case 18:
                 run18();
                 break;
+            case 19:
+                run19();
+                break;
             case 233:
                 run233();
                 break;
@@ -251,6 +254,15 @@ public class MainInput {
         int target = 0;
         S18 run = new S18();
         List<List<Integer>> result = run.fourSum(nums, target);
+        print(result);
+    }
+
+    static void run19() {
+        int[] nums = {1, 2, 3, 4, 5};
+        int n = 2;
+        ListNode head = ListNode.makeList(nums);
+        S19 run = new S19();
+        ListNode result = run.removeNthFromEnd(head, n);
         print(result);
     }
 

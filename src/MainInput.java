@@ -132,25 +132,11 @@ public class MainInput {
 
     static void run2() {
         int[] l1nums = {2, 4, 3}, l2nums = {5, 6, 4};
-        ListNode l1 = makeLinkedList(l1nums);
-        ListNode l2 = makeLinkedList(l2nums);
-        print(l1);
-        print("");
-        print(l2);
-        print("");
+        ListNode l1 = ListNode.makeList(l1nums);
+        ListNode l2 = ListNode.makeList(l2nums);
         S2 run = new S2();
         ListNode result = run.addTwoNumbers(l1, l2);
         print(result);
-    }
-
-    static ListNode makeLinkedList(int[] source) {
-        ListNode head = null, temp = new ListNode();
-        for (int i : source) {
-            temp.next = new ListNode(i);
-            temp = temp.next;
-            if (head == null) head = temp;
-        }
-        return head;
     }
 
     static void run3() {

@@ -72,6 +72,9 @@ public class MainInput {
             case 19:
                 run19();
                 break;
+            case 20:
+                run20();
+                break;
             case 233:
                 run233();
                 break;
@@ -266,6 +269,13 @@ public class MainInput {
         ListNode head = ListNode.makeList(nums);
         S19 run = new S19();
         ListNode result = run.removeNthFromEnd(head, n);
+        print(result);
+    }
+
+    static void run20() {
+        String s = "()";
+        S20 run = new S20();
+        boolean result = run.isValid(s);
         print(result);
     }
 

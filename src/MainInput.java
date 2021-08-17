@@ -75,6 +75,9 @@ public class MainInput {
             case 20:
                 run20();
                 break;
+            case 21:
+                run21();
+                break;
             case 233:
                 run233();
                 break;
@@ -276,6 +279,15 @@ public class MainInput {
         String s = "()";
         S20 run = new S20();
         boolean result = run.isValid(s);
+        print(result);
+    }
+
+    static void run21() {
+        int[] l1nums = {1, 2, 4}, l2nums = {1, 3, 4};
+        ListNode l1 = ListNode.makeList(l1nums);
+        ListNode l2 = ListNode.makeList(l2nums);
+        S21 run = new S21();
+        ListNode result = run.mergeTwoLists(l1, l2);
         print(result);
     }
 

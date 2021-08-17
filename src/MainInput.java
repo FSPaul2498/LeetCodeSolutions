@@ -93,6 +93,9 @@ public class MainInput {
             case 526:
                 run526();
                 break;
+            case 551:
+                run551();
+                break;
             case 576:
                 run576();
                 break;
@@ -313,6 +316,13 @@ public class MainInput {
         int n = 15;
         S526 run = new S526();
         int result = run.countArrangement(n);
+        print(result);
+    }
+
+    static void run551() {
+        String s = "PPALLP";
+        S551 run = new S551();
+        boolean result = run.checkRecord(s);
         print(result);
     }
 

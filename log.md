@@ -40,6 +40,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #516  | 最长回文子序列            | 中等 | 2021-08-12 | [力扣][P516]  |      |
 | #526  | 优美的排列                | 中等 | 2021-08-16 | [力扣][P526]  | 本题有参考[【优美的排列】][S526]<br>官方Java题解代码 |
 | #551  | 学生出勤记录 I            | 简单 | 2021-08-17 | [力扣][P551]  |      |
+| #552  | 学生出勤记录 II           | 困难 | 2021-08-18 | [力扣][P552]  | 本题有参考[【学生出勤记录 II】][S552]<br>官方Java题解代码 |
 | #576  | 出界的路径数              | 中等 | 2021-08-15 | [力扣][P576]  |      |
 | #581  | 最短无序连续子数组        | 中等 | 2021-08-03 | [力扣][P581]  |      |
 | #611  | 有效三角形的个数          | 中等 | 2021-08-04 | [力扣][P611]  |      |
@@ -108,6 +109,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P551]:https://leetcode-cn.com/problems/student-attendance-record-i/
 
+[P552]:https://leetcode-cn.com/problems/student-attendance-record-ii/
+
 [P576]:https://leetcode-cn.com/problems/out-of-boundary-paths/
 
 [P581]:https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
@@ -133,5 +136,7 @@ which I have solved and submitted the solution to LeetCode CN.
 [S446]:https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/solution/deng-chai-shu-lie-hua-fen-ii-zi-xu-lie-b-77pl/
 
 [S526]:https://leetcode-cn.com/problems/beautiful-arrangement/solution/you-mei-de-pai-lie-by-leetcode-solution-vea2/
+
+[S552]:https://leetcode-cn.com/problems/student-attendance-record-ii/solution/xue-sheng-chu-qin-ji-lu-ii-by-leetcode-s-kdlm/
 
 [S847]: https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/solution/fang-wen-suo-you-jie-dian-de-zui-duan-lu-mqc2/

@@ -102,6 +102,9 @@ public class MainInput {
             case 551:
                 run551();
                 break;
+            case 552:
+                run552();
+                break;
             case 576:
                 run576();
                 break;
@@ -345,6 +348,13 @@ public class MainInput {
         String s = "PPALLP";
         S551 run = new S551();
         boolean result = run.checkRecord(s);
+        print(result);
+    }
+
+    static void run552() {
+        int n = 2;
+        S552 run = new S552();
+        int result = run.checkRecord(n);
         print(result);
     }
 

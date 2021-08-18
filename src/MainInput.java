@@ -78,6 +78,9 @@ public class MainInput {
             case 21:
                 run21();
                 break;
+            case 22:
+                run22();
+                break;
             case 233:
                 run233();
                 break;
@@ -291,6 +294,13 @@ public class MainInput {
         ListNode l2 = ListNode.makeList(l2nums);
         S21 run = new S21();
         ListNode result = run.mergeTwoLists(l1, l2);
+        print(result);
+    }
+
+    static void run22() {
+        int n = 3;
+        S22 run = new S22();
+        List<String> result = run.generateParenthesis(n);
         print(result);
     }
 

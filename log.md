@@ -32,6 +32,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #19   | 删除链表的倒数第 N 个结点 | 中等 | 2021-08-16 | [力扣][P19]   |      |
 | #20   | 有效的括号                | 简单 | 2021-08-17 | [力扣][P20]   |      |
 | #21   | 合并两个有序链表          | 简单 | 2021-08-17 | [力扣][P21]   |      |
+| #22   | 括号生成                  | 中等 | 2021-08-18 | [力扣][P22]   |      |
 | #233  | 数字 1 的个数             | 困难 | 2021-08-13 | [力扣][P233]  |      |
 | #313  | 超级丑数                  | 中等 | 2021-08-09 | [力扣][P313]  | 本题有参考[【超级丑数】][S313]<br>官方Java题解代码 |
 | #413  | 等差数列划分              | 中等 | 2021-08-10 | [力扣][P413]  |      |
@@ -92,6 +93,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P20]:https://leetcode-cn.com/problems/valid-parentheses/
 
 [P21]:https://leetcode-cn.com/problems/merge-two-sorted-lists/
+
+[P22]:https://leetcode-cn.com/problems/generate-parentheses/
 
 [P233]:https://leetcode-cn.com/problems/number-of-digit-one/
 

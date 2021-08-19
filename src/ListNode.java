@@ -15,12 +15,18 @@ public class ListNode {
     }
 
     static ListNode makeList(int[] source) {
-        ListNode head = null, temp = new ListNode();
+        ListNode temp = new ListNode(), head = temp;
         for (int i : source) {
             temp.next = new ListNode(i);
             temp = temp.next;
-            if (head == null) head = temp;
         }
-        return head;
+        return head.next;
+    }
+
+    static ListNode[] makeList(int[][] source) {
+        ListNode[] heads = new ListNode[source.length];
+        for (int i = 0; i < source.length; i++)
+            heads[i] = ListNode.makeList(source[i]);
+        return heads;
     }
 }

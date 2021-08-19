@@ -81,6 +81,9 @@ public class MainInput {
             case 22:
                 run22();
                 break;
+            case 23:
+                run23();
+                break;
             case 233:
                 run233();
                 break;
@@ -304,6 +307,14 @@ public class MainInput {
         int n = 3;
         S22 run = new S22();
         List<String> result = run.generateParenthesis(n);
+        print(result);
+    }
+
+    static void run23() {
+        int[][] listsNums = {{1, 4, 5}, {1, 3, 4}, {2, 6}};
+        ListNode[] lists = ListNode.makeList(listsNums);
+        S23 run = new S23();
+        ListNode result = run.mergeKLists(lists);
         print(result);
     }
 

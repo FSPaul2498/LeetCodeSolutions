@@ -33,6 +33,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #20   | 有效的括号                | 简单 | 2021-08-17 | [力扣][P20]   |      |
 | #21   | 合并两个有序链表          | 简单 | 2021-08-17 | [力扣][P21]   |      |
 | #22   | 括号生成                  | 中等 | 2021-08-18 | [力扣][P22]   |      |
+| #23   | 合并K个升序链表           | 困难 | 2021-08-19 | [力扣][P23]   |      |
 | #233  | 数字 1 的个数             | 困难 | 2021-08-13 | [力扣][P233]  |      |
 | #313  | 超级丑数                  | 中等 | 2021-08-09 | [力扣][P313]  | 本题有参考[【超级丑数】][S313]<br>官方Java题解代码 |
 | #345  | 反转字符串中的元音字母    | 简单 | 2021-08-19 | [力扣][P345]  |      |
@@ -96,6 +97,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P21]:https://leetcode-cn.com/problems/merge-two-sorted-lists/
 
 [P22]:https://leetcode-cn.com/problems/generate-parentheses/
+
+[P23]:https://leetcode-cn.com/problems/merge-k-sorted-lists/
 
 [P233]:https://leetcode-cn.com/problems/number-of-digit-one/
 

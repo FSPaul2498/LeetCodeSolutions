@@ -35,6 +35,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #22   | 括号生成                  | 中等 | 2021-08-18 | [力扣][P22]   |      |
 | #233  | 数字 1 的个数             | 困难 | 2021-08-13 | [力扣][P233]  |      |
 | #313  | 超级丑数                  | 中等 | 2021-08-09 | [力扣][P313]  | 本题有参考[【超级丑数】][S313]<br>官方Java题解代码 |
+| #345  | 反转字符串中的元音字母    | 简单 | 2021-08-19 | [力扣][P345]  |      |
 | #413  | 等差数列划分              | 中等 | 2021-08-10 | [力扣][P413]  |      |
 | #446  | 等差数列划分 II - 子序列  | 困难 | 2021-08-11 | [力扣][P446]  | 本题有参考[【等差数列划分 II - 子序列】][S446]<br>官方Java题解代码 |
 | #457  | 环形数组是否存在循环      | 中等 | 2021-08-07 | [力扣][P457]  |      |
@@ -99,6 +100,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P233]:https://leetcode-cn.com/problems/number-of-digit-one/
 
 [P313]:https://leetcode-cn.com/problems/super-ugly-number/
+
+[P345]:https://leetcode-cn.com/problems/reverse-vowels-of-a-string/
 
 [P413]:https://leetcode-cn.com/problems/arithmetic-slices/
 

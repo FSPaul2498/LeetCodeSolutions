@@ -108,6 +108,9 @@ public class MainInput {
             case 526:
                 run526();
                 break;
+            case 541:
+                run541();
+                break;
             case 551:
                 run551();
                 break;
@@ -372,6 +375,14 @@ public class MainInput {
         int n = 15;
         S526 run = new S526();
         int result = run.countArrangement(n);
+        print(result);
+    }
+
+    static void run541() {
+        String s = "abcdefg";
+        int k = 2;
+        S541 run = new S541();
+        String result = run.reverseStr(s, k);
         print(result);
     }
 

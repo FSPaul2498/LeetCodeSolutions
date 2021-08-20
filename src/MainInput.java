@@ -84,6 +84,9 @@ public class MainInput {
             case 23:
                 run23();
                 break;
+            case 24:
+                run24();
+                break;
             case 233:
                 run233();
                 break;
@@ -318,6 +321,14 @@ public class MainInput {
         ListNode[] lists = ListNode.makeList(listsNums);
         S23 run = new S23();
         ListNode result = run.mergeKLists(lists);
+        print(result);
+    }
+
+    static void run24() {
+        int[] nums = {1, 2, 3, 4};
+        ListNode head = ListNode.makeList(nums);
+        S24 run = new S24();
+        ListNode result = run.swapPairs(head);
         print(result);
     }
 

@@ -36,6 +36,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #23   | 合并K个升序链表           | 困难 | 2021-08-19 | [力扣][P23]   |      |
 | #24   | 两两交换链表中的节点      | 中等 | 2021-08-20 | [力扣][P24]   |      |
 | #25   | K 个一组翻转链表          | 困难 | 2021-08-21 | [力扣][P25]   |      |
+| #206  | 反转链表                  | 简单 | 2021-08-21 | [力扣][P206]  |      |
 | #233  | 数字 1 的个数             | 困难 | 2021-08-13 | [力扣][P233]  |      |
 | #313  | 超级丑数                  | 中等 | 2021-08-09 | [力扣][P313]  | 本题有参考[【超级丑数】][S313]<br>官方Java题解代码 |
 | #345  | 反转字符串中的元音字母    | 简单 | 2021-08-19 | [力扣][P345]  |      |
@@ -107,6 +108,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P24]:https://leetcode-cn.com/problems/swap-nodes-in-pairs/
 
 [P25]:https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
+
+[P206]:https://leetcode-cn.com/problems/reverse-linked-list/
 
 [P233]:https://leetcode-cn.com/problems/number-of-digit-one/
 

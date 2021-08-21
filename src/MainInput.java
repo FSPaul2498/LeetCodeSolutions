@@ -90,6 +90,9 @@ public class MainInput {
             case 25:
                 run25();
                 break;
+            case 206:
+                run206();
+                break;
             case 233:
                 run233();
                 break;
@@ -344,6 +347,14 @@ public class MainInput {
         ListNode head = ListNode.makeList(nums);
         S25 run = new S25();
         ListNode result = run.reverseKGroup(head, k);
+        print(result);
+    }
+
+    static void run206() {
+        int[] nums = {1, 2, 3, 4, 5};
+        ListNode head = ListNode.makeList(nums);
+        S206 run = new S206();
+        ListNode result = run.reverseList(head);
         print(result);
     }
 

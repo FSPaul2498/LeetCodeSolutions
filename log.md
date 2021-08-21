@@ -39,6 +39,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #313  | 超级丑数                  | 中等 | 2021-08-09 | [力扣][P313]  | 本题有参考[【超级丑数】][S313]<br>官方Java题解代码 |
 | #345  | 反转字符串中的元音字母    | 简单 | 2021-08-19 | [力扣][P345]  |      |
 | #413  | 等差数列划分              | 中等 | 2021-08-10 | [力扣][P413]  |      |
+| #443  | 压缩字符串                | 中等 | 2021-08-21 | [力扣][P443]  |      |
 | #446  | 等差数列划分 II - 子序列  | 困难 | 2021-08-11 | [力扣][P446]  | 本题有参考[【等差数列划分 II - 子序列】][S446]<br>官方Java题解代码 |
 | #457  | 环形数组是否存在循环      | 中等 | 2021-08-07 | [力扣][P457]  |      |
 | #516  | 最长回文子序列            | 中等 | 2021-08-12 | [力扣][P516]  |      |
@@ -111,6 +112,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P345]:https://leetcode-cn.com/problems/reverse-vowels-of-a-string/
 
 [P413]:https://leetcode-cn.com/problems/arithmetic-slices/
+
+[P443]:https://leetcode-cn.com/problems/string-compression/
 
 [P446]:https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/
 

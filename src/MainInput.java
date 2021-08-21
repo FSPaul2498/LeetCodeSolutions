@@ -99,6 +99,9 @@ public class MainInput {
             case 413:
                 run413();
                 break;
+            case 443:
+                run443();
+                break;
             case 446:
                 run446();
                 break;
@@ -358,6 +361,13 @@ public class MainInput {
         int[] nums = {1, 2, 3, 4};
         S413 run = new S413();
         int result = run.numberOfArithmeticSlices(nums);
+        print(result);
+    }
+
+    static void run443() {
+        char[] chars = {'a', 'a', 'b', 'b', 'c', 'c', 'c'};
+        S443 run = new S443();
+        int result = run.compress(chars);
         print(result);
     }
 

@@ -38,6 +38,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #25   | K 个一组翻转链表          | 困难 | 2021-08-21 | [力扣][P25]   |      |
 | #26   | 删除有序数组中的重复项    | 简单 | 2021-08-22 | [力扣][P26]   |      |
 | #27   | 移除元素                  | 简单 | 2021-08-22 | [力扣][P27]   |      |
+| #28   | 实现 strStr()             | 简单 | 2021-08-22 | [力扣][P28]   | 本题有参考[【宫水三叶】简单题学 KMP 算法][S28]<br>社区Java题解代码 |
 | #206  | 反转链表                  | 简单 | 2021-08-21 | [力扣][P206]  |      |
 | #233  | 数字 1 的个数             | 困难 | 2021-08-13 | [力扣][P233]  |      |
 | #313  | 超级丑数                  | 中等 | 2021-08-09 | [力扣][P313]  | 本题有参考[【超级丑数】][S313]<br>官方Java题解代码 |
@@ -116,6 +117,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P27]:https://leetcode-cn.com/problems/remove-element/
 
+[P28]:https://leetcode-cn.com/problems/implement-strstr/
+
 [P206]:https://leetcode-cn.com/problems/reverse-linked-list/
 
 [P233]:https://leetcode-cn.com/problems/number-of-digit-one/
@@ -163,6 +166,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1583]:https://leetcode-cn.com/problems/count-unhappy-friends/
 
 [S10]:https://leetcode-cn.com/problems/regular-expression-matching/solution/cong-shi-bai-di-gui-dao-dong-tai-gui-hua-tncj/
+
+[S28]:https://leetcode-cn.com/problems/implement-strstr/solution/shua-chuan-lc-shuang-bai-po-su-jie-fa-km-tb86/
 
 [S313]:https://leetcode-cn.com/problems/super-ugly-number/solution/chao-ji-chou-shu-by-leetcode-solution-uzff/
 

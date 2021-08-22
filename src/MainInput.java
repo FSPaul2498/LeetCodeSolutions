@@ -93,6 +93,9 @@ public class MainInput {
             case 26:
                 run26();
                 break;
+            case 27:
+                run27();
+                break;
             case 206:
                 run206();
                 break;
@@ -360,6 +363,15 @@ public class MainInput {
         int[] nums = {1, 1, 2};
         S26 run = new S26();
         int result = run.removeDuplicates(nums);
+        print(result);
+        print(nums);
+    }
+
+    static void run27() {
+        int[] nums = {3, 2, 2, 3};
+        int val = 3;
+        S27 run = new S27();
+        int result = run.removeElement(nums, val);
         print(result);
         print(nums);
     }

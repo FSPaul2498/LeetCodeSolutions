@@ -53,6 +53,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #581  | 最短无序连续子数组        | 中等 | 2021-08-03 | [力扣][P581]  |      |
 | #611  | 有效三角形的个数          | 中等 | 2021-08-04 | [力扣][P611]  |      |
 | #743  | 网络延迟时间              | 中等 | 2021-08-02 | [力扣][P743]  |      |
+| #789  | 逃脱阻碍者                | 中等 | 2021-08-22 | [力扣][P789]  |      |
 | #802  | 找到最终的安全状态        | 中等 | 2021-08-05 | [力扣][P802]  |      |
 | #847  | 访问所有节点的最短路径    | 困难 | 2021-08-06 | [力扣][P847]  | 本题有参考[【访问所有节点的最短路径】][S847]<br>官方Java题解代码 |
 | #1137 | 第 N 个泰波那契数         | 简单 | 2021-08-08 | [力扣][P1137] |      |
@@ -142,6 +143,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P611]:https://leetcode-cn.com/problems/valid-triangle-number/
 
 [P743]:https://leetcode-cn.com/problems/network-delay-time/
+
+[P789]:https://leetcode-cn.com/problems/escape-the-ghosts/
 
 [P802]:https://leetcode-cn.com/problems/find-eventual-safe-states/
 

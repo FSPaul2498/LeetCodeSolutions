@@ -141,6 +141,9 @@ public class MainInput {
             case 743:
                 run743();
                 break;
+            case 789:
+                run789();
+                break;
             case 802:
                 run802();
                 break;
@@ -470,6 +473,14 @@ public class MainInput {
         int n = 4, k = 2;
         S743 run = new S743();
         int result = run.networkDelayTime(times, n, k);
+        print(result);
+    }
+
+    static void run789() {
+        int[][] ghosts = {{1, 0}, {0, 3}};
+        int[] target = {0, 1};
+        S789 run = new S789();
+        boolean result = run.escapeGhosts(ghosts, target);
         print(result);
     }
 

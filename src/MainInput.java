@@ -90,6 +90,9 @@ public class MainInput {
             case 25:
                 run25();
                 break;
+            case 26:
+                run26();
+                break;
             case 206:
                 run206();
                 break;
@@ -353,6 +356,14 @@ public class MainInput {
         print(result);
     }
 
+    static void run26() {
+        int[] nums = {1, 1, 2};
+        S26 run = new S26();
+        int result = run.removeDuplicates(nums);
+        print(result);
+        print(nums);
+    }
+
     static void run206() {
         int[] nums = {1, 2, 3, 4, 5};
         ListNode head = ListNode.makeList(nums);
@@ -395,6 +406,7 @@ public class MainInput {
         S443 run = new S443();
         int result = run.compress(chars);
         print(result);
+        print(chars);
     }
 
     static void run446() {
@@ -541,6 +553,10 @@ public class MainInput {
 
     static void print(double input) {
         System.out.println(input);
+    }
+
+    static void print(char[] input) {
+        System.out.println(Arrays.toString(input));
     }
 
     static void print(String input) {

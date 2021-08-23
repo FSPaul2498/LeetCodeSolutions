@@ -168,6 +168,9 @@ public class MainInput {
             case 1583:
                 run1583();
                 break;
+            case 1646:
+                run1646();
+                break;
             default:
                 print("Wrong Problem Num");
         }
@@ -557,6 +560,13 @@ public class MainInput {
         int[][] pairs = {{0, 1}, {2, 3}};
         S1583 run = new S1583();
         int result = run.unhappyFriends(n, preferences, pairs);
+        print(result);
+    }
+
+    static void run1646() {
+        int n = 7;
+        S1646 run = new S1646();
+        int result = run.getMaximumGenerated(n);
         print(result);
     }
 

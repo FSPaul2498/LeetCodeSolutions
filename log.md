@@ -62,6 +62,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1137 | 第 N 个泰波那契数         | 简单 | 2021-08-08 | [力扣][P1137] |      |
 | #1337 | 矩阵中战斗力最弱的 K 行   | 简单 | 2021-08-01 | [力扣][P1337] |      |
 | #1583 | 统计不开心的朋友          | 中等 | 2021-08-14 | [力扣][P1583] |      |
+| #1646 | 获取生成数组中的最大值    | 简单 | 2021-08-23 | [力扣][P1646] |      |
 
 [P1]:https://leetcode-cn.com/problems/two-sum/
 
@@ -164,6 +165,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1337]:https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/
 
 [P1583]:https://leetcode-cn.com/problems/count-unhappy-friends/
+
+[P1646]:https://leetcode-cn.com/problems/get-maximum-in-generated-array/
 
 [S10]:https://leetcode-cn.com/problems/regular-expression-matching/solution/cong-shi-bai-di-gui-dao-dong-tai-gui-hua-tncj/
 

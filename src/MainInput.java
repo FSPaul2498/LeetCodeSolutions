@@ -99,6 +99,9 @@ public class MainInput {
             case 28:
                 run28();
                 break;
+            case 29:
+                run29();
+                break;
             case 206:
                 run206();
                 break;
@@ -386,6 +389,13 @@ public class MainInput {
         String haystack = "hello", needle = "ll";
         S28 run = new S28();
         int result = run.strStr(haystack, needle);
+        print(result);
+    }
+
+    static void run29() {
+        int dividend = 10, divisor = 3;
+        S29 run = new S29();
+        int result = run.divide(dividend, divisor);
         print(result);
     }
 

@@ -153,6 +153,9 @@ public class MainInput {
             case 743:
                 run743();
                 break;
+            case 787:
+                run787();
+                break;
             case 789:
                 run789();
                 break;
@@ -520,6 +523,14 @@ public class MainInput {
         int n = 4, k = 2;
         S743 run = new S743();
         int result = run.networkDelayTime(times, n, k);
+        print(result);
+    }
+
+    static void run787() {
+        int[][] edges = {{0, 1, 100}, {1, 2, 100}, {0, 2, 500}};
+        int n = 3, src = 0, dst = 2, k = 1;
+        S787 run = new S787();
+        int result = run.findCheapestPrice(n, edges, src, dst, k);
         print(result);
     }
 

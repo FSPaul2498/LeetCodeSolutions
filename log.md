@@ -39,7 +39,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #26   | 删除有序数组中的重复项    | 简单 | 2021-08-22 | [力扣][P26]   |      |
 | #27   | 移除元素                  | 简单 | 2021-08-22 | [力扣][P27]   |      |
 | #28   | 实现 strStr()             | 简单 | 2021-08-22 | [力扣][P28]   | 本题有参考社区Java题解代码<br>[【宫水三叶】简单题学 KMP 算法][S28] |
-| #29   | 两数相除                  | 中等 | 2021-08-23 | [力扣][P29]   | 本人原创题解请参考<br>[不使用long的java解法][S29] |
+| #29   | 两数相除                  | 中等 | 2021-08-23 | [力扣][P29]   | 本人原创题解请参考<br>[【不使用long的java解法】][S29] |
 | #206  | 反转链表                  | 简单 | 2021-08-21 | [力扣][P206]  |      |
 | #233  | 数字 1 的个数             | 困难 | 2021-08-13 | [力扣][P233]  |      |
 | #313  | 超级丑数                  | 中等 | 2021-08-09 | [力扣][P313]  | 本题有参考官方Java题解代码<br>[【超级丑数】][S313] |
@@ -57,6 +57,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #581  | 最短无序连续子数组        | 中等 | 2021-08-03 | [力扣][P581]  |      |
 | #611  | 有效三角形的个数          | 中等 | 2021-08-04 | [力扣][P611]  |      |
 | #743  | 网络延迟时间              | 中等 | 2021-08-02 | [力扣][P743]  |      |
+| #787  | K 站中转内最便宜的航班    | 中等 | 2021-08-24 | [力扣][P787]  | 本题有参考官方Java题解代码<br>[【K 站中转内最便宜的航班】][S787] |
 | #789  | 逃脱阻碍者                | 中等 | 2021-08-22 | [力扣][P789]  |      |
 | #802  | 找到最终的安全状态        | 中等 | 2021-08-05 | [力扣][P802]  |      |
 | #847  | 访问所有节点的最短路径    | 困难 | 2021-08-06 | [力扣][P847]  | 本题有参考官方Java题解代码<br>[【访问所有节点的最短路径】][S847] |
@@ -157,6 +158,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P743]:https://leetcode-cn.com/problems/network-delay-time/
 
+[P787]:https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/
+
 [P789]:https://leetcode-cn.com/problems/escape-the-ghosts/
 
 [P802]:https://leetcode-cn.com/problems/find-eventual-safe-states/
@@ -184,5 +187,7 @@ which I have solved and submitted the solution to LeetCode CN.
 [S526]:https://leetcode-cn.com/problems/beautiful-arrangement/solution/you-mei-de-pai-lie-by-leetcode-solution-vea2/
 
 [S552]:https://leetcode-cn.com/problems/student-attendance-record-ii/solution/xue-sheng-chu-qin-ji-lu-ii-by-leetcode-s-kdlm/
+
+[S787]:https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/solution/k-zhan-zhong-zhuan-nei-zui-bian-yi-de-ha-abzi/
 
 [S847]: https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/solution/fang-wen-suo-you-jie-dian-de-zui-duan-lu-mqc2/

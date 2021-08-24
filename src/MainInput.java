@@ -102,6 +102,9 @@ public class MainInput {
             case 29:
                 run29();
                 break;
+            case 30:
+                run30();
+                break;
             case 206:
                 run206();
                 break;
@@ -399,6 +402,14 @@ public class MainInput {
         int dividend = 10, divisor = 3;
         S29 run = new S29();
         int result = run.divide(dividend, divisor);
+        print(result);
+    }
+
+    static void run30() {
+        String s = "barfoothefoobarman";
+        String[] words = {"foo", "bar"};
+        S30 run = new S30();
+        List<Integer> result = run.findSubstring(s, words);
         print(result);
     }
 

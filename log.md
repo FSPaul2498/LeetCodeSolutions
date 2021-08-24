@@ -40,6 +40,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #27   | 移除元素                  | 简单 | 2021-08-22 | [力扣][P27]   |      |
 | #28   | 实现 strStr()             | 简单 | 2021-08-22 | [力扣][P28]   | 本题有参考社区Java题解代码<br>[【宫水三叶】简单题学 KMP 算法][S28] |
 | #29   | 两数相除                  | 中等 | 2021-08-23 | [力扣][P29]   | 本人原创题解请参考<br>[【不使用long的java解法】][S29] |
+| #30   | 串联所有单词的子串        | 困难 | 2021-08-24 | [力扣][P30]   |      |
 | #206  | 反转链表                  | 简单 | 2021-08-21 | [力扣][P206]  |      |
 | #233  | 数字 1 的个数             | 困难 | 2021-08-13 | [力扣][P233]  |      |
 | #313  | 超级丑数                  | 中等 | 2021-08-09 | [力扣][P313]  | 本题有参考官方Java题解代码<br>[【超级丑数】][S313] |
@@ -123,6 +124,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P28]:https://leetcode-cn.com/problems/implement-strstr/
 
 [P29]:https://leetcode-cn.com/problems/divide-two-integers/
+
+[P30]:https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/
 
 [P206]:https://leetcode-cn.com/problems/reverse-linked-list/
 

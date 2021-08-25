@@ -162,6 +162,9 @@ public class MainInput {
             case 789:
                 run789();
                 break;
+            case 797:
+                run797();
+                break;
             case 802:
                 run802();
                 break;
@@ -550,6 +553,13 @@ public class MainInput {
         int[] target = {0, 1};
         S789 run = new S789();
         boolean result = run.escapeGhosts(ghosts, target);
+        print(result);
+    }
+
+    static void run797() {
+        int[][] graph = {{1, 2}, {3}, {3}, {}};
+        S797 run = new S797();
+        List<List<Integer>> result = run.allPathsSourceTarget(graph);
         print(result);
     }
 

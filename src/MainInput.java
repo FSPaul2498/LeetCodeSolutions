@@ -105,6 +105,9 @@ public class MainInput {
             case 30:
                 run30();
                 break;
+            case 31:
+                run31();
+                break;
             case 206:
                 run206();
                 break;
@@ -414,6 +417,13 @@ public class MainInput {
         S30 run = new S30();
         List<Integer> result = run.findSubstring(s, words);
         print(result);
+    }
+
+    static void run31() {
+        int[] nums = {1, 2, 3};
+        S31 run = new S31();
+        run.nextPermutation(nums);
+        print(nums);
     }
 
     static void run206() {

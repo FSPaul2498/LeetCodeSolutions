@@ -174,6 +174,9 @@ public class MainInput {
             case 847:
                 run847();
                 break;
+            case 881:
+                run881();
+                break;
             case 1137:
                 run1137();
                 break;
@@ -584,6 +587,14 @@ public class MainInput {
         int[][] graph = {{1, 2, 3}, {0}, {0}, {0}};
         S847 run = new S847();
         int result = run.shortestPathLength(graph);
+        print(result);
+    }
+
+    static void run881() {
+        int[] people = {1, 2};
+        int limit = 3;
+        S881 run = new S881();
+        int result = run.numRescueBoats(people, limit);
         print(result);
     }
 

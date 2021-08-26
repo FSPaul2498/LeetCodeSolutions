@@ -64,6 +64,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #797  | 所有可能的路径            | 中等 | 2021-08-25 | [力扣][P797]  |      |
 | #802  | 找到最终的安全状态        | 中等 | 2021-08-05 | [力扣][P802]  |      |
 | #847  | 访问所有节点的最短路径    | 困难 | 2021-08-06 | [力扣][P847]  | 本题有参考官方Java题解代码<br>[【访问所有节点的最短路径】][S847] |
+| #881  | 救生艇                    | 中等 | 2021-08-26 | [力扣][P881]  |      |
 | #1137 | 第 N 个泰波那契数         | 简单 | 2021-08-08 | [力扣][P1137] |      |
 | #1337 | 矩阵中战斗力最弱的 K 行   | 简单 | 2021-08-01 | [力扣][P1337] |      |
 | #1583 | 统计不开心的朋友          | 中等 | 2021-08-14 | [力扣][P1583] |      |
@@ -174,6 +175,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P802]:https://leetcode-cn.com/problems/find-eventual-safe-states/
 
 [P847]:https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/
+
+[P881]:https://leetcode-cn.com/problems/boats-to-save-people/
 
 [P1137]:https://leetcode-cn.com/problems/n-th-tribonacci-number/
 

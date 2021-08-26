@@ -108,6 +108,9 @@ public class MainInput {
             case 31:
                 run31();
                 break;
+            case 32:
+                run32();
+                break;
             case 206:
                 run206();
                 break;
@@ -427,6 +430,13 @@ public class MainInput {
         S31 run = new S31();
         run.nextPermutation(nums);
         print(nums);
+    }
+
+    static void run32() {
+        String s = "(()";
+        S32 run = new S32();
+        int result = run.longestValidParentheses(s);
+        print(result);
     }
 
     static void run206() {

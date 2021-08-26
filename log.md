@@ -42,6 +42,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #29   | 两数相除                  | 中等 | 2021-08-23 | [力扣][P29]   | 本人原创题解请参考<br>[【不使用long的java解法】][S29] |
 | #30   | 串联所有单词的子串        | 困难 | 2021-08-24 | [力扣][P30]   |      |
 | #31   | 下一个排列                | 中等 | 2021-08-25 | [力扣][P31]   |      |
+| #32   | 最长有效括号              | 困难 | 2021-08-26 | [力扣][P32]   |      |
 | #206  | 反转链表                  | 简单 | 2021-08-21 | [力扣][P206]  |      |
 | #233  | 数字 1 的个数             | 困难 | 2021-08-13 | [力扣][P233]  |      |
 | #313  | 超级丑数                  | 中等 | 2021-08-09 | [力扣][P313]  | 本题有参考官方Java题解代码<br>[【超级丑数】][S313] |
@@ -131,6 +132,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P30]:https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/
 
 [P31]:https://leetcode-cn.com/problems/next-permutation/
+
+[P32]:https://leetcode-cn.com/problems/longest-valid-parentheses/
 
 [P206]:https://leetcode-cn.com/problems/reverse-linked-list/
 

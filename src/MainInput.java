@@ -111,6 +111,9 @@ public class MainInput {
             case 32:
                 run32();
                 break;
+            case 33:
+                run33();
+                break;
             case 206:
                 run206();
                 break;
@@ -439,6 +442,14 @@ public class MainInput {
         String s = "(()";
         S32 run = new S32();
         int result = run.longestValidParentheses(s);
+        print(result);
+    }
+
+    static void run33() {
+        int[] nums = {4, 5, 6, 7, 0, 1, 2};
+        int target = 0;
+        S33 run = new S33();
+        int result = run.search(nums, target);
         print(result);
     }
 

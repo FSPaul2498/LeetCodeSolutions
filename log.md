@@ -43,6 +43,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #30   | 串联所有单词的子串        | 困难 | 2021-08-24 | [力扣][P30]   |      |
 | #31   | 下一个排列                | 中等 | 2021-08-25 | [力扣][P31]   |      |
 | #32   | 最长有效括号              | 困难 | 2021-08-26 | [力扣][P32]   |      |
+| #33   | 搜索旋转排序数组          | 中等 | 2021-08-27 | [力扣][P33]   |      |
 | #206  | 反转链表                  | 简单 | 2021-08-21 | [力扣][P206]  |      |
 | #233  | 数字 1 的个数             | 困难 | 2021-08-13 | [力扣][P233]  |      |
 | #295  | 数据流的中位数            | 困难 | 2021-08-27 | [力扣][P295]  |      |
@@ -135,6 +136,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P31]:https://leetcode-cn.com/problems/next-permutation/
 
 [P32]:https://leetcode-cn.com/problems/longest-valid-parentheses/
+
+[P33]:https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
 
 [P206]:https://leetcode-cn.com/problems/reverse-linked-list/
 

@@ -117,6 +117,9 @@ public class MainInput {
             case 233:
                 run233();
                 break;
+            case 295:
+                run295();
+                break;
             case 313:
                 run313();
                 break;
@@ -452,6 +455,15 @@ public class MainInput {
         S233 run = new S233();
         int result = run.countDigitOne(n);
         print(result);
+    }
+
+    static void run295() {
+        S295 run = new S295();
+        run.addNum(1);
+        run.addNum(2);
+        print(run.findMedian());
+        run.addNum(3);
+        print(run.findMedian());
     }
 
     static void run313() {

@@ -192,6 +192,9 @@ public class MainInput {
             case 1337:
                 run1337();
                 break;
+            case 1480:
+                run1480();
+                break;
             case 1583:
                 run1583();
                 break;
@@ -647,6 +650,13 @@ public class MainInput {
         int k = 3;
         S1337 run = new S1337();
         int[] result = run.kWeakestRows(mat, k);
+        print(result);
+    }
+
+    static void run1480() {
+        int[] nums = {1, 2, 3, 4};
+        S1480 run = new S1480();
+        int[] result = run.runningSum(nums);
         print(result);
     }
 

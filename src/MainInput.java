@@ -114,6 +114,9 @@ public class MainInput {
             case 33:
                 run33();
                 break;
+            case 34:
+                run34();
+                break;
             case 206:
                 run206();
                 break;
@@ -453,6 +456,14 @@ public class MainInput {
         int target = 0;
         S33 run = new S33();
         int result = run.search(nums, target);
+        print(result);
+    }
+
+    static void run34() {
+        int[] nums = {5, 7, 7, 8, 8, 10};
+        int target = 8;
+        S34 run = new S34();
+        int[] result = run.searchRange(nums, target);
         print(result);
     }
 

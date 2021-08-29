@@ -201,6 +201,9 @@ public class MainInput {
             case 1583:
                 run1583();
                 break;
+            case 1588:
+                run1588();
+                break;
             case 1646:
                 run1646();
                 break;
@@ -677,6 +680,13 @@ public class MainInput {
         int[][] pairs = {{0, 1}, {2, 3}};
         S1583 run = new S1583();
         int result = run.unhappyFriends(n, preferences, pairs);
+        print(result);
+    }
+
+    static void run1588() {
+        int[] arr = {1, 4, 2, 5, 3};
+        S1588 run = new S1588();
+        int result = run.sumOddLengthSubarrays(arr);
         print(result);
     }
 

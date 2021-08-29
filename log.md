@@ -73,6 +73,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1337 | 矩阵中战斗力最弱的 K 行                    | 简单 | 2021-08-01 | [力扣][P1337] |                                                              |
 | #1480 | 一维数组的动态和                           | 简单 | 2021-08-28 | [力扣][P1480] |                                                              |
 | #1583 | 统计不开心的朋友                           | 中等 | 2021-08-14 | [力扣][P1583] |                                                              |
+| #1588 | 所有奇数长度子数组的和                     | 简单 | 2021-08-29 | [力扣][P1588] | 本题有参考社区Java题解代码<br/>[【宫水三叶】一题双解 :「前缀和」&「数学」][S1588] |
 | #1646 | 获取生成数组中的最大值                     | 简单 | 2021-08-23 | [力扣][P1646] |                                                              |
 
 [P1]:https://leetcode-cn.com/problems/two-sum/
@@ -199,6 +200,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P1583]:https://leetcode-cn.com/problems/count-unhappy-friends/
 
+[P1588]:https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/
+
 [P1646]:https://leetcode-cn.com/problems/get-maximum-in-generated-array/
 
 [S10]:https://leetcode-cn.com/problems/regular-expression-matching/solution/cong-shi-bai-di-gui-dao-dong-tai-gui-hua-tncj/
@@ -218,3 +221,5 @@ which I have solved and submitted the solution to LeetCode CN.
 [S787]:https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/solution/k-zhan-zhong-zhuan-nei-zui-bian-yi-de-ha-abzi/
 
 [S847]: https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/solution/fang-wen-suo-you-jie-dian-de-zui-duan-lu-mqc2/
+
+[S1588]: https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/solution/gong-shui-san-xie-yi-ti-shuang-jie-qian-18jq3/

@@ -45,6 +45,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #32   | 最长有效括号                               | 困难 | 2021-08-26 | [力扣][P32]   |                                                              |
 | #33   | 搜索旋转排序数组                           | 中等 | 2021-08-27 | [力扣][P33]   |                                                              |
 | #34   | 在排序数组中查找元素的第一个和最后一个位置 | 中等 | 2021-08-28 | [力扣][P34]   |                                                              |
+| #35   | 搜索插入位置                               | 简单 | 2021-08-29 | [力扣][P35]   |                                                              |
 | #206  | 反转链表                                   | 简单 | 2021-08-21 | [力扣][P206]  |                                                              |
 | #233  | 数字 1 的个数                              | 困难 | 2021-08-13 | [力扣][P233]  |                                                              |
 | #295  | 数据流的中位数                             | 困难 | 2021-08-27 | [力扣][P295]  |                                                              |
@@ -144,6 +145,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P34]:https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
+[P35]: https://leetcode-cn.com/problems/search-insert-position/
+
 [P206]:https://leetcode-cn.com/problems/reverse-linked-list/
 
 [P233]:https://leetcode-cn.com/problems/number-of-digit-one/
@@ -223,3 +226,4 @@ which I have solved and submitted the solution to LeetCode CN.
 [S847]: https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/solution/fang-wen-suo-you-jie-dian-de-zui-duan-lu-mqc2/
 
 [S1588]: https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/solution/gong-shui-san-xie-yi-ti-shuang-jie-qian-18jq3/
+

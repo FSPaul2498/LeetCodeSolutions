@@ -153,6 +153,9 @@ public class MainInput {
             case 526:
                 run526();
                 break;
+            case 528:
+                run528();
+                break;
             case 541:
                 run541();
                 break;
@@ -560,6 +563,15 @@ public class MainInput {
         int n = 15;
         S526 run = new S526();
         int result = run.countArrangement(n);
+        print(result);
+    }
+
+    static void run528() {
+        int[] w = {1, 1, 1, 1};
+        S528 run = new S528(w);
+        int[] result = new int[w.length];
+        for (int i = 0; i < 10000; i++)
+            result[run.pickIndex()]++;
         print(result);
     }
 

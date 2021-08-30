@@ -57,6 +57,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #457  | 环形数组是否存在循环                       | 中等 | 2021-08-07 | [力扣][P457]  |                                                              |
 | #516  | 最长回文子序列                             | 中等 | 2021-08-12 | [力扣][P516]  |                                                              |
 | #526  | 优美的排列                                 | 中等 | 2021-08-16 | [力扣][P526]  | 本题有参考官方Java题解代码<br>[【优美的排列】][S526]         |
+| #528  | 按权重随机选择                             | 中等 | 2021-08-30 | [力扣][P528]  |                                                              |
 | #541  | 反转字符串 II                              | 简单 | 2021-08-20 | [力扣][P541]  |                                                              |
 | #551  | 学生出勤记录 I                             | 简单 | 2021-08-17 | [力扣][P551]  |                                                              |
 | #552  | 学生出勤记录 II                            | 困难 | 2021-08-18 | [力扣][P552]  | 本题有参考官方Java题解代码<br>[【学生出勤记录 II】][S552]    |
@@ -168,6 +169,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P516]:https://leetcode-cn.com/problems/longest-palindromic-subsequence/
 
 [P526]:https://leetcode-cn.com/problems/beautiful-arrangement/
+
+[P528]: https://leetcode-cn.com/problems/random-pick-with-weight/
 
 [P541]:https://leetcode-cn.com/problems/reverse-string-ii/
 

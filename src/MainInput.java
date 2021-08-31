@@ -195,6 +195,9 @@ public class MainInput {
             case 881:
                 run881();
                 break;
+            case 1109:
+                run1109();
+                break;
             case 1137:
                 run1137();
                 break;
@@ -668,6 +671,14 @@ public class MainInput {
         int limit = 3;
         S881 run = new S881();
         int result = run.numRescueBoats(people, limit);
+        print(result);
+    }
+
+    static void run1109() {
+        int[][] bookings = {{1, 2, 10}, {2, 3, 20}, {2, 5, 25}};
+        int n = 5;
+        S1109 run = new S1109();
+        int[] result = run.corpFlightBookings(bookings, n);
         print(result);
     }
 

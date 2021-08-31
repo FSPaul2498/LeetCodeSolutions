@@ -46,6 +46,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #33   | 搜索旋转排序数组                           | 中等 | 2021-08-27 | [力扣][P33]   |                                                              |
 | #34   | 在排序数组中查找元素的第一个和最后一个位置 | 中等 | 2021-08-28 | [力扣][P34]   |                                                              |
 | #35   | 搜索插入位置                               | 简单 | 2021-08-29 | [力扣][P35]   |                                                              |
+| #36   | 有效的数独                                 | 中等 | 2021-08-31 | [力扣][P36]   |                                                              |
 | #206  | 反转链表                                   | 简单 | 2021-08-21 | [力扣][P206]  |                                                              |
 | #233  | 数字 1 的个数                              | 困难 | 2021-08-13 | [力扣][P233]  |                                                              |
 | #295  | 数据流的中位数                             | 困难 | 2021-08-27 | [力扣][P295]  |                                                              |
@@ -147,7 +148,9 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P34]:https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
-[P35]: https://leetcode-cn.com/problems/search-insert-position/
+[P35]:https://leetcode-cn.com/problems/search-insert-position/
+
+[P36]:https://leetcode-cn.com/problems/valid-sudoku/
 
 [P206]:https://leetcode-cn.com/problems/reverse-linked-list/
 

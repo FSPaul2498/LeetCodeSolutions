@@ -120,6 +120,9 @@ public class MainInput {
             case 35:
                 run35();
                 break;
+            case 36:
+                run36();
+                break;
             case 206:
                 run206();
                 break;
@@ -484,6 +487,21 @@ public class MainInput {
         int target = 5;
         S35 run = new S35();
         int result = run.searchInsert(nums, target);
+        print(result);
+    }
+
+    static void run36() {
+        char[][] board = {{'5', '3', '.', '.', '7', '.', '.', '.', '.'},
+                {'6', '.', '.', '1', '9', '5', '.', '.', '.'},
+                {'.', '9', '8', '.', '.', '.', '.', '6', '.'},
+                {'8', '.', '.', '.', '6', '.', '.', '.', '3'},
+                {'4', '.', '.', '8', '.', '3', '.', '.', '1'},
+                {'7', '.', '.', '.', '2', '.', '.', '.', '6'},
+                {'.', '6', '.', '.', '.', '.', '2', '8', '.'},
+                {'.', '.', '.', '4', '1', '9', '.', '.', '5'},
+                {'.', '.', '.', '.', '8', '.', '.', '7', '9'}};
+        S36 run = new S36();
+        boolean result = run.isValidSudoku(board);
         print(result);
     }
 

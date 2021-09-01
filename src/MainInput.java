@@ -123,6 +123,9 @@ public class MainInput {
             case 36:
                 run36();
                 break;
+            case 165:
+                run165();
+                break;
             case 206:
                 run206();
                 break;
@@ -502,6 +505,13 @@ public class MainInput {
                 {'.', '.', '.', '.', '8', '.', '.', '7', '9'}};
         S36 run = new S36();
         boolean result = run.isValidSudoku(board);
+        print(result);
+    }
+
+    static void run165() {
+        String version1 = "1.01", version2 = "1.001";
+        S165 run = new S165();
+        int result = run.compareVersion(version1, version2);
         print(result);
     }
 

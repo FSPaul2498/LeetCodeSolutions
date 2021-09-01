@@ -47,6 +47,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #34   | 在排序数组中查找元素的第一个和最后一个位置 | 中等 | 2021-08-28 | [力扣][P34]   |                                                              |
 | #35   | 搜索插入位置                               | 简单 | 2021-08-29 | [力扣][P35]   |                                                              |
 | #36   | 有效的数独                                 | 中等 | 2021-08-31 | [力扣][P36]   |                                                              |
+| #37   | 解数独                                     | 困难 | 2021-09-01 | [力扣][P37]   |                                                              |
 | #165  | 比较版本号                                 | 中等 | 2021-09-01 | [力扣][P165]  |                                                              |
 | #206  | 反转链表                                   | 简单 | 2021-08-21 | [力扣][P206]  |                                                              |
 | #233  | 数字 1 的个数                              | 困难 | 2021-08-13 | [力扣][P233]  |                                                              |
@@ -152,6 +153,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P35]:https://leetcode-cn.com/problems/search-insert-position/
 
 [P36]:https://leetcode-cn.com/problems/valid-sudoku/
+
+[P37]:https://leetcode-cn.com/problems/sudoku-solver/
 
 [P165]:https://leetcode-cn.com/problems/compare-version-numbers/
 

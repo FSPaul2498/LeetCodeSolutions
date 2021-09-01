@@ -123,6 +123,9 @@ public class MainInput {
             case 36:
                 run36();
                 break;
+            case 37:
+                run37();
+                break;
             case 165:
                 run165();
                 break;
@@ -508,6 +511,21 @@ public class MainInput {
         print(result);
     }
 
+    static void run37() {
+        char[][] board = {{'5', '3', '.', '.', '7', '.', '.', '.', '.'},
+                {'6', '.', '.', '1', '9', '5', '.', '.', '.'},
+                {'.', '9', '8', '.', '.', '.', '.', '6', '.'},
+                {'8', '.', '.', '.', '6', '.', '.', '.', '3'},
+                {'4', '.', '.', '8', '.', '3', '.', '.', '1'},
+                {'7', '.', '.', '.', '2', '.', '.', '.', '6'},
+                {'.', '6', '.', '.', '.', '.', '2', '8', '.'},
+                {'.', '.', '.', '4', '1', '9', '.', '.', '5'},
+                {'.', '.', '.', '.', '8', '.', '.', '7', '9'}};
+        S37 run = new S37();
+        run.solveSudoku(board);
+        print(board);
+    }
+
     static void run165() {
         String version1 = "1.01", version2 = "1.001";
         S165 run = new S165();
@@ -769,7 +787,7 @@ public class MainInput {
     }
 
     static void print(int[] input) {
-        System.out.println(Arrays.toString(input));
+        print(Arrays.toString(input));
     }
 
     static void print(double input) {
@@ -777,7 +795,11 @@ public class MainInput {
     }
 
     static void print(char[] input) {
-        System.out.println(Arrays.toString(input));
+        print(Arrays.toString(input));
+    }
+
+    static void print(char[][] input) {
+        for (char[] input2 : input) print(Arrays.toString(input2));
     }
 
     static void print(String input) {
@@ -789,7 +811,6 @@ public class MainInput {
     }
 
     static void print(ListNode head) {
-        for (ListNode now = head; now != null; now = now.next)
-            System.out.print(now.val + " ");
+        for (ListNode now = head; now != null; now = now.next) System.out.print(now.val + " ");
     }
 }

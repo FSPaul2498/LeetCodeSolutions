@@ -225,6 +225,9 @@ public class MainInput {
             case 1646:
                 run1646();
                 break;
+            case 10022:
+                runJZ22();
+                break;
             default:
                 print("Wrong Problem Num");
         }
@@ -774,6 +777,15 @@ public class MainInput {
         int n = 7;
         S1646 run = new S1646();
         int result = run.getMaximumGenerated(n);
+        print(result);
+    }
+
+    static void runJZ22() {
+        int[] nums = {1, 2, 3, 4, 5};
+        int k = 2;
+        ListNode head = ListNode.makeList(nums);
+        SJZ22 run = new SJZ22();
+        ListNode result = run.getKthFromEnd(head, k);
         print(result);
     }
 

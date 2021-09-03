@@ -225,8 +225,21 @@ public class MainInput {
             case 1646:
                 run1646();
                 break;
-            case 10022:
+            // 1XXXX for LCP & LCS
+            // LCP 01 -> 10001 -> LCP01
+            // LCS 01 -> 11001 -> LCS01
+            case 10001:
+                break;
+            // 2XXXX for JianZhi Offer
+            // 剑指 Offer 01 -> 20001 -> JZ1
+            // 剑指 Offer II 001 -> 21001 -> JZII1
+            case 20022:
                 runJZ22();
+                break;
+            // 3XXXX for Interview Questions
+            // 面试题 01.01 -> 30101 -> MS0101
+            case 31714:
+                runMS1714();
                 break;
             default:
                 print("Wrong Problem Num");
@@ -786,6 +799,14 @@ public class MainInput {
         ListNode head = ListNode.makeList(nums);
         SJZ22 run = new SJZ22();
         ListNode result = run.getKthFromEnd(head, k);
+        print(result);
+    }
+
+    static void runMS1714() {
+        int[] arr = {1, 3, 5, 7, 2, 4, 6, 8};
+        int k = 4;
+        SMS1714 run = new SMS1714();
+        int[] result = run.smallestK(arr, k);
         print(result);
     }
 

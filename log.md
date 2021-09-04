@@ -1,4 +1,4 @@
-﻿﻿# Problems & Submissions Log
+﻿# Problems & Submissions Log
 
 LeetCode题目与提交日志
 
@@ -81,6 +81,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1583   | 统计不开心的朋友                           | 中等 | 2021-08-14 | [力扣][P1583]   |                                                              |
 | #1588   | 所有奇数长度子数组的和                     | 简单 | 2021-08-29 | [力扣][P1588]   | 本题有参考社区Java题解代码<br/>[【宫水三叶】一题双解 :「前缀和」&「数学」][S1588] |
 | #1646   | 获取生成数组中的最大值                     | 简单 | 2021-08-23 | [力扣][P1646]   |                                                              |
+| #JZ10   | 斐波那契数列                               | 简单 | 2021-09-04 | [力扣][PJZ10]   |                                                              |
 | #JZ22   | 链表中倒数第k个节点                        | 简单 | 2021-09-02 | [力扣][PJZ22]   |                                                              |
 | #MS1714 | 最小K个数                                  | 中等 | 2021-09-03 | [力扣][PMS1714] |                                                              |
 
@@ -223,6 +224,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1588]:https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/
 
 [P1646]:https://leetcode-cn.com/problems/get-maximum-in-generated-array/
+
+[PJZ10]:https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/
 
 [PJZ22]:https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
 

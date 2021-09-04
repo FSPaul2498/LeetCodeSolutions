@@ -233,6 +233,9 @@ public class MainInput {
             // 2XXXX for JianZhi Offer
             // 剑指 Offer 01 -> 20001 -> JZ1
             // 剑指 Offer II 001 -> 21001 -> JZII1
+            case 20010:
+                runJZ10();
+                break;
             case 20022:
                 runJZ22();
                 break;
@@ -790,6 +793,13 @@ public class MainInput {
         int n = 7;
         S1646 run = new S1646();
         int result = run.getMaximumGenerated(n);
+        print(result);
+    }
+
+    static void runJZ10() {
+        int n = 2;
+        SJZ10 run = new SJZ10();
+        int result = run.fib(n);
         print(result);
     }
 

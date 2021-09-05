@@ -58,6 +58,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #443    | 压缩字符串                                 | 中等 | 2021-08-21 | [力扣][P443]    |                                                              |
 | #446    | 等差数列划分 II - 子序列                   | 困难 | 2021-08-11 | [力扣][P446]    | 本题有参考官方Java题解代码<br>[【等差数列划分 II - 子序列】][S446] |
 | #457    | 环形数组是否存在循环                       | 中等 | 2021-08-07 | [力扣][P457]    |                                                              |
+| #470    | 用 Rand7() 实现 Rand10()                   | 中等 | 2021-09-05 | [力扣][P470]    |                                                              |
 | #516    | 最长回文子序列                             | 中等 | 2021-08-12 | [力扣][P516]    |                                                              |
 | #526    | 优美的排列                                 | 中等 | 2021-08-16 | [力扣][P526]    | 本题有参考官方Java题解代码<br>[【优美的排列】][S526]         |
 | #528    | 按权重随机选择                             | 中等 | 2021-08-30 | [力扣][P528]    |                                                              |
@@ -178,6 +179,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P446]:https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/
 
 [P457]:https://leetcode-cn.com/problems/circular-array-loop/
+
+[P470]:https://leetcode-cn.com/problems/implement-rand10-using-rand7/
 
 [P516]:https://leetcode-cn.com/problems/longest-palindromic-subsequence/
 

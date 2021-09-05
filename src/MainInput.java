@@ -156,6 +156,9 @@ public class MainInput {
             case 457:
                 run457();
                 break;
+            case 470:
+                run470();
+                break;
             case 516:
                 run516();
                 break;
@@ -617,6 +620,14 @@ public class MainInput {
         int[] nums = {2, -1, 1, 2, 2};
         S457 run = new S457();
         boolean result = run.circularArrayLoop(nums);
+        print(result);
+    }
+
+    static void run470() {
+        S470 run = new S470();
+        int[] result = new int[10];
+        for (int i = 0; i < 10000; i++)
+            result[run.rand10() - 1]++;
         print(result);
     }
 

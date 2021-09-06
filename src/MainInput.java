@@ -186,6 +186,9 @@ public class MainInput {
             case 611:
                 run611();
                 break;
+            case 704:
+                run704();
+                break;
             case 743:
                 run743();
                 break;
@@ -694,6 +697,14 @@ public class MainInput {
         int[] nums = {2, 2, 3, 4};
         S611 run = new S611();
         int result = run.triangleNumber(nums);
+        print(result);
+    }
+
+    static void run704() {
+        int[] nums = {-1, 0, 3, 5, 9, 12};
+        int target = 9;
+        S704 run = new S704();
+        int result = run.search(nums, target);
         print(result);
     }
 

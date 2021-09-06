@@ -68,6 +68,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #576    | 出界的路径数                               | 中等 | 2021-08-15 | [力扣][P576]    |                                                              |
 | #581    | 最短无序连续子数组                         | 中等 | 2021-08-03 | [力扣][P581]    |                                                              |
 | #611    | 有效三角形的个数                           | 中等 | 2021-08-04 | [力扣][P611]    |                                                              |
+| #704    | 二分查找                                   | 简单 | 2021-09-06 | [力扣][P704]    |                                                              |
 | #743    | 网络延迟时间                               | 中等 | 2021-08-02 | [力扣][P743]    |                                                              |
 | #787    | K 站中转内最便宜的航班                     | 中等 | 2021-08-24 | [力扣][P787]    | 本题有参考官方Java题解代码<br>[【K 站中转内最便宜的航班】][S787] |
 | #789    | 逃脱阻碍者                                 | 中等 | 2021-08-22 | [力扣][P789]    |                                                              |
@@ -199,6 +200,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P581]:https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
 
 [P611]:https://leetcode-cn.com/problems/valid-triangle-number/
+
+[P704]:https://leetcode-cn.com/problems/binary-search/
 
 [P743]:https://leetcode-cn.com/problems/network-delay-time/
 

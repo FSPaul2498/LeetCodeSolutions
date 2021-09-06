@@ -126,6 +126,9 @@ public class MainInput {
             case 37:
                 run37();
                 break;
+            case 38:
+                run38();
+                break;
             case 165:
                 run165();
                 break;
@@ -549,6 +552,13 @@ public class MainInput {
         S37 run = new S37();
         run.solveSudoku(board);
         print(board);
+    }
+
+    static void run38() {
+        int n = 15;
+        S38 run = new S38();
+        String result = run.countAndSay(n);
+        print(result);
     }
 
     static void run165() {

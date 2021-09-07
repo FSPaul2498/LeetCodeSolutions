@@ -219,6 +219,9 @@ public class MainInput {
             case 1137:
                 run1137();
                 break;
+            case 1221:
+                run1221();
+                break;
             case 1337:
                 run1337();
                 break;
@@ -783,6 +786,13 @@ public class MainInput {
         int n = 4;
         S1137 run = new S1137();
         int result = run.tribonacci(n);
+        print(result);
+    }
+
+    static void run1221() {
+        String s = "RLRRLLRLRL";
+        S1221 run = new S1221();
+        int result = run.balancedStringSplit(s);
         print(result);
     }
 

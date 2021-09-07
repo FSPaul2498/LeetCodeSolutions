@@ -49,6 +49,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #36     | 有效的数独                                 | 中等 | 2021-08-31 | [力扣][P36]     |                                                              |
 | #37     | 解数独                                     | 困难 | 2021-09-01 | [力扣][P37]     |                                                              |
 | #38     | 外观数列                                   | 中等 | 2021-09-06 | [力扣][P38]     |                                                              |
+| #39     | 组合总和                                   | 中等 | 2021-09-07 | [力扣][P39]     |                                                              |
 | #165    | 比较版本号                                 | 中等 | 2021-09-01 | [力扣][P165]    |                                                              |
 | #206    | 反转链表                                   | 简单 | 2021-08-21 | [力扣][P206]    |                                                              |
 | #233    | 数字 1 的个数                              | 困难 | 2021-08-13 | [力扣][P233]    |                                                              |
@@ -164,6 +165,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P37]:https://leetcode-cn.com/problems/sudoku-solver/
 
 [P38]:https://leetcode-cn.com/problems/count-and-say/
+
+[P39]:https://leetcode-cn.com/problems/combination-sum/
 
 [P165]:https://leetcode-cn.com/problems/compare-version-numbers/
 

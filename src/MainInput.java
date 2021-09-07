@@ -129,6 +129,9 @@ public class MainInput {
             case 38:
                 run38();
                 break;
+            case 39:
+                run39();
+                break;
             case 165:
                 run165();
                 break;
@@ -561,6 +564,14 @@ public class MainInput {
         int n = 15;
         S38 run = new S38();
         String result = run.countAndSay(n);
+        print(result);
+    }
+
+    static void run39() {
+        int[] candidates = {2, 3, 6, 7};
+        int target = 7;
+        S39 run = new S39();
+        List<List<Integer>> result = run.combinationSum(candidates, target);
         print(result);
     }
 

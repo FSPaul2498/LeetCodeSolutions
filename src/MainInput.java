@@ -165,6 +165,9 @@ public class MainInput {
             case 470:
                 run470();
                 break;
+            case 502:
+                run502();
+                break;
             case 516:
                 run516();
                 break;
@@ -655,6 +658,14 @@ public class MainInput {
         int[] result = new int[10];
         for (int i = 0; i < 10000; i++)
             result[run.rand10() - 1]++;
+        print(result);
+    }
+
+    static void run502() {
+        int k = 2, w = 0;
+        int[] profits = {1, 2, 3}, capital = {0, 1, 1};
+        S502 run = new S502();
+        int result = run.findMaximizedCapital(k, w, profits, capital);
         print(result);
     }
 

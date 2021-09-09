@@ -51,6 +51,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #38     | 外观数列                                   | 中等 | 2021-09-06 | [力扣][P38]     |                                                              |
 | #39     | 组合总和                                   | 中等 | 2021-09-07 | [力扣][P39]     |                                                              |
 | #40     | 组合总和 II                                | 中等 | 2021-09-08 | [力扣][P40]     |                                                              |
+| #41     | 缺失的第一个正数                           | 困难 | 2021-09-09 | [力扣][P41]     |                                                              |
 | #68     | 文本左右对齐                               | 困难 | 2021-09-09 | [力扣][P68]     |                                                              |
 | #165    | 比较版本号                                 | 中等 | 2021-09-01 | [力扣][P165]    |                                                              |
 | #206    | 反转链表                                   | 简单 | 2021-08-21 | [力扣][P206]    |                                                              |
@@ -172,6 +173,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P39]:https://leetcode-cn.com/problems/combination-sum/
 
 [P40]:https://leetcode-cn.com/problems/combination-sum-ii/
+
+[P41]:https://leetcode-cn.com/problems/first-missing-positive/
 
 [P68]:https://leetcode-cn.com/problems/text-justification/
 

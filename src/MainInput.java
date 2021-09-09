@@ -135,6 +135,9 @@ public class MainInput {
             case 40:
                 run40();
                 break;
+            case 41:
+                run41();
+                break;
             case 68:
                 run68();
                 break;
@@ -589,6 +592,13 @@ public class MainInput {
         int target = 8;
         S40 run = new S40();
         List<List<Integer>> result = run.combinationSum2(candidates, target);
+        print(result);
+    }
+
+    static void run41() {
+        int[] nums = {1, 2, 0};
+        S41 run = new S41();
+        int result = run.firstMissingPositive(nums);
         print(result);
     }
 

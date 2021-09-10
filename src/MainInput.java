@@ -252,6 +252,9 @@ public class MainInput {
             case 1646:
                 run1646();
                 break;
+            case 1894:
+                run1894();
+                break;
             // 1XXXX for LCP & LCS
             // LCP 01 -> 10001 -> LCP01
             // LCS 01 -> 11001 -> LCS01
@@ -889,6 +892,14 @@ public class MainInput {
         int n = 7;
         S1646 run = new S1646();
         int result = run.getMaximumGenerated(n);
+        print(result);
+    }
+
+    static void run1894() {
+        int[] chalk = {5, 1, 5};
+        int k = 22;
+        S1894 run = new S1894();
+        int result = run.chalkReplacer(chalk, k);
         print(result);
     }
 

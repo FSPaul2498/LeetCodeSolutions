@@ -138,6 +138,9 @@ public class MainInput {
             case 41:
                 run41();
                 break;
+            case 42:
+                run42();
+                break;
             case 68:
                 run68();
                 break;
@@ -602,6 +605,13 @@ public class MainInput {
         int[] nums = {1, 2, 0};
         S41 run = new S41();
         int result = run.firstMissingPositive(nums);
+        print(result);
+    }
+
+    static void run42() {
+        int[] height = {0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1};
+        S42 run = new S42();
+        int result = run.trap(height);
         print(result);
     }
 

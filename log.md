@@ -74,6 +74,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #552    | 学生出勤记录 II                            | 困难 | 2021-08-18 | [力扣][P552]    | 本题有参考官方Java题解代码<br>[【学生出勤记录 II】][S552]    |
 | #576    | 出界的路径数                               | 中等 | 2021-08-15 | [力扣][P576]    |                                                              |
 | #581    | 最短无序连续子数组                         | 中等 | 2021-08-03 | [力扣][P581]    |                                                              |
+| #600    | 不含连续1的非负整数                        | 困难 | 2021-09-11 | [力扣][P600]    |                                                              |
 | #611    | 有效三角形的个数                           | 中等 | 2021-08-04 | [力扣][P611]    |                                                              |
 | #704    | 二分查找                                   | 简单 | 2021-09-06 | [力扣][P704]    |                                                              |
 | #743    | 网络延迟时间                               | 中等 | 2021-08-02 | [力扣][P743]    |                                                              |
@@ -221,6 +222,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P576]:https://leetcode-cn.com/problems/out-of-boundary-paths/
 
 [P581]:https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
+
+[P600]:https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/
 
 [P611]:https://leetcode-cn.com/problems/valid-triangle-number/
 

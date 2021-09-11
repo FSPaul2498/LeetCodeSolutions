@@ -204,6 +204,9 @@ public class MainInput {
             case 581:
                 run581();
                 break;
+            case 600:
+                run600();
+                break;
             case 611:
                 run611();
                 break;
@@ -770,6 +773,13 @@ public class MainInput {
         int[] nums = {2, 6, 4, 8, 10, 9, 15};
         S581 run = new S581();
         int result = run.findUnsortedSubarray(nums);
+        print(result);
+    }
+
+    static void run600() {
+        int n = 5;
+        S600 run = new S600();
+        int result = run.findIntegers(n);
         print(result);
     }
 

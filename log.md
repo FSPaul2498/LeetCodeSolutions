@@ -76,6 +76,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #581    | 最短无序连续子数组                         | 中等 | 2021-08-03 | [力扣][P581]    |                                                              |
 | #600    | 不含连续1的非负整数                        | 困难 | 2021-09-11 | [力扣][P600]    |                                                              |
 | #611    | 有效三角形的个数                           | 中等 | 2021-08-04 | [力扣][P611]    |                                                              |
+| #678    | 有效的括号字符串                           | 中等 | 2021-09-12 | [力扣][P678]    |                                                              |
 | #704    | 二分查找                                   | 简单 | 2021-09-06 | [力扣][P704]    |                                                              |
 | #743    | 网络延迟时间                               | 中等 | 2021-08-02 | [力扣][P743]    |                                                              |
 | #787    | K 站中转内最便宜的航班                     | 中等 | 2021-08-24 | [力扣][P787]    | 本题有参考官方Java题解代码<br>[【K 站中转内最便宜的航班】][S787] |
@@ -226,6 +227,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P600]:https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/
 
 [P611]:https://leetcode-cn.com/problems/valid-triangle-number/
+
+[P678]:https://leetcode-cn.com/problems/valid-parenthesis-string/
 
 [P704]:https://leetcode-cn.com/problems/binary-search/
 

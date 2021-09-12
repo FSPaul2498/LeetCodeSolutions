@@ -210,6 +210,9 @@ public class MainInput {
             case 611:
                 run611();
                 break;
+            case 678:
+                run678();
+                break;
             case 704:
                 run704();
                 break;
@@ -787,6 +790,13 @@ public class MainInput {
         int[] nums = {2, 2, 3, 4};
         S611 run = new S611();
         int result = run.triangleNumber(nums);
+        print(result);
+    }
+
+    static void run678() {
+        String s = "()";
+        S678 run = new S678();
+        boolean result = run.checkValidString(s);
         print(result);
     }
 

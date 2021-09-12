@@ -141,6 +141,9 @@ public class MainInput {
             case 42:
                 run42();
                 break;
+            case 43:
+                run43();
+                break;
             case 68:
                 run68();
                 break;
@@ -618,6 +621,13 @@ public class MainInput {
         int[] height = {0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1};
         S42 run = new S42();
         int result = run.trap(height);
+        print(result);
+    }
+
+    static void run43() {
+        String num1 = "2", num2 = "3";
+        S43 run = new S43();
+        String result = run.multiply(num1, num2);
         print(result);
     }
 

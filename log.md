@@ -53,6 +53,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #40     | 组合总和 II                                | 中等 | 2021-09-08 | [力扣][P40]     |                                                              |
 | #41     | 缺失的第一个正数                           | 困难 | 2021-09-09 | [力扣][P41]     |                                                              |
 | #42     | 接雨水                                     | 困难 | 2021-09-10 | [力扣][P42]     |                                                              |
+| #43     | 字符串相乘                                 | 中等 | 2021-09-12 | [力扣][P43]     |                                                              |
 | #68     | 文本左右对齐                               | 困难 | 2021-09-09 | [力扣][P68]     |                                                              |
 | #165    | 比较版本号                                 | 中等 | 2021-09-01 | [力扣][P165]    |                                                              |
 | #206    | 反转链表                                   | 简单 | 2021-08-21 | [力扣][P206]    |                                                              |
@@ -181,6 +182,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P41]:https://leetcode-cn.com/problems/first-missing-positive/
 
 [P42]:https://leetcode-cn.com/problems/trapping-rain-water/
+
+[P43]:https://leetcode-cn.com/problems/multiply-strings/
 
 [P68]:https://leetcode-cn.com/problems/text-justification/
 

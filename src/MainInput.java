@@ -174,6 +174,9 @@ public class MainInput {
             case 446:
                 run446();
                 break;
+            case 447:
+                run447();
+                break;
             case 457:
                 run457();
                 break;
@@ -704,6 +707,13 @@ public class MainInput {
         int[] nums = {2, 4, 6, 8, 10};
         S446 run = new S446();
         int result = run.numberOfArithmeticSlices(nums);
+        print(result);
+    }
+
+    static void run447() {
+        int[][] points = {{0, 0}, {1, 0}, {2, 0}};
+        S447 run = new S447();
+        int result = run.numberOfBoomerangs(points);
         print(result);
     }
 

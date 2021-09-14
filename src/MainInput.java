@@ -2,6 +2,7 @@
 // LeetCode Solutions
 // Main Input Class
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -188,6 +189,9 @@ public class MainInput {
                 break;
             case 516:
                 run516();
+                break;
+            case 524:
+                run524();
                 break;
             case 526:
                 run526();
@@ -744,6 +748,15 @@ public class MainInput {
         String s = "bbbab";
         S516 run = new S516();
         int result = run.longestPalindromeSubseq(s);
+        print(result);
+    }
+
+    static void run524() {
+        String s = "abpcplea";
+        String[] dict = {"ale", "apple", "monkey", "plea"};
+        ArrayList<String> dictionary = new ArrayList<>(List.of(dict));
+        S524 run = new S524();
+        String result = run.findLongestWord(s, dictionary);
         print(result);
     }
 

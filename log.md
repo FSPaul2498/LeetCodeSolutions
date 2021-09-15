@@ -55,6 +55,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #42     | 接雨水                                     | 困难 | 2021-09-10 | [力扣][P42]     |                                                              |
 | #43     | 字符串相乘                                 | 中等 | 2021-09-12 | [力扣][P43]     |                                                              |
 | #68     | 文本左右对齐                               | 困难 | 2021-09-09 | [力扣][P68]     |                                                              |
+| #162    | 寻找峰值                                   | 中等 | 2021-09-15 | [力扣][P162]    |                                                              |
 | #165    | 比较版本号                                 | 中等 | 2021-09-01 | [力扣][P165]    |                                                              |
 | #206    | 反转链表                                   | 简单 | 2021-08-21 | [力扣][P206]    |                                                              |
 | #233    | 数字 1 的个数                              | 困难 | 2021-08-13 | [力扣][P233]    |                                                              |
@@ -188,6 +189,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P43]:https://leetcode-cn.com/problems/multiply-strings/
 
 [P68]:https://leetcode-cn.com/problems/text-justification/
+
+[P162]:https://leetcode-cn.com/problems/find-peak-element/
 
 [P165]:https://leetcode-cn.com/problems/compare-version-numbers/
 

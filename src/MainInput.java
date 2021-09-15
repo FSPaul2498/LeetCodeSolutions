@@ -148,6 +148,9 @@ public class MainInput {
             case 68:
                 run68();
                 break;
+            case 162:
+                run162();
+                break;
             case 165:
                 run165();
                 break;
@@ -643,6 +646,13 @@ public class MainInput {
         int maxWidth = 16;
         S68 run = new S68();
         List<String> result = run.fullJustify(words, maxWidth);
+        print(result);
+    }
+
+    static void run162() {
+        int[] nums = {1, 2, 3, 1};
+        S162 run = new S162();
+        int result = run.findPeakElement(nums);
         print(result);
     }
 

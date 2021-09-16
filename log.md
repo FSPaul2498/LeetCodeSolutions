@@ -58,6 +58,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #162    | 寻找峰值                                   | 中等 | 2021-09-15 | [力扣][P162]    |                                                              |
 | #165    | 比较版本号                                 | 中等 | 2021-09-01 | [力扣][P165]    |                                                              |
 | #206    | 反转链表                                   | 简单 | 2021-08-21 | [力扣][P206]    |                                                              |
+| #212    | 单词搜索 II                                | 困难 | 2021-09-16 | [力扣][P212]    | 本题有参考官方Java题解代码<br>[【单词搜索 II】][S212]        |
 | #233    | 数字 1 的个数                              | 困难 | 2021-08-13 | [力扣][P233]    |                                                              |
 | #295    | 数据流的中位数                             | 困难 | 2021-08-27 | [力扣][P295]    |                                                              |
 | #313    | 超级丑数                                   | 中等 | 2021-08-09 | [力扣][P313]    | 本题有参考官方Java题解代码<br>[【超级丑数】][S313]           |
@@ -196,6 +197,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P206]:https://leetcode-cn.com/problems/reverse-linked-list/
 
+[P212]:https://leetcode-cn.com/problems/word-search-ii/
+
 [P233]:https://leetcode-cn.com/problems/number-of-digit-one/
 
 [P295]:https://leetcode-cn.com/problems/find-median-from-data-stream/
@@ -287,6 +290,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S28]:https://leetcode-cn.com/problems/implement-strstr/solution/shua-chuan-lc-shuang-bai-po-su-jie-fa-km-tb86/
 
 [S29]:https://leetcode-cn.com/problems/divide-two-integers/solution/bu-shi-yong-longde-javajie-fa-by-fspaul-yca3/
+
+[S212]:https://leetcode-cn.com/problems/word-search-ii/solution/dan-ci-sou-suo-ii-by-leetcode-solution-7494/
 
 [S313]:https://leetcode-cn.com/problems/super-ugly-number/solution/chao-ji-chou-shu-by-leetcode-solution-uzff/
 

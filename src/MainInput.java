@@ -145,6 +145,9 @@ public class MainInput {
             case 43:
                 run43();
                 break;
+            case 44:
+                run44();
+                break;
             case 68:
                 run68();
                 break;
@@ -641,6 +644,13 @@ public class MainInput {
         String num1 = "2", num2 = "3";
         S43 run = new S43();
         String result = run.multiply(num1, num2);
+        print(result);
+    }
+
+    static void run44() {
+        String s = "aa", p = "a";
+        S44 run = new S44();
+        boolean result = run.isMatch(s, p);
         print(result);
     }
 

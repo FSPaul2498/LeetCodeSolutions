@@ -54,6 +54,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #41     | 缺失的第一个正数                           | 困难 | 2021-09-09 | [力扣][P41]     |                                                              |
 | #42     | 接雨水                                     | 困难 | 2021-09-10 | [力扣][P42]     |                                                              |
 | #43     | 字符串相乘                                 | 中等 | 2021-09-12 | [力扣][P43]     |                                                              |
+| #44     | 通配符匹配                                 | 困难 | 2021-09-17 | [力扣][P44]     | 本题有参考官方Java题解代码<br>[【通配符匹配】][S44]          |
 | #68     | 文本左右对齐                               | 困难 | 2021-09-09 | [力扣][P68]     |                                                              |
 | #162    | 寻找峰值                                   | 中等 | 2021-09-15 | [力扣][P162]    |                                                              |
 | #165    | 比较版本号                                 | 中等 | 2021-09-01 | [力扣][P165]    |                                                              |
@@ -189,6 +190,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P43]:https://leetcode-cn.com/problems/multiply-strings/
 
+[P44]:https://leetcode-cn.com/problems/wildcard-matching/
+
 [P68]:https://leetcode-cn.com/problems/text-justification/
 
 [P162]:https://leetcode-cn.com/problems/find-peak-element/
@@ -290,6 +293,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S28]:https://leetcode-cn.com/problems/implement-strstr/solution/shua-chuan-lc-shuang-bai-po-su-jie-fa-km-tb86/
 
 [S29]:https://leetcode-cn.com/problems/divide-two-integers/solution/bu-shi-yong-longde-javajie-fa-by-fspaul-yca3/
+
+[S44]:https://leetcode-cn.com/problems/wildcard-matching/solution/tong-pei-fu-pi-pei-by-leetcode-solution/
 
 [S212]:https://leetcode-cn.com/problems/word-search-ii/solution/dan-ci-sou-suo-ii-by-leetcode-solution-7494/
 

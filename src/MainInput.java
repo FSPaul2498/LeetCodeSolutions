@@ -166,6 +166,9 @@ public class MainInput {
             case 233:
                 run233();
                 break;
+            case 292:
+                run292();
+                break;
             case 295:
                 run295();
                 break;
@@ -696,6 +699,13 @@ public class MainInput {
         int n = 13;
         S233 run = new S233();
         int result = run.countDigitOne(n);
+        print(result);
+    }
+
+    static void run292() {
+        int n = 4;
+        S292 run = new S292();
+        boolean result = run.canWinNim(n);
         print(result);
     }
 

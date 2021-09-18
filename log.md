@@ -61,6 +61,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #206    | 反转链表                                   | 简单 | 2021-08-21 | [力扣][P206]    |                                                              |
 | #212    | 单词搜索 II                                | 困难 | 2021-09-16 | [力扣][P212]    | 本题有参考官方Java题解代码<br>[【单词搜索 II】][S212]        |
 | #233    | 数字 1 的个数                              | 困难 | 2021-08-13 | [力扣][P233]    |                                                              |
+| #292    | Nim 游戏                                   | 简单 | 2021-09-18 | [力扣][P292]    |                                                              |
 | #295    | 数据流的中位数                             | 困难 | 2021-08-27 | [力扣][P295]    |                                                              |
 | #313    | 超级丑数                                   | 中等 | 2021-08-09 | [力扣][P313]    | 本题有参考官方Java题解代码<br>[【超级丑数】][S313]           |
 | #345    | 反转字符串中的元音字母                     | 简单 | 2021-08-19 | [力扣][P345]    |                                                              |
@@ -203,6 +204,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P212]:https://leetcode-cn.com/problems/word-search-ii/
 
 [P233]:https://leetcode-cn.com/problems/number-of-digit-one/
+
+[P292]:https://leetcode-cn.com/problems/nim-game/
 
 [P295]:https://leetcode-cn.com/problems/find-median-from-data-stream/
 

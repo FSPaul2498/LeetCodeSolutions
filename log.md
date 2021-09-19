@@ -83,6 +83,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #581    | 最短无序连续子数组                         | 中等 | 2021-08-03 | [力扣][P581]    |                                                              |
 | #600    | 不含连续1的非负整数                        | 困难 | 2021-09-11 | [力扣][P600]    |                                                              |
 | #611    | 有效三角形的个数                           | 中等 | 2021-08-04 | [力扣][P611]    |                                                              |
+| #650    | 只有两个键的键盘                           | 中等 | 2021-09-19 | [力扣][P650]    |                                                              |
 | #678    | 有效的括号字符串                           | 中等 | 2021-09-12 | [力扣][P678]    |                                                              |
 | #704    | 二分查找                                   | 简单 | 2021-09-06 | [力扣][P704]    |                                                              |
 | #743    | 网络延迟时间                               | 中等 | 2021-08-02 | [力扣][P743]    |                                                              |
@@ -248,6 +249,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P600]:https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/
 
 [P611]:https://leetcode-cn.com/problems/valid-triangle-number/
+
+[P650]:https://leetcode-cn.com/problems/2-keys-keyboard/
 
 [P678]:https://leetcode-cn.com/problems/valid-parenthesis-string/
 

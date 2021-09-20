@@ -235,6 +235,9 @@ public class MainInput {
             case 650:
                 run650();
                 break;
+            case 673:
+                run673();
+                break;
             case 678:
                 run678();
                 break;
@@ -874,6 +877,13 @@ public class MainInput {
         int n = 3;
         S650 run = new S650();
         int result = run.minSteps(n);
+        print(result);
+    }
+
+    static void run673() {
+        int[] nums = {1, 3, 5, 4, 7};
+        S673 run = new S673();
+        int result = run.findNumberOfLIS(nums);
         print(result);
     }
 

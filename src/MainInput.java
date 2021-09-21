@@ -148,6 +148,9 @@ public class MainInput {
             case 44:
                 run44();
                 break;
+            case 58:
+                run58();
+                break;
             case 68:
                 run68();
                 break;
@@ -660,6 +663,13 @@ public class MainInput {
         String s = "aa", p = "a";
         S44 run = new S44();
         boolean result = run.isMatch(s, p);
+        print(result);
+    }
+
+    static void run58() {
+        String s = "Hello World";
+        S58 run = new S58();
+        int result = run.lengthOfLastWord(s);
         print(result);
     }
 

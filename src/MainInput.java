@@ -247,6 +247,9 @@ public class MainInput {
             case 704:
                 run704();
                 break;
+            case 725:
+                run725();
+                break;
             case 743:
                 run743();
                 break;
@@ -912,6 +915,15 @@ public class MainInput {
         print(result);
     }
 
+    static void run725() {
+        int[] nums = {1, 2, 3};
+        int k = 5;
+        ListNode head = ListNode.makeList(nums);
+        S725 run = new S725();
+        ListNode[] result = run.splitListToParts(head, k);
+        print(result);
+    }
+
     static void run743() {
         int[][] times = {{2, 1, 1}, {2, 3, 1}, {3, 4, 1}};
         int n = 4, k = 2;
@@ -1096,5 +1108,13 @@ public class MainInput {
 
     static void print(ListNode head) {
         for (ListNode now = head; now != null; now = now.next) System.out.print(now.val + " ");
+    }
+
+    static void print(ListNode[] input) {
+        for (ListNode now : input) {
+            System.out.print("[ ");
+            print(now);
+            System.out.println("]");
+        }
     }
 }

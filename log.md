@@ -65,6 +65,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #292    | Nim 游戏                                   | 简单 | 2021-09-18 | [力扣][P292]    |                                                              |
 | #295    | 数据流的中位数                             | 困难 | 2021-08-27 | [力扣][P295]    |                                                              |
 | #313    | 超级丑数                                   | 中等 | 2021-08-09 | [力扣][P313]    | 本题有参考官方Java题解代码<br>[【超级丑数】][S313]           |
+| #326    | 3的幂                                      | 简单 | 2021-09-23 | [力扣][P326]    |                                                              |
 | #345    | 反转字符串中的元音字母                     | 简单 | 2021-08-19 | [力扣][P345]    |                                                              |
 | #413    | 等差数列划分                               | 中等 | 2021-08-10 | [力扣][P413]    |                                                              |
 | #443    | 压缩字符串                                 | 中等 | 2021-08-21 | [力扣][P443]    |                                                              |
@@ -216,6 +217,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P295]:https://leetcode-cn.com/problems/find-median-from-data-stream/
 
 [P313]:https://leetcode-cn.com/problems/super-ugly-number/
+
+[P326]:https://leetcode-cn.com/problems/power-of-three/
 
 [P345]:https://leetcode-cn.com/problems/reverse-vowels-of-a-string/
 

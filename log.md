@@ -68,6 +68,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #326    | 3的幂                                      | 简单 | 2021-09-23 | [力扣][P326]    |                                                              |
 | #345    | 反转字符串中的元音字母                     | 简单 | 2021-08-19 | [力扣][P345]    |                                                              |
 | #413    | 等差数列划分                               | 中等 | 2021-08-10 | [力扣][P413]    |                                                              |
+| #430    | 扁平化多级双向链表                         | 中等 | 2021-09-24 | [力扣][P430]    |                                                              |
 | #443    | 压缩字符串                                 | 中等 | 2021-08-21 | [力扣][P443]    |                                                              |
 | #446    | 等差数列划分 II - 子序列                   | 困难 | 2021-08-11 | [力扣][P446]    | 本题有参考官方Java题解代码<br>[【等差数列划分 II - 子序列】][S446] |
 | #447    | 回旋镖的数量                               | 中等 | 2021-09-13 | [力扣][P447]    |                                                              |
@@ -223,6 +224,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P345]:https://leetcode-cn.com/problems/reverse-vowels-of-a-string/
 
 [P413]:https://leetcode-cn.com/problems/arithmetic-slices/
+
+[P430]:https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
 
 [P443]:https://leetcode-cn.com/problems/string-compression/
 

@@ -187,6 +187,9 @@ public class MainInput {
             case 413:
                 run413();
                 break;
+            case 430:
+                run430();
+                break;
             case 443:
                 run443();
                 break;
@@ -767,6 +770,13 @@ public class MainInput {
         S413 run = new S413();
         int result = run.numberOfArithmeticSlices(nums);
         print(result);
+    }
+
+    static void run430() {
+        // Test Env Sample Not Ready
+        S430 run = new S430();
+        Node result = run.flatten(new Node(0));
+        print("Test Env Sample Not Ready");
     }
 
     static void run443() {

@@ -184,6 +184,9 @@ public class MainInput {
             case 345:
                 run345();
                 break;
+            case 371:
+                run371();
+                break;
             case 413:
                 run413();
                 break;
@@ -765,6 +768,13 @@ public class MainInput {
         String s = "hello";
         S345 run = new S345();
         String result = run.reverseVowels(s);
+        print(result);
+    }
+
+    static void run371() {
+        int a = 1, b = 2;
+        S371 run = new S371();
+        int result = run.getSum(a, b);
         print(result);
     }
 

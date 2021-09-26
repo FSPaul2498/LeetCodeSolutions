@@ -67,6 +67,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #313    | 超级丑数                                   | 中等 | 2021-08-09 | [力扣][P313]    | 本题有参考官方Java题解代码<br>[【超级丑数】][S313]           |
 | #326    | 3的幂                                      | 简单 | 2021-09-23 | [力扣][P326]    |                                                              |
 | #345    | 反转字符串中的元音字母                     | 简单 | 2021-08-19 | [力扣][P345]    |                                                              |
+| #371    | 两整数之和                                 | 中等 | 2021-09-26 | [力扣][P371]    |                                                              |
 | #413    | 等差数列划分                               | 中等 | 2021-08-10 | [力扣][P413]    |                                                              |
 | #430    | 扁平化多级双向链表                         | 中等 | 2021-09-24 | [力扣][P430]    |                                                              |
 | #443    | 压缩字符串                                 | 中等 | 2021-08-21 | [力扣][P443]    |                                                              |
@@ -84,7 +85,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #552    | 学生出勤记录 II                            | 困难 | 2021-08-18 | [力扣][P552]    | 本题有参考官方Java题解代码<br>[【学生出勤记录 II】][S552]    |
 | #576    | 出界的路径数                               | 中等 | 2021-08-15 | [力扣][P576]    |                                                              |
 | #581    | 最短无序连续子数组                         | 中等 | 2021-08-03 | [力扣][P581]    |                                                              |
-| #583    | 两个字符串的删除操作                       | 中等 | 2021-09-26 | [力扣][P583]    | 本题有参考官方Java题解代码<br>[【两个字符串的删除操作】][S583]   |
+| #583    | 两个字符串的删除操作                       | 中等 | 2021-09-25 | [力扣][P583]    | 本题有参考官方Java题解代码<br>[【两个字符串的删除操作】][S583]   |
 | #600    | 不含连续1的非负整数                        | 困难 | 2021-09-11 | [力扣][P600]    |                                                              |
 | #611    | 有效三角形的个数                           | 中等 | 2021-08-04 | [力扣][P611]    |                                                              |
 | #650    | 只有两个键的键盘                           | 中等 | 2021-09-19 | [力扣][P650]    |                                                              |
@@ -223,6 +224,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P326]:https://leetcode-cn.com/problems/power-of-three/
 
 [P345]:https://leetcode-cn.com/problems/reverse-vowels-of-a-string/
+
+[P371]:https://leetcode-cn.com/problems/sum-of-two-integers/
 
 [P413]:https://leetcode-cn.com/problems/arithmetic-slices/
 

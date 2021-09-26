@@ -84,6 +84,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #552    | 学生出勤记录 II                            | 困难 | 2021-08-18 | [力扣][P552]    | 本题有参考官方Java题解代码<br>[【学生出勤记录 II】][S552]    |
 | #576    | 出界的路径数                               | 中等 | 2021-08-15 | [力扣][P576]    |                                                              |
 | #581    | 最短无序连续子数组                         | 中等 | 2021-08-03 | [力扣][P581]    |                                                              |
+| #583    | 两个字符串的删除操作                       | 中等 | 2021-09-26 | [力扣][P583]    | 本题有参考官方Java题解代码<br>[【两个字符串的删除操作】][S583]   |
 | #600    | 不含连续1的非负整数                        | 困难 | 2021-09-11 | [力扣][P600]    |                                                              |
 | #611    | 有效三角形的个数                           | 中等 | 2021-08-04 | [力扣][P611]    |                                                              |
 | #650    | 只有两个键的键盘                           | 中等 | 2021-09-19 | [力扣][P650]    |                                                              |
@@ -257,6 +258,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P581]:https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
 
+[P583]:https://leetcode-cn.com/problems/delete-operation-for-two-strings/
+
 [P600]:https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/
 
 [P611]:https://leetcode-cn.com/problems/valid-triangle-number/
@@ -326,6 +329,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S526]:https://leetcode-cn.com/problems/beautiful-arrangement/solution/you-mei-de-pai-lie-by-leetcode-solution-vea2/
 
 [S552]:https://leetcode-cn.com/problems/student-attendance-record-ii/solution/xue-sheng-chu-qin-ji-lu-ii-by-leetcode-s-kdlm/
+
+[S583]:https://leetcode-cn.com/problems/delete-operation-for-two-strings/solution/liang-ge-zi-fu-chuan-de-shan-chu-cao-zuo-14uw/
 
 [S673]:https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/solution/zui-chang-di-zeng-zi-xu-lie-de-ge-shu-by-w12f/
 

@@ -235,6 +235,9 @@ public class MainInput {
             case 581:
                 run581();
                 break;
+            case 583:
+                run583();
+                break;
             case 600:
                 run600();
                 break;
@@ -889,6 +892,13 @@ public class MainInput {
         int[] nums = {2, 6, 4, 8, 10, 9, 15};
         S581 run = new S581();
         int result = run.findUnsortedSubarray(nums);
+        print(result);
+    }
+
+    static void run583() {
+        String word1 = "sea", word2 = "eat";
+        S583 run = new S583();
+        int result = run.minDistance(word1, word2);
         print(result);
     }
 

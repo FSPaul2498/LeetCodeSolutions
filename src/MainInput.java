@@ -247,6 +247,9 @@ public class MainInput {
             case 611:
                 run611();
                 break;
+            case 639:
+                run639();
+                break;
             case 650:
                 run650();
                 break;
@@ -923,6 +926,13 @@ public class MainInput {
         int[] nums = {2, 2, 3, 4};
         S611 run = new S611();
         int result = run.triangleNumber(nums);
+        print(result);
+    }
+
+    static void run639() {
+        String s = "*";
+        S639 run = new S639();
+        int result = run.numDecodings(s);
         print(result);
     }
 

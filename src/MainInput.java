@@ -193,6 +193,9 @@ public class MainInput {
             case 430:
                 run430();
                 break;
+            case 437:
+                run437();
+                break;
             case 443:
                 run443();
                 break;
@@ -793,6 +796,15 @@ public class MainInput {
         S430 run = new S430();
         Node result = run.flatten(new Node(0));
         print("Test Env Sample Not Ready");
+    }
+
+    static void run437() {
+        String line = "[10,5,-3,3,2,null,11,3,-2,null,1]";
+        int targetSum = 8;
+        S437 run = new S437();
+        TreeNode root = TreeNode.stringToTreeNode(line);
+        int result = run.pathSum(root, targetSum);
+        print(result);
     }
 
     static void run443() {

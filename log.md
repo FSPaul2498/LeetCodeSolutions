@@ -70,6 +70,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #371    | 两整数之和                                 | 中等 | 2021-09-26 | [力扣][P371]    |                                                              |
 | #413    | 等差数列划分                               | 中等 | 2021-08-10 | [力扣][P413]    |                                                              |
 | #430    | 扁平化多级双向链表                         | 中等 | 2021-09-24 | [力扣][P430]    |                                                              |
+| #437    | 路径总和 III                               | 中等 | 2021-09-28 | [力扣][P437]    | 本题有参考官方Java题解代码<br>[【路径总和 III】][S437]       |
 | #443    | 压缩字符串                                 | 中等 | 2021-08-21 | [力扣][P443]    |                                                              |
 | #446    | 等差数列划分 II - 子序列                   | 困难 | 2021-08-11 | [力扣][P446]    | 本题有参考官方Java题解代码<br>[【等差数列划分 II - 子序列】][S446] |
 | #447    | 回旋镖的数量                               | 中等 | 2021-09-13 | [力扣][P447]    |                                                              |
@@ -232,6 +233,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P430]:https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
 
+[P437]:https://leetcode-cn.com/problems/path-sum-iii/
+
 [P443]:https://leetcode-cn.com/problems/string-compression/
 
 [P446]:https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/
@@ -329,6 +332,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S212]:https://leetcode-cn.com/problems/word-search-ii/solution/dan-ci-sou-suo-ii-by-leetcode-solution-7494/
 
 [S313]:https://leetcode-cn.com/problems/super-ugly-number/solution/chao-ji-chou-shu-by-leetcode-solution-uzff/
+
+[S437]:https://leetcode-cn.com/problems/path-sum-iii/solution/lu-jing-zong-he-iii-by-leetcode-solution-z9td/
 
 [S446]:https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/solution/deng-chai-shu-lie-hua-fen-ii-zi-xu-lie-b-77pl/
 

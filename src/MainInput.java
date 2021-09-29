@@ -217,6 +217,9 @@ public class MainInput {
             case 516:
                 run516();
                 break;
+            case 517:
+                run517();
+                break;
             case 524:
                 run524();
                 break;
@@ -856,6 +859,13 @@ public class MainInput {
         String s = "bbbab";
         S516 run = new S516();
         int result = run.longestPalindromeSubseq(s);
+        print(result);
+    }
+
+    static void run517() {
+        int[] machines = {1, 0, 5};
+        S517 run = new S517();
+        int result = run.findMinMoves(machines);
         print(result);
     }
 

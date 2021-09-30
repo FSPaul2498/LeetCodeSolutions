@@ -61,6 +61,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #165    | 比较版本号                                 | 中等 | 2021-09-01 | [力扣][P165]    |                                                              |
 | #206    | 反转链表                                   | 简单 | 2021-08-21 | [力扣][P206]    |                                                              |
 | #212    | 单词搜索 II                                | 困难 | 2021-09-16 | [力扣][P212]    | 本题有参考官方Java题解代码<br>[【单词搜索 II】][S212]        |
+| #223    | 矩形面积                                   | 中等 | 2021-09-30 | [力扣][P223]    |                                                              |
 | #233    | 数字 1 的个数                              | 困难 | 2021-08-13 | [力扣][P233]    |                                                              |
 | #292    | Nim 游戏                                   | 简单 | 2021-09-18 | [力扣][P292]    |                                                              |
 | #295    | 数据流的中位数                             | 困难 | 2021-08-27 | [力扣][P295]    |                                                              |
@@ -215,6 +216,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P206]:https://leetcode-cn.com/problems/reverse-linked-list/
 
 [P212]:https://leetcode-cn.com/problems/word-search-ii/
+
+[P223]:https://leetcode-cn.com/problems/rectangle-area/
 
 [P233]:https://leetcode-cn.com/problems/number-of-digit-one/
 

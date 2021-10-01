@@ -108,6 +108,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1137   | 第 N 个泰波那契数                          | 简单 | 2021-08-08 | [力扣][P1137]   |                                                              |
 | #1221   | 分割平衡字符串                             | 简单 | 2021-09-07 | [力扣][P1221]   |                                                              |
 | #1337   | 矩阵中战斗力最弱的 K 行                    | 简单 | 2021-08-01 | [力扣][P1337]   |                                                              |
+| #1436   | 旅行终点站                                 | 简单 | 2021-10-01 | [力扣][P1436]   |                                                              |
 | #1480   | 一维数组的动态和                           | 简单 | 2021-08-28 | [力扣][P1480]   |                                                              |
 | #1583   | 统计不开心的朋友                           | 中等 | 2021-08-14 | [力扣][P1583]   |                                                              |
 | #1588   | 所有奇数长度子数组的和                     | 简单 | 2021-08-29 | [力扣][P1588]   | 本题有参考社区Java题解代码<br/>[【宫水三叶】一题双解 :「前缀和」&「数学」][S1588] |
@@ -310,6 +311,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1221]:https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/
 
 [P1337]:https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/
+
+[P1436]:https://leetcode-cn.com/problems/destination-city/
 
 [P1480]:https://leetcode-cn.com/problems/running-sum-of-1d-array/
 

@@ -307,6 +307,9 @@ public class MainInput {
             case 1337:
                 run1337();
                 break;
+            case 1436:
+                run1436();
+                break;
             case 1480:
                 run1480();
                 break;
@@ -1091,6 +1094,14 @@ public class MainInput {
         S1337 run = new S1337();
         int[] result = run.kWeakestRows(mat, k);
         print(result);
+    }
+
+    static void run1436() {
+        // Test Env Sample Not Ready
+        List<List<String>> paths = new ArrayList<>();
+        S1436 run = new S1436();
+        String result = run.destCity(paths);
+        print("Test Env Sample Not Ready");
     }
 
     static void run1480() {

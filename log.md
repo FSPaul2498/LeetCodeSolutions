@@ -59,6 +59,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #68     | 文本左右对齐                               | 困难 | 2021-09-09 | [力扣][P68]     |                                                              |
 | #162    | 寻找峰值                                   | 中等 | 2021-09-15 | [力扣][P162]    |                                                              |
 | #165    | 比较版本号                                 | 中等 | 2021-09-01 | [力扣][P165]    |                                                              |
+| #166    | 分数到小数                                 | 中等 | 2021-10-03 | [力扣][P166]    |                                                              |
 | #206    | 反转链表                                   | 简单 | 2021-08-21 | [力扣][P206]    |                                                              |
 | #212    | 单词搜索 II                                | 困难 | 2021-09-16 | [力扣][P212]    | 本题有参考官方Java题解代码<br>[【单词搜索 II】][S212]        |
 | #223    | 矩形面积                                   | 中等 | 2021-09-30 | [力扣][P223]    |                                                              |
@@ -214,6 +215,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P162]:https://leetcode-cn.com/problems/find-peak-element/
 
 [P165]:https://leetcode-cn.com/problems/compare-version-numbers/
+
+[P166]:https://leetcode-cn.com/problems/fraction-to-recurring-decimal/
 
 [P206]:https://leetcode-cn.com/problems/reverse-linked-list/
 

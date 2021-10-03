@@ -160,6 +160,9 @@ public class MainInput {
             case 165:
                 run165();
                 break;
+            case 166:
+                run166();
+                break;
             case 206:
                 run206();
                 break;
@@ -725,6 +728,13 @@ public class MainInput {
         String version1 = "1.01", version2 = "1.001";
         S165 run = new S165();
         int result = run.compareVersion(version1, version2);
+        print(result);
+    }
+
+    static void run166() {
+        int numerator = 1, denominator = 2;
+        S166 run = new S166();
+        String result = run.fractionToDecimal(numerator, denominator);
         print(result);
     }
 

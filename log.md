@@ -79,6 +79,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #447    | 回旋镖的数量                               | 中等 | 2021-09-13 | [力扣][P447]    |                                                              |
 | #457    | 环形数组是否存在循环                       | 中等 | 2021-08-07 | [力扣][P457]    |                                                              |
 | #470    | 用 Rand7() 实现 Rand10()                   | 中等 | 2021-09-05 | [力扣][P470]    |                                                              |
+| #482    | 密钥格式化                                 | 简单 | 2021-10-04 | [力扣][P482]    |                                                              |
 | #502    | IPO                                        | 困难 | 2021-09-08 | [力扣][P502]    |                                                              |
 | #516    | 最长回文子序列                             | 中等 | 2021-08-12 | [力扣][P516]    |                                                              |
 | #517    | 超级洗衣机                                 | 困难 | 2021-09-29 | [力扣][P517]    |                                                              |
@@ -255,6 +256,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P457]:https://leetcode-cn.com/problems/circular-array-loop/
 
 [P470]:https://leetcode-cn.com/problems/implement-rand10-using-rand7/
+
+[P482]:https://leetcode-cn.com/problems/license-key-formatting/
 
 [P502]:https://leetcode-cn.com/problems/ipo/
 

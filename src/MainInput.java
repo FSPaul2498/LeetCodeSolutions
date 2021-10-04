@@ -220,6 +220,9 @@ public class MainInput {
             case 470:
                 run470();
                 break;
+            case 482:
+                run482();
+                break;
             case 502:
                 run502();
                 break;
@@ -877,6 +880,14 @@ public class MainInput {
         int[] result = new int[10];
         for (int i = 0; i < 10000; i++)
             result[run.rand10() - 1]++;
+        print(result);
+    }
+
+    static void run482() {
+        String s = "5F3Z-2e-9-w";
+        int k = 4;
+        S482 run = new S482();
+        String result = run.licenseKeyFormatting(s, k);
         print(result);
     }
 

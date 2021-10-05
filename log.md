@@ -64,6 +64,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #212    | 单词搜索 II                                | 困难 | 2021-09-16 | [力扣][P212]    | 本题有参考官方Java题解代码<br>[【单词搜索 II】][S212]        |
 | #223    | 矩形面积                                   | 中等 | 2021-09-30 | [力扣][P223]    |                                                              |
 | #233    | 数字 1 的个数                              | 困难 | 2021-08-13 | [力扣][P233]    |                                                              |
+| #284    | 窥探迭代器                                 | 中等 | 2021-10-05 | [力扣][P284]    |                                                              |
 | #292    | Nim 游戏                                   | 简单 | 2021-09-18 | [力扣][P292]    |                                                              |
 | #295    | 数据流的中位数                             | 困难 | 2021-08-27 | [力扣][P295]    |                                                              |
 | #313    | 超级丑数                                   | 中等 | 2021-08-09 | [力扣][P313]    | 本题有参考官方Java题解代码<br>[【超级丑数】][S313]           |
@@ -226,6 +227,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P223]:https://leetcode-cn.com/problems/rectangle-area/
 
 [P233]:https://leetcode-cn.com/problems/number-of-digit-one/
+
+[P284]:https://leetcode-cn.com/problems/peeking-iterator/
 
 [P292]:https://leetcode-cn.com/problems/nim-game/
 

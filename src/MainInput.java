@@ -175,6 +175,9 @@ public class MainInput {
             case 233:
                 run233();
                 break;
+            case 284:
+                run284();
+                break;
             case 292:
                 run292();
                 break;
@@ -769,6 +772,19 @@ public class MainInput {
         S233 run = new S233();
         int result = run.countDigitOne(n);
         print(result);
+    }
+
+    static void run284() {
+        ArrayList<Integer> al = new ArrayList<>();
+        al.add(1);
+        al.add(2);
+        al.add(3);
+        PeekingIterator run = new PeekingIterator(al.iterator());
+        print(run.next());
+        print(run.peek());
+        print(run.next());
+        print(run.next());
+        print(run.hasNext());
     }
 
     static void run292() {

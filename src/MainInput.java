@@ -202,6 +202,9 @@ public class MainInput {
             case 413:
                 run413();
                 break;
+            case 414:
+                run414();
+                break;
             case 430:
                 run430();
                 break;
@@ -843,6 +846,13 @@ public class MainInput {
         int[] nums = {1, 2, 3, 4};
         S413 run = new S413();
         int result = run.numberOfArithmeticSlices(nums);
+        print(result);
+    }
+
+    static void run414() {
+        int[] nums = {3, 2, 1};
+        S414 run = new S414();
+        int result = run.thirdMax(nums);
         print(result);
     }
 

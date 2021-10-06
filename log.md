@@ -73,6 +73,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #371    | 两整数之和                                 | 中等 | 2021-09-26 | [力扣][P371]    |                                                              |
 | #405    | 数字转换为十六进制数                       | 简单 | 2021-10-02 | [力扣][P405]    |                                                              |
 | #413    | 等差数列划分                               | 中等 | 2021-08-10 | [力扣][P413]    |                                                              |
+| #414    | 第三大的数                                 | 简单 | 2021-10-06 | [力扣][P414]    |                                                              |
 | #430    | 扁平化多级双向链表                         | 中等 | 2021-09-24 | [力扣][P430]    |                                                              |
 | #437    | 路径总和 III                               | 中等 | 2021-09-28 | [力扣][P437]    | 本题有参考官方Java题解代码<br>[【路径总和 III】][S437]       |
 | #443    | 压缩字符串                                 | 中等 | 2021-08-21 | [力扣][P443]    |                                                              |
@@ -245,6 +246,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P405]:https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/
 
 [P413]:https://leetcode-cn.com/problems/arithmetic-slices/
+
+[P414]:https://leetcode-cn.com/problems/third-maximum-number/
 
 [P430]:https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
 

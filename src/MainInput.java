@@ -208,6 +208,9 @@ public class MainInput {
             case 430:
                 run430();
                 break;
+            case 434:
+                run434();
+                break;
             case 437:
                 run437();
                 break;
@@ -861,6 +864,13 @@ public class MainInput {
         S430 run = new S430();
         Node result = run.flatten(new Node(0));
         print("Test Env Sample Not Ready");
+    }
+
+    static void run434() {
+        String s = "Hello, my name is John";
+        S434 run = new S434();
+        int result = run.countSegments(s);
+        print(result);
     }
 
     static void run437() {

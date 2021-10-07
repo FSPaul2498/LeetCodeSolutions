@@ -75,6 +75,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #413    | 等差数列划分                               | 中等 | 2021-08-10 | [力扣][P413]    |                                                              |
 | #414    | 第三大的数                                 | 简单 | 2021-10-06 | [力扣][P414]    |                                                              |
 | #430    | 扁平化多级双向链表                         | 中等 | 2021-09-24 | [力扣][P430]    |                                                              |
+| #434    | 字符串中的单词数                           | 简单 | 2021-10-07 | [力扣][P434]    |                                                              |
 | #437    | 路径总和 III                               | 中等 | 2021-09-28 | [力扣][P437]    | 本题有参考官方Java题解代码<br>[【路径总和 III】][S437]       |
 | #443    | 压缩字符串                                 | 中等 | 2021-08-21 | [力扣][P443]    |                                                              |
 | #446    | 等差数列划分 II - 子序列                   | 困难 | 2021-08-11 | [力扣][P446]    | 本题有参考官方Java题解代码<br>[【等差数列划分 II - 子序列】][S446] |
@@ -250,6 +251,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P414]:https://leetcode-cn.com/problems/third-maximum-number/
 
 [P430]:https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
+
+[P434]:https://leetcode-cn.com/problems/number-of-segments-in-a-string/
 
 [P437]:https://leetcode-cn.com/problems/path-sum-iii/
 

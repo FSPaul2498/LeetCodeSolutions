@@ -163,6 +163,9 @@ public class MainInput {
             case 166:
                 run166();
                 break;
+            case 187:
+                run187();
+                break;
             case 206:
                 run206();
                 break;
@@ -747,6 +750,13 @@ public class MainInput {
         int numerator = 1, denominator = 2;
         S166 run = new S166();
         String result = run.fractionToDecimal(numerator, denominator);
+        print(result);
+    }
+
+    static void run187() {
+        String s = "AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT";
+        S187 run = new S187();
+        List<String> result = run.findRepeatedDnaSequences(s);
         print(result);
     }
 

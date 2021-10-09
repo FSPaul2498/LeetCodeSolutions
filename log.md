@@ -71,6 +71,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #313    | 超级丑数                                   | 中等 | 2021-08-09 | [力扣][P313]    | 本题有参考官方Java题解代码<br>[【超级丑数】][S313]           |
 | #326    | 3的幂                                      | 简单 | 2021-09-23 | [力扣][P326]    |                                                              |
 | #345    | 反转字符串中的元音字母                     | 简单 | 2021-08-19 | [力扣][P345]    |                                                              |
+| #352    | 将数据流变为多个不相交区间                 | 困难 | 2021-10-09 | [力扣][P352]    | 本题有参考官方Java题解代码<br>[【将数据流变为多个不相交区间】][S352] |
 | #371    | 两整数之和                                 | 中等 | 2021-09-26 | [力扣][P371]    |                                                              |
 | #405    | 数字转换为十六进制数                       | 简单 | 2021-10-02 | [力扣][P405]    |                                                              |
 | #413    | 等差数列划分                               | 中等 | 2021-08-10 | [力扣][P413]    |                                                              |
@@ -245,6 +246,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P345]:https://leetcode-cn.com/problems/reverse-vowels-of-a-string/
 
+[P352]:https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/
+
 [P371]:https://leetcode-cn.com/problems/sum-of-two-integers/
 
 [P405]:https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/
@@ -362,6 +365,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S212]:https://leetcode-cn.com/problems/word-search-ii/solution/dan-ci-sou-suo-ii-by-leetcode-solution-7494/
 
 [S313]:https://leetcode-cn.com/problems/super-ugly-number/solution/chao-ji-chou-shu-by-leetcode-solution-uzff/
+
+[S352]:https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/solution/jiang-shu-ju-liu-bian-wei-duo-ge-bu-xian-hm1r/
 
 [S437]:https://leetcode-cn.com/problems/path-sum-iii/solution/lu-jing-zong-he-iii-by-leetcode-solution-z9td/
 

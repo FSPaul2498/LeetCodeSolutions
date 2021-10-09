@@ -196,6 +196,9 @@ public class MainInput {
             case 345:
                 run345();
                 break;
+            case 352:
+                run352();
+                break;
             case 371:
                 run371();
                 break;
@@ -841,6 +844,20 @@ public class MainInput {
         print(result);
     }
 
+    static void run352() {
+        SummaryRanges run = new SummaryRanges();
+        run.addNum(1);
+        print(run.getIntervals());
+        run.addNum(3);
+        print(run.getIntervals());
+        run.addNum(7);
+        print(run.getIntervals());
+        run.addNum(2);
+        print(run.getIntervals());
+        run.addNum(6);
+        print(run.getIntervals());
+    }
+
     static void run371() {
         int a = 1, b = 2;
         S371 run = new S371();
@@ -1254,6 +1271,10 @@ public class MainInput {
 
     static void print(int[] input) {
         print(Arrays.toString(input));
+    }
+
+    static void print(int[][] input) {
+        for (int[] input2 : input) print(Arrays.toString(input2));
     }
 
     static void print(double input) {

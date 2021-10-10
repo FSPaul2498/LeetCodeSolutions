@@ -220,6 +220,9 @@ public class MainInput {
             case 437:
                 run437();
                 break;
+            case 441:
+                run441();
+                break;
             case 443:
                 run443();
                 break;
@@ -906,6 +909,13 @@ public class MainInput {
         S437 run = new S437();
         TreeNode root = TreeNode.stringToTreeNode(line);
         int result = run.pathSum(root, targetSum);
+        print(result);
+    }
+
+    static void run441() {
+        int n = 5;
+        S441 run = new S441();
+        int result = run.arrangeCoins(n);
         print(result);
     }
 

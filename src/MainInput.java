@@ -178,6 +178,9 @@ public class MainInput {
             case 233:
                 run233();
                 break;
+            case 273:
+                run273();
+                break;
             case 284:
                 run284();
                 break;
@@ -793,6 +796,13 @@ public class MainInput {
         int n = 13;
         S233 run = new S233();
         int result = run.countDigitOne(n);
+        print(result);
+    }
+
+    static void run273() {
+        int num = 123;
+        S273 run = new S273();
+        String result = run.numberToWords(num);
         print(result);
     }
 

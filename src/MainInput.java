@@ -148,6 +148,9 @@ public class MainInput {
             case 44:
                 run44();
                 break;
+            case 45:
+                run45();
+                break;
             case 58:
                 run58();
                 break;
@@ -723,6 +726,13 @@ public class MainInput {
         String s = "aa", p = "a";
         S44 run = new S44();
         boolean result = run.isMatch(s, p);
+        print(result);
+    }
+
+    static void run45() {
+        int[] nums = {2, 3, 1, 1, 4};
+        S45 run = new S45();
+        int result = run.jump(nums);
         print(result);
     }
 

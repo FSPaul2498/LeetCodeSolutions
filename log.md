@@ -76,6 +76,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #352    | 将数据流变为多个不相交区间                 | 困难 | 2021-10-09 | [力扣][P352]    | 本题有参考官方Java题解代码<br>[【将数据流变为多个不相交区间】][S352] |
 | #371    | 两整数之和                                 | 中等 | 2021-09-26 | [力扣][P371]    |                                                              |
 | #405    | 数字转换为十六进制数                       | 简单 | 2021-10-02 | [力扣][P405]    |                                                              |
+| #412    | Fizz Buzz                                  | 简单 | 2021-10-13 | [力扣][P412]    |                                                              |
 | #413    | 等差数列划分                               | 中等 | 2021-08-10 | [力扣][P413]    |                                                              |
 | #414    | 第三大的数                                 | 简单 | 2021-10-06 | [力扣][P414]    |                                                              |
 | #430    | 扁平化多级双向链表                         | 中等 | 2021-09-24 | [力扣][P430]    |                                                              |
@@ -258,6 +259,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P371]:https://leetcode-cn.com/problems/sum-of-two-integers/
 
 [P405]:https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/
+
+[P412]:https://leetcode-cn.com/problems/fizz-buzz/
 
 [P413]:https://leetcode-cn.com/problems/arithmetic-slices/
 

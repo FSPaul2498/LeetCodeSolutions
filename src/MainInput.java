@@ -211,6 +211,9 @@ public class MainInput {
             case 405:
                 run405();
                 break;
+            case 412:
+                run412();
+                break;
             case 413:
                 run413();
                 break;
@@ -892,6 +895,13 @@ public class MainInput {
         int num = 26;
         S405 run = new S405();
         String result = run.toHex(num);
+        print(result);
+    }
+
+    static void run412() {
+        int n = 15;
+        S412 run = new S412();
+        List<String> result = run.fizzBuzz(n);
         print(result);
     }
 

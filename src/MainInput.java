@@ -375,6 +375,9 @@ public class MainInput {
             case 20022:
                 runJZ22();
                 break;
+            case 21069:
+                runJZII69();
+                break;
             // 3XXXX for Interview Questions
             // 面试题 01.01 -> 30101 -> MS0101
             case 31714:
@@ -1289,6 +1292,13 @@ public class MainInput {
         ListNode head = ListNode.makeList(nums);
         SJZ22 run = new SJZ22();
         ListNode result = run.getKthFromEnd(head, k);
+        print(result);
+    }
+
+    static void runJZII69() {
+        int[] arr = {0, 1, 0};
+        SJZII69 run = new SJZII69();
+        int result = run.peakIndexInMountainArray(arr);
         print(result);
     }
 

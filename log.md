@@ -128,6 +128,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1894   | 找到需要补充粉笔的学生编号                 | 中等 | 2021-09-10 | [力扣][P1894]   |                                                              |
 | #JZ10   | 斐波那契数列                               | 简单 | 2021-09-04 | [力扣][PJZ10]   |                                                              |
 | #JZ22   | 链表中倒数第k个节点                        | 简单 | 2021-09-02 | [力扣][PJZ22]   |                                                              |
+| #JZII69 | 山峰数组的顶部                             | 简单 | 2021-10-14 | [力扣][PJZII69] |                                                              |
 | #MS1714 | 最小K个数                                  | 中等 | 2021-09-03 | [力扣][PMS1714] |                                                              |
 
 [P1]:https://leetcode-cn.com/problems/two-sum/
@@ -363,6 +364,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [PJZ10]:https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/
 
 [PJZ22]:https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
+
+[PJZII69]:https://leetcode-cn.com/problems/B1IidL/
 
 [PMS1714]:https://leetcode-cn.com/problems/smallest-k-lcci/
 

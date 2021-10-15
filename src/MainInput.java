@@ -151,6 +151,9 @@ public class MainInput {
             case 45:
                 run45();
                 break;
+            case 46:
+                run46();
+                break;
             case 58:
                 run58();
                 break;
@@ -739,6 +742,13 @@ public class MainInput {
         int[] nums = {2, 3, 1, 1, 4};
         S45 run = new S45();
         int result = run.jump(nums);
+        print(result);
+    }
+
+    static void run46() {
+        int[] nums = {1, 2, 3};
+        S46 run = new S46();
+        List<List<Integer>> result = run.permute(nums);
         print(result);
     }
 

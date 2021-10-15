@@ -56,6 +56,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #43     | 字符串相乘                                 | 中等 | 2021-09-12 | [力扣][P43]     |                                                              |
 | #44     | 通配符匹配                                 | 困难 | 2021-09-17 | [力扣][P44]     | 本题有参考官方Java题解代码<br>[【通配符匹配】][S44]          |
 | #45     | 跳跃游戏 II                                | 中等 | 2021-10-12 | [力扣][P45]     |                                                              |
+| #46     | 全排列                                     | 中等 | 2021-10-15 | [力扣][P46]     |                                                              |
 | #58     | 最后一个单词的长度                         | 简单 | 2021-09-21 | [力扣][P58]     |                                                              |
 | #68     | 文本左右对齐                               | 困难 | 2021-09-09 | [力扣][P68]     |                                                              |
 | #162    | 寻找峰值                                   | 中等 | 2021-09-15 | [力扣][P162]    |                                                              |
@@ -220,6 +221,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P44]:https://leetcode-cn.com/problems/wildcard-matching/
 
 [P45]:https://leetcode-cn.com/problems/jump-game-ii/
+
+[P46]:https://leetcode-cn.com/problems/permutations/
 
 [P58]:https://leetcode-cn.com/problems/length-of-last-word/
 

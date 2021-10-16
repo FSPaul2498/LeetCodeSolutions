@@ -187,6 +187,9 @@ public class MainInput {
             case 273:
                 run273();
                 break;
+            case 282:
+                run282();
+                break;
             case 284:
                 run284();
                 break;
@@ -829,6 +832,14 @@ public class MainInput {
         int num = 123;
         S273 run = new S273();
         String result = run.numberToWords(num);
+        print(result);
+    }
+
+    static void run282() {
+        String num = "123";
+        int target = 6;
+        S282 run = new S282();
+        List<String> result = run.addOperators(num, target);
         print(result);
     }
 

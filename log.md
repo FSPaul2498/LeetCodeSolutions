@@ -68,6 +68,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #223    | 矩形面积                                   | 中等 | 2021-09-30 | [力扣][P223]    |                                                              |
 | #233    | 数字 1 的个数                              | 困难 | 2021-08-13 | [力扣][P233]    |                                                              |
 | #273    | 整数转换英文表示                           | 困难 | 2021-10-11 | [力扣][P273]    |                                                              |
+| #282    | 给表达式添加运算符                         | 困难 | 2021-10-16 | [力扣][P282]    | 本题有参考官方Java题解代码<br>[【给表达式添加运算符】][S282] |
 | #284    | 窥探迭代器                                 | 中等 | 2021-10-05 | [力扣][P284]    |                                                              |
 | #292    | Nim 游戏                                   | 简单 | 2021-09-18 | [力扣][P292]    |                                                              |
 | #295    | 数据流的中位数                             | 困难 | 2021-08-27 | [力扣][P295]    |                                                              |
@@ -246,6 +247,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P273]:https://leetcode-cn.com/problems/integer-to-english-words/
 
+[P282]:https://leetcode-cn.com/problems/expression-add-operators/
+
 [P284]:https://leetcode-cn.com/problems/peeking-iterator/
 
 [P292]:https://leetcode-cn.com/problems/nim-game/
@@ -381,6 +384,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S44]:https://leetcode-cn.com/problems/wildcard-matching/solution/tong-pei-fu-pi-pei-by-leetcode-solution/
 
 [S212]:https://leetcode-cn.com/problems/word-search-ii/solution/dan-ci-sou-suo-ii-by-leetcode-solution-7494/
+
+[S282]:https://leetcode-cn.com/problems/expression-add-operators/solution/gei-biao-da-shi-tian-jia-yun-suan-fu-by-2o1s7/
 
 [S313]:https://leetcode-cn.com/problems/super-ugly-number/solution/chao-ji-chou-shu-by-leetcode-solution-uzff/
 

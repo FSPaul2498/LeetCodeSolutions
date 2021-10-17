@@ -181,6 +181,9 @@ public class MainInput {
             case 223:
                 run223();
                 break;
+            case 230:
+                run230();
+                break;
             case 233:
                 run233();
                 break;
@@ -818,6 +821,15 @@ public class MainInput {
         int ax1 = -3, ay1 = 0, ax2 = 3, ay2 = 4, bx1 = 0, by1 = -1, bx2 = 9, by2 = 2;
         S223 run = new S223();
         int result = run.computeArea(ax1, ay1, ax2, ay2, bx1, by1, bx2, by2);
+        print(result);
+    }
+
+    static void run230() {
+        String line = "[3,1,4,null,2]";
+        int k = 1;
+        S230 run = new S230();
+        TreeNode root = TreeNode.stringToTreeNode(line);
+        int result = run.kthSmallest(root, k);
         print(result);
     }
 

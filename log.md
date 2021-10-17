@@ -66,6 +66,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #206    | 反转链表                                   | 简单 | 2021-08-21 | [力扣][P206]    |                                                              |
 | #212    | 单词搜索 II                                | 困难 | 2021-09-16 | [力扣][P212]    | 本题有参考官方Java题解代码<br>[【单词搜索 II】][S212]        |
 | #223    | 矩形面积                                   | 中等 | 2021-09-30 | [力扣][P223]    |                                                              |
+| #230    | 二叉搜索树中第K小的元素                    | 中等 | 2021-10-17 | [力扣][P230]    | 本题有参考官方Java题解代码<br>[【二叉搜索树中第K小的元素】][S230] |
 | #233    | 数字 1 的个数                              | 困难 | 2021-08-13 | [力扣][P233]    |                                                              |
 | #273    | 整数转换英文表示                           | 困难 | 2021-10-11 | [力扣][P273]    |                                                              |
 | #282    | 给表达式添加运算符                         | 困难 | 2021-10-16 | [力扣][P282]    | 本题有参考官方Java题解代码<br>[【给表达式添加运算符】][S282] |
@@ -243,6 +244,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P223]:https://leetcode-cn.com/problems/rectangle-area/
 
+[P230]:https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/
+
 [P233]:https://leetcode-cn.com/problems/number-of-digit-one/
 
 [P273]:https://leetcode-cn.com/problems/integer-to-english-words/
@@ -384,6 +387,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S44]:https://leetcode-cn.com/problems/wildcard-matching/solution/tong-pei-fu-pi-pei-by-leetcode-solution/
 
 [S212]:https://leetcode-cn.com/problems/word-search-ii/solution/dan-ci-sou-suo-ii-by-leetcode-solution-7494/
+
+[S230]:https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/solution/er-cha-sou-suo-shu-zhong-di-kxiao-de-yua-8o07/
 
 [S282]:https://leetcode-cn.com/problems/expression-add-operators/solution/gei-biao-da-shi-tian-jia-yun-suan-fu-by-2o1s7/
 

@@ -256,6 +256,9 @@ public class MainInput {
             case 470:
                 run470();
                 break;
+            case 476:
+                run476();
+                break;
             case 482:
                 run482();
                 break;
@@ -1019,6 +1022,13 @@ public class MainInput {
         int[] result = new int[10];
         for (int i = 0; i < 10000; i++)
             result[run.rand10() - 1]++;
+        print(result);
+    }
+
+    static void run476() {
+        int num = 5;
+        S476 run = new S476();
+        int result = run.findComplement(num);
         print(result);
     }
 

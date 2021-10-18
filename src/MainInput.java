@@ -343,6 +343,9 @@ public class MainInput {
             case 881:
                 run881();
                 break;
+            case 1009:
+                run1009();
+                break;
             case 1109:
                 run1109();
                 break;
@@ -1239,6 +1242,13 @@ public class MainInput {
         int limit = 3;
         S881 run = new S881();
         int result = run.numRescueBoats(people, limit);
+        print(result);
+    }
+
+    static void run1009() {
+        int n = 5;
+        S1009 run = new S1009();
+        int result = run.bitwiseComplement(n);
         print(result);
     }
 

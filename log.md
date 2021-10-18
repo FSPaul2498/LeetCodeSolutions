@@ -120,6 +120,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #802    | 找到最终的安全状态                         | 中等 | 2021-08-05 | [力扣][P802]    |                                                              |
 | #847    | 访问所有节点的最短路径                     | 困难 | 2021-08-06 | [力扣][P847]    | 本题有参考官方Java题解代码<br>[【访问所有节点的最短路径】][S847] |
 | #881    | 救生艇                                     | 中等 | 2021-08-26 | [力扣][P881]    |                                                              |
+| #1009   | 十进制整数的反码                           | 简单 | 2021-10-18 | [力扣][P1009]   |                                                              |
 | #1109   | 航班预订统计                               | 中等 | 2021-08-31 | [力扣][P1109]   |                                                              |
 | #1137   | 第 N 个泰波那契数                          | 简单 | 2021-08-08 | [力扣][P1137]   |                                                              |
 | #1221   | 分割平衡字符串                             | 简单 | 2021-09-07 | [力扣][P1221]   |                                                              |
@@ -352,6 +353,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P847]:https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/
 
 [P881]:https://leetcode-cn.com/problems/boats-to-save-people/
+
+[P1009]:https://leetcode-cn.com/problems/complement-of-base-10-integer/
 
 [P1109]:https://leetcode-cn.com/problems/corporate-flight-bookings/
 

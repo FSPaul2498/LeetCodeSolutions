@@ -175,6 +175,9 @@ public class MainInput {
             case 206:
                 run206();
                 break;
+            case 211:
+                run211();
+                break;
             case 212:
                 run212();
                 break;
@@ -813,6 +816,17 @@ public class MainInput {
         S206 run = new S206();
         ListNode result = run.reverseList(head);
         print(result);
+    }
+
+    static void run211() {
+        WordDictionary run = new WordDictionary();
+        run.addWord("bad");
+        run.addWord("dad");
+        run.addWord("mad");
+        print(run.search("pad"));
+        print(run.search("bad"));
+        print(run.search(".ad"));
+        print(run.search("b.."));
     }
 
     static void run212() {

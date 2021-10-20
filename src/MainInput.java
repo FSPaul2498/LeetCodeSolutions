@@ -253,6 +253,9 @@ public class MainInput {
             case 447:
                 run447();
                 break;
+            case 453:
+                run453();
+                break;
             case 457:
                 run457();
                 break;
@@ -1024,6 +1027,13 @@ public class MainInput {
         int[][] points = {{0, 0}, {1, 0}, {2, 0}};
         S447 run = new S447();
         int result = run.numberOfBoomerangs(points);
+        print(result);
+    }
+
+    static void run453() {
+        int[] nums = {1, 2, 3};
+        S453 run = new S453();
+        int result = run.minMoves(nums);
         print(result);
     }
 

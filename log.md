@@ -90,6 +90,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #443    | 压缩字符串                                 | 中等 | 2021-08-21 | [力扣][P443]    |                                                              |
 | #446    | 等差数列划分 II - 子序列                   | 困难 | 2021-08-11 | [力扣][P446]    | 本题有参考官方Java题解代码<br>[【等差数列划分 II - 子序列】][S446] |
 | #447    | 回旋镖的数量                               | 中等 | 2021-09-13 | [力扣][P447]    |                                                              |
+| #453    | 最小操作次数使数组元素相等                 | 简单 | 2021-10-20 | [力扣][P453]    |                                                              |
 | #457    | 环形数组是否存在循环                       | 中等 | 2021-08-07 | [力扣][P457]    |                                                              |
 | #470    | 用 Rand7() 实现 Rand10()                   | 中等 | 2021-09-05 | [力扣][P470]    |                                                              |
 | #476    | 数字的补数                                 | 简单 | 2021-10-18 | [力扣][P476]    |                                                              |
@@ -294,6 +295,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P446]:https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/
 
 [P447]:https://leetcode-cn.com/problems/number-of-boomerangs/
+
+[P453]:https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/
 
 [P457]:https://leetcode-cn.com/problems/circular-array-loop/
 

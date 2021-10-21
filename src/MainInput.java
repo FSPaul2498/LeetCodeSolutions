@@ -157,6 +157,9 @@ public class MainInput {
             case 58:
                 run58();
                 break;
+            case 66:
+                run66();
+                break;
             case 68:
                 run68();
                 break;
@@ -774,6 +777,13 @@ public class MainInput {
         String s = "Hello World";
         S58 run = new S58();
         int result = run.lengthOfLastWord(s);
+        print(result);
+    }
+
+    static void run66() {
+        int[] digits = {1, 2, 3};
+        S66 run = new S66();
+        int[] result = run.plusOne(digits);
         print(result);
     }
 

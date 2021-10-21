@@ -58,6 +58,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #45     | 跳跃游戏 II                                | 中等 | 2021-10-12 | [力扣][P45]     |                                                              |
 | #46     | 全排列                                     | 中等 | 2021-10-15 | [力扣][P46]     |                                                              |
 | #58     | 最后一个单词的长度                         | 简单 | 2021-09-21 | [力扣][P58]     |                                                              |
+| #66     | 加一                                       | 简单 | 2021-10-21 | [力扣][P66]     |                                                              |
 | #68     | 文本左右对齐                               | 困难 | 2021-09-09 | [力扣][P68]     |                                                              |
 | #162    | 寻找峰值                                   | 中等 | 2021-09-15 | [力扣][P162]    |                                                              |
 | #165    | 比较版本号                                 | 中等 | 2021-09-01 | [力扣][P165]    |                                                              |
@@ -231,6 +232,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P46]:https://leetcode-cn.com/problems/permutations/
 
 [P58]:https://leetcode-cn.com/problems/length-of-last-word/
+
+[P66]:https://leetcode-cn.com/problems/plus-one/
 
 [P68]:https://leetcode-cn.com/problems/text-justification/
 

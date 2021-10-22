@@ -187,6 +187,9 @@ public class MainInput {
             case 223:
                 run223();
                 break;
+            case 229:
+                run229();
+                break;
             case 230:
                 run230();
                 break;
@@ -854,6 +857,13 @@ public class MainInput {
         int ax1 = -3, ay1 = 0, ax2 = 3, ay2 = 4, bx1 = 0, by1 = -1, bx2 = 9, by2 = 2;
         S223 run = new S223();
         int result = run.computeArea(ax1, ay1, ax2, ay2, bx1, by1, bx2, by2);
+        print(result);
+    }
+
+    static void run229() {
+        int[] nums = {3, 2, 3};
+        S229 run = new S229();
+        List<Integer> result = run.majorityElement(nums);
         print(result);
     }
 

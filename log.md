@@ -97,6 +97,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #470    | 用 Rand7() 实现 Rand10()                   | 中等 | 2021-09-05 | [力扣][P470]    |                                                              |
 | #476    | 数字的补数                                 | 简单 | 2021-10-18 | [力扣][P476]    |                                                              |
 | #482    | 密钥格式化                                 | 简单 | 2021-10-04 | [力扣][P482]    |                                                              |
+| #492    | 构造矩形                                   | 简单 | 2021-10-23 | [力扣][P492]    |                                                              |
 | #502    | IPO                                        | 困难 | 2021-09-08 | [力扣][P502]    |                                                              |
 | #516    | 最长回文子序列                             | 中等 | 2021-08-12 | [力扣][P516]    |                                                              |
 | #517    | 超级洗衣机                                 | 困难 | 2021-09-29 | [力扣][P517]    |                                                              |
@@ -311,6 +312,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P476]:https://leetcode-cn.com/problems/number-complement/
 
 [P482]:https://leetcode-cn.com/problems/license-key-formatting/
+
+[P492]:https://leetcode-cn.com/problems/construct-the-rectangle/
 
 [P502]:https://leetcode-cn.com/problems/ipo/
 

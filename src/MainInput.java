@@ -274,6 +274,9 @@ public class MainInput {
             case 482:
                 run482();
                 break;
+            case 492:
+                run492();
+                break;
             case 502:
                 run502();
                 break;
@@ -1084,6 +1087,13 @@ public class MainInput {
         int k = 4;
         S482 run = new S482();
         String result = run.licenseKeyFormatting(s, k);
+        print(result);
+    }
+
+    static void run492() {
+        int area = 4;
+        S492 run = new S492();
+        int[] result = run.constructRectangle(area);
         print(result);
     }
 

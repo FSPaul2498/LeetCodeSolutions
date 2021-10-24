@@ -112,6 +112,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #583    | 两个字符串的删除操作                       | 中等 | 2021-09-25 | [力扣][P583]    | 本题有参考官方Java题解代码<br>[【两个字符串的删除操作】][S583]   |
 | #600    | 不含连续1的非负整数                        | 困难 | 2021-09-11 | [力扣][P600]    |                                                              |
 | #611    | 有效三角形的个数                           | 中等 | 2021-08-04 | [力扣][P611]    |                                                              |
+| #638    | 大礼包                                     | 中等 | 2021-10-24 | [力扣][P638]    | 本题有参考官方Java题解代码<br>[【大礼包】][S638]             |
 | #639    | 解码方法 II                                | 困难 | 2021-09-27 | [力扣][P639]    | 本题有参考官方Java题解代码<br>[【解码方法 II】][S639]        |
 | #650    | 只有两个键的键盘                           | 中等 | 2021-09-19 | [力扣][P650]    |                                                              |
 | #673    | 最长递增子序列的个数                       | 中等 | 2021-09-20 | [力扣][P673]    | 本题有参考官方Java题解代码<br>[【最长递增子序列的个数】][S673]   |
@@ -343,6 +344,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P611]:https://leetcode-cn.com/problems/valid-triangle-number/
 
+[P638]:https://leetcode-cn.com/problems/shopping-offers/
+
 [P639]:https://leetcode-cn.com/problems/decode-ways-ii/
 
 [P650]:https://leetcode-cn.com/problems/2-keys-keyboard/
@@ -428,6 +431,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S552]:https://leetcode-cn.com/problems/student-attendance-record-ii/solution/xue-sheng-chu-qin-ji-lu-ii-by-leetcode-s-kdlm/
 
 [S583]:https://leetcode-cn.com/problems/delete-operation-for-two-strings/solution/liang-ge-zi-fu-chuan-de-shan-chu-cao-zuo-14uw/
+
+[S638]:https://leetcode-cn.com/problems/shopping-offers/solution/da-li-bao-by-leetcode-solution-p1ww/
 
 [S639]:https://leetcode-cn.com/problems/decode-ways-ii/solution/jie-ma-fang-fa-ii-by-leetcode-solution-23af/
 

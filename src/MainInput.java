@@ -319,6 +319,9 @@ public class MainInput {
             case 611:
                 run611();
                 break;
+            case 638:
+                run638();
+                break;
             case 639:
                 run639();
                 break;
@@ -1198,6 +1201,17 @@ public class MainInput {
         int[] nums = {2, 2, 3, 4};
         S611 run = new S611();
         int result = run.triangleNumber(nums);
+        print(result);
+    }
+
+    static void run638() {
+        List<Integer> price = new ArrayList<>(List.of(new Integer[]{2, 5}));
+        List<List<Integer>> special = new ArrayList<>();
+        special.add(new ArrayList<>(List.of(new Integer[]{3, 0, 5})));
+        special.add(new ArrayList<>(List.of(new Integer[]{1, 2, 10})));
+        List<Integer> needs = new ArrayList<>(List.of(new Integer[]{3, 2}));
+        S638 run = new S638();
+        int result = run.shoppingOffers(price, special, needs);
         print(result);
     }
 

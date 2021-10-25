@@ -196,6 +196,9 @@ public class MainInput {
             case 233:
                 run233();
                 break;
+            case 240:
+                run240();
+                break;
             case 273:
                 run273();
                 break;
@@ -886,6 +889,14 @@ public class MainInput {
         int n = 13;
         S233 run = new S233();
         int result = run.countDigitOne(n);
+        print(result);
+    }
+
+    static void run240() {
+        int[][] matrix = {{1, 4, 7, 11, 15}, {2, 5, 8, 12, 19}, {3, 6, 9, 16, 22}, {10, 13, 14, 17, 24}, {18, 21, 23, 26, 30}};
+        int target = 5;
+        S240 run = new S240();
+        boolean result = run.searchMatrix(matrix, target);
         print(result);
     }
 

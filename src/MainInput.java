@@ -280,6 +280,9 @@ public class MainInput {
             case 492:
                 run492();
                 break;
+            case 496:
+                run496();
+                break;
             case 502:
                 run502();
                 break;
@@ -1108,6 +1111,14 @@ public class MainInput {
         int area = 4;
         S492 run = new S492();
         int[] result = run.constructRectangle(area);
+        print(result);
+    }
+
+    static void run496() {
+        int[] nums1 = {4, 1, 2};
+        int[] nums2 = {1, 3, 4, 2};
+        S496 run = new S496();
+        int[] result = run.nextGreaterElement(nums1, nums2);
         print(result);
     }
 

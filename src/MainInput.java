@@ -214,6 +214,9 @@ public class MainInput {
             case 295:
                 run295();
                 break;
+            case 301:
+                run301();
+                break;
             case 313:
                 run313();
                 break;
@@ -945,6 +948,13 @@ public class MainInput {
         print(run.findMedian());
         run.addNum(3);
         print(run.findMedian());
+    }
+
+    static void run301() {
+        String s = "()())()";
+        S301 run = new S301();
+        List<String> result = run.removeInvalidParentheses(s);
+        print(result);
     }
 
     static void run313() {

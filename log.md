@@ -77,6 +77,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #284    | 窥探迭代器                                 | 中等 | 2021-10-05 | [力扣][P284]    |                                                              |
 | #292    | Nim 游戏                                   | 简单 | 2021-09-18 | [力扣][P292]    |                                                              |
 | #295    | 数据流的中位数                             | 困难 | 2021-08-27 | [力扣][P295]    |                                                              |
+| #301    | 删除无效的括号                             | 困难 | 2021-10-27 | [力扣][P301]    | 本题有参考官方Java题解代码<br>[【删除无效的括号】][S301]     |
 | #313    | 超级丑数                                   | 中等 | 2021-08-09 | [力扣][P313]    | 本题有参考官方Java题解代码<br>[【超级丑数】][S313]           |
 | #326    | 3的幂                                      | 简单 | 2021-09-23 | [力扣][P326]    |                                                              |
 | #345    | 反转字符串中的元音字母                     | 简单 | 2021-08-19 | [力扣][P345]    |                                                              |
@@ -276,6 +277,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P295]:https://leetcode-cn.com/problems/find-median-from-data-stream/
 
+[P301]:https://leetcode-cn.com/problems/remove-invalid-parentheses/
+
 [P313]:https://leetcode-cn.com/problems/super-ugly-number/
 
 [P326]:https://leetcode-cn.com/problems/power-of-three/
@@ -423,6 +426,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S230]:https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/solution/er-cha-sou-suo-shu-zhong-di-kxiao-de-yua-8o07/
 
 [S282]:https://leetcode-cn.com/problems/expression-add-operators/solution/gei-biao-da-shi-tian-jia-yun-suan-fu-by-2o1s7/
+
+[S301]:https://leetcode-cn.com/problems/remove-invalid-parentheses/solution/shan-chu-wu-xiao-de-gua-hao-by-leetcode-9w8au/
 
 [S313]:https://leetcode-cn.com/problems/super-ugly-number/solution/chao-ji-chou-shu-by-leetcode-solution-uzff/
 

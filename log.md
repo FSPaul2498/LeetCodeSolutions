@@ -128,6 +128,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #797    | 所有可能的路径                             | 中等 | 2021-08-25 | [力扣][P797]    |                                                              |
 | #802    | 找到最终的安全状态                         | 中等 | 2021-08-05 | [力扣][P802]    |                                                              |
 | #847    | 访问所有节点的最短路径                     | 困难 | 2021-08-06 | [力扣][P847]    | 本题有参考官方Java题解代码<br>[【访问所有节点的最短路径】][S847] |
+| #869    | 重新排序得到 2 的幂                        | 中等 | 2021-10-28 | [力扣][P869]    | 本题有参考官方Java题解代码<br>[【重新排序得到 2 的幂】][S869] |
 | #881    | 救生艇                                     | 中等 | 2021-08-26 | [力扣][P881]    |                                                              |
 | #1009   | 十进制整数的反码                           | 简单 | 2021-10-18 | [力扣][P1009]   |                                                              |
 | #1109   | 航班预订统计                               | 中等 | 2021-08-31 | [力扣][P1109]   |                                                              |
@@ -379,6 +380,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P847]:https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/
 
+[P869]:https://leetcode-cn.com/problems/reordered-power-of-2/
+
 [P881]:https://leetcode-cn.com/problems/boats-to-save-people/
 
 [P1009]:https://leetcode-cn.com/problems/complement-of-base-10-integer/
@@ -451,7 +454,9 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [S787]:https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/solution/k-zhan-zhong-zhuan-nei-zui-bian-yi-de-ha-abzi/
 
-[S847]: https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/solution/fang-wen-suo-you-jie-dian-de-zui-duan-lu-mqc2/
+[S847]:https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/solution/fang-wen-suo-you-jie-dian-de-zui-duan-lu-mqc2/
 
-[S1588]: https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/solution/gong-shui-san-xie-yi-ti-shuang-jie-qian-18jq3/
+[S869]:https://leetcode-cn.com/problems/reordered-power-of-2/solution/zhong-xin-pai-xu-de-dao-2-de-mi-by-leetc-4fvs/
+
+[S1588]:https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/solution/gong-shui-san-xie-yi-ti-shuang-jie-qian-18jq3/
 

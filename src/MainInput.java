@@ -367,6 +367,9 @@ public class MainInput {
             case 847:
                 run847();
                 break;
+            case 869:
+                run869();
+                break;
             case 881:
                 run881();
                 break;
@@ -1334,6 +1337,13 @@ public class MainInput {
         int[][] graph = {{1, 2, 3}, {0}, {0}, {0}};
         S847 run = new S847();
         int result = run.shortestPathLength(graph);
+        print(result);
+    }
+
+    static void run869() {
+        int n = 1;
+        S869 run = new S869();
+        boolean result = run.reorderedPowerOf2(n);
         print(result);
     }
 

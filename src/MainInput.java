@@ -223,6 +223,9 @@ public class MainInput {
             case 326:
                 run326();
                 break;
+            case 335:
+                run335();
+                break;
             case 345:
                 run345();
                 break;
@@ -972,6 +975,13 @@ public class MainInput {
         int n = 27;
         S326 run = new S326();
         boolean result = run.isPowerOfThree(n);
+        print(result);
+    }
+
+    static void run335() {
+        int[] distance = {2, 1, 1, 2};
+        S335 run = new S335();
+        boolean result = run.isSelfCrossing(distance);
         print(result);
     }
 

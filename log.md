@@ -80,6 +80,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #301    | 删除无效的括号                             | 困难 | 2021-10-27 | [力扣][P301]    | 本题有参考官方Java题解代码<br>[【删除无效的括号】][S301]     |
 | #313    | 超级丑数                                   | 中等 | 2021-08-09 | [力扣][P313]    | 本题有参考官方Java题解代码<br>[【超级丑数】][S313]           |
 | #326    | 3的幂                                      | 简单 | 2021-09-23 | [力扣][P326]    |                                                              |
+| #335    | 路径交叉                                   | 困难 | 2021-10-29 | [力扣][P335]    |                                                              |
 | #345    | 反转字符串中的元音字母                     | 简单 | 2021-08-19 | [力扣][P345]    |                                                              |
 | #352    | 将数据流变为多个不相交区间                 | 困难 | 2021-10-09 | [力扣][P352]    | 本题有参考官方Java题解代码<br>[【将数据流变为多个不相交区间】][S352] |
 | #371    | 两整数之和                                 | 中等 | 2021-09-26 | [力扣][P371]    |                                                              |
@@ -283,6 +284,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P313]:https://leetcode-cn.com/problems/super-ugly-number/
 
 [P326]:https://leetcode-cn.com/problems/power-of-three/
+
+[P335]:https://leetcode-cn.com/problems/self-crossing/
 
 [P345]:https://leetcode-cn.com/problems/reverse-vowels-of-a-string/
 

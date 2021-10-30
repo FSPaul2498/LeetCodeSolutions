@@ -199,6 +199,9 @@ public class MainInput {
             case 240:
                 run240();
                 break;
+            case 260:
+                run260();
+                break;
             case 273:
                 run273();
                 break;
@@ -909,6 +912,13 @@ public class MainInput {
         int target = 5;
         S240 run = new S240();
         boolean result = run.searchMatrix(matrix, target);
+        print(result);
+    }
+
+    static void run260() {
+        int[] nums = {1, 2, 1, 3, 2, 5};
+        S260 run = new S260();
+        int[] result = run.singleNumber(nums);
         print(result);
     }
 

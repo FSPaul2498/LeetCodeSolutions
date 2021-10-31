@@ -292,6 +292,9 @@ public class MainInput {
             case 496:
                 run496();
                 break;
+            case 500:
+                run500();
+                break;
             case 502:
                 run502();
                 break;
@@ -1155,6 +1158,13 @@ public class MainInput {
         print(result);
     }
 
+    static void run500() {
+        String[] words = {"Hello", "Alaska", "Dad", "Peace"};
+        S500 run = new S500();
+        String[] result = run.findWords(words);
+        print(result);
+    }
+
     static void run502() {
         int k = 2, w = 0;
         int[] profits = {1, 2, 3}, capital = {0, 1, 1};
@@ -1524,6 +1534,10 @@ public class MainInput {
 
     static void print(String input) {
         System.out.println(input);
+    }
+
+    static void print(String[] input) {
+        print(Arrays.toString(input));
     }
 
     static void print(List<?> input) {

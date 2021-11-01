@@ -113,6 +113,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #541    | 反转字符串 II                              | 简单 | 2021-08-20 | [力扣][P541]    |                                                              |
 | #551    | 学生出勤记录 I                             | 简单 | 2021-08-17 | [力扣][P551]    |                                                              |
 | #552    | 学生出勤记录 II                            | 困难 | 2021-08-18 | [力扣][P552]    | 本题有参考官方Java题解代码<br>[【学生出勤记录 II】][S552]    |
+| #575    | 分糖果                                     | 简单 | 2021-11-01 | [力扣][P575]    |                                                              |
 | #576    | 出界的路径数                               | 中等 | 2021-08-15 | [力扣][P576]    |                                                              |
 | #581    | 最短无序连续子数组                         | 中等 | 2021-08-03 | [力扣][P581]    |                                                              |
 | #583    | 两个字符串的删除操作                       | 中等 | 2021-09-25 | [力扣][P583]    | 本题有参考官方Java题解代码<br>[【两个字符串的删除操作】][S583]   |
@@ -352,6 +353,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P551]:https://leetcode-cn.com/problems/student-attendance-record-i/
 
 [P552]:https://leetcode-cn.com/problems/student-attendance-record-ii/
+
+[P575]:https://leetcode-cn.com/problems/distribute-candies/
 
 [P576]:https://leetcode-cn.com/problems/out-of-boundary-paths/
 

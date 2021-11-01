@@ -322,6 +322,9 @@ public class MainInput {
             case 552:
                 run552();
                 break;
+            case 575:
+                run575();
+                break;
             case 576:
                 run576();
                 break;
@@ -1231,6 +1234,13 @@ public class MainInput {
         int n = 2;
         S552 run = new S552();
         int result = run.checkRecord(n);
+        print(result);
+    }
+
+    static void run575() {
+        int[] candyType = {1, 1, 2, 2, 3, 3};
+        S575 run = new S575();
+        int result = run.distributeCandies(candyType);
         print(result);
     }
 

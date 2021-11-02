@@ -71,6 +71,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #229    | 求众数 II                                  | 中等 | 2021-10-22 | [力扣][P229]    |                                                              |
 | #230    | 二叉搜索树中第K小的元素                    | 中等 | 2021-10-17 | [力扣][P230]    | 本题有参考官方Java题解代码<br>[【二叉搜索树中第K小的元素】][S230] |
 | #233    | 数字 1 的个数                              | 困难 | 2021-08-13 | [力扣][P233]    |                                                              |
+| #237    | 删除链表中的节点                           | 简单 | 2021-11-02 | [力扣][P237]    |                                                              |
 | #240    | 搜索二维矩阵 II                            | 中等 | 2021-10-25 | [力扣][P240]    |                                                              |
 | #260    | 只出现一次的数字 III                       | 中等 | 2021-10-30 | [力扣][P260]    |                                                              |
 | #273    | 整数转换英文表示                           | 困难 | 2021-10-11 | [力扣][P273]    |                                                              |
@@ -269,6 +270,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P230]:https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/
 
 [P233]:https://leetcode-cn.com/problems/number-of-digit-one/
+
+[P237]:https://leetcode-cn.com/problems/delete-node-in-a-linked-list/
 
 [P240]:https://leetcode-cn.com/problems/search-a-2d-matrix-ii/
 

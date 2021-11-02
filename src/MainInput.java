@@ -196,6 +196,9 @@ public class MainInput {
             case 233:
                 run233();
                 break;
+            case 237:
+                run237();
+                break;
             case 240:
                 run240();
                 break;
@@ -911,6 +914,17 @@ public class MainInput {
         S233 run = new S233();
         int result = run.countDigitOne(n);
         print(result);
+    }
+
+    static void run237() {
+        int[] nums = {4, 5, 1, 9};
+        int nodeIdx = 1;
+        ListNode head = ListNode.makeList(nums);
+        ListNode node = head;
+        for (int i = 0; i < nodeIdx; i++) node = node.next;
+        S237 run = new S237();
+        run.deleteNode(node);
+        print(head);
     }
 
     static void run240() {

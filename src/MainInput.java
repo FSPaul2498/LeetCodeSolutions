@@ -244,6 +244,9 @@ public class MainInput {
             case 405:
                 run405();
                 break;
+            case 407:
+                run407();
+                break;
             case 412:
                 run412();
                 break;
@@ -1047,6 +1050,13 @@ public class MainInput {
         int num = 26;
         S405 run = new S405();
         String result = run.toHex(num);
+        print(result);
+    }
+
+    static void run407() {
+        int[][] heightMap = {{1, 4, 3, 1, 3, 2}, {3, 2, 1, 3, 2, 4}, {2, 3, 3, 2, 3, 1}};
+        S407 run = new S407();
+        int result = run.trapRainWater(heightMap);
         print(result);
     }
 

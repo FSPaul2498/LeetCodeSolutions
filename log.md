@@ -87,6 +87,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #352    | 将数据流变为多个不相交区间                 | 困难 | 2021-10-09 | [力扣][P352]    | 本题有参考官方Java题解代码<br>[【将数据流变为多个不相交区间】][S352] |
 | #371    | 两整数之和                                 | 中等 | 2021-09-26 | [力扣][P371]    |                                                              |
 | #405    | 数字转换为十六进制数                       | 简单 | 2021-10-02 | [力扣][P405]    |                                                              |
+| #407    | 接雨水 II                                  | 困难 | 2021-11-03 | [力扣][P407]    | 本题有参考官方Java题解代码<br>[【接雨水 II】][S407]          |
 | #412    | Fizz Buzz                                  | 简单 | 2021-10-13 | [力扣][P412]    |                                                              |
 | #413    | 等差数列划分                               | 中等 | 2021-08-10 | [力扣][P413]    |                                                              |
 | #414    | 第三大的数                                 | 简单 | 2021-10-06 | [力扣][P414]    |                                                              |
@@ -303,6 +304,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P405]:https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/
 
+[P407]:https://leetcode-cn.com/problems/trapping-rain-water-ii/
+
 [P412]:https://leetcode-cn.com/problems/fizz-buzz/
 
 [P413]:https://leetcode-cn.com/problems/arithmetic-slices/
@@ -450,6 +453,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S313]:https://leetcode-cn.com/problems/super-ugly-number/solution/chao-ji-chou-shu-by-leetcode-solution-uzff/
 
 [S352]:https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/solution/jiang-shu-ju-liu-bian-wei-duo-ge-bu-xian-hm1r/
+
+[S407]:https://leetcode-cn.com/problems/trapping-rain-water-ii/solution/jie-yu-shui-ii-by-leetcode-solution-vlj3/
 
 [S437]:https://leetcode-cn.com/problems/path-sum-iii/solution/lu-jing-zong-he-iii-by-leetcode-solution-z9td/
 

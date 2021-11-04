@@ -238,6 +238,9 @@ public class MainInput {
             case 352:
                 run352();
                 break;
+            case 367:
+                run367();
+                break;
             case 371:
                 run371();
                 break;
@@ -1037,6 +1040,13 @@ public class MainInput {
         print(run.getIntervals());
         run.addNum(6);
         print(run.getIntervals());
+    }
+
+    static void run367() {
+        int num = 16;
+        S367 run = new S367();
+        boolean result = run.isPerfectSquare(num);
+        print(result);
     }
 
     static void run371() {

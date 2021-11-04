@@ -85,6 +85,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #335    | 路径交叉                                   | 困难 | 2021-10-29 | [力扣][P335]    |                                                              |
 | #345    | 反转字符串中的元音字母                     | 简单 | 2021-08-19 | [力扣][P345]    |                                                              |
 | #352    | 将数据流变为多个不相交区间                 | 困难 | 2021-10-09 | [力扣][P352]    | 本题有参考官方Java题解代码<br>[【将数据流变为多个不相交区间】][S352] |
+| #367    | 有效的完全平方数                           | 简单 | 2021-11-04 | [力扣][P367]    |                                                              |
 | #371    | 两整数之和                                 | 中等 | 2021-09-26 | [力扣][P371]    |                                                              |
 | #405    | 数字转换为十六进制数                       | 简单 | 2021-10-02 | [力扣][P405]    |                                                              |
 | #407    | 接雨水 II                                  | 困难 | 2021-11-03 | [力扣][P407]    | 本题有参考官方Java题解代码<br>[【接雨水 II】][S407]          |
@@ -299,6 +300,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P345]:https://leetcode-cn.com/problems/reverse-vowels-of-a-string/
 
 [P352]:https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/
+
+[P367]:https://leetcode-cn.com/problems/valid-perfect-square/
 
 [P371]:https://leetcode-cn.com/problems/sum-of-two-integers/
 

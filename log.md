@@ -140,6 +140,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1009   | 十进制整数的反码                           | 简单 | 2021-10-18 | [力扣][P1009]   |                                                              |
 | #1109   | 航班预订统计                               | 中等 | 2021-08-31 | [力扣][P1109]   |                                                              |
 | #1137   | 第 N 个泰波那契数                          | 简单 | 2021-08-08 | [力扣][P1137]   |                                                              |
+| #1218   | 最长定差子序列                             | 中等 | 2021-11-05 | [力扣][P1218]   |                                                              |
 | #1221   | 分割平衡字符串                             | 简单 | 2021-09-07 | [力扣][P1221]   |                                                              |
 | #1337   | 矩阵中战斗力最弱的 K 行                    | 简单 | 2021-08-01 | [力扣][P1337]   |                                                              |
 | #1436   | 旅行终点站                                 | 简单 | 2021-10-01 | [力扣][P1436]   |                                                              |
@@ -410,6 +411,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1109]:https://leetcode-cn.com/problems/corporate-flight-bookings/
 
 [P1137]:https://leetcode-cn.com/problems/n-th-tribonacci-number/
+
+[P1218]:https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/
 
 [P1221]:https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/
 

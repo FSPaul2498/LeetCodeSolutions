@@ -403,6 +403,9 @@ public class MainInput {
             case 1137:
                 run1137();
                 break;
+            case 1218:
+                run1218();
+                break;
             case 1221:
                 run1221();
                 break;
@@ -1448,6 +1451,14 @@ public class MainInput {
         int n = 4;
         S1137 run = new S1137();
         int result = run.tribonacci(n);
+        print(result);
+    }
+
+    static void run1218() {
+        int[] arr = {1, 2, 3, 4};
+        int difference = 4;
+        S1218 run = new S1218();
+        int result = run.longestSubsequence(arr, difference);
         print(result);
     }
 

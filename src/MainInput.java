@@ -205,6 +205,9 @@ public class MainInput {
             case 260:
                 run260();
                 break;
+            case 268:
+                run268();
+                break;
             case 273:
                 run273();
                 break;
@@ -948,6 +951,13 @@ public class MainInput {
         int[] nums = {1, 2, 1, 3, 2, 5};
         S260 run = new S260();
         int[] result = run.singleNumber(nums);
+        print(result);
+    }
+
+    static void run268() {
+        int[] nums = {3, 0, 1};
+        S268 run = new S268();
+        int result = run.missingNumber(nums);
         print(result);
     }
 

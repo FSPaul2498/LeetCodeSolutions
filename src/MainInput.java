@@ -346,6 +346,9 @@ public class MainInput {
             case 583:
                 run583();
                 break;
+            case 598:
+                run598();
+                break;
             case 600:
                 run600();
                 break;
@@ -1309,6 +1312,14 @@ public class MainInput {
         String word1 = "sea", word2 = "eat";
         S583 run = new S583();
         int result = run.minDistance(word1, word2);
+        print(result);
+    }
+
+    static void run598() {
+        int m = 3, n = 3;
+        int[][] ops = {{2, 2}, {3, 3}};
+        S598 run = new S598();
+        int result = run.maxCount(m, n, ops);
         print(result);
     }
 

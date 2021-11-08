@@ -223,6 +223,9 @@ public class MainInput {
             case 295:
                 run295();
                 break;
+            case 299:
+                run299();
+                break;
             case 301:
                 run301();
                 break;
@@ -1006,6 +1009,13 @@ public class MainInput {
         print(run.findMedian());
         run.addNum(3);
         print(run.findMedian());
+    }
+
+    static void run299() {
+        String secret = "1807", guess = "7810";
+        S299 run = new S299();
+        String result = run.getHint(secret, guess);
+        print(result);
     }
 
     static void run301() {

@@ -80,6 +80,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #284    | 窥探迭代器                                 | 中等 | 2021-10-05 | [力扣][P284]    |                                                              |
 | #292    | Nim 游戏                                   | 简单 | 2021-09-18 | [力扣][P292]    |                                                              |
 | #295    | 数据流的中位数                             | 困难 | 2021-08-27 | [力扣][P295]    |                                                              |
+| #299    | 猜数字游戏                                 | 中等 | 2021-11-08 | [力扣][P299]    |                                                              |
 | #301    | 删除无效的括号                             | 困难 | 2021-10-27 | [力扣][P301]    | 本题有参考官方Java题解代码<br>[【删除无效的括号】][S301]     |
 | #313    | 超级丑数                                   | 中等 | 2021-08-09 | [力扣][P313]    | 本题有参考官方Java题解代码<br>[【超级丑数】][S313]           |
 | #326    | 3的幂                                      | 简单 | 2021-09-23 | [力扣][P326]    |                                                              |
@@ -293,6 +294,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P292]:https://leetcode-cn.com/problems/nim-game/
 
 [P295]:https://leetcode-cn.com/problems/find-median-from-data-stream/
+
+[P299]:https://leetcode-cn.com/problems/bulls-and-cows/
 
 [P301]:https://leetcode-cn.com/problems/remove-invalid-parentheses/
 

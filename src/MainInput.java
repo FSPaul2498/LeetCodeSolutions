@@ -301,6 +301,9 @@ public class MainInput {
             case 482:
                 run482();
                 break;
+            case 488:
+                run488();
+                break;
             case 492:
                 run492();
                 break;
@@ -1203,6 +1206,13 @@ public class MainInput {
         int k = 4;
         S482 run = new S482();
         String result = run.licenseKeyFormatting(s, k);
+        print(result);
+    }
+
+    static void run488() {
+        String board = "WRRBBW", hand = "RB";
+        S488 run = new S488();
+        int result = run.findMinStep(board, hand);
         print(result);
     }
 

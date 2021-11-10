@@ -307,6 +307,9 @@ public class MainInput {
             case 492:
                 run492();
                 break;
+            case 495:
+                run495();
+                break;
             case 496:
                 run496();
                 break;
@@ -1220,6 +1223,14 @@ public class MainInput {
         int area = 4;
         S492 run = new S492();
         int[] result = run.constructRectangle(area);
+        print(result);
+    }
+
+    static void run495() {
+        int[] timeSeries = {1, 4};
+        int duration = 2;
+        S495 run = new S495();
+        int result = run.findPoisonedDuration(timeSeries, duration);
         print(result);
     }
 

@@ -108,6 +108,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #482    | 密钥格式化                                 | 简单 | 2021-10-04 | [力扣][P482]    |                                                              |
 | #488    | 祖玛游戏                                   | 困难 | 2021-11-09 | [力扣][P488]    | 本题有参考社区Java题解代码<br>[【宫水三叶】一题双解 :「搜索 + 剪枝」&「AStar 算法」][S488] |
 | #492    | 构造矩形                                   | 简单 | 2021-10-23 | [力扣][P492]    |                                                              |
+| #495    | 提莫攻击                                   | 简单 | 2021-11-10 | [力扣][P495]    |                                                              |
 | #496    | 下一个更大元素 I                           | 简单 | 2021-10-26 | [力扣][P496]    |                                                              |
 | #500    | 键盘行                                     | 简单 | 2021-10-31 | [力扣][P500]    |                                                              |
 | #502    | IPO                                        | 困难 | 2021-09-08 | [力扣][P502]    |                                                              |
@@ -351,6 +352,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P488]:https://leetcode-cn.com/problems/zuma-game/
 
 [P492]:https://leetcode-cn.com/problems/construct-the-rectangle/
+
+[P495]:https://leetcode-cn.com/problems/teemo-attacking/
 
 [P496]:https://leetcode-cn.com/problems/next-greater-element-i/
 

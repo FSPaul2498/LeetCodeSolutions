@@ -127,6 +127,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #598    | 范围求和 II                                | 简单 | 2021-11-07 | [力扣][P598]    |                                                              |
 | #600    | 不含连续1的非负整数                        | 困难 | 2021-09-11 | [力扣][P600]    |                                                              |
 | #611    | 有效三角形的个数                           | 中等 | 2021-08-04 | [力扣][P611]    |                                                              |
+| #629    | K个逆序对数组                              | 困难 | 2021-11-11 | [力扣][P629]    | 本题有参考官方Java题解代码<br>[【K个逆序对数组】][S629]      |
 | #638    | 大礼包                                     | 中等 | 2021-10-24 | [力扣][P638]    | 本题有参考官方Java题解代码<br>[【大礼包】][S638]             |
 | #639    | 解码方法 II                                | 困难 | 2021-09-27 | [力扣][P639]    | 本题有参考官方Java题解代码<br>[【解码方法 II】][S639]        |
 | #650    | 只有两个键的键盘                           | 中等 | 2021-09-19 | [力扣][P650]    |                                                              |
@@ -391,6 +392,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P611]:https://leetcode-cn.com/problems/valid-triangle-number/
 
+[P629]:https://leetcode-cn.com/problems/k-inverse-pairs-array/
+
 [P638]:https://leetcode-cn.com/problems/shopping-offers/
 
 [P639]:https://leetcode-cn.com/problems/decode-ways-ii/
@@ -488,6 +491,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S552]:https://leetcode-cn.com/problems/student-attendance-record-ii/solution/xue-sheng-chu-qin-ji-lu-ii-by-leetcode-s-kdlm/
 
 [S583]:https://leetcode-cn.com/problems/delete-operation-for-two-strings/solution/liang-ge-zi-fu-chuan-de-shan-chu-cao-zuo-14uw/
+
+[S629]:https://leetcode-cn.com/problems/k-inverse-pairs-array/solution/kge-ni-xu-dui-shu-zu-by-leetcode-solutio-0hkr/
 
 [S638]:https://leetcode-cn.com/problems/shopping-offers/solution/da-li-bao-by-leetcode-solution-p1ww/
 

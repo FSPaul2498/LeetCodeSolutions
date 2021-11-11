@@ -364,6 +364,9 @@ public class MainInput {
             case 611:
                 run611();
                 break;
+            case 629:
+                run629();
+                break;
             case 638:
                 run638();
                 break;
@@ -1365,6 +1368,13 @@ public class MainInput {
         int[] nums = {2, 2, 3, 4};
         S611 run = new S611();
         int result = run.triangleNumber(nums);
+        print(result);
+    }
+
+    static void run629() {
+        int n = 3, k = 0;
+        S629 run = new S629();
+        int result = run.kInversePairs(n, k);
         print(result);
     }
 

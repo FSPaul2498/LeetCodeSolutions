@@ -250,6 +250,9 @@ public class MainInput {
             case 371:
                 run371();
                 break;
+            case 375:
+                run375();
+                break;
             case 405:
                 run405();
                 break;
@@ -1088,6 +1091,13 @@ public class MainInput {
         int a = 1, b = 2;
         S371 run = new S371();
         int result = run.getSum(a, b);
+        print(result);
+    }
+
+    static void run375() {
+        int n = 10;
+        S375 run = new S375();
+        int result = run.getMoneyAmount(n);
         print(result);
     }
 

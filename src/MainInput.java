@@ -328,6 +328,9 @@ public class MainInput {
             case 517:
                 run517();
                 break;
+            case 520:
+                run520();
+                break;
             case 524:
                 run524();
                 break;
@@ -1281,6 +1284,13 @@ public class MainInput {
         int[] machines = {1, 0, 5};
         S517 run = new S517();
         int result = run.findMinMoves(machines);
+        print(result);
+    }
+
+    static void run520() {
+        String word = "USA";
+        S520 run = new S520();
+        boolean result = run.detectCapitalUse(word);
         print(result);
     }
 

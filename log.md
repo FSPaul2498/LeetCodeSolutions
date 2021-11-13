@@ -115,6 +115,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #502    | IPO                                        | 困难 | 2021-09-08 | [力扣][P502]    |                                                              |
 | #516    | 最长回文子序列                             | 中等 | 2021-08-12 | [力扣][P516]    |                                                              |
 | #517    | 超级洗衣机                                 | 困难 | 2021-09-29 | [力扣][P517]    |                                                              |
+| #520    | 检测大写字母                               | 简单 | 2021-11-13 | [力扣][P520]    |                                                              |
 | #524    | 通过删除字母匹配到字典里最长单词           | 中等 | 2021-09-14 | [力扣][P524]    |                                                              |
 | #526    | 优美的排列                                 | 中等 | 2021-08-16 | [力扣][P526]    | 本题有参考官方Java题解代码<br>[【优美的排列】][S526]         |
 | #528    | 按权重随机选择                             | 中等 | 2021-08-30 | [力扣][P528]    |                                                              |
@@ -368,6 +369,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P516]:https://leetcode-cn.com/problems/longest-palindromic-subsequence/
 
 [P517]:https://leetcode-cn.com/problems/super-washing-machines/
+
+[P520]:https://leetcode-cn.com/problems/detect-capital/
 
 [P524]:https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/
 

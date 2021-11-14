@@ -385,6 +385,9 @@ public class MainInput {
             case 673:
                 run673();
                 break;
+            case 677:
+                run677();
+                break;
             case 678:
                 run678();
                 break;
@@ -1428,6 +1431,14 @@ public class MainInput {
         S673 run = new S673();
         int result = run.findNumberOfLIS(nums);
         print(result);
+    }
+
+    static void run677() {
+        MapSum run = new MapSum();
+        run.insert("apple", 3);
+        print(run.sum("ap"));
+        run.insert("app", 2);
+        print(run.sum("ap"));
     }
 
     static void run678() {

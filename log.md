@@ -134,6 +134,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #639    | 解码方法 II                                | 困难 | 2021-09-27 | [力扣][P639]    | 本题有参考官方Java题解代码<br>[【解码方法 II】][S639]        |
 | #650    | 只有两个键的键盘                           | 中等 | 2021-09-19 | [力扣][P650]    |                                                              |
 | #673    | 最长递增子序列的个数                       | 中等 | 2021-09-20 | [力扣][P673]    | 本题有参考官方Java题解代码<br>[【最长递增子序列的个数】][S673]   |
+| #677    | 键值映射                                   | 中等 | 2021-11-14 | [力扣][P677]    |                                                              |
 | #678    | 有效的括号字符串                           | 中等 | 2021-09-12 | [力扣][P678]    |                                                              |
 | #704    | 二分查找                                   | 简单 | 2021-09-06 | [力扣][P704]    |                                                              |
 | #725    | 分隔链表                                   | 中等 | 2021-09-22 | [力扣][P725]    |                                                              |
@@ -407,6 +408,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P650]:https://leetcode-cn.com/problems/2-keys-keyboard/
 
 [P673]:https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/
+
+[P677]:https://leetcode-cn.com/problems/map-sum-pairs/
 
 [P678]:https://leetcode-cn.com/problems/valid-parenthesis-string/
 

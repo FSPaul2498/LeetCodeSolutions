@@ -232,6 +232,9 @@ public class MainInput {
             case 313:
                 run313();
                 break;
+            case 319:
+                run319();
+                break;
             case 326:
                 run326();
                 break;
@@ -1048,6 +1051,13 @@ public class MainInput {
         int[] primes = {2, 7, 13, 19};
         S313 run = new S313();
         int result = run.nthSuperUglyNumber(n, primes);
+        print(result);
+    }
+
+    static void run319() {
+        int n = 3;
+        S319 run = new S319();
+        int result = run.bulbSwitch(n);
         print(result);
     }
 

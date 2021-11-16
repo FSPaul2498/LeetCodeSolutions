@@ -256,6 +256,9 @@ public class MainInput {
             case 375:
                 run375();
                 break;
+            case 391:
+                run391();
+                break;
             case 405:
                 run405();
                 break;
@@ -1114,6 +1117,13 @@ public class MainInput {
         int n = 10;
         S375 run = new S375();
         int result = run.getMoneyAmount(n);
+        print(result);
+    }
+
+    static void run391() {
+        int[][] rectangles = {{1, 1, 3, 3}, {3, 1, 4, 2}, {3, 2, 4, 4}, {1, 3, 2, 4}, {2, 3, 3, 4}};
+        S391 run = new S391();
+        boolean result = run.isRectangleCover(rectangles);
         print(result);
     }
 

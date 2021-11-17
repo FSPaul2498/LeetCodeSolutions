@@ -83,6 +83,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #299    | 猜数字游戏                                 | 中等 | 2021-11-08 | [力扣][P299]    |                                                              |
 | #301    | 删除无效的括号                             | 困难 | 2021-10-27 | [力扣][P301]    | 本题有参考官方Java题解代码<br>[【删除无效的括号】][S301]     |
 | #313    | 超级丑数                                   | 中等 | 2021-08-09 | [力扣][P313]    | 本题有参考官方Java题解代码<br>[【超级丑数】][S313]           |
+| #318    | 最大单词长度乘积                           | 中等 | 2021-11-17 | [力扣][P318]    |                                                              |
 | #319    | 灯泡开关                                   | 中等 | 2021-11-15 | [力扣][P319]    |                                                              |
 | #326    | 3的幂                                      | 简单 | 2021-09-23 | [力扣][P326]    |                                                              |
 | #335    | 路径交叉                                   | 困难 | 2021-10-29 | [力扣][P335]    |                                                              |
@@ -308,6 +309,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P301]:https://leetcode-cn.com/problems/remove-invalid-parentheses/
 
 [P313]:https://leetcode-cn.com/problems/super-ugly-number/
+
+[P318]:https://leetcode-cn.com/problems/maximum-product-of-word-lengths/
 
 [P319]:https://leetcode-cn.com/problems/bulb-switcher/
 

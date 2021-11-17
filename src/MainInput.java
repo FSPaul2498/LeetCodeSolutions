@@ -232,6 +232,9 @@ public class MainInput {
             case 313:
                 run313();
                 break;
+            case 318:
+                run318();
+                break;
             case 319:
                 run319();
                 break;
@@ -1054,6 +1057,13 @@ public class MainInput {
         int[] primes = {2, 7, 13, 19};
         S313 run = new S313();
         int result = run.nthSuperUglyNumber(n, primes);
+        print(result);
+    }
+
+    static void run318() {
+        String[] words = {"abcw", "baz", "foo", "bar", "xtfn", "abcdef"};
+        S318 run = new S318();
+        int result = run.maxProduct(words);
         print(result);
     }
 

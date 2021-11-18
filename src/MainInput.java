@@ -358,6 +358,9 @@ public class MainInput {
             case 552:
                 run552();
                 break;
+            case 563:
+                run563();
+                break;
             case 575:
                 run575();
                 break;
@@ -1371,6 +1374,14 @@ public class MainInput {
         int n = 2;
         S552 run = new S552();
         int result = run.checkRecord(n);
+        print(result);
+    }
+
+    static void run563() {
+        String line = "[1,2,3]";
+        S563 run = new S563();
+        TreeNode root = TreeNode.stringToTreeNode(line);
+        int result = run.findTilt(root);
         print(result);
     }
 

@@ -125,6 +125,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #541    | 反转字符串 II                              | 简单 | 2021-08-20 | [力扣][P541]    |                                                              |
 | #551    | 学生出勤记录 I                             | 简单 | 2021-08-17 | [力扣][P551]    |                                                              |
 | #552    | 学生出勤记录 II                            | 困难 | 2021-08-18 | [力扣][P552]    | 本题有参考官方Java题解代码<br>[【学生出勤记录 II】][S552]    |
+| #563    | 二叉树的坡度                               | 简单 | 2021-11-18 | [力扣][P563]    |                                                              |
 | #575    | 分糖果                                     | 简单 | 2021-11-01 | [力扣][P575]    |                                                              |
 | #576    | 出界的路径数                               | 中等 | 2021-08-15 | [力扣][P576]    |                                                              |
 | #581    | 最短无序连续子数组                         | 中等 | 2021-08-03 | [力扣][P581]    |                                                              |
@@ -393,6 +394,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P551]:https://leetcode-cn.com/problems/student-attendance-record-i/
 
 [P552]:https://leetcode-cn.com/problems/student-attendance-record-ii/
+
+[P563]:https://leetcode-cn.com/problems/binary-tree-tilt/
 
 [P575]:https://leetcode-cn.com/problems/distribute-candies/
 

@@ -262,6 +262,9 @@ public class MainInput {
             case 391:
                 run391();
                 break;
+            case 397:
+                run397();
+                break;
             case 405:
                 run405();
                 break;
@@ -1137,6 +1140,13 @@ public class MainInput {
         int[][] rectangles = {{1, 1, 3, 3}, {3, 1, 4, 2}, {3, 2, 4, 4}, {1, 3, 2, 4}, {2, 3, 3, 4}};
         S391 run = new S391();
         boolean result = run.isRectangleCover(rectangles);
+        print(result);
+    }
+
+    static void run397() {
+        int n = 8;
+        S397 run = new S397();
+        int result = run.integerReplacement(n);
         print(result);
     }
 

@@ -93,6 +93,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #371    | 两整数之和                                 | 中等 | 2021-09-26 | [力扣][P371]    |                                                              |
 | #375    | 猜数字大小 II                              | 中等 | 2021-11-12 | [力扣][P375]    |                                                              |
 | #391    | 完美矩形                                   | 困难 | 2021-11-16 | [力扣][P391]    |                                                              |
+| #397    | 整数替换                                   | 中等 | 2021-11-19 | [力扣][P397]    |                                                              |
 | #405    | 数字转换为十六进制数                       | 简单 | 2021-10-02 | [力扣][P405]    |                                                              |
 | #407    | 接雨水 II                                  | 困难 | 2021-11-03 | [力扣][P407]    | 本题有参考官方Java题解代码<br>[【接雨水 II】][S407]          |
 | #412    | Fizz Buzz                                  | 简单 | 2021-10-13 | [力扣][P412]    |                                                              |
@@ -330,6 +331,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P375]:https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/
 
 [P391]:https://leetcode-cn.com/problems/perfect-rectangle/
+
+[P397]:https://leetcode-cn.com/problems/integer-replacement/
 
 [P405]:https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/
 

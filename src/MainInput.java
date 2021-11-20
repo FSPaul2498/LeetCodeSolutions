@@ -376,6 +376,9 @@ public class MainInput {
             case 583:
                 run583();
                 break;
+            case 594:
+                run594();
+                break;
             case 598:
                 run598();
                 break;
@@ -1420,6 +1423,13 @@ public class MainInput {
         String word1 = "sea", word2 = "eat";
         S583 run = new S583();
         int result = run.minDistance(word1, word2);
+        print(result);
+    }
+
+    static void run594() {
+        int[] nums = {1, 3, 2, 2, 5, 2, 3, 7};
+        S594 run = new S594();
+        int result = run.findLHS(nums);
         print(result);
     }
 

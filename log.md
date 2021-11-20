@@ -131,6 +131,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #576    | 出界的路径数                               | 中等 | 2021-08-15 | [力扣][P576]    |                                                              |
 | #581    | 最短无序连续子数组                         | 中等 | 2021-08-03 | [力扣][P581]    |                                                              |
 | #583    | 两个字符串的删除操作                       | 中等 | 2021-09-25 | [力扣][P583]    | 本题有参考官方Java题解代码<br>[【两个字符串的删除操作】][S583]   |
+| #594    | 最长和谐子序列                             | 简单 | 2021-11-20 | [力扣][P594]    |                                                              |
 | #598    | 范围求和 II                                | 简单 | 2021-11-07 | [力扣][P598]    |                                                              |
 | #600    | 不含连续1的非负整数                        | 困难 | 2021-09-11 | [力扣][P600]    |                                                              |
 | #611    | 有效三角形的个数                           | 中等 | 2021-08-04 | [力扣][P611]    |                                                              |
@@ -407,6 +408,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P581]:https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
 
 [P583]:https://leetcode-cn.com/problems/delete-operation-for-two-strings/
+
+[P594]:https://leetcode-cn.com/problems/longest-harmonious-subsequence/
 
 [P598]:https://leetcode-cn.com/problems/range-addition-ii/
 

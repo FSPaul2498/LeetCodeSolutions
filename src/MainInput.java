@@ -361,6 +361,9 @@ public class MainInput {
             case 552:
                 run552();
                 break;
+            case 559:
+                run559();
+                break;
             case 563:
                 run563();
                 break;
@@ -1387,6 +1390,14 @@ public class MainInput {
         int n = 2;
         S552 run = new S552();
         int result = run.checkRecord(n);
+        print(result);
+    }
+
+    static void run559() {
+        String line = "[1,null,3,2,4,null,5,6]";
+        S559 run = new S559();
+        NaryTreeNode root = NaryTreeNode.stringToTreeNode(line);
+        int result = run.maxDepth(root);
         print(result);
     }
 

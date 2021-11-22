@@ -259,6 +259,9 @@ public class MainInput {
             case 375:
                 run375();
                 break;
+            case 384:
+                run384();
+                break;
             case 391:
                 run391();
                 break;
@@ -1140,6 +1143,14 @@ public class MainInput {
         S375 run = new S375();
         int result = run.getMoneyAmount(n);
         print(result);
+    }
+
+    static void run384() {
+        int[] nums = {1, 2, 3};
+        S384 run = new S384(nums);
+        print(run.shuffle());
+        print(run.reset());
+        print(run.shuffle());
     }
 
     static void run391() {

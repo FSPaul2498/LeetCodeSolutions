@@ -92,6 +92,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #367    | 有效的完全平方数                           | 简单 | 2021-11-04 | [力扣][P367]    |                                                              |
 | #371    | 两整数之和                                 | 中等 | 2021-09-26 | [力扣][P371]    |                                                              |
 | #375    | 猜数字大小 II                              | 中等 | 2021-11-12 | [力扣][P375]    |                                                              |
+| #384    | 打乱数组                                   | 中等 | 2021-11-22 | [力扣][P384]    |                                                              |
 | #391    | 完美矩形                                   | 困难 | 2021-11-16 | [力扣][P391]    |                                                              |
 | #397    | 整数替换                                   | 中等 | 2021-11-19 | [力扣][P397]    |                                                              |
 | #405    | 数字转换为十六进制数                       | 简单 | 2021-10-02 | [力扣][P405]    |                                                              |
@@ -331,6 +332,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P371]:https://leetcode-cn.com/problems/sum-of-two-integers/
 
 [P375]:https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/
+
+[P384]:https://leetcode-cn.com/problems/shuffle-an-array/
 
 [P391]:https://leetcode-cn.com/problems/perfect-rectangle/
 

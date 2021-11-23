@@ -152,6 +152,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #797    | 所有可能的路径                             | 中等 | 2021-08-25 | [力扣][P797]    |                                                              |
 | #802    | 找到最终的安全状态                         | 中等 | 2021-08-05 | [力扣][P802]    |                                                              |
 | #847    | 访问所有节点的最短路径                     | 困难 | 2021-08-06 | [力扣][P847]    | 本题有参考官方Java题解代码<br>[【访问所有节点的最短路径】][S847] |
+| #859    | 亲密字符串                                 | 简单 | 2021-11-23 | [力扣][P859]    |                                                              |
 | #869    | 重新排序得到 2 的幂                        | 中等 | 2021-10-28 | [力扣][P869]    | 本题有参考官方Java题解代码<br>[【重新排序得到 2 的幂】][S869] |
 | #881    | 救生艇                                     | 中等 | 2021-08-26 | [力扣][P881]    |                                                              |
 | #1009   | 十进制整数的反码                           | 简单 | 2021-10-18 | [力扣][P1009]   |                                                              |
@@ -452,6 +453,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P802]:https://leetcode-cn.com/problems/find-eventual-safe-states/
 
 [P847]:https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/
+
+[P859]:https://leetcode-cn.com/problems/buddy-strings/
 
 [P869]:https://leetcode-cn.com/problems/reordered-power-of-2/
 

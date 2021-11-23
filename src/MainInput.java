@@ -439,6 +439,9 @@ public class MainInput {
             case 847:
                 run847();
                 break;
+            case 859:
+                run859();
+                break;
             case 869:
                 run869();
                 break;
@@ -1590,6 +1593,13 @@ public class MainInput {
         int[][] graph = {{1, 2, 3}, {0}, {0}, {0}};
         S847 run = new S847();
         int result = run.shortestPathLength(graph);
+        print(result);
+    }
+
+    static void run859() {
+        String s = "ab", goal = "ba";
+        S859 run = new S859();
+        boolean result = run.buddyStrings(s, goal);
         print(result);
     }
 

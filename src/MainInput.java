@@ -283,6 +283,9 @@ public class MainInput {
             case 414:
                 run414();
                 break;
+            case 423:
+                run423();
+                break;
             case 430:
                 run430();
                 break;
@@ -1202,6 +1205,13 @@ public class MainInput {
         int[] nums = {3, 2, 1};
         S414 run = new S414();
         int result = run.thirdMax(nums);
+        print(result);
+    }
+
+    static void run423() {
+        String s = "owoztneoer";
+        S423 run = new S423();
+        String result = run.originalDigits(s);
         print(result);
     }
 

@@ -100,6 +100,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #412    | Fizz Buzz                                  | 简单 | 2021-10-13 | [力扣][P412]    |                                                              |
 | #413    | 等差数列划分                               | 中等 | 2021-08-10 | [力扣][P413]    |                                                              |
 | #414    | 第三大的数                                 | 简单 | 2021-10-06 | [力扣][P414]    |                                                              |
+| #423    | 从英文中重建数字                           | 中等 | 2021-11-24 | [力扣][P423]    |                                                              |
 | #430    | 扁平化多级双向链表                         | 中等 | 2021-09-24 | [力扣][P430]    |                                                              |
 | #434    | 字符串中的单词数                           | 简单 | 2021-10-07 | [力扣][P434]    |                                                              |
 | #437    | 路径总和 III                               | 中等 | 2021-09-28 | [力扣][P437]    | 本题有参考官方Java题解代码<br>[【路径总和 III】][S437]       |
@@ -349,6 +350,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P413]:https://leetcode-cn.com/problems/arithmetic-slices/
 
 [P414]:https://leetcode-cn.com/problems/third-maximum-number/
+
+[P423]:https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/
 
 [P430]:https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
 

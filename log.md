@@ -110,6 +110,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #447    | 回旋镖的数量                               | 中等 | 2021-09-13 | [力扣][P447]    |                                                              |
 | #453    | 最小操作次数使数组元素相等                 | 简单 | 2021-10-20 | [力扣][P453]    |                                                              |
 | #457    | 环形数组是否存在循环                       | 中等 | 2021-08-07 | [力扣][P457]    |                                                              |
+| #458    | 可怜的小猪                                 | 困难 | 2021-11-25 | [力扣][P458]    |                                                              |
 | #470    | 用 Rand7() 实现 Rand10()                   | 中等 | 2021-09-05 | [力扣][P470]    |                                                              |
 | #476    | 数字的补数                                 | 简单 | 2021-10-18 | [力扣][P476]    |                                                              |
 | #482    | 密钥格式化                                 | 简单 | 2021-10-04 | [力扣][P482]    |                                                              |
@@ -370,6 +371,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P453]:https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/
 
 [P457]:https://leetcode-cn.com/problems/circular-array-loop/
+
+[P458]:https://leetcode-cn.com/problems/poor-pigs/
 
 [P470]:https://leetcode-cn.com/problems/implement-rand10-using-rand7/
 

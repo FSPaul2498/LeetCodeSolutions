@@ -313,6 +313,9 @@ public class MainInput {
             case 457:
                 run457();
                 break;
+            case 458:
+                run458();
+                break;
             case 470:
                 run470();
                 break;
@@ -1278,6 +1281,13 @@ public class MainInput {
         int[] nums = {2, -1, 1, 2, 2};
         S457 run = new S457();
         boolean result = run.circularArrayLoop(nums);
+        print(result);
+    }
+
+    static void run458() {
+        int buckets = 1000, minutesToDie = 15, minutesToTest = 60;
+        S458 run = new S458();
+        int result = run.poorPigs(buckets, minutesToDie, minutesToTest);
         print(result);
     }
 

@@ -421,6 +421,9 @@ public class MainInput {
             case 678:
                 run678();
                 break;
+            case 700:
+                run700();
+                break;
             case 704:
                 run704();
                 break;
@@ -1552,6 +1555,14 @@ public class MainInput {
         S678 run = new S678();
         boolean result = run.checkValidString(s);
         print(result);
+    }
+
+    static void run700() {
+        String line = "[4,2,7,1,3]";
+        S700 run = new S700();
+        TreeNode root = TreeNode.stringToTreeNode(line);
+        TreeNode result = run.searchBST(root, 2);
+        print(result == null ? "null" : String.valueOf(result.val));
     }
 
     static void run704() {

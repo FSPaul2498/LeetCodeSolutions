@@ -349,6 +349,9 @@ public class MainInput {
             case 517:
                 run517();
                 break;
+            case 519:
+                run519();
+                break;
             case 520:
                 run520();
                 break;
@@ -1374,6 +1377,15 @@ public class MainInput {
         S517 run = new S517();
         int result = run.findMinMoves(machines);
         print(result);
+    }
+
+    static void run519() {
+        S519 run = new S519(3, 1);
+        print(run.flip());
+        print(run.flip());
+        print(run.flip());
+        run.reset();
+        print(run.flip());
     }
 
     static void run520() {

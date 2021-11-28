@@ -295,6 +295,9 @@ public class MainInput {
             case 437:
                 run437();
                 break;
+            case 438:
+                run438();
+                break;
             case 441:
                 run441();
                 break;
@@ -1244,6 +1247,13 @@ public class MainInput {
         S437 run = new S437();
         TreeNode root = TreeNode.stringToTreeNode(line);
         int result = run.pathSum(root, targetSum);
+        print(result);
+    }
+
+    static void run438() {
+        String s = "cbaebabacd", p = "abc";
+        S438 run = new S438();
+        List<Integer> result = run.findAnagrams(s, p);
         print(result);
     }
 

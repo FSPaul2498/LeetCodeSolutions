@@ -439,6 +439,9 @@ public class MainInput {
             case 743:
                 run743();
                 break;
+            case 786:
+                run786();
+                break;
             case 787:
                 run787();
                 break;
@@ -1609,6 +1612,14 @@ public class MainInput {
         int n = 4, k = 2;
         S743 run = new S743();
         int result = run.networkDelayTime(times, n, k);
+        print(result);
+    }
+
+    static void run786() {
+        int[] arr = {1, 2, 3, 5};
+        int k = 9;
+        S786 run = new S786();
+        int[] result = run.kthSmallestPrimeFraction(arr, k);
         print(result);
     }
 

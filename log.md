@@ -152,6 +152,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #704    | 二分查找                                   | 简单 | 2021-09-06 | [力扣][P704]    |                                                              |
 | #725    | 分隔链表                                   | 中等 | 2021-09-22 | [力扣][P725]    |                                                              |
 | #743    | 网络延迟时间                               | 中等 | 2021-08-02 | [力扣][P743]    |                                                              |
+| #786    | 第 K 个最小的素数分数                      | 困难 | 2021-11-29 | [力扣][P786]    |                                                              |
 | #787    | K 站中转内最便宜的航班                     | 中等 | 2021-08-24 | [力扣][P787]    | 本题有参考官方Java题解代码<br>[【K 站中转内最便宜的航班】][S787] |
 | #789    | 逃脱阻碍者                                 | 中等 | 2021-08-22 | [力扣][P789]    |                                                              |
 | #797    | 所有可能的路径                             | 中等 | 2021-08-25 | [力扣][P797]    |                                                              |
@@ -458,6 +459,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P725]:https://leetcode-cn.com/problems/split-linked-list-in-parts/
 
 [P743]:https://leetcode-cn.com/problems/network-delay-time/
+
+[P786]:https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/
 
 [P787]:https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/
 

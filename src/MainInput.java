@@ -268,6 +268,9 @@ public class MainInput {
             case 397:
                 run397();
                 break;
+            case 400:
+                run400();
+                break;
             case 405:
                 run405();
                 break;
@@ -1185,6 +1188,13 @@ public class MainInput {
         int n = 8;
         S397 run = new S397();
         int result = run.integerReplacement(n);
+        print(result);
+    }
+
+    static void run400() {
+        int n = 3;
+        S400 run = new S400();
+        int result = run.findNthDigit(n);
         print(result);
     }
 

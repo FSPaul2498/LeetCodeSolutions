@@ -95,6 +95,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #384    | 打乱数组                                   | 中等 | 2021-11-22 | [力扣][P384]    |                                                              |
 | #391    | 完美矩形                                   | 困难 | 2021-11-16 | [力扣][P391]    |                                                              |
 | #397    | 整数替换                                   | 中等 | 2021-11-19 | [力扣][P397]    |                                                              |
+| #400    | 第 N 位数字                                | 中等 | 2021-11-30 | [力扣][P400]    |                                                              |
 | #405    | 数字转换为十六进制数                       | 简单 | 2021-10-02 | [力扣][P405]    |                                                              |
 | #407    | 接雨水 II                                  | 困难 | 2021-11-03 | [力扣][P407]    | 本题有参考官方Java题解代码<br>[【接雨水 II】][S407]          |
 | #412    | Fizz Buzz                                  | 简单 | 2021-10-13 | [力扣][P412]    |                                                              |
@@ -345,6 +346,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P391]:https://leetcode-cn.com/problems/perfect-rectangle/
 
 [P397]:https://leetcode-cn.com/problems/integer-replacement/
+
+[P400]:https://leetcode-cn.com/problems/nth-digit/
 
 [P405]:https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/
 

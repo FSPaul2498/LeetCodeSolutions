@@ -490,6 +490,9 @@ public class MainInput {
             case 1436:
                 run1436();
                 break;
+            case 1446:
+                run1446();
+                break;
             case 1480:
                 run1480();
                 break;
@@ -1747,6 +1750,13 @@ public class MainInput {
         S1436 run = new S1436();
         String result = run.destCity(paths);
         print("Test Env Sample Not Ready");
+    }
+
+    static void run1446() {
+        String s = "leetcode";
+        S1446 run = new S1446();
+        int result = run.maxPower(s);
+        print(result);
     }
 
     static void run1480() {

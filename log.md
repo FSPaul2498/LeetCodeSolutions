@@ -122,6 +122,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #496    | 下一个更大元素 I                           | 简单 | 2021-10-26 | [力扣][P496]    |                                                              |
 | #500    | 键盘行                                     | 简单 | 2021-10-31 | [力扣][P500]    |                                                              |
 | #502    | IPO                                        | 困难 | 2021-09-08 | [力扣][P502]    |                                                              |
+| #506    | 相对名次                                   | 简单 | 2021-12-02 | [力扣][P506]    |                                                              |
 | #516    | 最长回文子序列                             | 中等 | 2021-08-12 | [力扣][P516]    |                                                              |
 | #517    | 超级洗衣机                                 | 困难 | 2021-09-29 | [力扣][P517]    |                                                              |
 | #519    | 随机翻转矩阵                               | 中等 | 2021-11-27 | [力扣][P519]    |                                                              |
@@ -401,6 +402,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P500]:https://leetcode-cn.com/problems/keyboard-row/
 
 [P502]:https://leetcode-cn.com/problems/ipo/
+
+[P506]:https://leetcode-cn.com/problems/relative-ranks/
 
 [P516]:https://leetcode-cn.com/problems/longest-palindromic-subsequence/
 

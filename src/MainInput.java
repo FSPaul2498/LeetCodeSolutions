@@ -349,6 +349,9 @@ public class MainInput {
             case 502:
                 run502();
                 break;
+            case 506:
+                run506();
+                break;
             case 516:
                 run516();
                 break;
@@ -1388,6 +1391,13 @@ public class MainInput {
         int[] profits = {1, 2, 3}, capital = {0, 1, 1};
         S502 run = new S502();
         int result = run.findMaximizedCapital(k, w, profits, capital);
+        print(result);
+    }
+
+    static void run506() {
+        int[] score = {5, 4, 3, 2, 1};
+        S506 run = new S506();
+        String[] result = run.findRelativeRanks(score);
         print(result);
     }
 

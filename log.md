@@ -163,6 +163,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #859    | 亲密字符串                                 | 简单 | 2021-11-23 | [力扣][P859]    |                                                              |
 | #869    | 重新排序得到 2 的幂                        | 中等 | 2021-10-28 | [力扣][P869]    | 本题有参考官方Java题解代码<br>[【重新排序得到 2 的幂】][S869] |
 | #881    | 救生艇                                     | 中等 | 2021-08-26 | [力扣][P881]    |                                                              |
+| #1005   | K 次取反后最大化的数组和                   | 简单 | 2021-12-03 | [力扣][P1005]   |                                                              |
 | #1009   | 十进制整数的反码                           | 简单 | 2021-10-18 | [力扣][P1009]   |                                                              |
 | #1109   | 航班预订统计                               | 中等 | 2021-08-31 | [力扣][P1109]   |                                                              |
 | #1137   | 第 N 个泰波那契数                          | 简单 | 2021-08-08 | [力扣][P1137]   |                                                              |
@@ -484,6 +485,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P869]:https://leetcode-cn.com/problems/reordered-power-of-2/
 
 [P881]:https://leetcode-cn.com/problems/boats-to-save-people/
+
+[P1005]:https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/
 
 [P1009]:https://leetcode-cn.com/problems/complement-of-base-10-integer/
 

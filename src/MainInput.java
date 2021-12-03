@@ -472,6 +472,9 @@ public class MainInput {
             case 881:
                 run881();
                 break;
+            case 1005:
+                run1005();
+                break;
             case 1009:
                 run1009();
                 break;
@@ -1702,6 +1705,14 @@ public class MainInput {
         int limit = 3;
         S881 run = new S881();
         int result = run.numRescueBoats(people, limit);
+        print(result);
+    }
+
+    static void run1005() {
+        int[] nums = {4, 2, 3};
+        int k = 1;
+        S1005 run = new S1005();
+        int result = run.largestSumAfterKNegations(nums, k);
         print(result);
     }
 

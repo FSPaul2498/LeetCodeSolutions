@@ -259,6 +259,9 @@ public class MainInput {
             case 375:
                 run375();
                 break;
+            case 383:
+                run383();
+                break;
             case 384:
                 run384();
                 break;
@@ -1175,6 +1178,13 @@ public class MainInput {
         int n = 10;
         S375 run = new S375();
         int result = run.getMoneyAmount(n);
+        print(result);
+    }
+
+    static void run383() {
+        String ransomNote = "a", magazine = "b";
+        S383 run = new S383();
+        boolean result = run.canConstruct(ransomNote, magazine);
         print(result);
     }
 

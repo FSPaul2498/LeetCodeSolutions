@@ -256,6 +256,9 @@ public class MainInput {
             case 371:
                 run371();
                 break;
+            case 372:
+                run372();
+                break;
             case 375:
                 run375();
                 break;
@@ -1171,6 +1174,14 @@ public class MainInput {
         int a = 1, b = 2;
         S371 run = new S371();
         int result = run.getSum(a, b);
+        print(result);
+    }
+
+    static void run372() {
+        int a = 2;
+        int[] b = {3};
+        S372 run = new S372();
+        int result = run.superPow(a, b);
         print(result);
     }
 

@@ -517,6 +517,9 @@ public class MainInput {
             case 1646:
                 run1646();
                 break;
+            case 1816:
+                run1816();
+                break;
             case 1894:
                 run1894();
                 break;
@@ -1828,6 +1831,14 @@ public class MainInput {
         int n = 7;
         S1646 run = new S1646();
         int result = run.getMaximumGenerated(n);
+        print(result);
+    }
+
+    static void run1816() {
+        String s = "Hello how are you Contestant";
+        int k = 4;
+        S1816 run = new S1816();
+        String result = run.truncateSentence(s, k);
         print(result);
     }
 

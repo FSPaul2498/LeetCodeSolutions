@@ -484,6 +484,9 @@ public class MainInput {
             case 1009:
                 run1009();
                 break;
+            case 1034:
+                run1034();
+                break;
             case 1109:
                 run1109();
                 break;
@@ -1744,6 +1747,14 @@ public class MainInput {
         int n = 5;
         S1009 run = new S1009();
         int result = run.bitwiseComplement(n);
+        print(result);
+    }
+
+    static void run1034() {
+        int[][] grid = {{1, 1}, {1, 2}};
+        int row = 0, col = 0, color = 3;
+        S1034 run = new S1034();
+        int[][] result = run.colorBorder(grid, row, col, color);
         print(result);
     }
 

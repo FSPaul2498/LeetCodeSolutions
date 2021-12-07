@@ -167,6 +167,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #881    | 救生艇                                     | 中等 | 2021-08-26 | [力扣][P881]    |                                                              |
 | #1005   | K 次取反后最大化的数组和                   | 简单 | 2021-12-03 | [力扣][P1005]   |                                                              |
 | #1009   | 十进制整数的反码                           | 简单 | 2021-10-18 | [力扣][P1009]   |                                                              |
+| #1034   | 边界着色                                   | 中等 | 2021-12-07 | [力扣][P1034]   | 本题有参考官方Java题解代码<br>[【边界着色】][S1034]          |
 | #1109   | 航班预订统计                               | 中等 | 2021-08-31 | [力扣][P1109]   |                                                              |
 | #1137   | 第 N 个泰波那契数                          | 简单 | 2021-08-08 | [力扣][P1137]   |                                                              |
 | #1218   | 最长定差子序列                             | 中等 | 2021-11-05 | [力扣][P1218]   |                                                              |
@@ -497,6 +498,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P1009]:https://leetcode-cn.com/problems/complement-of-base-10-integer/
 
+[P1034]:https://leetcode-cn.com/problems/coloring-a-border/
+
 [P1109]:https://leetcode-cn.com/problems/corporate-flight-bookings/
 
 [P1137]:https://leetcode-cn.com/problems/n-th-tribonacci-number/
@@ -580,6 +583,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S847]:https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/solution/fang-wen-suo-you-jie-dian-de-zui-duan-lu-mqc2/
 
 [S869]:https://leetcode-cn.com/problems/reordered-power-of-2/solution/zhong-xin-pai-xu-de-dao-2-de-mi-by-leetc-4fvs/
+
+[S1034]:https://leetcode-cn.com/problems/coloring-a-border/solution/bian-kuang-zhao-se-by-leetcode-solution-0h5l/
 
 [S1588]:https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/solution/gong-shui-san-xie-yi-ti-shuang-jie-qian-18jq3/
 

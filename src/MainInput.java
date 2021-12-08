@@ -439,6 +439,9 @@ public class MainInput {
             case 678:
                 run678();
                 break;
+            case 689:
+                run689();
+                break;
             case 700:
                 run700();
                 break;
@@ -1632,6 +1635,14 @@ public class MainInput {
         String s = "()";
         S678 run = new S678();
         boolean result = run.checkValidString(s);
+        print(result);
+    }
+
+    static void run689() {
+        int[] nums = {1, 2, 1, 2, 6, 7, 5, 1};
+        int k = 2;
+        S689 run = new S689();
+        int[] result = run.maxSumOfThreeSubarrays(nums, k);
         print(result);
     }
 

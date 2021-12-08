@@ -152,6 +152,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #673    | 最长递增子序列的个数                       | 中等 | 2021-09-20 | [力扣][P673]    | 本题有参考官方Java题解代码<br>[【最长递增子序列的个数】][S673]   |
 | #677    | 键值映射                                   | 中等 | 2021-11-14 | [力扣][P677]    |                                                              |
 | #678    | 有效的括号字符串                           | 中等 | 2021-09-12 | [力扣][P678]    |                                                              |
+| #689    | 三个无重叠子数组的最大和                   | 困难 | 2021-12-08 | [力扣][P689]    | 本题有参考官方Java题解代码<br>[【三个无重叠子数组的最大和】][S689] |
 | #700    | 二叉搜索树中的搜索                         | 简单 | 2021-11-26 | [力扣][P700]    |                                                              |
 | #704    | 二分查找                                   | 简单 | 2021-09-06 | [力扣][P704]    |                                                              |
 | #725    | 分隔链表                                   | 中等 | 2021-09-22 | [力扣][P725]    |                                                              |
@@ -468,6 +469,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P678]:https://leetcode-cn.com/problems/valid-parenthesis-string/
 
+[P689]:https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+
 [P700]:https://leetcode-cn.com/problems/search-in-a-binary-search-tree/
 
 [P704]:https://leetcode-cn.com/problems/binary-search/
@@ -577,6 +580,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S639]:https://leetcode-cn.com/problems/decode-ways-ii/solution/jie-ma-fang-fa-ii-by-leetcode-solution-23af/
 
 [S673]:https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/solution/zui-chang-di-zeng-zi-xu-lie-de-ge-shu-by-w12f/
+
+[S689]:https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/solution/san-ge-wu-zhong-die-zi-shu-zu-de-zui-da-4a8lb/
 
 [S787]:https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/solution/k-zhan-zhong-zhuan-nei-zui-bian-yi-de-ha-abzi/
 

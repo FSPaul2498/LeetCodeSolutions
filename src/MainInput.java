@@ -463,6 +463,9 @@ public class MainInput {
             case 789:
                 run789();
                 break;
+            case 794:
+                run794();
+                break;
             case 797:
                 run797();
                 break;
@@ -1700,6 +1703,13 @@ public class MainInput {
         int[] target = {0, 1};
         S789 run = new S789();
         boolean result = run.escapeGhosts(ghosts, target);
+        print(result);
+    }
+
+    static void run794() {
+        String[] board = {"O  ", "   ", "   "};
+        S794 run = new S794();
+        boolean result = run.validTicTacToe(board);
         print(result);
     }
 

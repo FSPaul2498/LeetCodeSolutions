@@ -160,6 +160,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #786    | 第 K 个最小的素数分数                      | 困难 | 2021-11-29 | [力扣][P786]    |                                                              |
 | #787    | K 站中转内最便宜的航班                     | 中等 | 2021-08-24 | [力扣][P787]    | 本题有参考官方Java题解代码<br>[【K 站中转内最便宜的航班】][S787] |
 | #789    | 逃脱阻碍者                                 | 中等 | 2021-08-22 | [力扣][P789]    |                                                              |
+| #794    | 有效的井字游戏                             | 中等 | 2021-12-09 | [力扣][P794]    |                                                              |
 | #797    | 所有可能的路径                             | 中等 | 2021-08-25 | [力扣][P797]    |                                                              |
 | #802    | 找到最终的安全状态                         | 中等 | 2021-08-05 | [力扣][P802]    |                                                              |
 | #847    | 访问所有节点的最短路径                     | 困难 | 2021-08-06 | [力扣][P847]    | 本题有参考官方Java题解代码<br>[【访问所有节点的最短路径】][S847] |
@@ -484,6 +485,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P787]:https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/
 
 [P789]:https://leetcode-cn.com/problems/escape-the-ghosts/
+
+[P794]:https://leetcode-cn.com/problems/valid-tic-tac-toe-state/
 
 [P797]:https://leetcode-cn.com/problems/all-paths-from-source-to-target/
 

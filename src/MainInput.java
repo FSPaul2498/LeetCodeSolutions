@@ -454,6 +454,9 @@ public class MainInput {
             case 743:
                 run743();
                 break;
+            case 748:
+                run748();
+                break;
             case 786:
                 run786();
                 break;
@@ -1679,6 +1682,14 @@ public class MainInput {
         int n = 4, k = 2;
         S743 run = new S743();
         int result = run.networkDelayTime(times, n, k);
+        print(result);
+    }
+
+    static void run748() {
+        String licensePlate = "1s3 PSt";
+        String[] words = {"step", "steps", "stripe", "stepple"};
+        S748 run = new S748();
+        String result = run.shortestCompletingWord(licensePlate, words);
         print(result);
     }
 

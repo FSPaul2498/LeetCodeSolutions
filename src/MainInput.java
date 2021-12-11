@@ -487,6 +487,9 @@ public class MainInput {
             case 881:
                 run881();
                 break;
+            case 911:
+                run911();
+                break;
             case 1005:
                 run1005();
                 break;
@@ -1765,6 +1768,17 @@ public class MainInput {
         S881 run = new S881();
         int result = run.numRescueBoats(people, limit);
         print(result);
+    }
+
+    static void run911() {
+        int[] persons = {0, 1, 1, 0, 0, 1, 0}, times = {0, 5, 10, 15, 20, 25, 30};
+        TopVotedCandidate run = new TopVotedCandidate(persons, times);
+        print(run.q(3));
+        print(run.q(12));
+        print(run.q(25));
+        print(run.q(15));
+        print(run.q(24));
+        print(run.q(8));
     }
 
     static void run1005() {

@@ -448,6 +448,9 @@ public class MainInput {
             case 704:
                 run704();
                 break;
+            case 709:
+                run709();
+                break;
             case 725:
                 run725();
                 break;
@@ -1668,6 +1671,13 @@ public class MainInput {
         int target = 9;
         S704 run = new S704();
         int result = run.search(nums, target);
+        print(result);
+    }
+
+    static void run709() {
+        String s = "Hello";
+        S709 run = new S709();
+        String result = run.toLowerCase(s);
         print(result);
     }
 

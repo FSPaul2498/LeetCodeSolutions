@@ -478,6 +478,9 @@ public class MainInput {
             case 802:
                 run802();
                 break;
+            case 807:
+                run807();
+                break;
             case 847:
                 run847();
                 break;
@@ -1748,6 +1751,13 @@ public class MainInput {
         int[][] graph = {{1, 2}, {2, 3}, {5}, {0}, {5}, {}, {}};
         S802 run = new S802();
         List<Integer> result = run.eventualSafeNodes(graph);
+        print(result);
+    }
+
+    static void run807() {
+        int[][] grid = {{3, 0, 8, 4}, {2, 4, 5, 7}, {9, 2, 6, 3}, {0, 3, 1, 0}};
+        S807 run = new S807();
+        int result = run.maxIncreaseKeepingSkyline(grid);
         print(result);
     }
 

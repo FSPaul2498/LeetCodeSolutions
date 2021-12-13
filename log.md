@@ -165,6 +165,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #794    | 有效的井字游戏                             | 中等 | 2021-12-09 | [力扣][P794]    |                                                              |
 | #797    | 所有可能的路径                             | 中等 | 2021-08-25 | [力扣][P797]    |                                                              |
 | #802    | 找到最终的安全状态                         | 中等 | 2021-08-05 | [力扣][P802]    |                                                              |
+| #807    | 保持城市天际线                             | 中等 | 2021-12-13 | [力扣][P807]    |                                                              |
 | #847    | 访问所有节点的最短路径                     | 困难 | 2021-08-06 | [力扣][P847]    | 本题有参考官方Java题解代码<br>[【访问所有节点的最短路径】][S847] |
 | #859    | 亲密字符串                                 | 简单 | 2021-11-23 | [力扣][P859]    |                                                              |
 | #869    | 重新排序得到 2 的幂                        | 中等 | 2021-10-28 | [力扣][P869]    | 本题有参考官方Java题解代码<br>[【重新排序得到 2 的幂】][S869] |
@@ -498,6 +499,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P797]:https://leetcode-cn.com/problems/all-paths-from-source-to-target/
 
 [P802]:https://leetcode-cn.com/problems/find-eventual-safe-states/
+
+[P807]:https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/
 
 [P847]:https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/
 

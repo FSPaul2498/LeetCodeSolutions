@@ -146,6 +146,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #600    | 不含连续1的非负整数                        | 困难 | 2021-09-11 | [力扣][P600]    |                                                              |
 | #611    | 有效三角形的个数                           | 中等 | 2021-08-04 | [力扣][P611]    |                                                              |
 | #629    | K个逆序对数组                              | 困难 | 2021-11-11 | [力扣][P629]    | 本题有参考官方Java题解代码<br>[【K个逆序对数组】][S629]      |
+| #630    | 课程表 III                                 | 困难 | 2021-12-14 | [力扣][P630]    | 本题有参考官方Java题解代码<br>[【课程表 III】][S630]         |
 | #638    | 大礼包                                     | 中等 | 2021-10-24 | [力扣][P638]    | 本题有参考官方Java题解代码<br>[【大礼包】][S638]             |
 | #639    | 解码方法 II                                | 困难 | 2021-09-27 | [力扣][P639]    | 本题有参考官方Java题解代码<br>[【解码方法 II】][S639]        |
 | #650    | 只有两个键的键盘                           | 中等 | 2021-09-19 | [力扣][P650]    |                                                              |
@@ -462,6 +463,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P629]:https://leetcode-cn.com/problems/k-inverse-pairs-array/
 
+[P630]:https://leetcode-cn.com/problems/course-schedule-iii/
+
 [P638]:https://leetcode-cn.com/problems/shopping-offers/
 
 [P639]:https://leetcode-cn.com/problems/decode-ways-ii/
@@ -589,6 +592,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S583]:https://leetcode-cn.com/problems/delete-operation-for-two-strings/solution/liang-ge-zi-fu-chuan-de-shan-chu-cao-zuo-14uw/
 
 [S629]:https://leetcode-cn.com/problems/k-inverse-pairs-array/solution/kge-ni-xu-dui-shu-zu-by-leetcode-solutio-0hkr/
+
+[S630]:https://leetcode-cn.com/problems/course-schedule-iii/solution/ke-cheng-biao-iii-by-leetcode-solution-yoyz/
 
 [S638]:https://leetcode-cn.com/problems/shopping-offers/solution/da-li-bao-by-leetcode-solution-p1ww/
 

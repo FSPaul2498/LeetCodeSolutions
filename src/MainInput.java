@@ -421,6 +421,9 @@ public class MainInput {
             case 629:
                 run629();
                 break;
+            case 630:
+                run630();
+                break;
             case 638:
                 run638();
                 break;
@@ -1603,6 +1606,13 @@ public class MainInput {
         int n = 3, k = 0;
         S629 run = new S629();
         int result = run.kInversePairs(n, k);
+        print(result);
+    }
+
+    static void run630() {
+        int[][] courses = {{100, 200}, {200, 1300}, {1000, 1250}, {2000, 3200}};
+        S630 run = new S630();
+        int result = run.scheduleCourse(courses);
         print(result);
     }
 

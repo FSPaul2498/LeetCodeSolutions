@@ -168,6 +168,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #802    | 找到最终的安全状态                         | 中等 | 2021-08-05 | [力扣][P802]    |                                                              |
 | #807    | 保持城市天际线                             | 中等 | 2021-12-13 | [力扣][P807]    |                                                              |
 | #847    | 访问所有节点的最短路径                     | 困难 | 2021-08-06 | [力扣][P847]    | 本题有参考官方Java题解代码<br>[【访问所有节点的最短路径】][S847] |
+| #851    | 喧闹和富有                                 | 中等 | 2021-12-15 | [力扣][P851]    |                                                              |
 | #859    | 亲密字符串                                 | 简单 | 2021-11-23 | [力扣][P859]    |                                                              |
 | #869    | 重新排序得到 2 的幂                        | 中等 | 2021-10-28 | [力扣][P869]    | 本题有参考官方Java题解代码<br>[【重新排序得到 2 的幂】][S869] |
 | #881    | 救生艇                                     | 中等 | 2021-08-26 | [力扣][P881]    |                                                              |
@@ -506,6 +507,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P807]:https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/
 
 [P847]:https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/
+
+[P851]:https://leetcode-cn.com/problems/loud-and-rich/
 
 [P859]:https://leetcode-cn.com/problems/buddy-strings/
 

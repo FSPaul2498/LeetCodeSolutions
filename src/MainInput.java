@@ -487,6 +487,9 @@ public class MainInput {
             case 847:
                 run847();
                 break;
+            case 851:
+                run851();
+                break;
             case 859:
                 run859();
                 break;
@@ -1775,6 +1778,14 @@ public class MainInput {
         int[][] graph = {{1, 2, 3}, {0}, {0}, {0}};
         S847 run = new S847();
         int result = run.shortestPathLength(graph);
+        print(result);
+    }
+
+    static void run851() {
+        int[][] richer = {{1, 0}, {2, 1}, {3, 1}, {3, 7}, {4, 3}, {5, 3}, {6, 3}};
+        int[] quiet = {3, 2, 5, 4, 6, 1, 7, 0};
+        S851 run = new S851();
+        int[] result = run.loudAndRich(richer, quiet);
         print(result);
     }
 

@@ -5,6 +5,7 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.stream.Collectors;
 
 public class MainInput {
     public static void main(String[] args) {
@@ -540,6 +541,9 @@ public class MainInput {
                 break;
             case 1588:
                 run1588();
+                break;
+            case 1610:
+                run1610();
                 break;
             case 1646:
                 run1646();
@@ -1925,6 +1929,17 @@ public class MainInput {
         print(result);
     }
 
+    static void run1610() {
+        int[][] ps = {{2, 1}, {2, 2}, {3, 3}};
+        List<List<Integer>> points = to2DArrayList(ps);
+        int angle = 90;
+        int[] loc = {1, 1};
+        List<Integer> location = toArrayList(loc);
+        S1610 run = new S1610();
+        int result = run.visiblePoints(points, angle, location);
+        print(result);
+    }
+
     static void run1646() {
         int n = 7;
         S1646 run = new S1646();
@@ -1977,6 +1992,17 @@ public class MainInput {
         SMS1714 run = new SMS1714();
         int[] result = run.smallestK(arr, k);
         print(result);
+    }
+
+    // Common Datatypes Converter
+    static List<Integer> toArrayList(int[] input) {
+        return Arrays.stream(input).boxed().collect(Collectors.toList());
+    }
+
+    static List<List<Integer>> to2DArrayList(int[][] input) {
+        List<List<Integer>> output = new ArrayList<>(input.length);
+        for (int[] i : input) output.add(toArrayList(i));
+        return output;
     }
 
     // Simplify System.out.println

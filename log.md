@@ -186,6 +186,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1480   | 一维数组的动态和                           | 简单 | 2021-08-28 | [力扣][P1480]   |                                                              |
 | #1583   | 统计不开心的朋友                           | 中等 | 2021-08-14 | [力扣][P1583]   |                                                              |
 | #1588   | 所有奇数长度子数组的和                     | 简单 | 2021-08-29 | [力扣][P1588]   | 本题有参考社区Java题解代码<br/>[【宫水三叶】一题双解 :「前缀和」&「数学」][S1588] |
+| #1610   | 可见点的最大数目                           | 困难 | 2021-12-16 | [力扣][P1610]   | 本题有参考官方Java题解代码<br>[【有效可见点的最大数目】][S1610] |
 | #1646   | 获取生成数组中的最大值                     | 简单 | 2021-08-23 | [力扣][P1646]   |                                                              |
 | #1816   | 截断句子                                   | 简单 | 2021-12-06 | [力扣][P1816]   |                                                              |
 | #1894   | 找到需要补充粉笔的学生编号                 | 中等 | 2021-09-10 | [力扣][P1894]   |                                                              |
@@ -544,6 +545,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P1588]:https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/
 
+[P1610]:https://leetcode-cn.com/problems/maximum-number-of-visible-points/
+
 [P1646]:https://leetcode-cn.com/problems/get-maximum-in-generated-array/
 
 [P1816]:https://leetcode-cn.com/problems/truncate-sentence/
@@ -616,3 +619,4 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [S1588]:https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/solution/gong-shui-san-xie-yi-ti-shuang-jie-qian-18jq3/
 
+[S1610]:https://leetcode-cn.com/problems/maximum-number-of-visible-points/solution/you-xiao-ke-jian-dian-de-zui-da-shu-mu-b-r1qz/

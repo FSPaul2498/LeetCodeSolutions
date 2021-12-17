@@ -536,6 +536,9 @@ public class MainInput {
             case 1480:
                 run1480();
                 break;
+            case 1518:
+                run1518();
+                break;
             case 1583:
                 run1583();
                 break;
@@ -1910,6 +1913,13 @@ public class MainInput {
         int[] nums = {1, 2, 3, 4};
         S1480 run = new S1480();
         int[] result = run.runningSum(nums);
+        print(result);
+    }
+
+    static void run1518() {
+        int numBottles = 9, numExchange = 3;
+        S1518 run = new S1518();
+        int result = run.numWaterBottles(numBottles, numExchange);
         print(result);
     }
 

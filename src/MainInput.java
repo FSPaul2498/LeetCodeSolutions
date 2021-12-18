@@ -293,6 +293,9 @@ public class MainInput {
             case 414:
                 run414();
                 break;
+            case 419:
+                run419();
+                break;
             case 423:
                 run423();
                 break;
@@ -1297,6 +1300,13 @@ public class MainInput {
         int[] nums = {3, 2, 1};
         S414 run = new S414();
         int result = run.thirdMax(nums);
+        print(result);
+    }
+
+    static void run419() {
+        char[][] board = {{'X', '.', '.', 'X'}, {'.', '.', '.', 'X'}, {'.', '.', '.', 'X'}};
+        S419 run = new S419();
+        int result = run.countBattleships(board);
         print(result);
     }
 

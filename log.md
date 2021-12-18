@@ -103,6 +103,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #412    | Fizz Buzz                                  | 简单 | 2021-10-13 | [力扣][P412]    |                                                              |
 | #413    | 等差数列划分                               | 中等 | 2021-08-10 | [力扣][P413]    |                                                              |
 | #414    | 第三大的数                                 | 简单 | 2021-10-06 | [力扣][P414]    |                                                              |
+| #419    | 甲板上的战舰                               | 中等 | 2021-12-18 | [力扣][P419]    |                                                              |
 | #423    | 从英文中重建数字                           | 中等 | 2021-11-24 | [力扣][P423]    |                                                              |
 | #430    | 扁平化多级双向链表                         | 中等 | 2021-09-24 | [力扣][P430]    |                                                              |
 | #434    | 字符串中的单词数                           | 简单 | 2021-10-07 | [力扣][P434]    |                                                              |
@@ -379,6 +380,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P413]:https://leetcode-cn.com/problems/arithmetic-slices/
 
 [P414]:https://leetcode-cn.com/problems/third-maximum-number/
+
+[P419]:https://leetcode-cn.com/problems/battleships-in-a-board/
 
 [P423]:https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/
 

@@ -174,6 +174,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #869    | 重新排序得到 2 的幂                        | 中等 | 2021-10-28 | [力扣][P869]    | 本题有参考官方Java题解代码<br>[【重新排序得到 2 的幂】][S869] |
 | #881    | 救生艇                                     | 中等 | 2021-08-26 | [力扣][P881]    |                                                              |
 | #911    | 在线选举                                   | 中等 | 2021-12-11 | [力扣][P911]    |                                                              |
+| #997    | 找到小镇的法官                             | 简单 | 2021-12-19 | [力扣][P997]    |                                                              |
 | #1005   | K 次取反后最大化的数组和                   | 简单 | 2021-12-03 | [力扣][P1005]   |                                                              |
 | #1009   | 十进制整数的反码                           | 简单 | 2021-10-18 | [力扣][P1009]   |                                                              |
 | #1034   | 边界着色                                   | 中等 | 2021-12-07 | [力扣][P1034]   | 本题有参考官方Java题解代码<br>[【边界着色】][S1034]          |
@@ -522,6 +523,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P881]:https://leetcode-cn.com/problems/boats-to-save-people/
 
 [P911]:https://leetcode-cn.com/problems/online-election/
+
+[P997]:https://leetcode-cn.com/problems/find-the-town-judge/
 
 [P1005]:https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/
 

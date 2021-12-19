@@ -506,6 +506,9 @@ public class MainInput {
             case 911:
                 run911();
                 break;
+            case 997:
+                run997();
+                break;
             case 1005:
                 run1005();
                 break;
@@ -1837,6 +1840,14 @@ public class MainInput {
         print(run.q(15));
         print(run.q(24));
         print(run.q(8));
+    }
+
+    static void run997() {
+        int n = 2;
+        int[][] trust = {{1, 2}};
+        S997 run = new S997();
+        int result = run.findJudge(n, trust);
+        print(result);
     }
 
     static void run1005() {

@@ -118,6 +118,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #458    | 可怜的小猪                                 | 困难 | 2021-11-25 | [力扣][P458]    |                                                              |
 | #470    | 用 Rand7() 实现 Rand10()                   | 中等 | 2021-09-05 | [力扣][P470]    |                                                              |
 | #476    | 数字的补数                                 | 简单 | 2021-10-18 | [力扣][P476]    |                                                              |
+| #479    | 供暖器                                     | 中等 | 2021-12-20 | [力扣][P479]    |                                                              |
 | #482    | 密钥格式化                                 | 简单 | 2021-10-04 | [力扣][P482]    |                                                              |
 | #488    | 祖玛游戏                                   | 困难 | 2021-11-09 | [力扣][P488]    | 本题有参考社区Java题解代码<br>[【宫水三叶】一题双解 :「搜索 + 剪枝」&「AStar 算法」][S488] |
 | #492    | 构造矩形                                   | 简单 | 2021-10-23 | [力扣][P492]    |                                                              |
@@ -411,6 +412,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P470]:https://leetcode-cn.com/problems/implement-rand10-using-rand7/
 
 [P476]:https://leetcode-cn.com/problems/number-complement/
+
+[P479]:https://leetcode-cn.com/problems/heaters/
 
 [P482]:https://leetcode-cn.com/problems/license-key-formatting/
 

@@ -527,6 +527,9 @@ public class MainInput {
             case 1137:
                 run1137();
                 break;
+            case 1154:
+                run1154();
+                break;
             case 1218:
                 run1218();
                 break;
@@ -1895,6 +1898,13 @@ public class MainInput {
         int n = 4;
         S1137 run = new S1137();
         int result = run.tribonacci(n);
+        print(result);
+    }
+
+    static void run1154() {
+        String date = "2019-01-09";
+        S1154 run = new S1154();
+        int result = run.dayOfYear(date);
         print(result);
     }
 

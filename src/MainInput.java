@@ -449,6 +449,9 @@ public class MainInput {
             case 678:
                 run678();
                 break;
+            case 686:
+                run686();
+                break;
             case 689:
                 run689();
                 break;
@@ -1696,6 +1699,13 @@ public class MainInput {
         String s = "()";
         S678 run = new S678();
         boolean result = run.checkValidString(s);
+        print(result);
+    }
+
+    static void run686() {
+        String a = "abcd", b = "cdabcdab";
+        S686 run = new S686();
+        int result = run.repeatedStringMatch(a, b);
         print(result);
     }
 

@@ -524,6 +524,9 @@ public class MainInput {
             case 1034:
                 run1034();
                 break;
+            case 1044:
+                run1044();
+                break;
             case 1109:
                 run1109();
                 break;
@@ -1893,6 +1896,13 @@ public class MainInput {
         int row = 0, col = 0, color = 3;
         S1034 run = new S1034();
         int[][] result = run.colorBorder(grid, row, col, color);
+        print(result);
+    }
+
+    static void run1044() {
+        String s = "banana";
+        S1044 run = new S1044();
+        String result = run.longestDupSubstring(s);
         print(result);
     }
 

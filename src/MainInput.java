@@ -569,6 +569,9 @@ public class MainInput {
             case 1646:
                 run1646();
                 break;
+            case 1705:
+                run1705();
+                break;
             case 1816:
                 run1816();
                 break;
@@ -2015,6 +2018,13 @@ public class MainInput {
         int n = 7;
         S1646 run = new S1646();
         int result = run.getMaximumGenerated(n);
+        print(result);
+    }
+
+    static void run1705() {
+        int[] apples = {1, 2, 3, 5, 2}, days = {3, 2, 1, 4, 2};
+        S1705 run = new S1705();
+        int result = run.eatenApples(apples, days);
         print(result);
     }
 

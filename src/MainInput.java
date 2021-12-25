@@ -563,6 +563,9 @@ public class MainInput {
             case 1588:
                 run1588();
                 break;
+            case 1609:
+                run1609();
+                break;
             case 1610:
                 run1610();
                 break;
@@ -2000,6 +2003,14 @@ public class MainInput {
         int[] arr = {1, 4, 2, 5, 3};
         S1588 run = new S1588();
         int result = run.sumOddLengthSubarrays(arr);
+        print(result);
+    }
+
+    static void run1609() {
+        String line = "[1,10,4,3,null,7,9,12,8,6,null,null,2]";
+        TreeNode root = TreeNode.stringToTreeNode(line);
+        S1609 run = new S1609();
+        boolean result = run.isEvenOddTree(root);
         print(result);
     }
 

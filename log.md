@@ -193,6 +193,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1518   | 换酒问题                                   | 简单 | 2021-12-17 | [力扣][P1518]   |                                                              |
 | #1583   | 统计不开心的朋友                           | 中等 | 2021-08-14 | [力扣][P1583]   |                                                              |
 | #1588   | 所有奇数长度子数组的和                     | 简单 | 2021-08-29 | [力扣][P1588]   | 本题有参考社区Java题解代码<br/>[【宫水三叶】一题双解 :「前缀和」&「数学」][S1588] |
+| #1609   | 奇偶树                                     | 中等 | 2021-12-25 | [力扣][P1609]   |                                                              |
 | #1610   | 可见点的最大数目                           | 困难 | 2021-12-16 | [力扣][P1610]   | 本题有参考官方Java题解代码<br>[【有效可见点的最大数目】][S1610] |
 | #1646   | 获取生成数组中的最大值                     | 简单 | 2021-08-23 | [力扣][P1646]   |                                                              |
 | #1705   | 吃苹果的最大数目                           | 中等 | 2021-12-24 | [力扣][P1705]   |                                                              |
@@ -566,6 +567,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1583]:https://leetcode-cn.com/problems/count-unhappy-friends/
 
 [P1588]:https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/
+
+[P1609]:https://leetcode-cn.com/problems/even-odd-tree/
 
 [P1610]:https://leetcode-cn.com/problems/maximum-number-of-visible-points/
 

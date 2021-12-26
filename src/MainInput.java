@@ -527,6 +527,9 @@ public class MainInput {
             case 1044:
                 run1044();
                 break;
+            case 1078:
+                run1078();
+                break;
             case 1109:
                 run1109();
                 break;
@@ -1909,6 +1912,13 @@ public class MainInput {
         String s = "banana";
         S1044 run = new S1044();
         String result = run.longestDupSubstring(s);
+        print(result);
+    }
+
+    static void run1078() {
+        String text = "alice is a good girl she is a good student", first = "a", second = "good";
+        S1078 run = new S1078();
+        String[] result = run.findOcurrences(text, first, second);
         print(result);
     }
 

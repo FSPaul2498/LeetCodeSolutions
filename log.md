@@ -181,6 +181,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1009   | 十进制整数的反码                           | 简单 | 2021-10-18 | [力扣][P1009]   |                                                              |
 | #1034   | 边界着色                                   | 中等 | 2021-12-07 | [力扣][P1034]   | 本题有参考官方Java题解代码<br>[【边界着色】][S1034]          |
 | #1044   | 最长重复子串                               | 困难 | 2021-12-23 | [力扣][P1044]   | 本题有参考官方Java题解代码<br>[【最长重复子串】][S1044]      |
+| #1078   | Bigram 分词                                | 简单 | 2021-12-26 | [力扣][P1078]   |                                                              |
 | #1109   | 航班预订统计                               | 中等 | 2021-08-31 | [力扣][P1109]   |                                                              |
 | #1137   | 第 N 个泰波那契数                          | 简单 | 2021-08-08 | [力扣][P1137]   |                                                              |
 | #1154   | 一年中的第几天                             | 简单 | 2021-12-21 | [力扣][P1154]   |                                                              |
@@ -543,6 +544,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1034]:https://leetcode-cn.com/problems/coloring-a-border/
 
 [P1044]:https://leetcode-cn.com/problems/longest-duplicate-substring/
+
+[P1078]:https://leetcode-cn.com/problems/occurrences-after-bigram/
 
 [P1109]:https://leetcode-cn.com/problems/corporate-flight-bookings/
 

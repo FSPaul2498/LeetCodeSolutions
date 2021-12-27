@@ -494,6 +494,9 @@ public class MainInput {
             case 807:
                 run807();
                 break;
+            case 825:
+                run825();
+                break;
             case 847:
                 run847();
                 break;
@@ -1826,6 +1829,13 @@ public class MainInput {
         int[][] grid = {{3, 0, 8, 4}, {2, 4, 5, 7}, {9, 2, 6, 3}, {0, 3, 1, 0}};
         S807 run = new S807();
         int result = run.maxIncreaseKeepingSkyline(grid);
+        print(result);
+    }
+
+    static void run825() {
+        int[] ages = {16, 16};
+        S825 run = new S825();
+        int result = run.numFriendRequests(ages);
         print(result);
     }
 

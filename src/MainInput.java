@@ -335,6 +335,9 @@ public class MainInput {
             case 470:
                 run470();
                 break;
+            case 472:
+                run472();
+                break;
             case 476:
                 run476();
                 break;
@@ -1429,6 +1432,13 @@ public class MainInput {
         int[] result = new int[10];
         for (int i = 0; i < 10000; i++)
             result[run.rand10() - 1]++;
+        print(result);
+    }
+
+    static void run472() {
+        String[] words = {"cat", "cats", "catsdogcats", "dog", "dogcatsdog", "hippopotamuses", "rat", "ratcatdogcat"};
+        S472 run = new S472();
+        List<String> result = run.findAllConcatenatedWordsInADict(words);
         print(result);
     }
 

@@ -117,6 +117,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #457    | 环形数组是否存在循环                       | 中等 | 2021-08-07 | [力扣][P457]    |                                                              |
 | #458    | 可怜的小猪                                 | 困难 | 2021-11-25 | [力扣][P458]    |                                                              |
 | #470    | 用 Rand7() 实现 Rand10()                   | 中等 | 2021-09-05 | [力扣][P470]    |                                                              |
+| #472    | 连接词                                     | 困难 | 2021-12-28 | [力扣][P472]    | 本题有参考官方Java题解代码<br>[【连接词】][S472]             |
 | #476    | 数字的补数                                 | 简单 | 2021-10-18 | [力扣][P476]    |                                                              |
 | #479    | 供暖器                                     | 中等 | 2021-12-20 | [力扣][P479]    |                                                              |
 | #482    | 密钥格式化                                 | 简单 | 2021-10-04 | [力扣][P482]    |                                                              |
@@ -418,6 +419,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P470]:https://leetcode-cn.com/problems/implement-rand10-using-rand7/
 
+[P472]:https://leetcode-cn.com/problems/concatenated-words/
+
 [P476]:https://leetcode-cn.com/problems/number-complement/
 
 [P479]:https://leetcode-cn.com/problems/heaters/
@@ -621,6 +624,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S437]:https://leetcode-cn.com/problems/path-sum-iii/solution/lu-jing-zong-he-iii-by-leetcode-solution-z9td/
 
 [S446]:https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/solution/deng-chai-shu-lie-hua-fen-ii-zi-xu-lie-b-77pl/
+
+[S472]:https://leetcode-cn.com/problems/concatenated-words/solution/lian-jie-ci-by-leetcode-solution-mj4d/
 
 [S488]:https://leetcode-cn.com/problems/zuma-game/solution/gong-shui-san-xie-yi-ti-shuang-jie-sou-s-3ftb/
 

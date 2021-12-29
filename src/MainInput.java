@@ -590,6 +590,9 @@ public class MainInput {
             case 1894:
                 run1894();
                 break;
+            case 1995:
+                run1995();
+                break;
             // 1XXXX for LCP & LCS
             // LCP 01 -> 10001 -> LCP01
             // LCS 01 -> 11001 -> LCS01
@@ -2082,6 +2085,13 @@ public class MainInput {
         int k = 22;
         S1894 run = new S1894();
         int result = run.chalkReplacer(chalk, k);
+        print(result);
+    }
+
+    static void run1995() {
+        int[] nums = {1, 2, 3, 6};
+        S1995 run = new S1995();
+        int result = run.countQuadruplets(nums);
         print(result);
     }
 

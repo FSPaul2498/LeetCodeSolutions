@@ -500,6 +500,9 @@ public class MainInput {
             case 825:
                 run825();
                 break;
+            case 846:
+                run846();
+                break;
             case 847:
                 run847();
                 break;
@@ -1849,6 +1852,14 @@ public class MainInput {
         int[] ages = {16, 16};
         S825 run = new S825();
         int result = run.numFriendRequests(ages);
+        print(result);
+    }
+
+    static void run846() {
+        int[] hand = {1, 2, 3, 6, 2, 3, 4, 7, 8};
+        int groupSize = 3;
+        S846 run = new S846();
+        boolean result = run.isNStraightHand(hand, groupSize);
         print(result);
     }
 

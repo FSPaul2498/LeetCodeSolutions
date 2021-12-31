@@ -128,6 +128,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #500    | 键盘行                                     | 简单 | 2021-10-31 | [力扣][P500]    |                                                              |
 | #502    | IPO                                        | 困难 | 2021-09-08 | [力扣][P502]    |                                                              |
 | #506    | 相对名次                                   | 简单 | 2021-12-02 | [力扣][P506]    |                                                              |
+| #507    | 完美数                                     | 简单 | 2021-12-31 | [力扣][P507]    |                                                              |
 | #516    | 最长回文子序列                             | 中等 | 2021-08-12 | [力扣][P516]    |                                                              |
 | #517    | 超级洗衣机                                 | 困难 | 2021-09-29 | [力扣][P517]    |                                                              |
 | #519    | 随机翻转矩阵                               | 中等 | 2021-11-27 | [力扣][P519]    |                                                              |
@@ -203,7 +204,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1705   | 吃苹果的最大数目                           | 中等 | 2021-12-24 | [力扣][P1705]   |                                                              |
 | #1816   | 截断句子                                   | 简单 | 2021-12-06 | [力扣][P1816]   |                                                              |
 | #1894   | 找到需要补充粉笔的学生编号                 | 中等 | 2021-09-10 | [力扣][P1894]   |                                                              |
-| #1995   | 统计特殊四元组                             | 简单 | 2021-12-29  | [力扣][P1995]   |                                                              |
+| #1995   | 统计特殊四元组                             | 简单 | 2021-12-29 | [力扣][P1995]   |                                                              |
 | #JZ10   | 斐波那契数列                               | 简单 | 2021-09-04 | [力扣][PJZ10]   |                                                              |
 | #JZ22   | 链表中倒数第k个节点                        | 简单 | 2021-09-02 | [力扣][PJZ22]   |                                                              |
 | #JZII69 | 山峰数组的顶部                             | 简单 | 2021-10-14 | [力扣][PJZII69] |                                                              |
@@ -442,6 +443,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P502]:https://leetcode-cn.com/problems/ipo/
 
 [P506]:https://leetcode-cn.com/problems/relative-ranks/
+
+[P507]:https://leetcode-cn.com/problems/perfect-number/
 
 [P516]:https://leetcode-cn.com/problems/longest-palindromic-subsequence/
 

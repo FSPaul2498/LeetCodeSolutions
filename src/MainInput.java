@@ -368,6 +368,9 @@ public class MainInput {
             case 506:
                 run506();
                 break;
+            case 507:
+                run507();
+                break;
             case 516:
                 run516();
                 break;
@@ -1519,6 +1522,13 @@ public class MainInput {
         int[] score = {5, 4, 3, 2, 1};
         S506 run = new S506();
         String[] result = run.findRelativeRanks(score);
+        print(result);
+    }
+
+    static void run507() {
+        int num = 28;
+        S507 run = new S507();
+        boolean result = run.checkPerfectNumber(num);
         print(result);
     }
 

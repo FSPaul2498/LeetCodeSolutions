@@ -599,6 +599,9 @@ public class MainInput {
             case 1995:
                 run1995();
                 break;
+            case 2022:
+                run2022();
+                break;
             // 1XXXX for LCP & LCS
             // LCP 01 -> 10001 -> LCP01
             // LCS 01 -> 11001 -> LCS01
@@ -2113,6 +2116,14 @@ public class MainInput {
         int[] nums = {1, 2, 3, 6};
         S1995 run = new S1995();
         int result = run.countQuadruplets(nums);
+        print(result);
+    }
+
+    static void run2022() {
+        int[] original = {1, 2, 3, 4};
+        int m = 2, n = 2;
+        S2022 run = new S2022();
+        int[][] result = run.construct2DArray(original, m, n);
         print(result);
     }
 

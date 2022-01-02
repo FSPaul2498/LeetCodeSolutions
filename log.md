@@ -95,6 +95,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #375    | 猜数字大小 II                              | 中等 | 2021-11-12 | [力扣][P375]    |                                                              |
 | #383    | 赎金信                                     | 简单 | 2021-12-04 | [力扣][P383]    |                                                              |
 | #384    | 打乱数组                                   | 中等 | 2021-11-22 | [力扣][P384]    |                                                              |
+| #390    | 消除游戏                                   | 中等 | 2022-01-02 | [力扣][P390]    |                                                              |
 | #391    | 完美矩形                                   | 困难 | 2021-11-16 | [力扣][P391]    |                                                              |
 | #397    | 整数替换                                   | 中等 | 2021-11-19 | [力扣][P397]    |                                                              |
 | #400    | 第 N 位数字                                | 中等 | 2021-11-30 | [力扣][P400]    |                                                              |
@@ -378,6 +379,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P383]:https://leetcode-cn.com/problems/ransom-note/
 
 [P384]:https://leetcode-cn.com/problems/shuffle-an-array/
+
+[P390]:https://leetcode-cn.com/problems/elimination-game/
 
 [P391]:https://leetcode-cn.com/problems/perfect-rectangle/
 

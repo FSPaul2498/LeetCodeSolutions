@@ -269,6 +269,9 @@ public class MainInput {
             case 384:
                 run384();
                 break;
+            case 390:
+                run390();
+                break;
             case 391:
                 run391();
                 break;
@@ -1287,6 +1290,13 @@ public class MainInput {
         print(run.shuffle());
         print(run.reset());
         print(run.shuffle());
+    }
+
+    static void run390() {
+        int n = 9;
+        S390 run = new S390();
+        int result = run.lastRemaining(n);
+        print(result);
     }
 
     static void run391() {

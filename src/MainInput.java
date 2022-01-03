@@ -554,6 +554,9 @@ public class MainInput {
             case 1154:
                 run1154();
                 break;
+            case 1185:
+                run1185();
+                break;
             case 1218:
                 run1218();
                 break;
@@ -1998,6 +2001,13 @@ public class MainInput {
         String date = "2019-01-09";
         S1154 run = new S1154();
         int result = run.dayOfYear(date);
+        print(result);
+    }
+
+    static void run1185() {
+        int day = 31, month = 8, year = 2019;
+        S1185 run = new S1185();
+        String result = run.dayOfTheWeek(day, month, year);
         print(result);
     }
 

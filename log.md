@@ -181,6 +181,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #869    | 重新排序得到 2 的幂                        | 中等 | 2021-10-28 | [力扣][P869]    | 本题有参考官方Java题解代码<br>[【重新排序得到 2 的幂】][S869] |
 | #881    | 救生艇                                     | 中等 | 2021-08-26 | [力扣][P881]    |                                                              |
 | #911    | 在线选举                                   | 中等 | 2021-12-11 | [力扣][P911]    |                                                              |
+| #913    | 猫和老鼠                                   | 困难 | 2022-01-04 | [力扣][P913]    | 本题有参考官方Java题解代码<br>[【猫和老鼠】][S913]           |
 | #997    | 找到小镇的法官                             | 简单 | 2021-12-19 | [力扣][P997]    |                                                              |
 | #1005   | K 次取反后最大化的数组和                   | 简单 | 2021-12-03 | [力扣][P1005]   |                                                              |
 | #1009   | 十进制整数的反码                           | 简单 | 2021-10-18 | [力扣][P1009]   |                                                              |
@@ -553,6 +554,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P911]:https://leetcode-cn.com/problems/online-election/
 
+[P913]:https://leetcode-cn.com/problems/cat-and-mouse/
+
 [P997]:https://leetcode-cn.com/problems/find-the-town-judge/
 
 [P1005]:https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/
@@ -670,6 +673,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S847]:https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/solution/fang-wen-suo-you-jie-dian-de-zui-duan-lu-mqc2/
 
 [S869]:https://leetcode-cn.com/problems/reordered-power-of-2/solution/zhong-xin-pai-xu-de-dao-2-de-mi-by-leetc-4fvs/
+
+[S913]:https://leetcode-cn.com/problems/cat-and-mouse/solution/mao-he-lao-shu-by-leetcode-solution-444x/
 
 [S1034]:https://leetcode-cn.com/problems/coloring-a-border/solution/bian-kuang-zhao-se-by-leetcode-solution-0h5l/
 

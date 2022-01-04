@@ -527,6 +527,9 @@ public class MainInput {
             case 911:
                 run911();
                 break;
+            case 913:
+                run913();
+                break;
             case 997:
                 run997();
                 break;
@@ -1935,6 +1938,13 @@ public class MainInput {
         print(run.q(15));
         print(run.q(24));
         print(run.q(8));
+    }
+
+    static void run913() {
+        int[][] graph = {{2, 5}, {3}, {0, 4, 5}, {1, 4, 5}, {2, 3}, {0, 2, 3}};
+        S913 run = new S913();
+        int result = run.catMouseGame(graph);
+        print(result);
     }
 
     static void run997() {

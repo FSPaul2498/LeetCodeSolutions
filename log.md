@@ -199,6 +199,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1446   | 连续字符                                   | 简单 | 2021-12-01 | [力扣][P1446]   |                                                              |
 | #1480   | 一维数组的动态和                           | 简单 | 2021-08-28 | [力扣][P1480]   |                                                              |
 | #1518   | 换酒问题                                   | 简单 | 2021-12-17 | [力扣][P1518]   |                                                              |
+| #1576   | 替换所有的问号                             | 简单 | 2022-01-05 | [力扣][P1576]   |                                                              |
 | #1583   | 统计不开心的朋友                           | 中等 | 2021-08-14 | [力扣][P1583]   |                                                              |
 | #1588   | 所有奇数长度子数组的和                     | 简单 | 2021-08-29 | [力扣][P1588]   | 本题有参考社区Java题解代码<br/>[【宫水三叶】一题双解 :「前缀和」&「数学」][S1588] |
 | #1609   | 奇偶树                                     | 中等 | 2021-12-25 | [力扣][P1609]   |                                                              |
@@ -589,6 +590,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1480]:https://leetcode-cn.com/problems/running-sum-of-1d-array/
 
 [P1518]:https://leetcode-cn.com/problems/water-bottles/
+
+[P1576]:https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
 
 [P1583]:https://leetcode-cn.com/problems/count-unhappy-friends/
 

@@ -581,6 +581,9 @@ public class MainInput {
             case 1518:
                 run1518();
                 break;
+            case 1576:
+                run1576();
+                break;
             case 1583:
                 run1583();
                 break;
@@ -2074,6 +2077,13 @@ public class MainInput {
         int numBottles = 9, numExchange = 3;
         S1518 run = new S1518();
         int result = run.numWaterBottles(numBottles, numExchange);
+        print(result);
+    }
+
+    static void run1576() {
+        String s = "?zs";
+        S1576 run = new S1576();
+        String result = run.modifyString(s);
         print(result);
     }
 

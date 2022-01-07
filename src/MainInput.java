@@ -599,6 +599,9 @@ public class MainInput {
             case 1610:
                 run1610();
                 break;
+            case 1614:
+                run1614();
+                break;
             case 1646:
                 run1646();
                 break;
@@ -2129,6 +2132,13 @@ public class MainInput {
         List<Integer> location = toArrayList(loc);
         S1610 run = new S1610();
         int result = run.visiblePoints(points, angle, location);
+        print(result);
+    }
+
+    static void run1614() {
+        String s = "(1+(2*3)+((8)/4))+1";
+        S1614 run = new S1614();
+        int result = run.maxDepth(s);
         print(result);
     }
 

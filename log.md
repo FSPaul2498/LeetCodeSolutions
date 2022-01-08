@@ -61,6 +61,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #66     | 加一                                       | 简单 | 2021-10-21 | [力扣][P66]     |                                                              |
 | #68     | 文本左右对齐                               | 困难 | 2021-09-09 | [力扣][P68]     |                                                              |
 | #71     | 简化路径                                   | 中等 | 2022-01-06 | [力扣][P71]     |                                                              |
+| #89     | 格雷编码                                   | 中等 | 2022-01-08 | [力扣][P89]     |                                                              |
 | #162    | 寻找峰值                                   | 中等 | 2021-09-15 | [力扣][P162]    |                                                              |
 | #165    | 比较版本号                                 | 中等 | 2021-09-01 | [力扣][P165]    |                                                              |
 | #166    | 分数到小数                                 | 中等 | 2021-10-03 | [力扣][P166]    |                                                              |
@@ -316,6 +317,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P68]:https://leetcode-cn.com/problems/text-justification/
 
 [P71]:https://leetcode-cn.com/problems/simplify-path/
+
+[P89]:https://leetcode-cn.com/problems/gray-code/
 
 [P162]:https://leetcode-cn.com/problems/find-peak-element/
 

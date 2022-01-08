@@ -167,6 +167,9 @@ public class MainInput {
             case 71:
                 run71();
                 break;
+            case 89:
+                run89();
+                break;
             case 162:
                 run162();
                 break;
@@ -1034,6 +1037,13 @@ public class MainInput {
         String path = "/home/";
         S71 run = new S71();
         String result = run.simplifyPath(path);
+        print(result);
+    }
+
+    static void run89() {
+        int s = 2;
+        S89 run = new S89();
+        List<Integer> result = run.grayCode(s);
         print(result);
     }
 

@@ -207,6 +207,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1609   | 奇偶树                                     | 中等 | 2021-12-25 | [力扣][P1609]   |                                                              |
 | #1610   | 可见点的最大数目                           | 困难 | 2021-12-16 | [力扣][P1610]   | 本题有参考官方Java题解代码<br>[【有效可见点的最大数目】][S1610] |
 | #1614   | 括号的最大嵌套深度                         | 简单 | 2022-01-07 | [力扣][P1614]   |                                                              |
+| #1629   | 按键持续时间最长的键                       | 简单 | 2022-01-09 | [力扣][P1629]   |                                                              |
 | #1646   | 获取生成数组中的最大值                     | 简单 | 2021-08-23 | [力扣][P1646]   |                                                              |
 | #1705   | 吃苹果的最大数目                           | 中等 | 2021-12-24 | [力扣][P1705]   |                                                              |
 | #1816   | 截断句子                                   | 简单 | 2021-12-06 | [力扣][P1816]   |                                                              |
@@ -609,6 +610,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1610]:https://leetcode-cn.com/problems/maximum-number-of-visible-points/
 
 [P1614]:https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/
+
+[P1629]:https://leetcode-cn.com/problems/slowest-key/
 
 [P1646]:https://leetcode-cn.com/problems/get-maximum-in-generated-array/
 

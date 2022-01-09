@@ -605,6 +605,9 @@ public class MainInput {
             case 1614:
                 run1614();
                 break;
+            case 1629:
+                run1629();
+                break;
             case 1646:
                 run1646();
                 break;
@@ -2149,6 +2152,14 @@ public class MainInput {
         String s = "(1+(2*3)+((8)/4))+1";
         S1614 run = new S1614();
         int result = run.maxDepth(s);
+        print(result);
+    }
+
+    static void run1629() {
+        int[] releaseTimes = {9, 29, 49, 50};
+        String keysPressed = "cbcd";
+        S1629 run = new S1629();
+        char result = run.slowestKey(releaseTimes, keysPressed);
         print(result);
     }
 

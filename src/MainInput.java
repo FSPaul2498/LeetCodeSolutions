@@ -236,6 +236,9 @@ public class MainInput {
             case 301:
                 run301();
                 break;
+            case 306:
+                run306();
+                break;
             case 313:
                 run313();
                 break;
@@ -1223,6 +1226,13 @@ public class MainInput {
         String s = "()())()";
         S301 run = new S301();
         List<String> result = run.removeInvalidParentheses(s);
+        print(result);
+    }
+
+    static void run306() {
+        String num = "112358";
+        S306 run = new S306();
+        boolean result = run.isAdditiveNumber(num);
         print(result);
     }
 

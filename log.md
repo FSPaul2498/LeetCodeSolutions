@@ -84,6 +84,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #295    | 数据流的中位数                             | 困难 | 2021-08-27 | [力扣][P295]    |                                                              |
 | #299    | 猜数字游戏                                 | 中等 | 2021-11-08 | [力扣][P299]    |                                                              |
 | #301    | 删除无效的括号                             | 困难 | 2021-10-27 | [力扣][P301]    | 本题有参考官方Java题解代码<br>[【删除无效的括号】][S301]     |
+| #306    | 累加数                                     | 中等 | 2022-01-10 | [力扣][P306]    |                                                              |
 | #313    | 超级丑数                                   | 中等 | 2021-08-09 | [力扣][P313]    | 本题有参考官方Java题解代码<br>[【超级丑数】][S313]           |
 | #318    | 最大单词长度乘积                           | 中等 | 2021-11-17 | [力扣][P318]    |                                                              |
 | #319    | 灯泡开关                                   | 中等 | 2021-11-15 | [力扣][P319]    |                                                              |
@@ -364,6 +365,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P299]:https://leetcode-cn.com/problems/bulls-and-cows/
 
 [P301]:https://leetcode-cn.com/problems/remove-invalid-parentheses/
+
+[P306]:https://leetcode-cn.com/problems/additive-number/
 
 [P313]:https://leetcode-cn.com/problems/super-ugly-number/
 

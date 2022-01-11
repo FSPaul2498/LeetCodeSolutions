@@ -189,6 +189,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1005   | K 次取反后最大化的数组和                   | 简单 | 2021-12-03 | [力扣][P1005]   |                                                              |
 | #1009   | 十进制整数的反码                           | 简单 | 2021-10-18 | [力扣][P1009]   |                                                              |
 | #1034   | 边界着色                                   | 中等 | 2021-12-07 | [力扣][P1034]   | 本题有参考官方Java题解代码<br>[【边界着色】][S1034]          |
+| #1036   | 逃离大迷宫                                 | 困难 | 2022-01-11 | [力扣][P1036]   | 本题有参考官方Java题解代码<br>[【逃离大迷宫】][S1036]        |
 | #1044   | 最长重复子串                               | 困难 | 2021-12-23 | [力扣][P1044]   | 本题有参考官方Java题解代码<br>[【最长重复子串】][S1044]      |
 | #1078   | Bigram 分词                                | 简单 | 2021-12-26 | [力扣][P1078]   |                                                              |
 | #1109   | 航班预订统计                               | 中等 | 2021-08-31 | [力扣][P1109]   |                                                              |
@@ -576,6 +577,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P1034]:https://leetcode-cn.com/problems/coloring-a-border/
 
+[P1036]:https://leetcode-cn.com/problems/escape-a-large-maze/
+
 [P1044]:https://leetcode-cn.com/problems/longest-duplicate-substring/
 
 [P1078]:https://leetcode-cn.com/problems/occurrences-after-bigram/
@@ -695,6 +698,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S913]:https://leetcode-cn.com/problems/cat-and-mouse/solution/mao-he-lao-shu-by-leetcode-solution-444x/
 
 [S1034]:https://leetcode-cn.com/problems/coloring-a-border/solution/bian-kuang-zhao-se-by-leetcode-solution-0h5l/
+
+[S1036]:https://leetcode-cn.com/problems/escape-a-large-maze/solution/tao-chi-da-mi-gong-by-leetcode-solution-qxhz/
 
 [S1044]:https://leetcode-cn.com/problems/longest-duplicate-substring/solution/zui-chang-zhong-fu-zi-chuan-by-leetcode-0i9rd/
 

@@ -551,6 +551,9 @@ public class MainInput {
             case 1034:
                 run1034();
                 break;
+            case 1036:
+                run1036();
+                break;
             case 1044:
                 run1044();
                 break;
@@ -2014,6 +2017,14 @@ public class MainInput {
         int row = 0, col = 0, color = 3;
         S1034 run = new S1034();
         int[][] result = run.colorBorder(grid, row, col, color);
+        print(result);
+    }
+
+    static void run1036() {
+        int[][] blocked = {{0, 1}, {1, 0}};
+        int[] source = {0, 0}, target = {0, 2};
+        S1036 run = new S1036();
+        boolean result = run.isEscapePossible(blocked, source, target);
         print(result);
     }
 

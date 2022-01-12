@@ -251,6 +251,9 @@ public class MainInput {
             case 326:
                 run326();
                 break;
+            case 334:
+                run334();
+                break;
             case 335:
                 run335();
                 break;
@@ -1265,6 +1268,13 @@ public class MainInput {
         int n = 27;
         S326 run = new S326();
         boolean result = run.isPowerOfThree(n);
+        print(result);
+    }
+
+    static void run334() {
+        int[] nums = {1, 2, 3, 4, 5};
+        S334 run = new S334();
+        boolean result = run.increasingTriplet(nums);
         print(result);
     }
 

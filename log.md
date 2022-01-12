@@ -89,6 +89,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #318    | 最大单词长度乘积                           | 中等 | 2021-11-17 | [力扣][P318]    |                                                              |
 | #319    | 灯泡开关                                   | 中等 | 2021-11-15 | [力扣][P319]    |                                                              |
 | #326    | 3的幂                                      | 简单 | 2021-09-23 | [力扣][P326]    |                                                              |
+| #334    | 递增的三元子序列                           | 中等 | 2022-01-12 | [力扣][P334]    |                                                              |
 | #335    | 路径交叉                                   | 困难 | 2021-10-29 | [力扣][P335]    |                                                              |
 | #345    | 反转字符串中的元音字母                     | 简单 | 2021-08-19 | [力扣][P345]    |                                                              |
 | #352    | 将数据流变为多个不相交区间                 | 困难 | 2021-10-09 | [力扣][P352]    | 本题有参考官方Java题解代码<br>[【将数据流变为多个不相交区间】][S352] |
@@ -376,6 +377,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P319]:https://leetcode-cn.com/problems/bulb-switcher/
 
 [P326]:https://leetcode-cn.com/problems/power-of-three/
+
+[P334]:https://leetcode-cn.com/problems/increasing-triplet-subsequence/
 
 [P335]:https://leetcode-cn.com/problems/self-crossing/
 

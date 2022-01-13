@@ -169,6 +169,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #709    | 转换成小写字母                             | 简单 | 2021-12-12 | [力扣][P709]    |                                                              |
 | #725    | 分隔链表                                   | 中等 | 2021-09-22 | [力扣][P725]    |                                                              |
 | #743    | 网络延迟时间                               | 中等 | 2021-08-02 | [力扣][P743]    |                                                              |
+| #747    | 至少是其他数字两倍的最大数                 | 简单 | 2022-01-13 | [力扣][P747]    |                                                              |
 | #748    | 最短补全词                                 | 简单 | 2021-12-10 | [力扣][P748]    |                                                              |
 | #786    | 第 K 个最小的素数分数                      | 困难 | 2021-11-29 | [力扣][P786]    |                                                              |
 | #787    | K 站中转内最便宜的航班                     | 中等 | 2021-08-24 | [力扣][P787]    | 本题有参考官方Java题解代码<br>[【K 站中转内最便宜的航班】][S787] |
@@ -537,6 +538,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P725]:https://leetcode-cn.com/problems/split-linked-list-in-parts/
 
 [P743]:https://leetcode-cn.com/problems/network-delay-time/
+
+[P747]:https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/
 
 [P748]:https://leetcode-cn.com/problems/shortest-completing-word/
 

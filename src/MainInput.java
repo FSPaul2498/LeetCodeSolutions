@@ -491,6 +491,9 @@ public class MainInput {
             case 743:
                 run743();
                 break;
+            case 747:
+                run747();
+                break;
             case 748:
                 run748();
                 break;
@@ -1866,6 +1869,13 @@ public class MainInput {
         int n = 4, k = 2;
         S743 run = new S743();
         int result = run.networkDelayTime(times, n, k);
+        print(result);
+    }
+
+    static void run747() {
+        int[] nums = {3, 6, 1, 0};
+        S747 run = new S747();
+        int result = run.dominantIndex(nums);
         print(result);
     }
 

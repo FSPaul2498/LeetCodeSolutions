@@ -272,6 +272,9 @@ public class MainInput {
             case 372:
                 run372();
                 break;
+            case 373:
+                run373();
+                break;
             case 375:
                 run375();
                 break;
@@ -1328,6 +1331,14 @@ public class MainInput {
         int[] b = {3};
         S372 run = new S372();
         int result = run.superPow(a, b);
+        print(result);
+    }
+
+    static void run373() {
+        int[] nums1 = {1, 7, 11}, nums2 = {2, 4, 6};
+        int k = 3;
+        S373 run = new S373();
+        List<List<Integer>> result = run.kSmallestPairs(nums1, nums2, k);
         print(result);
     }
 

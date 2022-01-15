@@ -629,6 +629,9 @@ public class MainInput {
             case 1705:
                 run1705();
                 break;
+            case 1716:
+                run1716();
+                break;
             case 1816:
                 run1816();
                 break;
@@ -2226,6 +2229,13 @@ public class MainInput {
         int[] apples = {1, 2, 3, 5, 2}, days = {3, 2, 1, 4, 2};
         S1705 run = new S1705();
         int result = run.eatenApples(apples, days);
+        print(result);
+    }
+
+    static void run1716() {
+        int n = 4;
+        S1716 run = new S1716();
+        int result = run.totalMoney(n);
         print(result);
     }
 

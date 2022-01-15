@@ -215,6 +215,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1629   | 按键持续时间最长的键                       | 简单 | 2022-01-09 | [力扣][P1629]   |                                                              |
 | #1646   | 获取生成数组中的最大值                     | 简单 | 2021-08-23 | [力扣][P1646]   |                                                              |
 | #1705   | 吃苹果的最大数目                           | 中等 | 2021-12-24 | [力扣][P1705]   |                                                              |
+| #1716   | 计算力扣银行的钱                           | 简单 | 2022-01-15 | [力扣][P1716]   |                                                              |
 | #1816   | 截断句子                                   | 简单 | 2021-12-06 | [力扣][P1816]   |                                                              |
 | #1894   | 找到需要补充粉笔的学生编号                 | 中等 | 2021-09-10 | [力扣][P1894]   |                                                              |
 | #1995   | 统计特殊四元组                             | 简单 | 2021-12-29 | [力扣][P1995]   |                                                              |
@@ -631,6 +632,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1646]:https://leetcode-cn.com/problems/get-maximum-in-generated-array/
 
 [P1705]:https://leetcode-cn.com/problems/maximum-number-of-eaten-apples/
+
+[P1716]:https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/
 
 [P1816]:https://leetcode-cn.com/problems/truncate-sentence/
 

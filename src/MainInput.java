@@ -278,6 +278,9 @@ public class MainInput {
             case 375:
                 run375();
                 break;
+            case 382:
+                run382();
+                break;
             case 383:
                 run383();
                 break;
@@ -1350,6 +1353,17 @@ public class MainInput {
         S375 run = new S375();
         int result = run.getMoneyAmount(n);
         print(result);
+    }
+
+    static void run382() {
+        int[] nums = {1, 2, 3};
+        ListNode head = ListNode.makeList(nums);
+        S382 run = new S382(head);
+        print(run.getRandom());
+        print(run.getRandom());
+        print(run.getRandom());
+        print(run.getRandom());
+        print(run.getRandom());
     }
 
     static void run383() {

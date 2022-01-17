@@ -587,6 +587,9 @@ public class MainInput {
             case 1218:
                 run1218();
                 break;
+            case 1220:
+                run1220();
+                break;
             case 1221:
                 run1221();
                 break;
@@ -2124,6 +2127,13 @@ public class MainInput {
         int difference = 4;
         S1218 run = new S1218();
         int result = run.longestSubsequence(arr, difference);
+        print(result);
+    }
+
+    static void run1220() {
+        int n = 1;
+        S1220 run = new S1220();
+        int result = run.countVowelPermutation(n);
         print(result);
     }
 

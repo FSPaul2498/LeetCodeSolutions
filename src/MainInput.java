@@ -413,6 +413,9 @@ public class MainInput {
             case 528:
                 run528();
                 break;
+            case 539:
+                run539();
+                break;
             case 541:
                 run541();
                 break;
@@ -1670,7 +1673,7 @@ public class MainInput {
     static void run524() {
         String s = "abpcplea";
         String[] dict = {"ale", "apple", "monkey", "plea"};
-        ArrayList<String> dictionary = new ArrayList<>(List.of(dict));
+        List<String> dictionary = new ArrayList<>(List.of(dict));
         S524 run = new S524();
         String result = run.findLongestWord(s, dictionary);
         print(result);
@@ -1689,6 +1692,14 @@ public class MainInput {
         int[] result = new int[w.length];
         for (int i = 0; i < 10000; i++)
             result[run.pickIndex()]++;
+        print(result);
+    }
+
+    static void run539() {
+        String[] tp = {"23:59", "00:00"};
+        List<String> timePoints = new ArrayList<>(List.of(tp));
+        S539 run = new S539();
+        int result = run.findMinDifference(timePoints);
         print(result);
     }
 

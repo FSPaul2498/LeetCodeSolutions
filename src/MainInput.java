@@ -191,6 +191,9 @@ public class MainInput {
             case 212:
                 run212();
                 break;
+            case 219:
+                run219();
+                break;
             case 223:
                 run223();
                 break;
@@ -1129,6 +1132,14 @@ public class MainInput {
         String[] words = {"oath", "pea", "eat", "rain"};
         S212 run = new S212();
         List<String> result = run.findWords(board, words);
+        print(result);
+    }
+
+    static void run219() {
+        int[] nums = {1, 2, 3, 1};
+        int k = 3;
+        S219 run = new S219();
+        boolean result = run.containsNearbyDuplicate(nums, k);
         print(result);
     }
 

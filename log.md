@@ -69,6 +69,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #206    | 反转链表                                   | 简单 | 2021-08-21 | [力扣][P206]    |                                                              |
 | #211    | 添加与搜索单词 - 数据结构设计              | 中等 | 2021-10-19 | [力扣][P211]    | 本题有参考社区Java题解代码<br/>[【宫水三叶】一题双解 :「二维数组」&「TrieNode」][S211] |
 | #212    | 单词搜索 II                                | 困难 | 2021-09-16 | [力扣][P212]    | 本题有参考官方Java题解代码<br>[【单词搜索 II】][S212]        |
+| #219    | 存在重复元素 II                            | 简单 | 2022-01-19 | [力扣][P219]    |                                                              |
 | #223    | 矩形面积                                   | 中等 | 2021-09-30 | [力扣][P223]    |                                                              |
 | #229    | 求众数 II                                  | 中等 | 2021-10-22 | [力扣][P229]    |                                                              |
 | #230    | 二叉搜索树中第K小的元素                    | 中等 | 2021-10-17 | [力扣][P230]    | 本题有参考官方Java题解代码<br>[【二叉搜索树中第K小的元素】][S230] |
@@ -343,6 +344,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P211]:https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/
 
 [P212]:https://leetcode-cn.com/problems/word-search-ii/
+
+[P219]:https://leetcode-cn.com/problems/contains-duplicate-ii/
 
 [P223]:https://leetcode-cn.com/problems/rectangle-area/
 

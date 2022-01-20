@@ -656,6 +656,9 @@ public class MainInput {
             case 2022:
                 run2022();
                 break;
+            case 2029:
+                run2029();
+                break;
             // 1XXXX for LCP & LCS
             // LCP 01 -> 10001 -> LCP01
             // LCS 01 -> 11001 -> LCS01
@@ -2313,6 +2316,13 @@ public class MainInput {
         int m = 2, n = 2;
         S2022 run = new S2022();
         int[][] result = run.construct2DArray(original, m, n);
+        print(result);
+    }
+
+    static void run2029() {
+        int[] stones = {2, 1};
+        S2029 run = new S2029();
+        boolean result = run.stoneGameIX(stones);
         print(result);
     }
 

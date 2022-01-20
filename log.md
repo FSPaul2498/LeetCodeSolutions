@@ -224,6 +224,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1894   | 找到需要补充粉笔的学生编号                 | 中等 | 2021-09-10 | [力扣][P1894]   |                                                              |
 | #1995   | 统计特殊四元组                             | 简单 | 2021-12-29 | [力扣][P1995]   |                                                              |
 | #2022   | 将一维数组转变成二维数组                   | 简单 | 2022-01-01 | [力扣][P2022]   |                                                              |
+| #2029   | 石子游戏 IX                                | 中等 | 2022-01-20 | [力扣][P2029]   |                                                              |
 | #JZ10   | 斐波那契数列                               | 简单 | 2021-09-04 | [力扣][PJZ10]   |                                                              |
 | #JZ22   | 链表中倒数第k个节点                        | 简单 | 2021-09-02 | [力扣][PJZ22]   |                                                              |
 | #JZII69 | 山峰数组的顶部                             | 简单 | 2021-10-14 | [力扣][PJZII69] |                                                              |
@@ -654,6 +655,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1995]:https://leetcode-cn.com/problems/count-special-quadruplets/
 
 [P2022]:https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/
+
+[P2029]:https://leetcode-cn.com/problems/stone-game-ix/
 
 [PJZ10]:https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/
 

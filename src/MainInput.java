@@ -602,6 +602,9 @@ public class MainInput {
             case 1337:
                 run1337();
                 break;
+            case 1345:
+                run1345();
+                break;
             case 1436:
                 run1436();
                 break;
@@ -2178,6 +2181,13 @@ public class MainInput {
         int k = 3;
         S1337 run = new S1337();
         int[] result = run.kWeakestRows(mat, k);
+        print(result);
+    }
+
+    static void run1345() {
+        int[] arr = {100, -23, -23, 404, 100, 23, 23, 23, 3, 404};
+        S1345 run = new S1345();
+        int result = run.minJumps(arr);
         print(result);
     }
 

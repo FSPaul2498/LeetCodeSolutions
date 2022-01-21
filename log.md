@@ -206,6 +206,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1220   | 统计元音字母序列的数目                     | 困难 | 2022-01-17 | [力扣][P1220]   | 本题有参考社区Java题解代码<br/>[【统计元音字母序列的数目】][S1220] |
 | #1221   | 分割平衡字符串                             | 简单 | 2021-09-07 | [力扣][P1221]   |                                                              |
 | #1337   | 矩阵中战斗力最弱的 K 行                    | 简单 | 2021-08-01 | [力扣][P1337]   |                                                              |
+| #1345   | 跳跃游戏 IV                                | 困难 | 2022-01-21 | [力扣][P1345]   | 本题有参考官方Java题解代码<br>[【跳跃游戏 IV】][S1345]       |
 | #1436   | 旅行终点站                                 | 简单 | 2021-10-01 | [力扣][P1436]   |                                                              |
 | #1446   | 连续字符                                   | 简单 | 2021-12-01 | [力扣][P1446]   |                                                              |
 | #1480   | 一维数组的动态和                           | 简单 | 2021-08-28 | [力扣][P1480]   |                                                              |
@@ -620,6 +621,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P1337]:https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/
 
+[P1345]:https://leetcode-cn.com/problems/jump-game-iv/
+
 [P1436]:https://leetcode-cn.com/problems/destination-city/
 
 [P1446]:https://leetcode-cn.com/problems/consecutive-characters/
@@ -731,6 +734,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S1044]:https://leetcode-cn.com/problems/longest-duplicate-substring/solution/zui-chang-zhong-fu-zi-chuan-by-leetcode-0i9rd/
 
 [S1220]:https://leetcode-cn.com/problems/count-vowels-permutation/solution/tong-ji-yuan-yin-zi-mu-xu-lie-de-shu-mu-jxo09/
+
+[S1345]:https://leetcode-cn.com/problems/jump-game-iv/solution/tiao-yue-you-xi-iv-by-leetcode-solution-zsix/
 
 [S1588]:https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/solution/gong-shui-san-xie-yi-ti-shuang-jie-qian-18jq3/
 

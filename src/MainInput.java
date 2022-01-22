@@ -599,6 +599,9 @@ public class MainInput {
             case 1221:
                 run1221();
                 break;
+            case 1332:
+                run1332();
+                break;
             case 1337:
                 run1337();
                 break;
@@ -2169,6 +2172,13 @@ public class MainInput {
         String s = "RLRRLLRLRL";
         S1221 run = new S1221();
         int result = run.balancedStringSplit(s);
+        print(result);
+    }
+
+    static void run1332() {
+        String s = "ababa";
+        S1332 run = new S1332();
+        int result = run.removePalindromeSub(s);
         print(result);
     }
 

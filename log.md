@@ -205,6 +205,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1218   | 最长定差子序列                             | 中等 | 2021-11-05 | [力扣][P1218]   |                                                              |
 | #1220   | 统计元音字母序列的数目                     | 困难 | 2022-01-17 | [力扣][P1220]   | 本题有参考社区Java题解代码<br/>[【统计元音字母序列的数目】][S1220] |
 | #1221   | 分割平衡字符串                             | 简单 | 2021-09-07 | [力扣][P1221]   |                                                              |
+| #1332   | 删除回文子序列                             | 简单 | 2022-01-22 | [力扣][P1332]   |                                                              |
 | #1337   | 矩阵中战斗力最弱的 K 行                    | 简单 | 2021-08-01 | [力扣][P1337]   |                                                              |
 | #1345   | 跳跃游戏 IV                                | 困难 | 2022-01-21 | [力扣][P1345]   | 本题有参考官方Java题解代码<br>[【跳跃游戏 IV】][S1345]       |
 | #1436   | 旅行终点站                                 | 简单 | 2021-10-01 | [力扣][P1436]   |                                                              |
@@ -618,6 +619,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1220]:https://leetcode-cn.com/problems/count-vowels-permutation/
 
 [P1221]:https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/
+
+[P1332]:https://leetcode-cn.com/problems/remove-palindromic-subsequences/
 
 [P1337]:https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/
 

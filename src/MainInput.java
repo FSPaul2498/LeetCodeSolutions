@@ -665,6 +665,9 @@ public class MainInput {
             case 2029:
                 run2029();
                 break;
+            case 2034:
+                run2034();
+                break;
             // 1XXXX for LCP & LCS
             // LCP 01 -> 10001 -> LCP01
             // LCS 01 -> 11001 -> LCS01
@@ -2344,6 +2347,18 @@ public class MainInput {
         S2029 run = new S2029();
         boolean result = run.stoneGameIX(stones);
         print(result);
+    }
+
+    static void run2034() {
+        StockPrice run = new StockPrice();
+        run.update(1, 10);
+        run.update(2, 5);
+        print(run.current());
+        print(run.maximum());
+        run.update(1, 3);
+        print(run.maximum());
+        run.update(4, 2);
+        print(run.minimum());
     }
 
     static void runJZ10() {

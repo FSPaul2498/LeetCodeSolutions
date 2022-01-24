@@ -668,6 +668,9 @@ public class MainInput {
             case 2034:
                 run2034();
                 break;
+            case 2045:
+                run2045();
+                break;
             // 1XXXX for LCP & LCS
             // LCP 01 -> 10001 -> LCP01
             // LCS 01 -> 11001 -> LCS01
@@ -2359,6 +2362,14 @@ public class MainInput {
         print(run.maximum());
         run.update(4, 2);
         print(run.minimum());
+    }
+
+    static void run2045() {
+        int n = 5, time = 3, change = 5;
+        int[][] edges = {{1, 2}, {1, 3}, {1, 4}, {3, 4}, {4, 5}};
+        S2045 run = new S2045();
+        int result = run.secondMinimum(n, edges, time, change);
+        print(result);
     }
 
     static void runJZ10() {

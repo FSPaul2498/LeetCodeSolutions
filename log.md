@@ -228,6 +228,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #2022   | 将一维数组转变成二维数组                   | 简单 | 2022-01-01 | [力扣][P2022]   |                                                              |
 | #2029   | 石子游戏 IX                                | 中等 | 2022-01-20 | [力扣][P2029]   |                                                              |
 | #2034   | 股票价格波动                               | 中等 | 2022-01-23 | [力扣][P2034]   |                                                              |
+| #2045   | 到达目的地的第二短时间                     | 困难 | 2022-01-24 | [力扣][P2045]   | 本题有参考官方Java题解代码<br>[【到达目的地的第二短时间】][S2045] |
 | #JZ10   | 斐波那契数列                               | 简单 | 2021-09-04 | [力扣][PJZ10]   |                                                              |
 | #JZ22   | 链表中倒数第k个节点                        | 简单 | 2021-09-02 | [力扣][PJZ22]   |                                                              |
 | #JZII69 | 山峰数组的顶部                             | 简单 | 2021-10-14 | [力扣][PJZII69] |                                                              |
@@ -667,6 +668,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P2034]:https://leetcode-cn.com/problems/stock-price-fluctuation/
 
+[P2045]:https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/
+
 [PJZ10]:https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/
 
 [PJZ22]:https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
@@ -746,3 +749,5 @@ which I have solved and submitted the solution to LeetCode CN.
 [S1588]:https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/solution/gong-shui-san-xie-yi-ti-shuang-jie-qian-18jq3/
 
 [S1610]:https://leetcode-cn.com/problems/maximum-number-of-visible-points/solution/you-xiao-ke-jian-dian-de-zui-da-shu-mu-b-r1qz/
+
+[S2045]:https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/solution/dao-da-mu-de-di-de-di-er-duan-shi-jian-b-05i0/

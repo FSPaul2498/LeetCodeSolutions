@@ -644,6 +644,9 @@ public class MainInput {
             case 1646:
                 run1646();
                 break;
+            case 1688:
+                run1688();
+                break;
             case 1705:
                 run1705();
                 break;
@@ -2297,6 +2300,13 @@ public class MainInput {
         int n = 7;
         S1646 run = new S1646();
         int result = run.getMaximumGenerated(n);
+        print(result);
+    }
+
+    static void run1688() {
+        int n = 7;
+        S1688 run = new S1688();
+        int result = run.numberOfMatches(n);
         print(result);
     }
 

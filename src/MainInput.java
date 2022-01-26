@@ -662,6 +662,9 @@ public class MainInput {
             case 1995:
                 run1995();
                 break;
+            case 2013:
+                run2013();
+                break;
             case 2022:
                 run2022();
                 break;
@@ -2345,6 +2348,17 @@ public class MainInput {
         S1995 run = new S1995();
         int result = run.countQuadruplets(nums);
         print(result);
+    }
+
+    static void run2013() {
+        DetectSquares run = new DetectSquares();
+        run.add(new int[]{3, 10});
+        run.add(new int[]{11, 2});
+        run.add(new int[]{3, 2});
+        print(run.count(new int[]{11, 10}));
+        print(run.count(new int[]{14, 8}));
+        run.add(new int[]{11, 2});
+        print(run.count(new int[]{11, 10}));
     }
 
     static void run2022() {

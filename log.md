@@ -226,6 +226,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1816   | 截断句子                                   | 简单 | 2021-12-06 | [力扣][P1816]   |                                                              |
 | #1894   | 找到需要补充粉笔的学生编号                 | 中等 | 2021-09-10 | [力扣][P1894]   |                                                              |
 | #1995   | 统计特殊四元组                             | 简单 | 2021-12-29 | [力扣][P1995]   |                                                              |
+| #1996   | 游戏中弱角色的数量                         | 中等 | 2022-01-28 | [力扣][P1996]   |                                                              |
 | #2013   | 检测正方形                                 | 中等 | 2022-01-26 | [力扣][P2013]   |                                                              |
 | #2022   | 将一维数组转变成二维数组                   | 简单 | 2022-01-01 | [力扣][P2022]   |                                                              |
 | #2029   | 石子游戏 IX                                | 中等 | 2022-01-20 | [力扣][P2029]   |                                                              |
@@ -666,6 +667,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1894]:https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/
 
 [P1995]:https://leetcode-cn.com/problems/count-special-quadruplets/
+
+[P1996]:https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game/
 
 [P2013]:https://leetcode-cn.com/problems/detect-squares/
 

@@ -662,6 +662,9 @@ public class MainInput {
             case 1995:
                 run1995();
                 break;
+            case 1996:
+                run1996();
+                break;
             case 2013:
                 run2013();
                 break;
@@ -2350,6 +2353,13 @@ public class MainInput {
         int[] nums = {1, 2, 3, 6};
         S1995 run = new S1995();
         int result = run.countQuadruplets(nums);
+        print(result);
+    }
+
+    static void run1996() {
+        int[][] properties = {{5, 5}, {6, 3}, {3, 6}};
+        S1996 run = new S1996();
+        int result = run.numberOfWeakCharacters(properties);
         print(result);
     }
 

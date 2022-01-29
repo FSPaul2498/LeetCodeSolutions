@@ -653,6 +653,9 @@ public class MainInput {
             case 1716:
                 run1716();
                 break;
+            case 1765:
+                run1765();
+                break;
             case 1816:
                 run1816();
                 break;
@@ -2330,6 +2333,13 @@ public class MainInput {
         int n = 4;
         S1716 run = new S1716();
         int result = run.totalMoney(n);
+        print(result);
+    }
+
+    static void run1765() {
+        int[][] isWater = {{0, 1}, {0, 0}};
+        S1765 run = new S1765();
+        int[][] result = run.highestPeak(isWater);
         print(result);
     }
 

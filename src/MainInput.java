@@ -551,6 +551,9 @@ public class MainInput {
             case 881:
                 run881();
                 break;
+            case 884:
+                run884();
+                break;
             case 911:
                 run911();
                 break;
@@ -2071,6 +2074,13 @@ public class MainInput {
         int limit = 3;
         S881 run = new S881();
         int result = run.numRescueBoats(people, limit);
+        print(result);
+    }
+
+    static void run884() {
+        String s1 = "this apple is sweet", s2 = "this apple is sour";
+        S884 run = new S884();
+        String[] result = run.uncommonFromSentences(s1, s2);
         print(result);
     }
 

@@ -208,6 +208,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1221   | 分割平衡字符串                             | 简单 | 2021-09-07 | [力扣][P1221]   |                                                              |
 | #1332   | 删除回文子序列                             | 简单 | 2022-01-22 | [力扣][P1332]   |                                                              |
 | #1337   | 矩阵中战斗力最弱的 K 行                    | 简单 | 2021-08-01 | [力扣][P1337]   |                                                              |
+| #1342   | 将数字变成 0 的操作次数                    | 简单 | 2022-01-31 | [力扣][P1342]   |                                                              |
 | #1345   | 跳跃游戏 IV                                | 困难 | 2022-01-21 | [力扣][P1345]   | 本题有参考官方Java题解代码<br>[【跳跃游戏 IV】][S1345]       |
 | #1436   | 旅行终点站                                 | 简单 | 2021-10-01 | [力扣][P1436]   |                                                              |
 | #1446   | 连续字符                                   | 简单 | 2021-12-01 | [力扣][P1446]   |                                                              |
@@ -633,6 +634,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1332]:https://leetcode-cn.com/problems/remove-palindromic-subsequences/
 
 [P1337]:https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/
+
+[P1342]:https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 
 [P1345]:https://leetcode-cn.com/problems/jump-game-iv/
 

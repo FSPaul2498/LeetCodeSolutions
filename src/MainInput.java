@@ -608,6 +608,9 @@ public class MainInput {
             case 1337:
                 run1337();
                 break;
+            case 1342:
+                run1342();
+                break;
             case 1345:
                 run1345();
                 break;
@@ -2222,6 +2225,13 @@ public class MainInput {
         int k = 3;
         S1337 run = new S1337();
         int[] result = run.kWeakestRows(mat, k);
+        print(result);
+    }
+
+    static void run1342() {
+        int num = 14;
+        S1342 run = new S1342();
+        int result = run.numberOfSteps(num);
         print(result);
     }
 

@@ -659,6 +659,9 @@ public class MainInput {
             case 1716:
                 run1716();
                 break;
+            case 1763:
+                run1763();
+                break;
             case 1765:
                 run1765();
                 break;
@@ -2353,6 +2356,13 @@ public class MainInput {
         int n = 4;
         S1716 run = new S1716();
         int result = run.totalMoney(n);
+        print(result);
+    }
+
+    static void run1763() {
+        String s = "YazaAay";
+        S1763 run = new S1763();
+        String result = run.longestNiceSubstring(s);
         print(result);
     }
 

@@ -225,6 +225,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1688   | 比赛中的配对次数                           | 简单 | 2022-01-25 | [力扣][P1688]   |                                                              |
 | #1705   | 吃苹果的最大数目                           | 中等 | 2021-12-24 | [力扣][P1705]   |                                                              |
 | #1716   | 计算力扣银行的钱                           | 简单 | 2022-01-15 | [力扣][P1716]   |                                                              |
+| #1763   | 最长的美好子字符串                         | 简单 | 2022-02-01 | [力扣][P1763]   |                                                              |
 | #1765   | 地图中的最高点                             | 中等 | 2022-01-29 | [力扣][P1765]   |                                                              |
 | #1816   | 截断句子                                   | 简单 | 2021-12-06 | [力扣][P1816]   |                                                              |
 | #1894   | 找到需要补充粉笔的学生编号                 | 中等 | 2021-09-10 | [力扣][P1894]   |                                                              |
@@ -668,6 +669,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1705]:https://leetcode-cn.com/problems/maximum-number-of-eaten-apples/
 
 [P1716]:https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/
+
+[P1763]:https://leetcode-cn.com/problems/longest-nice-substring/
 
 [P1765]:https://leetcode-cn.com/problems/map-of-highest-peak/
 

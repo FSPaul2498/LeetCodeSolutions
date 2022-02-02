@@ -677,6 +677,9 @@ public class MainInput {
             case 1996:
                 run1996();
                 break;
+            case 2000:
+                run2000();
+                break;
             case 2013:
                 run2013();
                 break;
@@ -2400,6 +2403,14 @@ public class MainInput {
         int[][] properties = {{5, 5}, {6, 3}, {3, 6}};
         S1996 run = new S1996();
         int result = run.numberOfWeakCharacters(properties);
+        print(result);
+    }
+
+    static void run2000() {
+        String word = "abcdefd";
+        char ch = 'd';
+        S2000 run = new S2000();
+        String result = run.reversePrefix(word, ch);
         print(result);
     }
 

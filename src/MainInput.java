@@ -662,6 +662,9 @@ public class MainInput {
             case 1716:
                 run1716();
                 break;
+            case 1725:
+                run1725();
+                break;
             case 1763:
                 run1763();
                 break;
@@ -2369,6 +2372,13 @@ public class MainInput {
         int n = 4;
         S1716 run = new S1716();
         int result = run.totalMoney(n);
+        print(result);
+    }
+
+    static void run1725() {
+        int[][] rectangles = {{5, 8}, {3, 9}, {5, 12}, {16, 5}};
+        S1725 run = new S1725();
+        int result = run.countGoodRectangles(rectangles);
         print(result);
     }
 

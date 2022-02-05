@@ -596,6 +596,9 @@ public class MainInput {
             case 1218:
                 run1218();
                 break;
+            case 1219:
+                run1219();
+                break;
             case 1220:
                 run1220();
                 break;
@@ -2204,6 +2207,13 @@ public class MainInput {
         int difference = 4;
         S1218 run = new S1218();
         int result = run.longestSubsequence(arr, difference);
+        print(result);
+    }
+
+    static void run1219() {
+        int[][] grid = {{0, 6, 0}, {5, 8, 7}, {0, 9, 0}};
+        S1219 run = new S1219();
+        int result = run.getMaximumGold(grid);
         print(result);
     }
 

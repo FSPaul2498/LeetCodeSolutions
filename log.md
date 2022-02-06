@@ -228,6 +228,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1705   | 吃苹果的最大数目                           | 中等 | 2021-12-24 | [力扣][P1705]   |                                                              |
 | #1716   | 计算力扣银行的钱                           | 简单 | 2022-01-15 | [力扣][P1716]   |                                                              |
 | #1725   | 可以形成最大正方形的矩形数目               | 简单 | 2022-02-04 | [力扣][P1725]   |                                                              |
+| #1748   | 唯一元素的和                               | 简单 | 2022-02-06 | [力扣][P1748]   |                                                              |
 | #1763   | 最长的美好子字符串                         | 简单 | 2022-02-01 | [力扣][P1763]   |                                                              |
 | #1765   | 地图中的最高点                             | 中等 | 2022-01-29 | [力扣][P1765]   |                                                              |
 | #1816   | 截断句子                                   | 简单 | 2021-12-06 | [力扣][P1816]   |                                                              |
@@ -679,6 +680,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1716]:https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/
 
 [P1725]:https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/
+
+[P1748]:https://leetcode-cn.com/problems/sum-of-unique-elements/
 
 [P1763]:https://leetcode-cn.com/problems/longest-nice-substring/
 

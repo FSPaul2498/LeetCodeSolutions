@@ -668,6 +668,9 @@ public class MainInput {
             case 1725:
                 run1725();
                 break;
+            case 1748:
+                run1748();
+                break;
             case 1763:
                 run1763();
                 break;
@@ -2389,6 +2392,13 @@ public class MainInput {
         int[][] rectangles = {{5, 8}, {3, 9}, {5, 12}, {16, 5}};
         S1725 run = new S1725();
         int result = run.countGoodRectangles(rectangles);
+        print(result);
+    }
+
+    static void run1748() {
+        int[] nums = {1, 2, 3, 2};
+        S1748 run = new S1748();
+        int result = run.sumOfUnique(nums);
         print(result);
     }
 

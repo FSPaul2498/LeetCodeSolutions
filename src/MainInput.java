@@ -617,6 +617,9 @@ public class MainInput {
             case 1345:
                 run1345();
                 break;
+            case 1405:
+                run1405();
+                break;
             case 1414:
                 run1414();
                 break;
@@ -2264,6 +2267,13 @@ public class MainInput {
         int[] arr = {100, -23, -23, 404, 100, 23, 23, 23, 3, 404};
         S1345 run = new S1345();
         int result = run.minJumps(arr);
+        print(result);
+    }
+
+    static void run1405() {
+        int a = 1, b = 1, c = 7;
+        S1405 run = new S1405();
+        String result = run.longestDiverseString(a, b, c);
         print(result);
     }
 

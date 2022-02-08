@@ -563,6 +563,9 @@ public class MainInput {
             case 997:
                 run997();
                 break;
+            case 1001:
+                run1001();
+                break;
             case 1005:
                 run1005();
                 break;
@@ -2131,6 +2134,14 @@ public class MainInput {
         int[][] trust = {{1, 2}};
         S997 run = new S997();
         int result = run.findJudge(n, trust);
+        print(result);
+    }
+
+    static void run1001() {
+        int n = 5;
+        int[][] lamps = {{0, 0}, {4, 4}}, queries = {{1, 1}, {1, 1}};
+        S1001 run = new S1001();
+        int[] result = run.gridIllumination(n, lamps, queries);
         print(result);
     }
 

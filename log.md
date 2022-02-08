@@ -193,6 +193,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #911    | 在线选举                                   | 中等 | 2021-12-11 | [力扣][P911]    |                                                              |
 | #913    | 猫和老鼠                                   | 困难 | 2022-01-04 | [力扣][P913]    | 本题有参考官方Java题解代码<br>[【猫和老鼠】][S913]           |
 | #997    | 找到小镇的法官                             | 简单 | 2021-12-19 | [力扣][P997]    |                                                              |
+| #1001   | 网格照明                                   | 困难 | 2022-02-08 | [力扣][P1001]   | 本题有参考官方Java题解代码<br>[【网格照明】][S1001]          |
 | #1005   | K 次取反后最大化的数组和                   | 简单 | 2021-12-03 | [力扣][P1005]   |                                                              |
 | #1009   | 十进制整数的反码                           | 简单 | 2021-10-18 | [力扣][P1009]   |                                                              |
 | #1034   | 边界着色                                   | 中等 | 2021-12-07 | [力扣][P1034]   | 本题有参考官方Java题解代码<br>[【边界着色】][S1034]          |
@@ -612,6 +613,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P997]:https://leetcode-cn.com/problems/find-the-town-judge/
 
+[P1001]:https://leetcode-cn.com/problems/grid-illumination/
+
 [P1005]:https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/
 
 [P1009]:https://leetcode-cn.com/problems/complement-of-base-10-integer/
@@ -777,6 +780,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S869]:https://leetcode-cn.com/problems/reordered-power-of-2/solution/zhong-xin-pai-xu-de-dao-2-de-mi-by-leetc-4fvs/
 
 [S913]:https://leetcode-cn.com/problems/cat-and-mouse/solution/mao-he-lao-shu-by-leetcode-solution-444x/
+
+[S1001]:https://leetcode-cn.com/problems/grid-illumination/solution/wang-ge-zhao-ming-by-leetcode-solution-7omu/
 
 [S1034]:https://leetcode-cn.com/problems/coloring-a-border/solution/bian-kuang-zhao-se-by-leetcode-solution-0h5l/
 

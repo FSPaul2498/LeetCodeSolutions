@@ -698,6 +698,9 @@ public class MainInput {
             case 2000:
                 run2000();
                 break;
+            case 2006:
+                run2006();
+                break;
             case 2013:
                 run2013();
                 break;
@@ -2472,6 +2475,14 @@ public class MainInput {
         char ch = 'd';
         S2000 run = new S2000();
         String result = run.reversePrefix(word, ch);
+        print(result);
+    }
+
+    static void run2006() {
+        int[] nums = {1, 2, 2, 1};
+        int k = 1;
+        S2006 run = new S2006();
+        int result = run.countKDifference(nums, k);
         print(result);
     }
 

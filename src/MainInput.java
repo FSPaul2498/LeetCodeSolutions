@@ -632,6 +632,9 @@ public class MainInput {
             case 1446:
                 run1446();
                 break;
+            case 1447:
+                run1447();
+                break;
             case 1480:
                 run1480();
                 break;
@@ -2310,6 +2313,13 @@ public class MainInput {
         String s = "leetcode";
         S1446 run = new S1446();
         int result = run.maxPower(s);
+        print(result);
+    }
+
+    static void run1447() {
+        int n = 2;
+        S1447 run = new S1447();
+        List<String> result = run.simplifiedFractions(n);
         print(result);
     }
 

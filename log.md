@@ -216,6 +216,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1414   | 和为 K 的最少斐波那契数字数目              | 中等 | 2022-02-03 | [力扣][P1414]   |                                                              |
 | #1436   | 旅行终点站                                 | 简单 | 2021-10-01 | [力扣][P1436]   |                                                              |
 | #1446   | 连续字符                                   | 简单 | 2021-12-01 | [力扣][P1446]   |                                                              |
+| #1447   | 最简分数                                   | 中等 | 2022-02-10 | [力扣][P1447]   |                                                              |
 | #1480   | 一维数组的动态和                           | 简单 | 2021-08-28 | [力扣][P1480]   |                                                              |
 | #1518   | 换酒问题                                   | 简单 | 2021-12-17 | [力扣][P1518]   |                                                              |
 | #1576   | 替换所有的问号                             | 简单 | 2022-01-05 | [力扣][P1576]   |                                                              |
@@ -659,6 +660,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1436]:https://leetcode-cn.com/problems/destination-city/
 
 [P1446]:https://leetcode-cn.com/problems/consecutive-characters/
+
+[P1447]:https://leetcode-cn.com/problems/simplified-fractions/
 
 [P1480]:https://leetcode-cn.com/problems/running-sum-of-1d-array/
 

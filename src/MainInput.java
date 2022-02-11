@@ -692,6 +692,9 @@ public class MainInput {
             case 1894:
                 run1894();
                 break;
+            case 1984:
+                run1984();
+                break;
             case 1995:
                 run1995();
                 break;
@@ -2463,6 +2466,14 @@ public class MainInput {
         int k = 22;
         S1894 run = new S1894();
         int result = run.chalkReplacer(chalk, k);
+        print(result);
+    }
+
+    static void run1984() {
+        int[] nums = {90};
+        int k = 1;
+        S1984 run = new S1984();
+        int result = run.minimumDifference(nums, k);
         print(result);
     }
 

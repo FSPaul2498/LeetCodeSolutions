@@ -236,6 +236,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1765   | 地图中的最高点                             | 中等 | 2022-01-29 | [力扣][P1765]   |                                                              |
 | #1816   | 截断句子                                   | 简单 | 2021-12-06 | [力扣][P1816]   |                                                              |
 | #1894   | 找到需要补充粉笔的学生编号                 | 中等 | 2021-09-10 | [力扣][P1894]   |                                                              |
+| #1984   | 学生分数的最小差值                         | 简单 | 2022-02-11 | [力扣][P1984]   |                                                              |
 | #1995   | 统计特殊四元组                             | 简单 | 2021-12-29 | [力扣][P1995]   |                                                              |
 | #1996   | 游戏中弱角色的数量                         | 中等 | 2022-01-28 | [力扣][P1996]   |                                                              |
 | #2000   | 反转单词前缀                               | 简单 | 2022-02-02 | [力扣][P2000]   |                                                              |
@@ -700,6 +701,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1816]:https://leetcode-cn.com/problems/truncate-sentence/
 
 [P1894]:https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/
+
+[P1984]:https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 
 [P1995]:https://leetcode-cn.com/problems/count-special-quadruplets/
 

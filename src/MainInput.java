@@ -572,6 +572,9 @@ public class MainInput {
             case 1009:
                 run1009();
                 break;
+            case 1020:
+                run1020();
+                break;
             case 1034:
                 run1034();
                 break;
@@ -2166,6 +2169,13 @@ public class MainInput {
         int n = 5;
         S1009 run = new S1009();
         int result = run.bitwiseComplement(n);
+        print(result);
+    }
+
+    static void run1020() {
+        int[][] grid = {{0, 0, 0, 0}, {1, 0, 1, 0}, {0, 1, 1, 0}, {0, 0, 0, 0}};
+        S1020 run = new S1020();
+        int result = run.numEnclaves(grid);
         print(result);
     }
 

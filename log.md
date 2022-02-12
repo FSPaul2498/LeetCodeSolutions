@@ -196,6 +196,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1001   | 网格照明                                   | 困难 | 2022-02-08 | [力扣][P1001]   | 本题有参考官方Java题解代码<br>[【网格照明】][S1001]          |
 | #1005   | K 次取反后最大化的数组和                   | 简单 | 2021-12-03 | [力扣][P1005]   |                                                              |
 | #1009   | 十进制整数的反码                           | 简单 | 2021-10-18 | [力扣][P1009]   |                                                              |
+| #1020   | 飞地的数量                                 | 中等 | 2022-02-12 | [力扣][P1020]   |                                                              |
 | #1034   | 边界着色                                   | 中等 | 2021-12-07 | [力扣][P1034]   | 本题有参考官方Java题解代码<br>[【边界着色】][S1034]          |
 | #1036   | 逃离大迷宫                                 | 困难 | 2022-01-11 | [力扣][P1036]   | 本题有参考官方Java题解代码<br>[【逃离大迷宫】][S1036]        |
 | #1044   | 最长重复子串                               | 困难 | 2021-12-23 | [力扣][P1044]   | 本题有参考官方Java题解代码<br>[【最长重复子串】][S1044]      |
@@ -621,6 +622,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1005]:https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/
 
 [P1009]:https://leetcode-cn.com/problems/complement-of-base-10-integer/
+
+[P1020]:https://leetcode-cn.com/problems/number-of-enclaves/
 
 [P1034]:https://leetcode-cn.com/problems/coloring-a-border/
 

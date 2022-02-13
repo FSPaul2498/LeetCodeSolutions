@@ -599,6 +599,9 @@ public class MainInput {
             case 1185:
                 run1185();
                 break;
+            case 1189:
+                run1189();
+                break;
             case 1218:
                 run1218();
                 break;
@@ -2235,6 +2238,13 @@ public class MainInput {
         int day = 31, month = 8, year = 2019;
         S1185 run = new S1185();
         String result = run.dayOfTheWeek(day, month, year);
+        print(result);
+    }
+
+    static void run1189() {
+        String text = "nlaebolko";
+        S1189 run = new S1189();
+        int result = run.maxNumberOfBalloons(text);
         print(result);
     }
 

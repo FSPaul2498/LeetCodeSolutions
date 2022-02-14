@@ -145,6 +145,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #526    | 优美的排列                                 | 中等 | 2021-08-16 | [力扣][P526]    | 本题有参考官方Java题解代码<br>[【优美的排列】][S526]         |
 | #528    | 按权重随机选择                             | 中等 | 2021-08-30 | [力扣][P528]    |                                                              |
 | #539    | 最小时间差                                 | 中等 | 2022-01-18 | [力扣][P539]    |                                                              |
+| #540    | 有序数组中的单一元素                       | 中等 | 2022-02-14 | [力扣][P540]    |                                                              |
 | #541    | 反转字符串 II                              | 简单 | 2021-08-20 | [力扣][P541]    |                                                              |
 | #551    | 学生出勤记录 I                             | 简单 | 2021-08-17 | [力扣][P551]    |                                                              |
 | #552    | 学生出勤记录 II                            | 困难 | 2021-08-18 | [力扣][P552]    | 本题有参考官方Java题解代码<br>[【学生出勤记录 II】][S552]    |
@@ -521,6 +522,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P528]: https://leetcode-cn.com/problems/random-pick-with-weight/
 
 [P539]:https://leetcode-cn.com/problems/minimum-time-difference/
+
+[P540]:https://leetcode-cn.com/problems/single-element-in-a-sorted-array/
 
 [P541]:https://leetcode-cn.com/problems/reverse-string-ii/
 

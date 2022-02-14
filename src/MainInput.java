@@ -419,6 +419,9 @@ public class MainInput {
             case 539:
                 run539();
                 break;
+            case 540:
+                run540();
+                break;
             case 541:
                 run541();
                 break;
@@ -1786,6 +1789,13 @@ public class MainInput {
         List<String> timePoints = new ArrayList<>(List.of(tp));
         S539 run = new S539();
         int result = run.findMinDifference(timePoints);
+        print(result);
+    }
+
+    static void run540() {
+        int[] nums = {1, 1, 2, 3, 3, 4, 4, 8, 8};
+        S540 run = new S540();
+        int result = run.singleNonDuplicate(nums);
         print(result);
     }
 

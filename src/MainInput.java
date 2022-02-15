@@ -629,6 +629,9 @@ public class MainInput {
             case 1345:
                 run1345();
                 break;
+            case 1380:
+                run1380();
+                break;
             case 1405:
                 run1405();
                 break;
@@ -2317,6 +2320,13 @@ public class MainInput {
         int[] arr = {100, -23, -23, 404, 100, 23, 23, 23, 3, 404};
         S1345 run = new S1345();
         int result = run.minJumps(arr);
+        print(result);
+    }
+
+    static void run1380() {
+        int[][] matrix = {{3, 7, 8}, {9, 11, 13}, {15, 16, 17}};
+        S1380 run = new S1380();
+        List<Integer> result = run.luckyNumbers(matrix);
         print(result);
     }
 

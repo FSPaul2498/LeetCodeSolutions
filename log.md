@@ -215,6 +215,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1337   | 矩阵中战斗力最弱的 K 行                    | 简单 | 2021-08-01 | [力扣][P1337]   |                                                              |
 | #1342   | 将数字变成 0 的操作次数                    | 简单 | 2022-01-31 | [力扣][P1342]   |                                                              |
 | #1345   | 跳跃游戏 IV                                | 困难 | 2022-01-21 | [力扣][P1345]   | 本题有参考官方Java题解代码<br>[【跳跃游戏 IV】][S1345]       |
+| #1380   | 矩阵中的幸运数                             | 简单 | 2022-02-15 | [力扣][P1380]   |                                                              |
 | #1405   | 最长快乐字符串                             | 中等 | 2022-02-07 | [力扣][P1405]   |                                                              |
 | #1414   | 和为 K 的最少斐波那契数字数目              | 中等 | 2022-02-03 | [力扣][P1414]   |                                                              |
 | #1436   | 旅行终点站                                 | 简单 | 2021-10-01 | [力扣][P1436]   |                                                              |
@@ -662,6 +663,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1342]:https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 
 [P1345]:https://leetcode-cn.com/problems/jump-game-iv/
+
+[P1380]:https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/
 
 [P1405]:https://leetcode-cn.com/problems/longest-happy-string/
 

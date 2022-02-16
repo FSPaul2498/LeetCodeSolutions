@@ -234,6 +234,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1688   | 比赛中的配对次数                           | 简单 | 2022-01-25 | [力扣][P1688]   |                                                              |
 | #1705   | 吃苹果的最大数目                           | 中等 | 2021-12-24 | [力扣][P1705]   |                                                              |
 | #1716   | 计算力扣银行的钱                           | 简单 | 2022-01-15 | [力扣][P1716]   |                                                              |
+| #1719   | 重构一棵树的方案数                         | 困难 | 2022-02-16 | [力扣][P1719]   | 本题有参考官方Java题解代码<br>[【重构一棵树的方案数】][S1719] |
 | #1725   | 可以形成最大正方形的矩形数目               | 简单 | 2022-02-04 | [力扣][P1725]   |                                                              |
 | #1748   | 唯一元素的和                               | 简单 | 2022-02-06 | [力扣][P1748]   |                                                              |
 | #1763   | 最长的美好子字符串                         | 简单 | 2022-02-01 | [力扣][P1763]   |                                                              |
@@ -702,6 +703,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P1716]:https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/
 
+[P1719]:https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree/
+
 [P1725]:https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/
 
 [P1748]:https://leetcode-cn.com/problems/sum-of-unique-elements/
@@ -817,5 +820,7 @@ which I have solved and submitted the solution to LeetCode CN.
 [S1588]:https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/solution/gong-shui-san-xie-yi-ti-shuang-jie-qian-18jq3/
 
 [S1610]:https://leetcode-cn.com/problems/maximum-number-of-visible-points/solution/you-xiao-ke-jian-dian-de-zui-da-shu-mu-b-r1qz/
+
+[S1719]:https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree/solution/zhong-gou-yi-ke-shu-de-fang-an-shu-by-le-36e1/
 
 [S2045]:https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/solution/dao-da-mu-de-di-de-di-er-duan-shi-jian-b-05i0/

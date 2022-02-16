@@ -686,6 +686,9 @@ public class MainInput {
             case 1716:
                 run1716();
                 break;
+            case 1719:
+                run1719();
+                break;
             case 1725:
                 run1725();
                 break;
@@ -2462,6 +2465,13 @@ public class MainInput {
         int n = 4;
         S1716 run = new S1716();
         int result = run.totalMoney(n);
+        print(result);
+    }
+
+    static void run1719() {
+        int[][] pairs = {{1, 2}, {2, 3}};
+        S1719 run = new S1719();
+        int result = run.checkWays(pairs);
         print(result);
     }
 

@@ -168,6 +168,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #677    | 键值映射                                   | 中等 | 2021-11-14 | [力扣][P677]    |                                                              |
 | #678    | 有效的括号字符串                           | 中等 | 2021-09-12 | [力扣][P678]    |                                                              |
 | #686    | 重复叠加字符串匹配                         | 中等 | 2021-12-22 | [力扣][P686]    |                                                              |
+| #688    | 骑士在棋盘上的概率                         | 中等 | 2022-02-17 | [力扣][P688]    | 本题有参考官方Java题解代码<br>[【骑士在棋盘上的概率】][S688] |
 | #689    | 三个无重叠子数组的最大和                   | 困难 | 2021-12-08 | [力扣][P689]    | 本题有参考官方Java题解代码<br>[【三个无重叠子数组的最大和】][S689] |
 | #700    | 二叉搜索树中的搜索                         | 简单 | 2021-11-26 | [力扣][P700]    |                                                              |
 | #704    | 二分查找                                   | 简单 | 2021-09-06 | [力扣][P704]    |                                                              |
@@ -571,6 +572,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P686]:https://leetcode-cn.com/problems/repeated-string-match/
 
+[P688]:https://leetcode-cn.com/problems/knight-probability-in-chessboard/
+
 [P689]:https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
 
 [P700]:https://leetcode-cn.com/problems/search-in-a-binary-search-tree/
@@ -794,6 +797,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S639]:https://leetcode-cn.com/problems/decode-ways-ii/solution/jie-ma-fang-fa-ii-by-leetcode-solution-23af/
 
 [S673]:https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/solution/zui-chang-di-zeng-zi-xu-lie-de-ge-shu-by-w12f/
+
+[S688]:https://leetcode-cn.com/problems/knight-probability-in-chessboard/solution/qi-shi-zai-qi-pan-shang-de-gai-lu-by-lee-2qhk/
 
 [S689]:https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/solution/san-ge-wu-zhong-die-zi-shu-zu-de-zui-da-4a8lb/
 

@@ -488,6 +488,9 @@ public class MainInput {
             case 686:
                 run686();
                 break;
+            case 688:
+                run688();
+                break;
             case 689:
                 run689();
                 break;
@@ -1965,6 +1968,13 @@ public class MainInput {
         String a = "abcd", b = "cdabcdab";
         S686 run = new S686();
         int result = run.repeatedStringMatch(a, b);
+        print(result);
+    }
+
+    static void run688() {
+        int n = 3, k = 2, row = 0, column = 0;
+        S688 run = new S688();
+        double result = run.knightProbability(n, k, row, column);
         print(result);
     }
 

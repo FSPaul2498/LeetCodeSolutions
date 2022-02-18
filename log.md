@@ -240,6 +240,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1748   | 唯一元素的和                               | 简单 | 2022-02-06 | [力扣][P1748]   |                                                              |
 | #1763   | 最长的美好子字符串                         | 简单 | 2022-02-01 | [力扣][P1763]   |                                                              |
 | #1765   | 地图中的最高点                             | 中等 | 2022-01-29 | [力扣][P1765]   |                                                              |
+| #1791   | 找出星型图的中心节点                       | 简单 | 2022-02-18 | [力扣][P1791]   |                                                              |
 | #1816   | 截断句子                                   | 简单 | 2021-12-06 | [力扣][P1816]   |                                                              |
 | #1894   | 找到需要补充粉笔的学生编号                 | 中等 | 2021-09-10 | [力扣][P1894]   |                                                              |
 | #1984   | 学生分数的最小差值                         | 简单 | 2022-02-11 | [力扣][P1984]   |                                                              |
@@ -715,6 +716,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1763]:https://leetcode-cn.com/problems/longest-nice-substring/
 
 [P1765]:https://leetcode-cn.com/problems/map-of-highest-peak/
+
+[P1791]:https://leetcode-cn.com/problems/find-center-of-star-graph/
 
 [P1816]:https://leetcode-cn.com/problems/truncate-sentence/
 

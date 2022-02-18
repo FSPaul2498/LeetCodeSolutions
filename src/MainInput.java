@@ -704,6 +704,9 @@ public class MainInput {
             case 1765:
                 run1765();
                 break;
+            case 1791:
+                run1791();
+                break;
             case 1816:
                 run1816();
                 break;
@@ -2510,6 +2513,13 @@ public class MainInput {
         int[][] isWater = {{0, 1}, {0, 0}};
         S1765 run = new S1765();
         int[][] result = run.highestPeak(isWater);
+        print(result);
+    }
+
+    static void run1791() {
+        int[][] edges = {{1, 2}, {2, 3}, {4, 2}};
+        S1791 run = new S1791();
+        int result = run.findCenter(edges);
         print(result);
     }
 

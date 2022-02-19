@@ -566,6 +566,9 @@ public class MainInput {
             case 913:
                 run913();
                 break;
+            case 969:
+                run969();
+                break;
             case 997:
                 run997();
                 break;
@@ -2170,6 +2173,13 @@ public class MainInput {
         int[][] graph = {{2, 5}, {3}, {0, 4, 5}, {1, 4, 5}, {2, 3}, {0, 2, 3}};
         S913 run = new S913();
         int result = run.catMouseGame(graph);
+        print(result);
+    }
+
+    static void run969() {
+        int[] arr = {3, 2, 4, 1};
+        S969 run = new S969();
+        List<Integer> result = run.pancakeSort(arr);
         print(result);
     }
 

@@ -194,6 +194,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #884    | 两句话中的不常见单词                       | 简单 | 2022-01-30 | [力扣][P884]    |                                                              |
 | #911    | 在线选举                                   | 中等 | 2021-12-11 | [力扣][P911]    |                                                              |
 | #913    | 猫和老鼠                                   | 困难 | 2022-01-04 | [力扣][P913]    | 本题有参考官方Java题解代码<br>[【猫和老鼠】][S913]           |
+| #969    | 煎饼排序                                   | 中等 | 2022-02-19 | [力扣][P969]    |                                                              |
 | #997    | 找到小镇的法官                             | 简单 | 2021-12-19 | [力扣][P997]    |                                                              |
 | #1001   | 网格照明                                   | 困难 | 2022-02-08 | [力扣][P1001]   | 本题有参考官方Java题解代码<br>[【网格照明】][S1001]          |
 | #1005   | K 次取反后最大化的数组和                   | 简单 | 2021-12-03 | [力扣][P1005]   |                                                              |
@@ -624,6 +625,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P911]:https://leetcode-cn.com/problems/online-election/
 
 [P913]:https://leetcode-cn.com/problems/cat-and-mouse/
+
+[P969]:https://leetcode-cn.com/problems/pancake-sorting/
 
 [P997]:https://leetcode-cn.com/problems/find-the-town-judge/
 

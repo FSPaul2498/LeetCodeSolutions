@@ -503,6 +503,9 @@ public class MainInput {
             case 709:
                 run709();
                 break;
+            case 717:
+                run717();
+                break;
             case 725:
                 run725();
                 break;
@@ -2012,6 +2015,13 @@ public class MainInput {
         String s = "Hello";
         S709 run = new S709();
         String result = run.toLowerCase(s);
+        print(result);
+    }
+
+    static void run717() {
+        int[] bits = {1, 0, 0};
+        S717 run = new S717();
+        boolean result = run.isOneBitCharacter(bits);
         print(result);
     }
 

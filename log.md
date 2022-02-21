@@ -186,6 +186,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #802    | 找到最终的安全状态                         | 中等 | 2021-08-05 | [力扣][P802]    |                                                              |
 | #807    | 保持城市天际线                             | 中等 | 2021-12-13 | [力扣][P807]    |                                                              |
 | #825    | 适龄的朋友                                 | 中等 | 2021-12-27 | [力扣][P825]    |                                                              |
+| #838    | 推多米诺                                   | 中等 | 2022-02-21 | [力扣][P838]    |                                                              |
 | #846    | 一手顺子                                   | 中等 | 2021-12-30 | [力扣][P846]    |                                                              |
 | #847    | 访问所有节点的最短路径                     | 困难 | 2021-08-06 | [力扣][P847]    | 本题有参考官方Java题解代码<br>[【访问所有节点的最短路径】][S847] |
 | #851    | 喧闹和富有                                 | 中等 | 2021-12-15 | [力扣][P851]    |                                                              |
@@ -610,6 +611,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P807]:https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/
 
 [P825]:https://leetcode-cn.com/problems/friends-of-appropriate-ages/
+
+[P838]:https://leetcode-cn.com/problems/push-dominoes/
 
 [P846]:https://leetcode-cn.com/problems/hand-of-straights/
 

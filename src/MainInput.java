@@ -725,6 +725,9 @@ public class MainInput {
             case 1984:
                 run1984();
                 break;
+            case 1994:
+                run1994();
+                break;
             case 1995:
                 run1995();
                 break;
@@ -2574,6 +2577,13 @@ public class MainInput {
         int k = 1;
         S1984 run = new S1984();
         int result = run.minimumDifference(nums, k);
+        print(result);
+    }
+
+    static void run1994() {
+        int[] nums = {1, 2, 3, 4};
+        S1994 run = new S1994();
+        int result = run.numberOfGoodSubsets(nums);
         print(result);
     }
 

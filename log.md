@@ -247,6 +247,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1816   | 截断句子                                   | 简单 | 2021-12-06 | [力扣][P1816]   |                                                              |
 | #1894   | 找到需要补充粉笔的学生编号                 | 中等 | 2021-09-10 | [力扣][P1894]   |                                                              |
 | #1984   | 学生分数的最小差值                         | 简单 | 2022-02-11 | [力扣][P1984]   |                                                              |
+| #1994   | 好子集的数目                               | 困难 | 2022-02-22 | [力扣][P1994]   | 本题有参考官方Java题解代码<br>[【好子集的数目】][S1994]      |
 | #1995   | 统计特殊四元组                             | 简单 | 2021-12-29 | [力扣][P1995]   |                                                              |
 | #1996   | 游戏中弱角色的数量                         | 中等 | 2022-01-28 | [力扣][P1996]   |                                                              |
 | #2000   | 反转单词前缀                               | 简单 | 2022-02-02 | [力扣][P2000]   |                                                              |
@@ -734,6 +735,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P1984]:https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 
+[P1994]:https://leetcode-cn.com/problems/the-number-of-good-subsets/
+
 [P1995]:https://leetcode-cn.com/problems/count-special-quadruplets/
 
 [P1996]:https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game/
@@ -839,5 +842,7 @@ which I have solved and submitted the solution to LeetCode CN.
 [S1610]:https://leetcode-cn.com/problems/maximum-number-of-visible-points/solution/you-xiao-ke-jian-dian-de-zui-da-shu-mu-b-r1qz/
 
 [S1719]:https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree/solution/zhong-gou-yi-ke-shu-de-fang-an-shu-by-le-36e1/
+
+[S1994]:https://leetcode-cn.com/problems/the-number-of-good-subsets/solution/hao-zi-ji-de-shu-mu-by-leetcode-solution-ky65/
 
 [S2045]:https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/solution/dao-da-mu-de-di-de-di-er-duan-shi-jian-b-05i0/

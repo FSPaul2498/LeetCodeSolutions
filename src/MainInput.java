@@ -572,6 +572,9 @@ public class MainInput {
             case 913:
                 run913();
                 break;
+            case 917:
+                run917();
+                break;
             case 969:
                 run969();
                 break;
@@ -2196,6 +2199,13 @@ public class MainInput {
         int[][] graph = {{2, 5}, {3}, {0, 4, 5}, {1, 4, 5}, {2, 3}, {0, 2, 3}};
         S913 run = new S913();
         int result = run.catMouseGame(graph);
+        print(result);
+    }
+
+    static void run917() {
+        String s = "ab-cd";
+        S917 run = new S917();
+        String result = run.reverseOnlyLetters(s);
         print(result);
     }
 

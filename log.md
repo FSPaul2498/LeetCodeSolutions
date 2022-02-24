@@ -238,6 +238,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1646   | 获取生成数组中的最大值                     | 简单 | 2021-08-23 | [力扣][P1646]   |                                                              |
 | #1688   | 比赛中的配对次数                           | 简单 | 2022-01-25 | [力扣][P1688]   |                                                              |
 | #1705   | 吃苹果的最大数目                           | 中等 | 2021-12-24 | [力扣][P1705]   |                                                              |
+| #1706   | 球会落何处                                 | 中等 | 2022-02-24 | [力扣][P1706]   |                                                              |
 | #1716   | 计算力扣银行的钱                           | 简单 | 2022-01-15 | [力扣][P1716]   |                                                              |
 | #1719   | 重构一棵树的方案数                         | 困难 | 2022-02-16 | [力扣][P1719]   | 本题有参考官方Java题解代码<br>[【重构一棵树的方案数】][S1719] |
 | #1725   | 可以形成最大正方形的矩形数目               | 简单 | 2022-02-04 | [力扣][P1725]   |                                                              |
@@ -717,6 +718,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1688]:https://leetcode-cn.com/problems/count-of-matches-in-tournament/
 
 [P1705]:https://leetcode-cn.com/problems/maximum-number-of-eaten-apples/
+
+[P1706]:https://leetcode-cn.com/problems/where-will-the-ball-fall/
 
 [P1716]:https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/
 

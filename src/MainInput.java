@@ -698,6 +698,9 @@ public class MainInput {
             case 1705:
                 run1705();
                 break;
+            case 1706:
+                run1706();
+                break;
             case 1716:
                 run1716();
                 break;
@@ -2514,6 +2517,13 @@ public class MainInput {
         int[] apples = {1, 2, 3, 5, 2}, days = {3, 2, 1, 4, 2};
         S1705 run = new S1705();
         int result = run.eatenApples(apples, days);
+        print(result);
+    }
+
+    static void run1706() {
+        int[][] grid = {{1, 1, 1, -1, -1}, {1, 1, 1, -1, -1}, {-1, -1, -1, 1, 1}, {1, 1, 1, 1, -1}, {-1, -1, -1, -1, -1}};
+        S1706 run = new S1706();
+        int[] result = run.findBall(grid);
         print(result);
     }
 

@@ -416,6 +416,9 @@ public class MainInput {
             case 528:
                 run528();
                 break;
+            case 537:
+                run537();
+                break;
             case 539:
                 run539();
                 break;
@@ -1811,6 +1814,13 @@ public class MainInput {
         int[] result = new int[w.length];
         for (int i = 0; i < 10000; i++)
             result[run.pickIndex()]++;
+        print(result);
+    }
+
+    static void run537() {
+        String num1 = "1+1i", num2 = "1+1i";
+        S537 run = new S537();
+        String result = run.complexNumberMultiply(num1, num2);
         print(result);
     }
 

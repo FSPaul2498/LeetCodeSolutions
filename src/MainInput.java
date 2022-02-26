@@ -752,6 +752,9 @@ public class MainInput {
             case 2013:
                 run2013();
                 break;
+            case 2016:
+                run2016();
+                break;
             case 2022:
                 run2022();
                 break;
@@ -2656,6 +2659,13 @@ public class MainInput {
         print(run.count(new int[]{14, 8}));
         run.add(new int[]{11, 2});
         print(run.count(new int[]{11, 10}));
+    }
+
+    static void run2016() {
+        int[] nums = {7, 1, 5, 4};
+        S2016 run = new S2016();
+        int result = run.maximumDifference(nums);
+        print(result);
     }
 
     static void run2022() {

@@ -683,6 +683,9 @@ public class MainInput {
             case 1588:
                 run1588();
                 break;
+            case 1601:
+                run1601();
+                break;
             case 1609:
                 run1609();
                 break;
@@ -2485,6 +2488,14 @@ public class MainInput {
         int[] arr = {1, 4, 2, 5, 3};
         S1588 run = new S1588();
         int result = run.sumOddLengthSubarrays(arr);
+        print(result);
+    }
+
+    static void run1601() {
+        int n = 5;
+        int[][] requests = {{0, 1}, {1, 0}, {0, 1}, {1, 2}, {2, 0}, {3, 4}};
+        S1601 run = new S1601();
+        int result = run.maximumRequests(n, requests);
         print(result);
     }
 

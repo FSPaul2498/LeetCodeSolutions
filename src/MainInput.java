@@ -446,6 +446,9 @@ public class MainInput {
             case 563:
                 run563();
                 break;
+            case 564:
+                run564();
+                break;
             case 575:
                 run575();
                 break;
@@ -1900,6 +1903,13 @@ public class MainInput {
         S563 run = new S563();
         TreeNode root = TreeNode.stringToTreeNode(line);
         int result = run.findTilt(root);
+        print(result);
+    }
+
+    static void run564() {
+        String n = "123";
+        S564 run = new S564();
+        String result = run.nearestPalindromic(n);
         print(result);
     }
 

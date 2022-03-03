@@ -215,6 +215,9 @@ public class MainInput {
             case 240:
                 run240();
                 break;
+            case 258:
+                run258();
+                break;
             case 260:
                 run260();
                 break;
@@ -1322,6 +1325,13 @@ public class MainInput {
         int target = 5;
         S240 run = new S240();
         boolean result = run.searchMatrix(matrix, target);
+        print(result);
+    }
+
+    static void run258() {
+        int num = 38;
+        S258 run = new S258();
+        int result = run.addDigits(num);
         print(result);
     }
 

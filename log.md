@@ -77,6 +77,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #233    | 数字 1 的个数                              | 困难 | 2021-08-13 | [力扣][P233]    |                                                              |
 | #237    | 删除链表中的节点                           | 简单 | 2021-11-02 | [力扣][P237]    |                                                              |
 | #240    | 搜索二维矩阵 II                            | 中等 | 2021-10-25 | [力扣][P240]    |                                                              |
+| #258    | 各位相加                                   | 简单 | 2022-03-03 | [力扣][P258]    |                                                              |
 | #260    | 只出现一次的数字 III                       | 中等 | 2021-10-30 | [力扣][P260]    |                                                              |
 | #268    | 丢失的数字                                 | 简单 | 2021-11-06 | [力扣][P268]    |                                                              |
 | #273    | 整数转换英文表示                           | 困难 | 2021-10-11 | [力扣][P273]    |                                                              |
@@ -402,6 +403,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P237]:https://leetcode-cn.com/problems/delete-node-in-a-linked-list/
 
 [P240]:https://leetcode-cn.com/problems/search-a-2d-matrix-ii/
+
+[P258]:https://leetcode-cn.com/problems/add-digits/
 
 [P260]:https://leetcode-cn.com/problems/single-number-iii/
 

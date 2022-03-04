@@ -267,6 +267,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #2034   | 股票价格波动                               | 中等 | 2022-01-23 | [力扣][P2034]   |                                                              |
 | #2045   | 到达目的地的第二短时间                     | 困难 | 2022-01-24 | [力扣][P2045]   | 本题有参考官方Java题解代码<br>[【到达目的地的第二短时间】][S2045] |
 | #2047   | 句子中的有效单词数                         | 简单 | 2022-01-27 | [力扣][P2047]   |                                                              |
+| #2104   | 子数组范围和                               | 中等 | 2022-03-04 | [力扣][P2104]   | 本题有参考官方Java题解代码<br>[【子数组范围和】][S2104]      |
 | #JZ10   | 斐波那契数列                               | 简单 | 2021-09-04 | [力扣][PJZ10]   |                                                              |
 | #JZ22   | 链表中倒数第k个节点                        | 简单 | 2021-09-02 | [力扣][PJZ22]   |                                                              |
 | #JZII69 | 山峰数组的顶部                             | 简单 | 2021-10-14 | [力扣][PJZII69] |                                                              |
@@ -784,6 +785,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P2047]:https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence/
 
+[P2104]:https://leetcode-cn.com/problems/sum-of-subarray-ranges/
+
 [PJZ10]:https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/
 
 [PJZ22]:https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
@@ -875,3 +878,5 @@ which I have solved and submitted the solution to LeetCode CN.
 [S1994]:https://leetcode-cn.com/problems/the-number-of-good-subsets/solution/hao-zi-ji-de-shu-mu-by-leetcode-solution-ky65/
 
 [S2045]:https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/solution/dao-da-mu-de-di-de-di-er-duan-shi-jian-b-05i0/
+
+[S2104]:https://leetcode-cn.com/problems/sum-of-subarray-ranges/solution/zi-shu-zu-fan-wei-he-by-leetcode-solutio-lamr/

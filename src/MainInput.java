@@ -785,6 +785,9 @@ public class MainInput {
             case 2047:
                 run2047();
                 break;
+            case 2104:
+                run2104();
+                break;
             // 1XXXX for LCP & LCS
             // LCP 01 -> 10001 -> LCP01
             // LCS 01 -> 11001 -> LCS01
@@ -2758,6 +2761,13 @@ public class MainInput {
         String sentence = "cat and  dog";
         S2047 run = new S2047();
         int result = run.countValidWords(sentence);
+        print(result);
+    }
+
+    static void run2104() {
+        int[] nums = {1, 2, 3};
+        S2104 run = new S2104();
+        long result = run.subArrayRanges(nums);
         print(result);
     }
 

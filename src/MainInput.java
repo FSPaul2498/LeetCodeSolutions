@@ -413,6 +413,9 @@ public class MainInput {
             case 520:
                 run520();
                 break;
+            case 521:
+                run521();
+                break;
             case 524:
                 run524();
                 break;
@@ -1824,6 +1827,13 @@ public class MainInput {
         String word = "USA";
         S520 run = new S520();
         boolean result = run.detectCapitalUse(word);
+        print(result);
+    }
+
+    static void run521() {
+        String a = "aba", b = "cdc";
+        S521 run = new S521();
+        int result = run.findLUSlength(a, b);
         print(result);
     }
 

@@ -788,6 +788,9 @@ public class MainInput {
             case 2047:
                 run2047();
                 break;
+            case 2100:
+                run2100();
+                break;
             case 2104:
                 run2104();
                 break;
@@ -2771,6 +2774,14 @@ public class MainInput {
         String sentence = "cat and  dog";
         S2047 run = new S2047();
         int result = run.countValidWords(sentence);
+        print(result);
+    }
+
+    static void run2100() {
+        int[] security = {5, 3, 3, 3, 5, 6, 2};
+        int time = 2;
+        S2100 run = new S2100();
+        List<Integer> result = run.goodDaysToRobBank(security, time);
         print(result);
     }
 

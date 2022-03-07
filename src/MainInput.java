@@ -395,6 +395,9 @@ public class MainInput {
             case 502:
                 run502();
                 break;
+            case 504:
+                run504();
+                break;
             case 506:
                 run506();
                 break;
@@ -1786,6 +1789,13 @@ public class MainInput {
         int[] profits = {1, 2, 3}, capital = {0, 1, 1};
         S502 run = new S502();
         int result = run.findMaximizedCapital(k, w, profits, capital);
+        print(result);
+    }
+
+    static void run504() {
+        int num = 100;
+        S504 run = new S504();
+        String result = run.convertToBase7(num);
         print(result);
     }
 

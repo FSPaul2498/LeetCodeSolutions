@@ -791,6 +791,9 @@ public class MainInput {
             case 2047:
                 run2047();
                 break;
+            case 2055:
+                run2055();
+                break;
             case 2100:
                 run2100();
                 break;
@@ -2784,6 +2787,14 @@ public class MainInput {
         String sentence = "cat and  dog";
         S2047 run = new S2047();
         int result = run.countValidWords(sentence);
+        print(result);
+    }
+
+    static void run2055() {
+        String s = "**|**|***|";
+        int[][] queries = {{2, 5}, {5, 9}};
+        S2055 run = new S2055();
+        int[] result = run.platesBetweenCandles(s, queries);
         print(result);
     }
 

@@ -554,6 +554,9 @@ public class MainInput {
             case 797:
                 run797();
                 break;
+            case 798:
+                run798();
+                break;
             case 802:
                 run802();
                 break;
@@ -2189,6 +2192,13 @@ public class MainInput {
         int[][] graph = {{1, 2}, {3}, {3}, {}};
         S797 run = new S797();
         List<List<Integer>> result = run.allPathsSourceTarget(graph);
+        print(result);
+    }
+
+    static void run798() {
+        int[] nums = {2, 3, 1, 4, 0};
+        S798 run = new S798();
+        int result = run.bestRotation(nums);
         print(result);
     }
 

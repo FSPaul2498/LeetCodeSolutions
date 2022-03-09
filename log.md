@@ -190,6 +190,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #789    | 逃脱阻碍者                                 | 中等 | 2021-08-22 | [力扣][P789]    |                                                              |
 | #794    | 有效的井字游戏                             | 中等 | 2021-12-09 | [力扣][P794]    |                                                              |
 | #797    | 所有可能的路径                             | 中等 | 2021-08-25 | [力扣][P797]    |                                                              |
+| #798    | 得分最高的最小轮调                         | 困难 | 2022-03-09 | [力扣][P798]    | 本题有参考官方Java题解代码<br>[【得分最高的最小轮调】][S798] |
 | #802    | 找到最终的安全状态                         | 中等 | 2021-08-05 | [力扣][P802]    |                                                              |
 | #807    | 保持城市天际线                             | 中等 | 2021-12-13 | [力扣][P807]    |                                                              |
 | #825    | 适龄的朋友                                 | 中等 | 2021-12-27 | [力扣][P825]    |                                                              |
@@ -635,6 +636,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P797]:https://leetcode-cn.com/problems/all-paths-from-source-to-target/
 
+[P798]:https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/
+
 [P802]:https://leetcode-cn.com/problems/find-eventual-safe-states/
 
 [P807]:https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/
@@ -860,6 +863,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S689]:https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/solution/san-ge-wu-zhong-die-zi-shu-zu-de-zui-da-4a8lb/
 
 [S787]:https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/solution/k-zhan-zhong-zhuan-nei-zui-bian-yi-de-ha-abzi/
+
+[S798]:https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/solution/de-fen-zui-gao-de-zui-xiao-lun-diao-by-l-hbtd/
 
 [S847]:https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/solution/fang-wen-suo-you-jie-dian-de-zui-duan-lu-mqc2/
 

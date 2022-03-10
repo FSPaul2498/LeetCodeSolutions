@@ -470,6 +470,9 @@ public class MainInput {
             case 583:
                 run583();
                 break;
+            case 589:
+                run589();
+                break;
             case 594:
                 run594();
                 break;
@@ -1980,6 +1983,14 @@ public class MainInput {
         String word1 = "sea", word2 = "eat";
         S583 run = new S583();
         int result = run.minDistance(word1, word2);
+        print(result);
+    }
+
+    static void run589() {
+        String line = "[1,null,3,2,4,null,5,6]";
+        S589 run = new S589();
+        NaryTreeNode root = NaryTreeNode.stringToTreeNode(line);
+        List<Integer> result = run.preorder(root);
         print(result);
     }
 

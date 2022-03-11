@@ -797,6 +797,9 @@ public class MainInput {
             case 2047:
                 run2047();
                 break;
+            case 2049:
+                run2049();
+                break;
             case 2055:
                 run2055();
                 break;
@@ -2808,6 +2811,13 @@ public class MainInput {
         String sentence = "cat and  dog";
         S2047 run = new S2047();
         int result = run.countValidWords(sentence);
+        print(result);
+    }
+
+    static void run2049() {
+        int[] parents = {-1, 2, 0, 2, 0};
+        S2049 run = new S2049();
+        int result = run.countHighestScoreNodes(parents);
         print(result);
     }
 

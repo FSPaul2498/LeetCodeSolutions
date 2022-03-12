@@ -473,6 +473,9 @@ public class MainInput {
             case 589:
                 run589();
                 break;
+            case 590:
+                run590();
+                break;
             case 594:
                 run594();
                 break;
@@ -1994,6 +1997,14 @@ public class MainInput {
         S589 run = new S589();
         NaryTreeNode root = NaryTreeNode.stringToTreeNode(line);
         List<Integer> result = run.preorder(root);
+        print(result);
+    }
+
+    static void run590() {
+        String line = "[1,null,3,2,4,null,5,6]";
+        S590 run = new S590();
+        NaryTreeNode root = NaryTreeNode.stringToTreeNode(line);
+        List<Integer> result = run.postorder(root);
         print(result);
     }
 

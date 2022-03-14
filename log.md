@@ -167,6 +167,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #590    | N 叉树的后序遍历                           | 简单 | 2022-03-12 | [力扣][P590]    |                                                              |
 | #594    | 最长和谐子序列                             | 简单 | 2021-11-20 | [力扣][P594]    |                                                              |
 | #598    | 范围求和 II                                | 简单 | 2021-11-07 | [力扣][P598]    |                                                              |
+| #599    | 两个列表的最小索引总和                     | 简单 | 2022-03-14 | [力扣][P599]    |                                                              |
 | #600    | 不含连续1的非负整数                        | 困难 | 2021-09-11 | [力扣][P600]    |                                                              |
 | #611    | 有效三角形的个数                           | 中等 | 2021-08-04 | [力扣][P611]    |                                                              |
 | #629    | K个逆序对数组                              | 困难 | 2021-11-11 | [力扣][P629]    | 本题有参考官方Java题解代码<br>[【K个逆序对数组】][S629]      |
@@ -593,6 +594,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P594]:https://leetcode-cn.com/problems/longest-harmonious-subsequence/
 
 [P598]:https://leetcode-cn.com/problems/range-addition-ii/
+
+[P599]:https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/
 
 [P600]:https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/
 

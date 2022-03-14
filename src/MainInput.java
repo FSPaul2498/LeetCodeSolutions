@@ -485,6 +485,9 @@ public class MainInput {
             case 598:
                 run598();
                 break;
+            case 599:
+                run599();
+                break;
             case 600:
                 run600();
                 break;
@@ -2030,6 +2033,13 @@ public class MainInput {
         int[][] ops = {{2, 2}, {3, 3}};
         S598 run = new S598();
         int result = run.maxCount(m, n, ops);
+        print(result);
+    }
+
+    static void run599() {
+        String[] list1 = {"Shogun", "Tapioca Express", "Burger King", "KFC"}, list2 = {"Piatti", "The Grill at Torrey Pines", "Hungry Hunter Steakhouse", "Shogun"};
+        S599 run = new S599();
+        String[] result = run.findRestaurant(list1, list2);
         print(result);
     }
 

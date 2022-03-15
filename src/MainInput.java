@@ -800,6 +800,9 @@ public class MainInput {
             case 2034:
                 run2034();
                 break;
+            case 2044:
+                run2044();
+                break;
             case 2045:
                 run2045();
                 break;
@@ -2828,6 +2831,13 @@ public class MainInput {
         print(run.maximum());
         run.update(4, 2);
         print(run.minimum());
+    }
+
+    static void run2044() {
+        int[] nums = {3, 1};
+        S2044 run = new S2044();
+        int result = run.countMaxOrSubsets(nums);
+        print(result);
     }
 
     static void run2045() {

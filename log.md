@@ -272,6 +272,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #2022   | 将一维数组转变成二维数组                   | 简单 | 2022-01-01 | [力扣][P2022]   |                                                              |
 | #2029   | 石子游戏 IX                                | 中等 | 2022-01-20 | [力扣][P2029]   |                                                              |
 | #2034   | 股票价格波动                               | 中等 | 2022-01-23 | [力扣][P2034]   |                                                              |
+| #2044   | 统计按位或能得到最大值的子集数目           | 中等 | 2022-03-15 | [力扣][P2044]   | 本题有参考官方Java题解代码<br>[【统计按位或能得到最大值的子集数目】][S2044] |
 | #2045   | 到达目的地的第二短时间                     | 困难 | 2022-01-24 | [力扣][P2045]   | 本题有参考官方Java题解代码<br>[【到达目的地的第二短时间】][S2045] |
 | #2047   | 句子中的有效单词数                         | 简单 | 2022-01-27 | [力扣][P2047]   |                                                              |
 | #2049   | 统计最高分的节点数目                       | 中等 | 2022-03-11 | [力扣][P2049]   | 本题有参考官方Java题解代码<br>[【统计最高分的节点数目】][S2049] |
@@ -805,6 +806,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P2034]:https://leetcode-cn.com/problems/stock-price-fluctuation/
 
+[P2044]:https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/
+
 [P2045]:https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/
 
 [P2047]:https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence/
@@ -908,6 +911,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S1719]:https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree/solution/zhong-gou-yi-ke-shu-de-fang-an-shu-by-le-36e1/
 
 [S1994]:https://leetcode-cn.com/problems/the-number-of-good-subsets/solution/hao-zi-ji-de-shu-mu-by-leetcode-solution-ky65/
+
+[S2044]:https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/solution/tong-ji-an-wei-huo-neng-de-dao-zui-da-zh-r6zd/
 
 [S2045]:https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/solution/dao-da-mu-de-di-de-di-er-duan-shi-jian-b-05i0/
 

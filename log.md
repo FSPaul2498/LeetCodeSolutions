@@ -117,6 +117,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #419    | 甲板上的战舰                               | 中等 | 2021-12-18 | [力扣][P419]    |                                                              |
 | #423    | 从英文中重建数字                           | 中等 | 2021-11-24 | [力扣][P423]    |                                                              |
 | #430    | 扁平化多级双向链表                         | 中等 | 2021-09-24 | [力扣][P430]    |                                                              |
+| #432    | 全 O(1) 的数据结构                         | 困难 | 2022-03-16 | [力扣][P432]    |                                                              |
 | #434    | 字符串中的单词数                           | 简单 | 2021-10-07 | [力扣][P434]    |                                                              |
 | #437    | 路径总和 III                               | 中等 | 2021-09-28 | [力扣][P437]    | 本题有参考官方Java题解代码<br>[【路径总和 III】][S437]       |
 | #438    | 找到字符串中所有字母异位词                 | 中等 | 2021-11-28 | [力扣][P438]    |                                                              |
@@ -495,6 +496,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P423]:https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/
 
 [P430]:https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
+
+[P432]:https://leetcode-cn.com/problems/all-oone-data-structure/
 
 [P434]:https://leetcode-cn.com/problems/number-of-segments-in-a-string/
 

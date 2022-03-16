@@ -335,6 +335,9 @@ public class MainInput {
             case 430:
                 run430();
                 break;
+            case 432:
+                run432();
+                break;
             case 434:
                 run434();
                 break;
@@ -1666,6 +1669,17 @@ public class MainInput {
         S430 run = new S430();
         Node result = run.flatten(new Node(0));
         print("Test Env Sample Not Ready");
+    }
+
+    static void run432() {
+        AllOne run = new AllOne();
+        run.inc("hello");
+        run.inc("hello");
+        print(run.getMaxKey());
+        print(run.getMinKey());
+        run.inc("leet");
+        print(run.getMaxKey());
+        print(run.getMinKey());
     }
 
     static void run434() {

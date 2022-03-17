@@ -542,6 +542,9 @@ public class MainInput {
             case 717:
                 run717();
                 break;
+            case 720:
+                run720();
+                break;
             case 725:
                 run725();
                 break;
@@ -2184,6 +2187,13 @@ public class MainInput {
         int[] bits = {1, 0, 0};
         S717 run = new S717();
         boolean result = run.isOneBitCharacter(bits);
+        print(result);
+    }
+
+    static void run720() {
+        String[] words = {"w", "wo", "wor", "worl", "world"};
+        S720 run = new S720();
+        String result = run.longestWord(words);
         print(result);
     }
 

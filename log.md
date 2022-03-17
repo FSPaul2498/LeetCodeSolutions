@@ -186,6 +186,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #704    | 二分查找                                   | 简单 | 2021-09-06 | [力扣][P704]    |                                                              |
 | #709    | 转换成小写字母                             | 简单 | 2021-12-12 | [力扣][P709]    |                                                              |
 | #717    | 1比特与2比特字符                           | 简单 | 2022-02-20 | [力扣][P717]    |                                                              |
+| #720    | 词典中最长的单词                           | 简单 | 2022-03-17 | [力扣][P720]    |                                                              |
 | #725    | 分隔链表                                   | 中等 | 2021-09-22 | [力扣][P725]    |                                                              |
 | #743    | 网络延迟时间                               | 中等 | 2021-08-02 | [力扣][P743]    |                                                              |
 | #747    | 至少是其他数字两倍的最大数                 | 简单 | 2022-01-13 | [力扣][P747]    |                                                              |
@@ -634,6 +635,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P709]:https://leetcode-cn.com/problems/to-lower-case/
 
 [P717]:https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/
+
+[P720]:https://leetcode-cn.com/problems/longest-word-in-dictionary/
 
 [P725]:https://leetcode-cn.com/problems/split-linked-list-in-parts/
 

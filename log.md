@@ -274,6 +274,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #2022   | 将一维数组转变成二维数组                   | 简单 | 2022-01-01 | [力扣][P2022]   |                                                              |
 | #2029   | 石子游戏 IX                                | 中等 | 2022-01-20 | [力扣][P2029]   |                                                              |
 | #2034   | 股票价格波动                               | 中等 | 2022-01-23 | [力扣][P2034]   |                                                              |
+| #2043   | 简易银行系统                               | 中等 | 2022-03-18 | [力扣][P2043]   |                                                              |
 | #2044   | 统计按位或能得到最大值的子集数目           | 中等 | 2022-03-15 | [力扣][P2044]   | 本题有参考官方Java题解代码<br>[【统计按位或能得到最大值的子集数目】][S2044] |
 | #2045   | 到达目的地的第二短时间                     | 困难 | 2022-01-24 | [力扣][P2045]   | 本题有参考官方Java题解代码<br>[【到达目的地的第二短时间】][S2045] |
 | #2047   | 句子中的有效单词数                         | 简单 | 2022-01-27 | [力扣][P2047]   |                                                              |
@@ -811,6 +812,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P2029]:https://leetcode-cn.com/problems/stone-game-ix/
 
 [P2034]:https://leetcode-cn.com/problems/stock-price-fluctuation/
+
+[P2043]:https://leetcode-cn.com/problems/simple-bank-system/
 
 [P2044]:https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/
 

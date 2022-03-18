@@ -806,6 +806,9 @@ public class MainInput {
             case 2034:
                 run2034();
                 break;
+            case 2043:
+                run2043();
+                break;
             case 2044:
                 run2044();
                 break;
@@ -2855,6 +2858,16 @@ public class MainInput {
         print(run.maximum());
         run.update(4, 2);
         print(run.minimum());
+    }
+
+    static void run2043() {
+        long[] balance = {10, 100, 20, 50, 30};
+        Bank run = new Bank(balance);
+        print(run.withdraw(3, 10));
+        print(run.transfer(5, 1, 20));
+        print(run.deposit(5, 20));
+        print(run.transfer(3, 4, 15));
+        print(run.withdraw(10, 50));
     }
 
     static void run2044() {

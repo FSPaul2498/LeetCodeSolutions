@@ -494,6 +494,9 @@ public class MainInput {
             case 600:
                 run600();
                 break;
+            case 606:
+                run606();
+                break;
             case 611:
                 run611();
                 break;
@@ -2070,6 +2073,14 @@ public class MainInput {
         int n = 5;
         S600 run = new S600();
         int result = run.findIntegers(n);
+        print(result);
+    }
+
+    static void run606() {
+        String line = "[1,2,3,4]";
+        TreeNode root = TreeNode.stringToTreeNode(line);
+        S606 run = new S606();
+        String result = run.tree2str(root);
         print(result);
     }
 

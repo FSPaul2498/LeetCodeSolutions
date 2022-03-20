@@ -275,6 +275,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #2022   | 将一维数组转变成二维数组                   | 简单 | 2022-01-01 | [力扣][P2022]   |                                                              |
 | #2029   | 石子游戏 IX                                | 中等 | 2022-01-20 | [力扣][P2029]   |                                                              |
 | #2034   | 股票价格波动                               | 中等 | 2022-01-23 | [力扣][P2034]   |                                                              |
+| #2039   | 网络空闲的时刻                             | 中等 | 2022-03-20 | [力扣][P2039]   | 本题有参考官方Java题解代码<br>[【网络空闲的时刻】][S2039]    |
 | #2043   | 简易银行系统                               | 中等 | 2022-03-18 | [力扣][P2043]   |                                                              |
 | #2044   | 统计按位或能得到最大值的子集数目           | 中等 | 2022-03-15 | [力扣][P2044]   | 本题有参考官方Java题解代码<br>[【统计按位或能得到最大值的子集数目】][S2044] |
 | #2045   | 到达目的地的第二短时间                     | 困难 | 2022-01-24 | [力扣][P2045]   | 本题有参考官方Java题解代码<br>[【到达目的地的第二短时间】][S2045] |
@@ -816,6 +817,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P2034]:https://leetcode-cn.com/problems/stock-price-fluctuation/
 
+[P2039]:https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/
+
 [P2043]:https://leetcode-cn.com/problems/simple-bank-system/
 
 [P2044]:https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/
@@ -923,6 +926,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S1719]:https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree/solution/zhong-gou-yi-ke-shu-de-fang-an-shu-by-le-36e1/
 
 [S1994]:https://leetcode-cn.com/problems/the-number-of-good-subsets/solution/hao-zi-ji-de-shu-mu-by-leetcode-solution-ky65/
+
+[S2039]:https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/solution/wang-luo-kong-xian-de-shi-ke-by-leetcode-qttv/
 
 [S2044]:https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/solution/tong-ji-an-wei-huo-neng-de-dao-zui-da-zh-r6zd/
 

@@ -809,6 +809,9 @@ public class MainInput {
             case 2034:
                 run2034();
                 break;
+            case 2039:
+                run2039();
+                break;
             case 2043:
                 run2043();
                 break;
@@ -2869,6 +2872,14 @@ public class MainInput {
         print(run.maximum());
         run.update(4, 2);
         print(run.minimum());
+    }
+
+    static void run2039() {
+        int[][] edges = {{0, 1}, {1, 2}};
+        int[] patience = {0, 2, 1};
+        S2039 run = new S2039();
+        int result = run.networkBecomesIdle(edges, patience);
+        print(result);
     }
 
     static void run2043() {

@@ -515,6 +515,9 @@ public class MainInput {
             case 650:
                 run650();
                 break;
+            case 653:
+                run653();
+                break;
             case 673:
                 run673();
                 break;
@@ -2130,6 +2133,15 @@ public class MainInput {
         int n = 3;
         S650 run = new S650();
         int result = run.minSteps(n);
+        print(result);
+    }
+
+    static void run653() {
+        String line = "[5,3,6,2,4,null,7]";
+        int k = 9;
+        TreeNode root = TreeNode.stringToTreeNode(line);
+        S653 run = new S653();
+        boolean result = run.findTarget(root, k);
         print(result);
     }
 

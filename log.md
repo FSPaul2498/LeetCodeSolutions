@@ -276,6 +276,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #2022   | 将一维数组转变成二维数组                   | 简单 | 2022-01-01 | [力扣][P2022]   |                                                              |
 | #2029   | 石子游戏 IX                                | 中等 | 2022-01-20 | [力扣][P2029]   |                                                              |
 | #2034   | 股票价格波动                               | 中等 | 2022-01-23 | [力扣][P2034]   |                                                              |
+| #2038   | 如果相邻两个颜色均相同则删除当前颜色       | 中等 | 2022-03-22 | [力扣][P2038]   |                                                              |
 | #2039   | 网络空闲的时刻                             | 中等 | 2022-03-20 | [力扣][P2039]   | 本题有参考官方Java题解代码<br>[【网络空闲的时刻】][S2039]    |
 | #2043   | 简易银行系统                               | 中等 | 2022-03-18 | [力扣][P2043]   |                                                              |
 | #2044   | 统计按位或能得到最大值的子集数目           | 中等 | 2022-03-15 | [力扣][P2044]   | 本题有参考官方Java题解代码<br>[【统计按位或能得到最大值的子集数目】][S2044] |
@@ -819,6 +820,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P2029]:https://leetcode-cn.com/problems/stone-game-ix/
 
 [P2034]:https://leetcode-cn.com/problems/stock-price-fluctuation/
+
+[P2038]:https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
 
 [P2039]:https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/
 

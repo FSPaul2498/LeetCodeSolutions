@@ -121,6 +121,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #434    | 字符串中的单词数                           | 简单 | 2021-10-07 | [力扣][P434]    |                                                              |
 | #437    | 路径总和 III                               | 中等 | 2021-09-28 | [力扣][P437]    | 本题有参考官方Java题解代码<br>[【路径总和 III】][S437]       |
 | #438    | 找到字符串中所有字母异位词                 | 中等 | 2021-11-28 | [力扣][P438]    |                                                              |
+| #440    | 字典序的第K小数字                          | 困难 | 2022-03-23 | [力扣][P440]    | 本题有参考官方Java题解代码<br>[【字典序的第K小数字】][S440]  |
 | #441    | 排列硬币                                   | 简单 | 2021-10-10 | [力扣][P441]    |                                                              |
 | #443    | 压缩字符串                                 | 中等 | 2021-08-21 | [力扣][P443]    |                                                              |
 | #446    | 等差数列划分 II - 子序列                   | 困难 | 2021-08-11 | [力扣][P446]    | 本题有参考官方Java题解代码<br>[【等差数列划分 II - 子序列】][S446] |
@@ -163,7 +164,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #575    | 分糖果                                     | 简单 | 2021-11-01 | [力扣][P575]    |                                                              |
 | #576    | 出界的路径数                               | 中等 | 2021-08-15 | [力扣][P576]    |                                                              |
 | #581    | 最短无序连续子数组                         | 中等 | 2021-08-03 | [力扣][P581]    |                                                              |
-| #583    | 两个字符串的删除操作                       | 中等 | 2021-09-25 | [力扣][P583]    | 本题有参考官方Java题解代码<br>[【两个字符串的删除操作】][S583]   |
+| #583    | 两个字符串的删除操作                       | 中等 | 2021-09-25 | [力扣][P583]    | 本题有参考官方Java题解代码<br>[【两个字符串的删除操作】][S583] |
 | #589    | N 叉树的前序遍历                           | 简单 | 2022-03-10 | [力扣][P589]    |                                                              |
 | #590    | N 叉树的后序遍历                           | 简单 | 2022-03-12 | [力扣][P590]    |                                                              |
 | #594    | 最长和谐子序列                             | 简单 | 2021-11-20 | [力扣][P594]    |                                                              |
@@ -178,7 +179,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #639    | 解码方法 II                                | 困难 | 2021-09-27 | [力扣][P639]    | 本题有参考官方Java题解代码<br>[【解码方法 II】][S639]        |
 | #650    | 只有两个键的键盘                           | 中等 | 2021-09-19 | [力扣][P650]    |                                                              |
 | #653    | 两数之和 IV - 输入 BST                     | 简单 | 2022-03-21 | [力扣][P653]    |                                                              |
-| #673    | 最长递增子序列的个数                       | 中等 | 2021-09-20 | [力扣][P673]    | 本题有参考官方Java题解代码<br>[【最长递增子序列的个数】][S673]   |
+| #673    | 最长递增子序列的个数                       | 中等 | 2021-09-20 | [力扣][P673]    | 本题有参考官方Java题解代码<br>[【最长递增子序列的个数】][S673] |
 | #677    | 键值映射                                   | 中等 | 2021-11-14 | [力扣][P677]    |                                                              |
 | #678    | 有效的括号字符串                           | 中等 | 2021-09-12 | [力扣][P678]    |                                                              |
 | #686    | 重复叠加字符串匹配                         | 中等 | 2021-12-22 | [力扣][P686]    |                                                              |
@@ -510,6 +511,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P437]:https://leetcode-cn.com/problems/path-sum-iii/
 
 [P438]:https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/
+
+[P440]:https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/
 
 [P441]:https://leetcode-cn.com/problems/arranging-coins/
 
@@ -874,6 +877,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S407]:https://leetcode-cn.com/problems/trapping-rain-water-ii/solution/jie-yu-shui-ii-by-leetcode-solution-vlj3/
 
 [S437]:https://leetcode-cn.com/problems/path-sum-iii/solution/lu-jing-zong-he-iii-by-leetcode-solution-z9td/
+
+[S440]:https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/solution/zi-dian-xu-de-di-kxiao-shu-zi-by-leetcod-bfy0/
 
 [S446]:https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/solution/deng-chai-shu-lie-hua-fen-ii-zi-xu-lie-b-77pl/
 

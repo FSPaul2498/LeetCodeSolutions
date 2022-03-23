@@ -347,6 +347,9 @@ public class MainInput {
             case 438:
                 run438();
                 break;
+            case 440:
+                run440();
+                break;
             case 441:
                 run441();
                 break;
@@ -1720,6 +1723,13 @@ public class MainInput {
         String s = "cbaebabacd", p = "abc";
         S438 run = new S438();
         List<Integer> result = run.findAnagrams(s, p);
+        print(result);
+    }
+
+    static void run440() {
+        int n = 13, k = 2;
+        S440 run = new S440();
+        int result = run.findKthNumber(n, k);
         print(result);
     }
 

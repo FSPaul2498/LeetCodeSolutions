@@ -179,6 +179,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #639    | 解码方法 II                                | 困难 | 2021-09-27 | [力扣][P639]    | 本题有参考官方Java题解代码<br>[【解码方法 II】][S639]        |
 | #650    | 只有两个键的键盘                           | 中等 | 2021-09-19 | [力扣][P650]    |                                                              |
 | #653    | 两数之和 IV - 输入 BST                     | 简单 | 2022-03-21 | [力扣][P653]    |                                                              |
+| #661    | 图片平滑器                                 | 简单 | 2022-03-24 | [力扣][P661]    |                                                              |
 | #673    | 最长递增子序列的个数                       | 中等 | 2021-09-20 | [力扣][P673]    | 本题有参考官方Java题解代码<br>[【最长递增子序列的个数】][S673] |
 | #677    | 键值映射                                   | 中等 | 2021-11-14 | [力扣][P677]    |                                                              |
 | #678    | 有效的括号字符串                           | 中等 | 2021-09-12 | [力扣][P678]    |                                                              |
@@ -627,6 +628,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P650]:https://leetcode-cn.com/problems/2-keys-keyboard/
 
 [P653]:https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/
+
+[P661]:https://leetcode-cn.com/problems/image-smoother/
 
 [P673]:https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/
 

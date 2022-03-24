@@ -521,6 +521,9 @@ public class MainInput {
             case 653:
                 run653();
                 break;
+            case 661:
+                run661();
+                break;
             case 673:
                 run673();
                 break;
@@ -2155,6 +2158,13 @@ public class MainInput {
         TreeNode root = TreeNode.stringToTreeNode(line);
         S653 run = new S653();
         boolean result = run.findTarget(root, k);
+        print(result);
+    }
+
+    static void run661() {
+        int[][] img = {{1, 1, 1}, {1, 0, 1}, {1, 1, 1}};
+        S661 run = new S661();
+        int[][] result = run.imageSmoother(img);
         print(result);
     }
 

@@ -182,6 +182,9 @@ public class MainInput {
             case 166:
                 run166();
                 break;
+            case 172:
+                run172();
+                break;
             case 187:
                 run187();
                 break;
@@ -1297,6 +1300,13 @@ public class MainInput {
         int numerator = 1, denominator = 2;
         S166 run = new S166();
         String result = run.fractionToDecimal(numerator, denominator);
+        print(result);
+    }
+
+    static void run172() {
+        int n = 3;
+        S172 run = new S172();
+        int result = run.trailingZeroes(n);
         print(result);
     }
 

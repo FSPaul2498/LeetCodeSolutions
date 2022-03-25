@@ -66,6 +66,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #162    | 寻找峰值                                   | 中等 | 2021-09-15 | [力扣][P162]    |                                                              |
 | #165    | 比较版本号                                 | 中等 | 2021-09-01 | [力扣][P165]    |                                                              |
 | #166    | 分数到小数                                 | 中等 | 2021-10-03 | [力扣][P166]    |                                                              |
+| #172    | 阶乘后的零                                 | 中等 | 2022-03-25 | [力扣][P172]    |                                                              |
 | #187    | 重复的DNA序列                              | 中等 | 2021-10-08 | [力扣][P187]    |                                                              |
 | #206    | 反转链表                                   | 简单 | 2021-08-21 | [力扣][P206]    |                                                              |
 | #211    | 添加与搜索单词 - 数据结构设计              | 中等 | 2021-10-19 | [力扣][P211]    | 本题有参考社区Java题解代码<br/>[【宫水三叶】一题双解 :「二维数组」&「TrieNode」][S211] |
@@ -402,6 +403,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P165]:https://leetcode-cn.com/problems/compare-version-numbers/
 
 [P166]:https://leetcode-cn.com/problems/fraction-to-recurring-decimal/
+
+[P172]:https://leetcode-cn.com/problems/factorial-trailing-zeroes/
 
 [P187]:https://leetcode-cn.com/problems/repeated-dna-sequences/
 

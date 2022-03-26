@@ -536,6 +536,9 @@ public class MainInput {
             case 678:
                 run678();
                 break;
+            case 682:
+                run682();
+                break;
             case 686:
                 run686();
                 break;
@@ -2197,6 +2200,13 @@ public class MainInput {
         String s = "()";
         S678 run = new S678();
         boolean result = run.checkValidString(s);
+        print(result);
+    }
+
+    static void run682() {
+        String[] ops = {"5", "2", "C", "D", "+"};
+        S682 run = new S682();
+        int result = run.calPoints(ops);
         print(result);
     }
 

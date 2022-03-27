@@ -818,6 +818,9 @@ public class MainInput {
             case 2022:
                 run2022();
                 break;
+            case 2028:
+                run2028();
+                break;
             case 2029:
                 run2029();
                 break;
@@ -2907,6 +2910,14 @@ public class MainInput {
         int m = 2, n = 2;
         S2022 run = new S2022();
         int[][] result = run.construct2DArray(original, m, n);
+        print(result);
+    }
+
+    static void run2028() {
+        int[] rolls = {3, 2, 4, 3};
+        int mean = 4, n = 2;
+        S2028 run = new S2028();
+        int[] result = run.missingRolls(rolls, mean, n);
         print(result);
     }
 

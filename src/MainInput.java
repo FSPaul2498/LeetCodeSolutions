@@ -548,6 +548,9 @@ public class MainInput {
             case 689:
                 run689();
                 break;
+            case 693:
+                run693();
+                break;
             case 700:
                 run700();
                 break;
@@ -2232,6 +2235,13 @@ public class MainInput {
         int k = 2;
         S689 run = new S689();
         int[] result = run.maxSumOfThreeSubarrays(nums, k);
+        print(result);
+    }
+
+    static void run693() {
+        int n = 5;
+        S693 run = new S693();
+        boolean result = run.hasAlternatingBits(n);
         print(result);
     }
 

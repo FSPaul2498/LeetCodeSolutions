@@ -821,6 +821,9 @@ public class MainInput {
             case 2022:
                 run2022();
                 break;
+            case 2024:
+                run2024();
+                break;
             case 2028:
                 run2028();
                 break;
@@ -2920,6 +2923,14 @@ public class MainInput {
         int m = 2, n = 2;
         S2022 run = new S2022();
         int[][] result = run.construct2DArray(original, m, n);
+        print(result);
+    }
+
+    static void run2024() {
+        String answerKey = "TTFF";
+        int k = 2;
+        S2024 run = new S2024();
+        int result = run.maxConsecutiveAnswers(answerKey, k);
         print(result);
     }
 

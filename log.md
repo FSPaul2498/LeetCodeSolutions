@@ -279,6 +279,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #2013   | 检测正方形                                 | 中等 | 2022-01-26 | [力扣][P2013]   |                                                              |
 | #2016   | 增量元素之间的最大差值                     | 简单 | 2022-02-26 | [力扣][P2016]   |                                                              |
 | #2022   | 将一维数组转变成二维数组                   | 简单 | 2022-01-01 | [力扣][P2022]   |                                                              |
+| #2024   | 考试的最大困扰度                           | 中等 | 2022-03-29 | [力扣][P2024]   |                                                              |
 | #2028   | 找出缺失的观测数据                         | 中等 | 2022-03-27 | [力扣][P2028]   |                                                              |
 | #2029   | 石子游戏 IX                                | 中等 | 2022-01-20 | [力扣][P2029]   |                                                              |
 | #2034   | 股票价格波动                               | 中等 | 2022-01-23 | [力扣][P2034]   |                                                              |
@@ -832,6 +833,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P2016]:https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/
 
 [P2022]:https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/
+
+[P2024]:https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam/
 
 [P2028]:https://leetcode-cn.com/problems/find-missing-observations/
 

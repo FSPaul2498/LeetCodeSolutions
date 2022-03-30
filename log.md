@@ -253,6 +253,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1583   | 统计不开心的朋友                           | 中等 | 2021-08-14 | [力扣][P1583]   |                                                              |
 | #1588   | 所有奇数长度子数组的和                     | 简单 | 2021-08-29 | [力扣][P1588]   | 本题有参考社区Java题解代码<br/>[【宫水三叶】一题双解 :「前缀和」&「数学」][S1588] |
 | #1601   | 最多可达成的换楼请求数目                   | 困难 | 2022-02-28 | [力扣][P1601]   | 本题有参考官方Java题解代码<br>[【最多可达成的换楼请求数目】][S1601] |
+| #1606   | 找到处理最多请求的服务器                   | 困难 | 2022-03-30 | [力扣][P1606]   | 本题有参考官方Java题解代码<br>[【找到处理最多请求的服务器】][S1606] |
 | #1609   | 奇偶树                                     | 中等 | 2021-12-25 | [力扣][P1609]   |                                                              |
 | #1610   | 可见点的最大数目                           | 困难 | 2021-12-16 | [力扣][P1610]   | 本题有参考官方Java题解代码<br>[【有效可见点的最大数目】][S1610] |
 | #1614   | 括号的最大嵌套深度                         | 简单 | 2022-01-07 | [力扣][P1614]   |                                                              |
@@ -782,6 +783,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P1601]:https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/
 
+[P1606]:https://leetcode-cn.com/problems/find-servers-that-handled-most-number-of-requests/
+
 [P1609]:https://leetcode-cn.com/problems/even-odd-tree/
 
 [P1610]:https://leetcode-cn.com/problems/maximum-number-of-visible-points/
@@ -949,6 +952,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S1588]:https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/solution/gong-shui-san-xie-yi-ti-shuang-jie-qian-18jq3/
 
 [S1601]:https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/solution/zui-duo-ke-da-cheng-de-huan-lou-qing-qiu-ae0e/
+
+[S1606]:https://leetcode-cn.com/problems/find-servers-that-handled-most-number-of-requests/solution/zhao-dao-chu-li-zui-duo-qing-qiu-de-fu-w-e0a5/
 
 [S1610]:https://leetcode-cn.com/problems/maximum-number-of-visible-points/solution/you-xiao-ke-jian-dian-de-zui-da-shu-mu-b-r1qz/
 

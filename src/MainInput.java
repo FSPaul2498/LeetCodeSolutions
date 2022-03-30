@@ -743,6 +743,9 @@ public class MainInput {
             case 1601:
                 run1601();
                 break;
+            case 1606:
+                run1606();
+                break;
             case 1609:
                 run1609();
                 break;
@@ -2725,6 +2728,14 @@ public class MainInput {
         int[][] requests = {{0, 1}, {1, 0}, {0, 1}, {1, 2}, {2, 0}, {3, 4}};
         S1601 run = new S1601();
         int result = run.maximumRequests(n, requests);
+        print(result);
+    }
+
+    static void run1606() {
+        int k = 3;
+        int[] arrival = {1, 2, 3, 4, 5}, load = {5, 2, 3, 3, 3};
+        S1606 run = new S1606();
+        List<Integer> result = run.busiestServers(k, arrival, load);
         print(result);
     }
 

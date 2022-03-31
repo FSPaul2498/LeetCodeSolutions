@@ -569,6 +569,9 @@ public class MainInput {
             case 725:
                 run725();
                 break;
+            case 728:
+                run728();
+                break;
             case 743:
                 run743();
                 break;
@@ -2294,6 +2297,13 @@ public class MainInput {
         ListNode head = ListNode.makeList(nums);
         S725 run = new S725();
         ListNode[] result = run.splitListToParts(head, k);
+        print(result);
+    }
+
+    static void run728() {
+        int left = 1, right = 22;
+        S728 run = new S728();
+        List<Integer> result = run.selfDividingNumbers(left, right);
         print(result);
     }
 

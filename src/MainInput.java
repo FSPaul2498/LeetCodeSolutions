@@ -641,6 +641,9 @@ public class MainInput {
             case 917:
                 run917();
                 break;
+            case 954:
+                run954();
+                break;
             case 969:
                 run969();
                 break;
@@ -2477,6 +2480,13 @@ public class MainInput {
         String s = "ab-cd";
         S917 run = new S917();
         String result = run.reverseOnlyLetters(s);
+        print(result);
+    }
+
+    static void run954() {
+        int[] arr = {3, 1, 3, 6};
+        S954 run = new S954();
+        boolean result = run.canReorderDoubled(arr);
         print(result);
     }
 

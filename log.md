@@ -116,6 +116,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #413    | 等差数列划分                               | 中等 | 2021-08-10 | [力扣][P413]    |                                                              |
 | #414    | 第三大的数                                 | 简单 | 2021-10-06 | [力扣][P414]    |                                                              |
 | #419    | 甲板上的战舰                               | 中等 | 2021-12-18 | [力扣][P419]    |                                                              |
+| #420    | 强密码检验器                               | 困难 | 2022-04-02 | [力扣][P420]    | 本题有参考官方Java题解代码<br>[【强密码检验器】][S420]       |
 | #423    | 从英文中重建数字                           | 中等 | 2021-11-24 | [力扣][P423]    |                                                              |
 | #430    | 扁平化多级双向链表                         | 中等 | 2021-09-24 | [力扣][P430]    |                                                              |
 | #432    | 全 O(1) 的数据结构                         | 困难 | 2022-03-16 | [力扣][P432]    |                                                              |
@@ -511,6 +512,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P419]:https://leetcode-cn.com/problems/battleships-in-a-board/
 
+[P420]:https://leetcode-cn.com/problems/strong-password-checker/
+
 [P423]:https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/
 
 [P430]:https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
@@ -902,6 +905,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S352]:https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/solution/jiang-shu-ju-liu-bian-wei-duo-ge-bu-xian-hm1r/
 
 [S407]:https://leetcode-cn.com/problems/trapping-rain-water-ii/solution/jie-yu-shui-ii-by-leetcode-solution-vlj3/
+
+[S420]:https://leetcode-cn.com/problems/strong-password-checker/solution/qiang-mi-ma-jian-yan-qi-by-leetcode-solu-4fqx/
 
 [S437]:https://leetcode-cn.com/problems/path-sum-iii/solution/lu-jing-zong-he-iii-by-leetcode-solution-z9td/
 

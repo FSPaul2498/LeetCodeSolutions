@@ -332,6 +332,9 @@ public class MainInput {
             case 419:
                 run419();
                 break;
+            case 420:
+                run420();
+                break;
             case 423:
                 run423();
                 break;
@@ -1709,6 +1712,13 @@ public class MainInput {
         char[][] board = {{'X', '.', '.', 'X'}, {'.', '.', '.', 'X'}, {'.', '.', '.', 'X'}};
         S419 run = new S419();
         int result = run.countBattleships(board);
+        print(result);
+    }
+
+    static void run420() {
+        String password = "a";
+        S420 run = new S420();
+        int result = run.strongPasswordChecker(password);
         print(result);
     }
 

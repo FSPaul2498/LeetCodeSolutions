@@ -578,6 +578,9 @@ public class MainInput {
             case 743:
                 run743();
                 break;
+            case 744:
+                run744();
+                break;
             case 747:
                 run747();
                 break;
@@ -2325,6 +2328,14 @@ public class MainInput {
         int n = 4, k = 2;
         S743 run = new S743();
         int result = run.networkDelayTime(times, n, k);
+        print(result);
+    }
+
+    static void run744() {
+        char[] letters = {'c', 'f', 'j'};
+        char target = 'a';
+        S744 run = new S744();
+        char result = run.nextGreatestLetter(letters, target);
         print(result);
     }
 

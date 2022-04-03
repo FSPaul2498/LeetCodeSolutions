@@ -198,6 +198,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #725    | 分隔链表                                   | 中等 | 2021-09-22 | [力扣][P725]    |                                                              |
 | #728    | 自除数                                     | 简单 | 2022-03-31 | [力扣][P728]    |                                                              |
 | #743    | 网络延迟时间                               | 中等 | 2021-08-02 | [力扣][P743]    |                                                              |
+| #744    | 寻找比目标字母大的最小字母                 | 简单 | 2022-04-03 | [力扣][P744]    |                                                              |
 | #747    | 至少是其他数字两倍的最大数                 | 简单 | 2022-01-13 | [力扣][P747]    |                                                              |
 | #748    | 最短补全词                                 | 简单 | 2021-12-10 | [力扣][P748]    |                                                              |
 | #786    | 第 K 个最小的素数分数                      | 困难 | 2021-11-29 | [力扣][P786]    |                                                              |
@@ -675,6 +676,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P728]:https://leetcode-cn.com/problems/self-dividing-numbers/
 
 [P743]:https://leetcode-cn.com/problems/network-delay-time/
+
+[P744]:https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/
 
 [P747]:https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/
 

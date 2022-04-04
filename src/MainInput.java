@@ -251,6 +251,9 @@ public class MainInput {
             case 306:
                 run306();
                 break;
+            case 307:
+                run307();
+                break;
             case 313:
                 run313();
                 break;
@@ -1512,6 +1515,13 @@ public class MainInput {
         S306 run = new S306();
         boolean result = run.isAdditiveNumber(num);
         print(result);
+    }
+
+    static void run307() {
+        NumArray run = new NumArray(new int[]{1, 3, 5});
+        print(run.sumRange(0, 2));
+        run.update(1, 2);
+        print(run.sumRange(0, 2));
     }
 
     static void run313() {

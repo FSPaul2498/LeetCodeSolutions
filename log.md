@@ -89,6 +89,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #299    | 猜数字游戏                                 | 中等 | 2021-11-08 | [力扣][P299]    |                                                              |
 | #301    | 删除无效的括号                             | 困难 | 2021-10-27 | [力扣][P301]    | 本题有参考官方Java题解代码<br>[【删除无效的括号】][S301]     |
 | #306    | 累加数                                     | 中等 | 2022-01-10 | [力扣][P306]    |                                                              |
+| #307    | 区域和检索 - 数组可修改                    | 中等 | 2022-04-04 | [力扣][P307]    | 本题有参考官方Java题解代码<br>[【区域和检索 - 数组可修改】][S307] |
 | #313    | 超级丑数                                   | 中等 | 2021-08-09 | [力扣][P313]    | 本题有参考官方Java题解代码<br>[【超级丑数】][S313]           |
 | #318    | 最大单词长度乘积                           | 中等 | 2021-11-17 | [力扣][P318]    |                                                              |
 | #319    | 灯泡开关                                   | 中等 | 2021-11-15 | [力扣][P319]    |                                                              |
@@ -458,6 +459,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P301]:https://leetcode-cn.com/problems/remove-invalid-parentheses/
 
 [P306]:https://leetcode-cn.com/problems/additive-number/
+
+[P307]:https://leetcode-cn.com/problems/range-sum-query-mutable/
 
 [P313]:https://leetcode-cn.com/problems/super-ugly-number/
 
@@ -902,6 +905,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S282]:https://leetcode-cn.com/problems/expression-add-operators/solution/gei-biao-da-shi-tian-jia-yun-suan-fu-by-2o1s7/
 
 [S301]:https://leetcode-cn.com/problems/remove-invalid-parentheses/solution/shan-chu-wu-xiao-de-gua-hao-by-leetcode-9w8au/
+
+[S307]:https://leetcode-cn.com/problems/range-sum-query-mutable/solution/qu-yu-he-jian-suo-shu-zu-ke-xiu-gai-by-l-76xj/
 
 [S313]:https://leetcode-cn.com/problems/super-ugly-number/solution/chao-ji-chou-shu-by-leetcode-solution-uzff/
 

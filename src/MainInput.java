@@ -590,6 +590,9 @@ public class MainInput {
             case 748:
                 run748();
                 break;
+            case 762:
+                run762();
+                break;
             case 786:
                 run786();
                 break;
@@ -2361,6 +2364,13 @@ public class MainInput {
         String[] words = {"step", "steps", "stripe", "stepple"};
         S748 run = new S748();
         String result = run.shortestCompletingWord(licensePlate, words);
+        print(result);
+    }
+
+    static void run762() {
+        int left = 6, right = 10;
+        S762 run = new S762();
+        int result = run.countPrimeSetBits(left, right);
         print(result);
     }
 

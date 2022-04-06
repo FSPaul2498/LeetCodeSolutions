@@ -254,6 +254,9 @@ public class MainInput {
             case 307:
                 run307();
                 break;
+            case 310:
+                run310();
+                break;
             case 313:
                 run313();
                 break;
@@ -1525,6 +1528,14 @@ public class MainInput {
         print(run.sumRange(0, 2));
         run.update(1, 2);
         print(run.sumRange(0, 2));
+    }
+
+    static void run310() {
+        int n = 4;
+        int[][] edges = {{1, 0}, {1, 2}, {1, 3}};
+        S310 run = new S310();
+        List<Integer> result = run.findMinHeightTrees(n, edges);
+        print(result);
     }
 
     static void run313() {

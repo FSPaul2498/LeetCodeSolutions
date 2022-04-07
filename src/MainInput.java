@@ -608,6 +608,9 @@ public class MainInput {
             case 794:
                 run794();
                 break;
+            case 796:
+                run796();
+                break;
             case 797:
                 run797();
                 break;
@@ -2413,6 +2416,13 @@ public class MainInput {
         String[] board = {"O  ", "   ", "   "};
         S794 run = new S794();
         boolean result = run.validTicTacToe(board);
+        print(result);
+    }
+
+    static void run796() {
+        String s = "abcde", goal = "cdeab";
+        S796 run = new S796();
+        boolean result = run.rotateString(s, goal);
         print(result);
     }
 

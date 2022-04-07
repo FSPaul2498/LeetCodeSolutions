@@ -208,6 +208,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #787    | K 站中转内最便宜的航班                     | 中等 | 2021-08-24 | [力扣][P787]    | 本题有参考官方Java题解代码<br>[【K 站中转内最便宜的航班】][S787] |
 | #789    | 逃脱阻碍者                                 | 中等 | 2021-08-22 | [力扣][P789]    |                                                              |
 | #794    | 有效的井字游戏                             | 中等 | 2021-12-09 | [力扣][P794]    |                                                              |
+| #796    | 旋转字符串                                 | 简单 | 2022-04-07 | [力扣][P796]    |                                                              |
 | #797    | 所有可能的路径                             | 中等 | 2021-08-25 | [力扣][P797]    |                                                              |
 | #798    | 得分最高的最小轮调                         | 困难 | 2022-03-09 | [力扣][P798]    | 本题有参考官方Java题解代码<br>[【得分最高的最小轮调】][S798] |
 | #802    | 找到最终的安全状态                         | 中等 | 2021-08-05 | [力扣][P802]    |                                                              |
@@ -699,6 +700,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P789]:https://leetcode-cn.com/problems/escape-the-ghosts/
 
 [P794]:https://leetcode-cn.com/problems/valid-tic-tac-toe-state/
+
+[P796]:https://leetcode-cn.com/problems/rotate-string/
 
 [P797]:https://leetcode-cn.com/problems/all-paths-from-source-to-target/
 

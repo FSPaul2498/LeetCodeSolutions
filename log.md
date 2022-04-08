@@ -120,6 +120,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #419    | 甲板上的战舰                               | 中等 | 2021-12-18 | [力扣][P419]    |                                                              |
 | #420    | 强密码检验器                               | 困难 | 2022-04-02 | [力扣][P420]    | 本题有参考官方Java题解代码<br>[【强密码检验器】][S420]       |
 | #423    | 从英文中重建数字                           | 中等 | 2021-11-24 | [力扣][P423]    |                                                              |
+| #429    | N 叉树的层序遍历                           | 中等 | 2022-04-08 | [力扣][P429]    |                                                              |
 | #430    | 扁平化多级双向链表                         | 中等 | 2021-09-24 | [力扣][P430]    |                                                              |
 | #432    | 全 O(1) 的数据结构                         | 困难 | 2022-03-16 | [力扣][P432]    |                                                              |
 | #434    | 字符串中的单词数                           | 简单 | 2021-10-07 | [力扣][P434]    |                                                              |
@@ -524,6 +525,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P420]:https://leetcode-cn.com/problems/strong-password-checker/
 
 [P423]:https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/
+
+[P429]:https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/
 
 [P430]:https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
 

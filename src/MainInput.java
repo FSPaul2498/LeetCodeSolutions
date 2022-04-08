@@ -344,6 +344,9 @@ public class MainInput {
             case 423:
                 run423();
                 break;
+            case 429:
+                run429();
+                break;
             case 430:
                 run430();
                 break;
@@ -1756,6 +1759,14 @@ public class MainInput {
         String s = "owoztneoer";
         S423 run = new S423();
         String result = run.originalDigits(s);
+        print(result);
+    }
+
+    static void run429() {
+        String line = "[1,null,3,2,4,null,5,6]";
+        S429 run = new S429();
+        NaryTreeNode root = NaryTreeNode.stringToTreeNode(line);
+        List<List<Integer>> result = run.levelOrder(root);
         print(result);
     }
 

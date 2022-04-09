@@ -205,6 +205,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #747    | 至少是其他数字两倍的最大数                 | 简单 | 2022-01-13 | [力扣][P747]    |                                                              |
 | #748    | 最短补全词                                 | 简单 | 2021-12-10 | [力扣][P748]    |                                                              |
 | #762    | 二进制表示中质数个计算置位                 | 简单 | 2022-04-05 | [力扣][P762]    |                                                              |
+| #780    | 到达终点                                   | 困难 | 2022-04-09 | [力扣][P780]    |                                                              |
 | #786    | 第 K 个最小的素数分数                      | 困难 | 2021-11-29 | [力扣][P786]    |                                                              |
 | #787    | K 站中转内最便宜的航班                     | 中等 | 2021-08-24 | [力扣][P787]    | 本题有参考官方Java题解代码<br>[【K 站中转内最便宜的航班】][S787] |
 | #789    | 逃脱阻碍者                                 | 中等 | 2021-08-22 | [力扣][P789]    |                                                              |
@@ -695,6 +696,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P748]:https://leetcode-cn.com/problems/shortest-completing-word/
 
 [P762]:https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/
+
+[P780]:https://leetcode-cn.com/problems/reaching-points/
 
 [P786]:https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/
 

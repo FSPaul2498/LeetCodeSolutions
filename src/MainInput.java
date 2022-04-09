@@ -599,6 +599,9 @@ public class MainInput {
             case 762:
                 run762();
                 break;
+            case 780:
+                run780();
+                break;
             case 786:
                 run786();
                 break;
@@ -2396,6 +2399,13 @@ public class MainInput {
         int left = 6, right = 10;
         S762 run = new S762();
         int result = run.countPrimeSetBits(left, right);
+        print(result);
+    }
+
+    static void run780() {
+        int sx = 1, sy = 1, tx = 3, ty = 5;
+        S780 run = new S780();
+        boolean result = run.reachingPoints(sx, sy, tx, ty);
         print(result);
     }
 

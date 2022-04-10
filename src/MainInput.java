@@ -626,6 +626,9 @@ public class MainInput {
             case 802:
                 run802();
                 break;
+            case 804:
+                run804();
+                break;
             case 807:
                 run807();
                 break;
@@ -2465,6 +2468,13 @@ public class MainInput {
         int[][] graph = {{1, 2}, {2, 3}, {5}, {0}, {5}, {}, {}};
         S802 run = new S802();
         List<Integer> result = run.eventualSafeNodes(graph);
+        print(result);
+    }
+
+    static void run804() {
+        String[] words = {"gin", "zen", "gig", "msg"};
+        S804 run = new S804();
+        int result = run.uniqueMorseRepresentations(words);
         print(result);
     }
 

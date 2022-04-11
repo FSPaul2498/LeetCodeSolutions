@@ -281,6 +281,9 @@ public class MainInput {
             case 352:
                 run352();
                 break;
+            case 357:
+                run357();
+                break;
             case 367:
                 run367();
                 break;
@@ -1612,6 +1615,13 @@ public class MainInput {
         print(run.getIntervals());
         run.addNum(6);
         print(run.getIntervals());
+    }
+
+    static void run357() {
+        int n = 2;
+        S357 run = new S357();
+        int result = run.countNumbersWithUniqueDigits(n);
+        print(result);
     }
 
     static void run367() {

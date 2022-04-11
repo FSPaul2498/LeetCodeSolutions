@@ -99,6 +99,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #335    | 路径交叉                                   | 困难 | 2021-10-29 | [力扣][P335]    |                                                              |
 | #345    | 反转字符串中的元音字母                     | 简单 | 2021-08-19 | [力扣][P345]    |                                                              |
 | #352    | 将数据流变为多个不相交区间                 | 困难 | 2021-10-09 | [力扣][P352]    | 本题有参考官方Java题解代码<br>[【将数据流变为多个不相交区间】][S352] |
+| #357    | 统计各位数字都不同的数字个数               | 中等 | 2022-04-11 | [力扣][P357]    |                                                              |
 | #367    | 有效的完全平方数                           | 简单 | 2021-11-04 | [力扣][P367]    |                                                              |
 | #371    | 两整数之和                                 | 中等 | 2021-09-26 | [力扣][P371]    |                                                              |
 | #372    | 超级次方                                   | 中等 | 2021-12-05 | [力扣][P372]    |                                                              |
@@ -485,6 +486,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P345]:https://leetcode-cn.com/problems/reverse-vowels-of-a-string/
 
 [P352]:https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/
+
+[P357]:https://leetcode-cn.com/problems/count-numbers-with-unique-digits/
 
 [P367]:https://leetcode-cn.com/problems/valid-perfect-square/
 

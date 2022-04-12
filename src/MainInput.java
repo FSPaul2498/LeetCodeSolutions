@@ -632,6 +632,9 @@ public class MainInput {
             case 804:
                 run804();
                 break;
+            case 806:
+                run806();
+                break;
             case 807:
                 run807();
                 break;
@@ -2485,6 +2488,14 @@ public class MainInput {
         String[] words = {"gin", "zen", "gig", "msg"};
         S804 run = new S804();
         int result = run.uniqueMorseRepresentations(words);
+        print(result);
+    }
+
+    static void run806() {
+        int[] widths = {10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10};
+        String s = "abcdefghijklmnopqrstuvwxyz";
+        S806 run = new S806();
+        int[] result = run.numberOfLines(widths, s);
         print(result);
     }
 

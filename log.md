@@ -216,6 +216,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #798    | 得分最高的最小轮调                         | 困难 | 2022-03-09 | [力扣][P798]    | 本题有参考官方Java题解代码<br>[【得分最高的最小轮调】][S798] |
 | #802    | 找到最终的安全状态                         | 中等 | 2021-08-05 | [力扣][P802]    |                                                              |
 | #804    | 唯一摩尔斯密码词                           | 简单 | 2022-04-10 | [力扣][P804]    |                                                              |
+| #806    | 写字符串需要的行数                         | 简单 | 2022-04-12 | [力扣][P806]    |                                                              |
 | #807    | 保持城市天际线                             | 中等 | 2021-12-13 | [力扣][P807]    |                                                              |
 | #825    | 适龄的朋友                                 | 中等 | 2021-12-27 | [力扣][P825]    |                                                              |
 | #838    | 推多米诺                                   | 中等 | 2022-02-21 | [力扣][P838]    |                                                              |
@@ -720,6 +721,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P802]:https://leetcode-cn.com/problems/find-eventual-safe-states/
 
 [P804]:https://leetcode-cn.com/problems/unique-morse-code-words/
+
+[P806]:https://leetcode-cn.com/problems/number-of-lines-to-write-string/
 
 [P807]:https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/
 

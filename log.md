@@ -105,6 +105,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #372    | 超级次方                                   | 中等 | 2021-12-05 | [力扣][P372]    |                                                              |
 | #373    | 查找和最小的 K 对数字                      | 中等 | 2022-01-14 | [力扣][P373]    |                                                              |
 | #375    | 猜数字大小 II                              | 中等 | 2021-11-12 | [力扣][P375]    |                                                              |
+| #380    | O(1) 时间插入、删除和获取随机元素          | 中等 | 2022-04-13 | [力扣][P380]    |                                                              |
 | #382    | 链表随机节点                               | 中等 | 2022-01-16 | [力扣][P382]    |                                                              |
 | #383    | 赎金信                                     | 简单 | 2021-12-04 | [力扣][P383]    |                                                              |
 | #384    | 打乱数组                                   | 中等 | 2021-11-22 | [力扣][P384]    |                                                              |
@@ -499,6 +500,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P373]:https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/
 
 [P375]:https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/
+
+[P380]:https://leetcode-cn.com/problems/insert-delete-getrandom-o1/
 
 [P382]:https://leetcode-cn.com/problems/linked-list-random-node/
 

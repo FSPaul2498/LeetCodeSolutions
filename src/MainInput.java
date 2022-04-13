@@ -299,6 +299,9 @@ public class MainInput {
             case 375:
                 run375();
                 break;
+            case 380:
+                run380();
+                break;
             case 382:
                 run382();
                 break;
@@ -1662,6 +1665,17 @@ public class MainInput {
         S375 run = new S375();
         int result = run.getMoneyAmount(n);
         print(result);
+    }
+
+    static void run380() {
+        RandomizedSet run = new RandomizedSet();
+        print(run.insert(1));
+        print(run.remove(2));
+        print(run.insert(2));
+        print(run.getRandom());
+        print(run.remove(1));
+        print(run.insert(2));
+        print(run.getRandom());
     }
 
     static void run382() {

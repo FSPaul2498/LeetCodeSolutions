@@ -803,6 +803,9 @@ public class MainInput {
             case 1646:
                 run1646();
                 break;
+            case 1672:
+                run1672();
+                break;
             case 1688:
                 run1688();
                 break;
@@ -2925,6 +2928,13 @@ public class MainInput {
         int n = 7;
         S1646 run = new S1646();
         int result = run.getMaximumGenerated(n);
+        print(result);
+    }
+
+    static void run1672() {
+        int[][] accounts = {{1, 2, 3}, {3, 2, 1}};
+        S1672 run = new S1672();
+        int result = run.maximumWealth(accounts);
         print(result);
     }
 

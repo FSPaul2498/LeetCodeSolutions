@@ -109,6 +109,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #382    | 链表随机节点                               | 中等 | 2022-01-16 | [力扣][P382]    |                                                              |
 | #383    | 赎金信                                     | 简单 | 2021-12-04 | [力扣][P383]    |                                                              |
 | #384    | 打乱数组                                   | 中等 | 2021-11-22 | [力扣][P384]    |                                                              |
+| #385    | 迷你语法分析器                             | 中等 | 2022-04-15 | [力扣][P385]    | 本题有参考官方Java题解代码<br>[【迷你语法分析器】][S385]     |
 | #390    | 消除游戏                                   | 中等 | 2022-01-02 | [力扣][P390]    |                                                              |
 | #391    | 完美矩形                                   | 困难 | 2021-11-16 | [力扣][P391]    |                                                              |
 | #393    | UTF-8 编码验证                             | 中等 | 2022-03-13 | [力扣][P393]    |                                                              |
@@ -509,6 +510,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P383]:https://leetcode-cn.com/problems/ransom-note/
 
 [P384]:https://leetcode-cn.com/problems/shuffle-an-array/
+
+[P385]:https://leetcode-cn.com/problems/mini-parser/
 
 [P390]:https://leetcode-cn.com/problems/elimination-game/
 
@@ -941,6 +944,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S313]:https://leetcode-cn.com/problems/super-ugly-number/solution/chao-ji-chou-shu-by-leetcode-solution-uzff/
 
 [S352]:https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/solution/jiang-shu-ju-liu-bian-wei-duo-ge-bu-xian-hm1r/
+
+[S385]:https://leetcode-cn.com/problems/mini-parser/solution/mi-ni-yu-fa-fen-xi-qi-by-leetcode-soluti-l2ma/
 
 [S407]:https://leetcode-cn.com/problems/trapping-rain-water-ii/solution/jie-yu-shui-ii-by-leetcode-solution-vlj3/
 

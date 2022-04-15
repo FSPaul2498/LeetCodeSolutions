@@ -311,6 +311,9 @@ public class MainInput {
             case 384:
                 run384();
                 break;
+            case 385:
+                run385();
+                break;
             case 390:
                 run390();
                 break;
@@ -1705,6 +1708,14 @@ public class MainInput {
         print(run.shuffle());
         print(run.reset());
         print(run.shuffle());
+    }
+
+    static void run385() {
+        // Test Env Print Function Not Ready
+        String s = "324";
+        S385 run = new S385();
+        NestedInteger result = run.deserialize(s);
+        print("Test Env Print Function Not Ready");
     }
 
     static void run390() {

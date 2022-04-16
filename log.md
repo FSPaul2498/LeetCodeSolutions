@@ -141,6 +141,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #472    | 连接词                                     | 困难 | 2021-12-28 | [力扣][P472]    | 本题有参考官方Java题解代码<br>[【连接词】][S472]             |
 | #475    | 供暖器                                     | 中等 | 2021-12-20 | [力扣][P475]    |                                                              |
 | #476    | 数字的补数                                 | 简单 | 2021-10-18 | [力扣][P476]    |                                                              |
+| #479    | 最大回文数乘积                             | 困难 | 2022-04-16 | [力扣][P479]    |                                                              |
 | #482    | 密钥格式化                                 | 简单 | 2021-10-04 | [力扣][P482]    |                                                              |
 | #488    | 祖玛游戏                                   | 困难 | 2021-11-09 | [力扣][P488]    | 本题有参考社区Java题解代码<br>[【宫水三叶】一题双解 :「搜索 + 剪枝」&「AStar 算法」][S488] |
 | #492    | 构造矩形                                   | 简单 | 2021-10-23 | [力扣][P492]    |                                                              |
@@ -574,6 +575,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P475]:https://leetcode-cn.com/problems/heaters/
 
 [P476]:https://leetcode-cn.com/problems/number-complement/
+
+[P479]:https://leetcode-cn.com/problems/largest-palindrome-product/
 
 [P482]:https://leetcode-cn.com/problems/license-key-formatting/
 

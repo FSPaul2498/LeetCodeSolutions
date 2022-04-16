@@ -407,6 +407,9 @@ public class MainInput {
             case 476:
                 run476();
                 break;
+            case 479:
+                run479();
+                break;
             case 482:
                 run482();
                 break;
@@ -1941,6 +1944,13 @@ public class MainInput {
         int num = 5;
         S476 run = new S476();
         int result = run.findComplement(num);
+        print(result);
+    }
+
+    static void run479() {
+        int n = 5;
+        S479 run = new S479();
+        int result = run.largestPalindrome(n);
         print(result);
     }
 

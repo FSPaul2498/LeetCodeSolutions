@@ -401,11 +401,11 @@ public class MainInput {
             case 472:
                 run472();
                 break;
+            case 475:
+                run475();
+                break;
             case 476:
                 run476();
-                break;
-            case 479:
-                run479();
                 break;
             case 482:
                 run482();
@@ -1930,17 +1930,17 @@ public class MainInput {
         print(result);
     }
 
+    static void run475() {
+        int[] houses = {1, 2, 3}, heaters = {2};
+        S475 run = new S475();
+        int result = run.findRadius(houses, heaters);
+        print(result);
+    }
+
     static void run476() {
         int num = 5;
         S476 run = new S476();
         int result = run.findComplement(num);
-        print(result);
-    }
-
-    static void run479() {
-        int[] houses = {1, 2, 3}, heaters = {2};
-        S479 run = new S479();
-        int result = run.findRadius(houses, heaters);
         print(result);
     }
 

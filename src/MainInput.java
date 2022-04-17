@@ -647,6 +647,9 @@ public class MainInput {
             case 807:
                 run807();
                 break;
+            case 819:
+                run819();
+                break;
             case 825:
                 run825();
                 break;
@@ -2541,6 +2544,14 @@ public class MainInput {
         int[][] grid = {{3, 0, 8, 4}, {2, 4, 5, 7}, {9, 2, 6, 3}, {0, 3, 1, 0}};
         S807 run = new S807();
         int result = run.maxIncreaseKeepingSkyline(grid);
+        print(result);
+    }
+
+    static void run819() {
+        String paragraph = "Bob hit a ball, the hit BALL flew far after it was hit.";
+        String[] banned = {"hit"};
+        S819 run = new S819();
+        String result = run.mostCommonWord(paragraph, banned);
         print(result);
     }
 

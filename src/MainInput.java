@@ -314,6 +314,9 @@ public class MainInput {
             case 385:
                 run385();
                 break;
+            case 386:
+                run386();
+                break;
             case 390:
                 run390();
                 break;
@@ -1722,6 +1725,13 @@ public class MainInput {
         S385 run = new S385();
         NestedInteger result = run.deserialize(s);
         print("Test Env Print Function Not Ready");
+    }
+
+    static void run386() {
+        int n = 13;
+        S386 run = new S386();
+        List<Integer> result = run.lexicalOrder(n);
+        print(result);
     }
 
     static void run390() {

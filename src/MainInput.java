@@ -653,6 +653,9 @@ public class MainInput {
             case 819:
                 run819();
                 break;
+            case 821:
+                run821();
+                break;
             case 825:
                 run825();
                 break;
@@ -2562,6 +2565,14 @@ public class MainInput {
         String[] banned = {"hit"};
         S819 run = new S819();
         String result = run.mostCommonWord(paragraph, banned);
+        print(result);
+    }
+
+    static void run821() {
+        String s = "loveleetcode";
+        char c = 'e';
+        S821 run = new S821();
+        int[] result = run.shortestToChar(s, c);
         print(result);
     }
 

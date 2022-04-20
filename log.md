@@ -111,6 +111,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #384    | 打乱数组                                   | 中等 | 2021-11-22 | [力扣][P384]    |                                                              |
 | #385    | 迷你语法分析器                             | 中等 | 2022-04-15 | [力扣][P385]    | 本题有参考官方Java题解代码<br>[【迷你语法分析器】][S385]     |
 | #386    | 字典序排数                                 | 中等 | 2022-04-18 | [力扣][P386]    |                                                              |
+| #388    | 文件的最长绝对路径                         | 中等 | 2022-04-20 | [力扣][P388]    |                                                              |
 | #390    | 消除游戏                                   | 中等 | 2022-01-02 | [力扣][P390]    |                                                              |
 | #391    | 完美矩形                                   | 困难 | 2021-11-16 | [力扣][P391]    |                                                              |
 | #393    | UTF-8 编码验证                             | 中等 | 2022-03-13 | [力扣][P393]    |                                                              |
@@ -518,6 +519,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P385]:https://leetcode-cn.com/problems/mini-parser/
 
 [P386]:https://leetcode-cn.com/problems/lexicographical-numbers/
+
+[P388]:https://leetcode-cn.com/problems/longest-absolute-file-path/
 
 [P390]:https://leetcode-cn.com/problems/elimination-game/
 

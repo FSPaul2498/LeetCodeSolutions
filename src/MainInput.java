@@ -317,6 +317,9 @@ public class MainInput {
             case 386:
                 run386();
                 break;
+            case 388:
+                run388();
+                break;
             case 390:
                 run390();
                 break;
@@ -1734,6 +1737,13 @@ public class MainInput {
         int n = 13;
         S386 run = new S386();
         List<Integer> result = run.lexicalOrder(n);
+        print(result);
+    }
+
+    static void run388() {
+        String input = "dir\n\tsubdir1\n\tsubdir2\n\t\tfile.ext";
+        S388 run = new S388();
+        int result = run.lengthLongestPath(input);
         print(result);
     }
 

@@ -225,6 +225,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #807    | 保持城市天际线                             | 中等 | 2021-12-13 | [力扣][P807]    |                                                              |
 | #819    | 最常见的单词                               | 简单 | 2022-04-17 | [力扣][P819]    |                                                              |
 | #821    | 字符的最短距离                             | 简单 | 2022-04-19 | [力扣][P821]    |                                                              |
+| #824    | 山羊拉丁文                                 | 简单 | 2022-04-21 | [力扣][P824]    |                                                              |
 | #825    | 适龄的朋友                                 | 中等 | 2021-12-27 | [力扣][P825]    |                                                              |
 | #838    | 推多米诺                                   | 中等 | 2022-02-21 | [力扣][P838]    |                                                              |
 | #846    | 一手顺子                                   | 中等 | 2021-12-30 | [力扣][P846]    |                                                              |
@@ -747,6 +748,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P819]:https://leetcode-cn.com/problems/most-common-word/
 
 [P821]:https://leetcode-cn.com/problems/shortest-distance-to-a-character/
+
+[P824]:https://leetcode-cn.com/problems/goat-latin/
 
 [P825]:https://leetcode-cn.com/problems/friends-of-appropriate-ages/
 

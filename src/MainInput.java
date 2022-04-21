@@ -659,6 +659,9 @@ public class MainInput {
             case 821:
                 run821();
                 break;
+            case 824:
+                run824();
+                break;
             case 825:
                 run825();
                 break;
@@ -2583,6 +2586,13 @@ public class MainInput {
         char c = 'e';
         S821 run = new S821();
         int[] result = run.shortestToChar(s, c);
+        print(result);
+    }
+
+    static void run824() {
+        String sentence = "I speak Goat Latin";
+        S824 run = new S824();
+        String result = run.toGoatLatin(sentence);
         print(result);
     }
 

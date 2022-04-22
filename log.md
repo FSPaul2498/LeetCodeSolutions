@@ -115,6 +115,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #390    | 消除游戏                                   | 中等 | 2022-01-02 | [力扣][P390]    |                                                              |
 | #391    | 完美矩形                                   | 困难 | 2021-11-16 | [力扣][P391]    |                                                              |
 | #393    | UTF-8 编码验证                             | 中等 | 2022-03-13 | [力扣][P393]    |                                                              |
+| #396    | 旋转函数                                   | 中等 | 2022-04-22 | [力扣][P396]    |                                                              |
 | #397    | 整数替换                                   | 中等 | 2021-11-19 | [力扣][P397]    |                                                              |
 | #400    | 第 N 位数字                                | 中等 | 2021-11-30 | [力扣][P400]    |                                                              |
 | #405    | 数字转换为十六进制数                       | 简单 | 2021-10-02 | [力扣][P405]    |                                                              |
@@ -528,6 +529,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P391]:https://leetcode-cn.com/problems/perfect-rectangle/
 
 [P393]:https://leetcode-cn.com/problems/utf-8-validation/
+
+[P396]:https://leetcode-cn.com/problems/rotate-function/
 
 [P397]:https://leetcode-cn.com/problems/integer-replacement/
 

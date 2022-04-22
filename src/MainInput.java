@@ -329,6 +329,9 @@ public class MainInput {
             case 393:
                 run393();
                 break;
+            case 396:
+                run396();
+                break;
             case 397:
                 run397();
                 break;
@@ -1768,6 +1771,13 @@ public class MainInput {
         int[] data = {197, 130, 1};
         S393 run = new S393();
         boolean result = run.validUtf8(data);
+        print(result);
+    }
+
+    static void run396() {
+        int[] nums = {4, 3, 2, 6};
+        S396 run = new S396();
+        int result = run.maxRotateFunction(nums);
         print(result);
     }
 

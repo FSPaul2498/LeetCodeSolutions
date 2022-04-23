@@ -515,6 +515,9 @@ public class MainInput {
             case 583:
                 run583();
                 break;
+            case 587:
+                run587();
+                break;
             case 589:
                 run589();
                 break;
@@ -2228,6 +2231,13 @@ public class MainInput {
         String word1 = "sea", word2 = "eat";
         S583 run = new S583();
         int result = run.minDistance(word1, word2);
+        print(result);
+    }
+
+    static void run587() {
+        int[][] trees = {{1, 1}, {2, 2}, {2, 0}, {2, 4}, {3, 3}, {4, 2}};
+        S587 run = new S587();
+        int[][] result = run.outerTrees(trees);
         print(result);
     }
 

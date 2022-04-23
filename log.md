@@ -177,6 +177,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #576    | 出界的路径数                               | 中等 | 2021-08-15 | [力扣][P576]    |                                                              |
 | #581    | 最短无序连续子数组                         | 中等 | 2021-08-03 | [力扣][P581]    |                                                              |
 | #583    | 两个字符串的删除操作                       | 中等 | 2021-09-25 | [力扣][P583]    | 本题有参考官方Java题解代码<br>[【两个字符串的删除操作】][S583] |
+| #587    | 安装栅栏                                   | 困难 | 2022-04-23 | [力扣][P587]    | 本题有参考官方Java题解代码<br>[【安装栅栏】][S587]           |
 | #589    | N 叉树的前序遍历                           | 简单 | 2022-03-10 | [力扣][P589]    |                                                              |
 | #590    | N 叉树的后序遍历                           | 简单 | 2022-03-12 | [力扣][P590]    |                                                              |
 | #594    | 最长和谐子序列                             | 简单 | 2021-11-20 | [力扣][P594]    |                                                              |
@@ -654,6 +655,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P583]:https://leetcode-cn.com/problems/delete-operation-for-two-strings/
 
+[P587]:https://leetcode-cn.com/problems/erect-the-fence/
+
 [P589]:https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/
 
 [P590]:https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/
@@ -987,6 +990,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S552]:https://leetcode-cn.com/problems/student-attendance-record-ii/solution/xue-sheng-chu-qin-ji-lu-ii-by-leetcode-s-kdlm/
 
 [S583]:https://leetcode-cn.com/problems/delete-operation-for-two-strings/solution/liang-ge-zi-fu-chuan-de-shan-chu-cao-zuo-14uw/
+
+[S587]:https://leetcode-cn.com/problems/erect-the-fence/solution/an-zhuang-zha-lan-by-leetcode-solution-75s3/
 
 [S629]:https://leetcode-cn.com/problems/k-inverse-pairs-array/solution/kge-ni-xu-dui-shu-zu-by-leetcode-solutio-0hkr/
 

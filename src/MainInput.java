@@ -686,6 +686,9 @@ public class MainInput {
             case 859:
                 run859();
                 break;
+            case 868:
+                run868();
+                break;
             case 869:
                 run869();
                 break;
@@ -2657,6 +2660,13 @@ public class MainInput {
         String s = "ab", goal = "ba";
         S859 run = new S859();
         boolean result = run.buddyStrings(s, goal);
+        print(result);
+    }
+
+    static void run868() {
+        int n = 22;
+        S868 run = new S868();
+        int result = run.binaryGap(n);
         print(result);
     }
 

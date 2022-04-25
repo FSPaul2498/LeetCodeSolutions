@@ -117,6 +117,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #393    | UTF-8 编码验证                             | 中等 | 2022-03-13 | [力扣][P393]    |                                                              |
 | #396    | 旋转函数                                   | 中等 | 2022-04-22 | [力扣][P396]    |                                                              |
 | #397    | 整数替换                                   | 中等 | 2021-11-19 | [力扣][P397]    |                                                              |
+| #398    | 随机数索引                                 | 中等 | 2022-04-25 | [力扣][P398]    |                                                              |
 | #400    | 第 N 位数字                                | 中等 | 2021-11-30 | [力扣][P400]    |                                                              |
 | #405    | 数字转换为十六进制数                       | 简单 | 2021-10-02 | [力扣][P405]    |                                                              |
 | #407    | 接雨水 II                                  | 困难 | 2021-11-03 | [力扣][P407]    | 本题有参考官方Java题解代码<br>[【接雨水 II】][S407]          |
@@ -535,6 +536,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P396]:https://leetcode-cn.com/problems/rotate-function/
 
 [P397]:https://leetcode-cn.com/problems/integer-replacement/
+
+[P398]:https://leetcode-cn.com/problems/random-pick-index/
 
 [P400]:https://leetcode-cn.com/problems/nth-digit/
 

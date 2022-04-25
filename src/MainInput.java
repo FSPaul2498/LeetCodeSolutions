@@ -335,6 +335,9 @@ public class MainInput {
             case 397:
                 run397();
                 break;
+            case 398:
+                run398();
+                break;
             case 400:
                 run400();
                 break;
@@ -1792,6 +1795,13 @@ public class MainInput {
         S397 run = new S397();
         int result = run.integerReplacement(n);
         print(result);
+    }
+
+    static void run398() {
+        int[] nums = new int[]{1, 2, 3, 3, 3};
+        S398 run = new S398(nums);
+        print(run.pick(3));
+        print(run.pick(1));
     }
 
     static void run400() {

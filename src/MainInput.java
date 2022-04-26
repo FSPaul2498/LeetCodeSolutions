@@ -698,6 +698,9 @@ public class MainInput {
             case 881:
                 run881();
                 break;
+            case 883:
+                run883();
+                break;
             case 884:
                 run884();
                 break;
@@ -2692,6 +2695,13 @@ public class MainInput {
         int limit = 3;
         S881 run = new S881();
         int result = run.numRescueBoats(people, limit);
+        print(result);
+    }
+
+    static void run883() {
+        int[][] grid = {{1, 2}, {3, 4}};
+        S883 run = new S883();
+        int result = run.projectionArea(grid);
         print(result);
     }
 

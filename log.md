@@ -238,6 +238,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #868    | 二进制间距                                 | 简单 | 2022-04-24 | [力扣][P868]    |                                                              |
 | #869    | 重新排序得到 2 的幂                        | 中等 | 2021-10-28 | [力扣][P869]    | 本题有参考官方Java题解代码<br>[【重新排序得到 2 的幂】][S869] |
 | #881    | 救生艇                                     | 中等 | 2021-08-26 | [力扣][P881]    |                                                              |
+| #883    | 三维形体投影面积                           | 简单 | 2022-04-26 | [力扣][P883]    |                                                              |
 | #884    | 两句话中的不常见单词                       | 简单 | 2022-01-30 | [力扣][P884]    |                                                              |
 | #911    | 在线选举                                   | 中等 | 2021-12-11 | [力扣][P911]    |                                                              |
 | #913    | 猫和老鼠                                   | 困难 | 2022-01-04 | [力扣][P913]    | 本题有参考官方Java题解代码<br>[【猫和老鼠】][S913]           |
@@ -778,6 +779,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P869]:https://leetcode-cn.com/problems/reordered-power-of-2/
 
 [P881]:https://leetcode-cn.com/problems/boats-to-save-people/
+
+[P883]:https://leetcode-cn.com/problems/projection-area-of-3d-shapes/
 
 [P884]:https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/
 

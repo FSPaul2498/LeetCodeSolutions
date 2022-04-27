@@ -356,6 +356,9 @@ public class MainInput {
             case 414:
                 run414();
                 break;
+            case 417:
+                run417();
+                break;
             case 419:
                 run419();
                 break;
@@ -1846,6 +1849,13 @@ public class MainInput {
         int[] nums = {3, 2, 1};
         S414 run = new S414();
         int result = run.thirdMax(nums);
+        print(result);
+    }
+
+    static void run417() {
+        int[][] heights = {{1, 2, 2, 3, 5}, {3, 2, 3, 4, 4}, {2, 4, 5, 3, 1}, {6, 7, 1, 4, 5}, {5, 1, 1, 2, 4}};
+        S417 run = new S417();
+        List<List<Integer>> result = run.pacificAtlantic(heights);
         print(result);
     }
 

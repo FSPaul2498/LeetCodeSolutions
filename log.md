@@ -241,6 +241,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #881    | 救生艇                                     | 中等 | 2021-08-26 | [力扣][P881]    |                                                              |
 | #883    | 三维形体投影面积                           | 简单 | 2022-04-26 | [力扣][P883]    |                                                              |
 | #884    | 两句话中的不常见单词                       | 简单 | 2022-01-30 | [力扣][P884]    |                                                              |
+| #905    | 按奇偶排序数组                             | 简单 | 2022-04-28 | [力扣][P905]    |                                                              |
 | #911    | 在线选举                                   | 中等 | 2021-12-11 | [力扣][P911]    |                                                              |
 | #913    | 猫和老鼠                                   | 困难 | 2022-01-04 | [力扣][P913]    | 本题有参考官方Java题解代码<br>[【猫和老鼠】][S913]           |
 | #917    | 仅仅反转字母                               | 简单 | 2022-02-23 | [力扣][P917]    |                                                              |
@@ -786,6 +787,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P883]:https://leetcode-cn.com/problems/projection-area-of-3d-shapes/
 
 [P884]:https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/
+
+[P905]:https://leetcode-cn.com/problems/sort-array-by-parity/
 
 [P911]:https://leetcode-cn.com/problems/online-election/
 

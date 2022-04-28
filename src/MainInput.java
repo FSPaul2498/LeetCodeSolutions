@@ -707,6 +707,9 @@ public class MainInput {
             case 884:
                 run884();
                 break;
+            case 905:
+                run905();
+                break;
             case 911:
                 run911();
                 break;
@@ -2719,6 +2722,13 @@ public class MainInput {
         String s1 = "this apple is sweet", s2 = "this apple is sour";
         S884 run = new S884();
         String[] result = run.uncommonFromSentences(s1, s2);
+        print(result);
+    }
+
+    static void run905() {
+        int[] nums = {3, 1, 2, 4};
+        S905 run = new S905();
+        int[] result = run.sortArrayByParity(nums);
         print(result);
     }
 

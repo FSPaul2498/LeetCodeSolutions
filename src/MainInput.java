@@ -368,6 +368,9 @@ public class MainInput {
             case 423:
                 run423();
                 break;
+            case 427:
+                run427();
+                break;
             case 429:
                 run429();
                 break;
@@ -1881,6 +1884,14 @@ public class MainInput {
         S423 run = new S423();
         String result = run.originalDigits(s);
         print(result);
+    }
+
+    static void run427() {
+        // Test Env Print Function Not Ready
+        int[][] grid = {{1, 1, 1, 1, 0, 0, 0, 0}, {1, 1, 1, 1, 0, 0, 0, 0}, {1, 1, 1, 1, 1, 1, 1, 1}, {1, 1, 1, 1, 1, 1, 1, 1}, {1, 1, 1, 1, 0, 0, 0, 0}, {1, 1, 1, 1, 0, 0, 0, 0}, {1, 1, 1, 1, 0, 0, 0, 0}, {1, 1, 1, 1, 0, 0, 0, 0}};
+        S427 run = new S427();
+        QuadTreeNode result = run.construct(grid);
+        print("Test Env Print Function Not Ready");
     }
 
     static void run429() {

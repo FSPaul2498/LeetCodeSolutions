@@ -713,6 +713,9 @@ public class MainInput {
             case 905:
                 run905();
                 break;
+            case 908:
+                run908();
+                break;
             case 911:
                 run911();
                 break;
@@ -2740,6 +2743,14 @@ public class MainInput {
         int[] nums = {3, 1, 2, 4};
         S905 run = new S905();
         int[] result = run.sortArrayByParity(nums);
+        print(result);
+    }
+
+    static void run908() {
+        int[] nums = {1};
+        int k = 0;
+        S908 run = new S908();
+        int result = run.smallestRangeI(nums, k);
         print(result);
     }
 

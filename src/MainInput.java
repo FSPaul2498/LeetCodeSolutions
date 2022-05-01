@@ -785,6 +785,9 @@ public class MainInput {
             case 1221:
                 run1221();
                 break;
+            case 1305:
+                run1305();
+                break;
             case 1332:
                 run1332();
                 break;
@@ -2923,6 +2926,15 @@ public class MainInput {
         String s = "RLRRLLRLRL";
         S1221 run = new S1221();
         int result = run.balancedStringSplit(s);
+        print(result);
+    }
+
+    static void run1305() {
+        String line1 = "[2,1,4]", line2 = "[1,0,3]";
+        TreeNode root1 = TreeNode.stringToTreeNode(line1);
+        TreeNode root2 = TreeNode.stringToTreeNode(line2);
+        S1305 run = new S1305();
+        List<Integer> result = run.getAllElements(root1, root2);
         print(result);
     }
 

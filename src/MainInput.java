@@ -533,6 +533,9 @@ public class MainInput {
             case 590:
                 run590();
                 break;
+            case 591:
+                run591();
+                break;
             case 594:
                 run594();
                 break;
@@ -2300,6 +2303,13 @@ public class MainInput {
         S590 run = new S590();
         NaryTreeNode root = NaryTreeNode.stringToTreeNode(line);
         List<Integer> result = run.postorder(root);
+        print(result);
+    }
+
+    static void run591() {
+        String code = "<DIV>This is the first line <![CDATA[<div>]]></DIV>";
+        S591 run = new S591();
+        boolean result = run.isValid(code);
         print(result);
     }
 

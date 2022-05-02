@@ -183,6 +183,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #587    | 安装栅栏                                   | 困难 | 2022-04-23 | [力扣][P587]    | 本题有参考官方Java题解代码<br>[【安装栅栏】][S587]           |
 | #589    | N 叉树的前序遍历                           | 简单 | 2022-03-10 | [力扣][P589]    |                                                              |
 | #590    | N 叉树的后序遍历                           | 简单 | 2022-03-12 | [力扣][P590]    |                                                              |
+| #591    | 标签验证器                                 | 困难 | 2022-05-02 | [力扣][P591]    | 本题有参考官方Java题解代码<br>[【标签验证器】][S591]         |
 | #594    | 最长和谐子序列                             | 简单 | 2021-11-20 | [力扣][P594]    |                                                              |
 | #598    | 范围求和 II                                | 简单 | 2021-11-07 | [力扣][P598]    |                                                              |
 | #599    | 两个列表的最小索引总和                     | 简单 | 2022-03-14 | [力扣][P599]    |                                                              |
@@ -675,6 +676,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P590]:https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/
 
+[P591]:https://leetcode-cn.com/problems/tag-validator/
+
 [P594]:https://leetcode-cn.com/problems/longest-harmonious-subsequence/
 
 [P598]:https://leetcode-cn.com/problems/range-addition-ii/
@@ -1016,6 +1019,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S583]:https://leetcode-cn.com/problems/delete-operation-for-two-strings/solution/liang-ge-zi-fu-chuan-de-shan-chu-cao-zuo-14uw/
 
 [S587]:https://leetcode-cn.com/problems/erect-the-fence/solution/an-zhuang-zha-lan-by-leetcode-solution-75s3/
+
+[S591]:https://leetcode-cn.com/problems/tag-validator/solution/biao-qian-yan-zheng-qi-by-leetcode-solut-fecy/
 
 [S629]:https://leetcode-cn.com/problems/k-inverse-pairs-array/solution/kge-ni-xu-dui-shu-zu-by-leetcode-solutio-0hkr/
 

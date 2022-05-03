@@ -728,6 +728,9 @@ public class MainInput {
             case 917:
                 run917();
                 break;
+            case 937:
+                run937();
+                break;
             case 954:
                 run954();
                 break;
@@ -2789,6 +2792,13 @@ public class MainInput {
         String s = "ab-cd";
         S917 run = new S917();
         String result = run.reverseOnlyLetters(s);
+        print(result);
+    }
+
+    static void run937() {
+        String[] logs = {"dig1 8 1 5 1", "let1 art can", "dig2 3 6", "let2 own kit dig", "let3 art zero"};
+        S937 run = new S937();
+        String[] result = run.reorderLogFiles(logs);
         print(result);
     }
 

@@ -896,6 +896,9 @@ public class MainInput {
             case 1816:
                 run1816();
                 break;
+            case 1823:
+                run1823();
+                break;
             case 1894:
                 run1894();
                 break;
@@ -3210,6 +3213,13 @@ public class MainInput {
         int k = 4;
         S1816 run = new S1816();
         String result = run.truncateSentence(s, k);
+        print(result);
+    }
+
+    static void run1823() {
+        int n = 5, k = 2;
+        S1823 run = new S1823();
+        int result = run.findTheWinner(n, k);
         print(result);
     }
 

@@ -304,6 +304,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1765   | 地图中的最高点                             | 中等 | 2022-01-29 | [力扣][P1765]   |                                                              |
 | #1791   | 找出星型图的中心节点                       | 简单 | 2022-02-18 | [力扣][P1791]   |                                                              |
 | #1816   | 截断句子                                   | 简单 | 2021-12-06 | [力扣][P1816]   |                                                              |
+| #1823   | 找出游戏的获胜者                           | 中等 | 2022-05-04 | [力扣][P1823]   |                                                              |
 | #1894   | 找到需要补充粉笔的学生编号                 | 中等 | 2021-09-10 | [力扣][P1894]   |                                                              |
 | #1984   | 学生分数的最小差值                         | 简单 | 2022-02-11 | [力扣][P1984]   |                                                              |
 | #1994   | 好子集的数目                               | 困难 | 2022-02-22 | [力扣][P1994]   | 本题有参考官方Java题解代码<br>[【好子集的数目】][S1994]      |
@@ -918,6 +919,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1791]:https://leetcode-cn.com/problems/find-center-of-star-graph/
 
 [P1816]:https://leetcode-cn.com/problems/truncate-sentence/
+
+[P1823]:https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/
 
 [P1894]:https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/
 

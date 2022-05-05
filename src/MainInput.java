@@ -608,6 +608,9 @@ public class MainInput {
             case 709:
                 run709();
                 break;
+            case 713:
+                run713();
+                break;
             case 717:
                 run717();
                 break;
@@ -2496,6 +2499,14 @@ public class MainInput {
         String s = "Hello";
         S709 run = new S709();
         String result = run.toLowerCase(s);
+        print(result);
+    }
+
+    static void run713() {
+        int[] nums = {10, 5, 2, 6};
+        int k = 100;
+        S713 run = new S713();
+        int result = run.numSubarrayProductLessThanK(nums, k);
         print(result);
     }
 

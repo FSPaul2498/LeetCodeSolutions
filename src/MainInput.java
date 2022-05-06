@@ -731,6 +731,9 @@ public class MainInput {
             case 917:
                 run917();
                 break;
+            case 933:
+                run933();
+                break;
             case 937:
                 run937();
                 break;
@@ -2807,6 +2810,14 @@ public class MainInput {
         S917 run = new S917();
         String result = run.reverseOnlyLetters(s);
         print(result);
+    }
+
+    static void run933() {
+        RecentCounter run = new RecentCounter();
+        print(run.ping(1));
+        print(run.ping(100));
+        print(run.ping(3001));
+        print(run.ping(3002));
     }
 
     static void run937() {

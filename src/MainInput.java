@@ -380,6 +380,9 @@ public class MainInput {
             case 432:
                 run432();
                 break;
+            case 433:
+                run433();
+                break;
             case 434:
                 run434();
                 break;
@@ -1939,6 +1942,14 @@ public class MainInput {
         run.inc("leet");
         print(run.getMaxKey());
         print(run.getMinKey());
+    }
+
+    static void run433() {
+        String start = "AACCGGTT", end = "AACCGGTA";
+        String[] bank = {"AACCGGTA"};
+        S433 run = new S433();
+        int result = run.minMutation(start, end, bank);
+        print(result);
     }
 
     static void run434() {

@@ -138,6 +138,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #438    | 找到字符串中所有字母异位词                 | 中等 | 2021-11-28 | [力扣][P438]    |                                                              |
 | #440    | 字典序的第K小数字                          | 困难 | 2022-03-23 | [力扣][P440]    | 本题有参考官方Java题解代码<br>[【字典序的第K小数字】][S440]  |
 | #441    | 排列硬币                                   | 简单 | 2021-10-10 | [力扣][P441]    |                                                              |
+| #442    | 数组中重复的数据                           | 中等 | 2022-05-08 | [力扣][P442]    |                                                              |
 | #443    | 压缩字符串                                 | 中等 | 2021-08-21 | [力扣][P443]    |                                                              |
 | #446    | 等差数列划分 II - 子序列                   | 困难 | 2021-08-11 | [力扣][P446]    | 本题有参考官方Java题解代码<br>[【等差数列划分 II - 子序列】][S446] |
 | #447    | 回旋镖的数量                               | 中等 | 2021-09-13 | [力扣][P447]    |                                                              |
@@ -590,6 +591,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P440]:https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/
 
 [P441]:https://leetcode-cn.com/problems/arranging-coins/
+
+[P442]:https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/
 
 [P443]:https://leetcode-cn.com/problems/string-compression/
 

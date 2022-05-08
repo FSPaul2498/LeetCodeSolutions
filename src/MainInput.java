@@ -398,6 +398,9 @@ public class MainInput {
             case 441:
                 run441();
                 break;
+            case 442:
+                run442();
+                break;
             case 443:
                 run443();
                 break;
@@ -1986,6 +1989,13 @@ public class MainInput {
         int n = 5;
         S441 run = new S441();
         int result = run.arrangeCoins(n);
+        print(result);
+    }
+
+    static void run442() {
+        int[] nums = {4, 3, 2, 7, 8, 2, 3, 1};
+        S442 run = new S442();
+        List<Integer> result = run.findDuplicates(nums);
         print(result);
     }
 

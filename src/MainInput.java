@@ -743,6 +743,9 @@ public class MainInput {
             case 937:
                 run937();
                 break;
+            case 942:
+                run942();
+                break;
             case 954:
                 run954();
                 break;
@@ -2845,6 +2848,13 @@ public class MainInput {
         String[] logs = {"dig1 8 1 5 1", "let1 art can", "dig2 3 6", "let2 own kit dig", "let3 art zero"};
         S937 run = new S937();
         String[] result = run.reorderLogFiles(logs);
+        print(result);
+    }
+
+    static void run942() {
+        String s = "IDID";
+        S942 run = new S942();
+        int[] result = run.diStringMatch(s);
         print(result);
     }
 

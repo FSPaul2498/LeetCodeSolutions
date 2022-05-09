@@ -338,762 +338,762 @@ which I have solved and submitted the solution to LeetCode CN.
 | #JZII69 | 山峰数组的顶部                             | 简单 | 2021-10-14 | [力扣][PJZII69] |                                                              |
 | #MS1714 | 最小K个数                                  | 中等 | 2021-09-03 | [力扣][PMS1714] |                                                              |
 
-[P1]:https://leetcode-cn.com/problems/two-sum/
+[P1]:https://leetcode.cn/problems/two-sum/
 
-[P2]:https://leetcode-cn.com/problems/add-two-numbers/
+[P2]:https://leetcode.cn/problems/add-two-numbers/
 
-[P3]:https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/
+[P3]:https://leetcode.cn/problems/longest-substring-without-repeating-characters/
 
-[P4]:https://leetcode-cn.com/problems/median-of-two-sorted-arrays/
+[P4]:https://leetcode.cn/problems/median-of-two-sorted-arrays/
 
-[P5]:https://leetcode-cn.com/problems/longest-palindromic-substring/
+[P5]:https://leetcode.cn/problems/longest-palindromic-substring/
 
-[P6]:https://leetcode-cn.com/problems/zigzag-conversion/
+[P6]:https://leetcode.cn/problems/zigzag-conversion/
 
-[P7]:https://leetcode-cn.com/problems/reverse-integer/
+[P7]:https://leetcode.cn/problems/reverse-integer/
 
-[P8]:https://leetcode-cn.com/problems/string-to-integer-atoi/
+[P8]:https://leetcode.cn/problems/string-to-integer-atoi/
 
-[P9]:https://leetcode-cn.com/problems/palindrome-number/
+[P9]:https://leetcode.cn/problems/palindrome-number/
 
-[P10]:https://leetcode-cn.com/problems/regular-expression-matching/
+[P10]:https://leetcode.cn/problems/regular-expression-matching/
 
-[P11]:https://leetcode-cn.com/problems/container-with-most-water/
+[P11]:https://leetcode.cn/problems/container-with-most-water/
 
-[P12]:https://leetcode-cn.com/problems/integer-to-roman/
+[P12]:https://leetcode.cn/problems/integer-to-roman/
 
-[P13]:https://leetcode-cn.com/problems/roman-to-integer/
+[P13]:https://leetcode.cn/problems/roman-to-integer/
 
-[P14]:https://leetcode-cn.com/problems/longest-common-prefix/
+[P14]:https://leetcode.cn/problems/longest-common-prefix/
 
-[P15]:https://leetcode-cn.com/problems/3sum/
+[P15]:https://leetcode.cn/problems/3sum/
 
-[P16]:https://leetcode-cn.com/problems/3sum-closest/
+[P16]:https://leetcode.cn/problems/3sum-closest/
 
-[P17]:https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/
+[P17]:https://leetcode.cn/problems/letter-combinations-of-a-phone-number/
 
-[P18]:https://leetcode-cn.com/problems/4sum/
+[P18]:https://leetcode.cn/problems/4sum/
 
-[P19]:https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
+[P19]:https://leetcode.cn/problems/remove-nth-node-from-end-of-list/
 
-[P20]:https://leetcode-cn.com/problems/valid-parentheses/
+[P20]:https://leetcode.cn/problems/valid-parentheses/
 
-[P21]:https://leetcode-cn.com/problems/merge-two-sorted-lists/
+[P21]:https://leetcode.cn/problems/merge-two-sorted-lists/
 
-[P22]:https://leetcode-cn.com/problems/generate-parentheses/
+[P22]:https://leetcode.cn/problems/generate-parentheses/
 
-[P23]:https://leetcode-cn.com/problems/merge-k-sorted-lists/
+[P23]:https://leetcode.cn/problems/merge-k-sorted-lists/
 
-[P24]:https://leetcode-cn.com/problems/swap-nodes-in-pairs/
+[P24]:https://leetcode.cn/problems/swap-nodes-in-pairs/
 
-[P25]:https://leetcode-cn.com/problems/reverse-nodes-in-k-group/
+[P25]:https://leetcode.cn/problems/reverse-nodes-in-k-group/
 
-[P26]:https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/
+[P26]:https://leetcode.cn/problems/remove-duplicates-from-sorted-array/
 
-[P27]:https://leetcode-cn.com/problems/remove-element/
+[P27]:https://leetcode.cn/problems/remove-element/
 
-[P28]:https://leetcode-cn.com/problems/implement-strstr/
+[P28]:https://leetcode.cn/problems/implement-strstr/
 
-[P29]:https://leetcode-cn.com/problems/divide-two-integers/
+[P29]:https://leetcode.cn/problems/divide-two-integers/
 
-[P30]:https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/
+[P30]:https://leetcode.cn/problems/substring-with-concatenation-of-all-words/
 
-[P31]:https://leetcode-cn.com/problems/next-permutation/
+[P31]:https://leetcode.cn/problems/next-permutation/
 
-[P32]:https://leetcode-cn.com/problems/longest-valid-parentheses/
+[P32]:https://leetcode.cn/problems/longest-valid-parentheses/
 
-[P33]:https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
+[P33]:https://leetcode.cn/problems/search-in-rotated-sorted-array/
 
-[P34]:https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+[P34]:https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/
 
-[P35]:https://leetcode-cn.com/problems/search-insert-position/
+[P35]:https://leetcode.cn/problems/search-insert-position/
 
-[P36]:https://leetcode-cn.com/problems/valid-sudoku/
+[P36]:https://leetcode.cn/problems/valid-sudoku/
 
-[P37]:https://leetcode-cn.com/problems/sudoku-solver/
+[P37]:https://leetcode.cn/problems/sudoku-solver/
 
-[P38]:https://leetcode-cn.com/problems/count-and-say/
+[P38]:https://leetcode.cn/problems/count-and-say/
 
-[P39]:https://leetcode-cn.com/problems/combination-sum/
+[P39]:https://leetcode.cn/problems/combination-sum/
 
-[P40]:https://leetcode-cn.com/problems/combination-sum-ii/
+[P40]:https://leetcode.cn/problems/combination-sum-ii/
 
-[P41]:https://leetcode-cn.com/problems/first-missing-positive/
+[P41]:https://leetcode.cn/problems/first-missing-positive/
 
-[P42]:https://leetcode-cn.com/problems/trapping-rain-water/
+[P42]:https://leetcode.cn/problems/trapping-rain-water/
 
-[P43]:https://leetcode-cn.com/problems/multiply-strings/
+[P43]:https://leetcode.cn/problems/multiply-strings/
 
-[P44]:https://leetcode-cn.com/problems/wildcard-matching/
+[P44]:https://leetcode.cn/problems/wildcard-matching/
 
-[P45]:https://leetcode-cn.com/problems/jump-game-ii/
+[P45]:https://leetcode.cn/problems/jump-game-ii/
 
-[P46]:https://leetcode-cn.com/problems/permutations/
+[P46]:https://leetcode.cn/problems/permutations/
 
-[P47]:https://leetcode-cn.com/problems/permutations-ii/
+[P47]:https://leetcode.cn/problems/permutations-ii/
 
-[P58]:https://leetcode-cn.com/problems/length-of-last-word/
+[P58]:https://leetcode.cn/problems/length-of-last-word/
 
-[P66]:https://leetcode-cn.com/problems/plus-one/
+[P66]:https://leetcode.cn/problems/plus-one/
 
-[P68]:https://leetcode-cn.com/problems/text-justification/
+[P68]:https://leetcode.cn/problems/text-justification/
 
-[P71]:https://leetcode-cn.com/problems/simplify-path/
+[P71]:https://leetcode.cn/problems/simplify-path/
 
-[P89]:https://leetcode-cn.com/problems/gray-code/
+[P89]:https://leetcode.cn/problems/gray-code/
 
-[P162]:https://leetcode-cn.com/problems/find-peak-element/
+[P162]:https://leetcode.cn/problems/find-peak-element/
 
-[P165]:https://leetcode-cn.com/problems/compare-version-numbers/
+[P165]:https://leetcode.cn/problems/compare-version-numbers/
 
-[P166]:https://leetcode-cn.com/problems/fraction-to-recurring-decimal/
+[P166]:https://leetcode.cn/problems/fraction-to-recurring-decimal/
 
-[P172]:https://leetcode-cn.com/problems/factorial-trailing-zeroes/
+[P172]:https://leetcode.cn/problems/factorial-trailing-zeroes/
 
-[P187]:https://leetcode-cn.com/problems/repeated-dna-sequences/
+[P187]:https://leetcode.cn/problems/repeated-dna-sequences/
 
-[P206]:https://leetcode-cn.com/problems/reverse-linked-list/
+[P206]:https://leetcode.cn/problems/reverse-linked-list/
 
-[P211]:https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/
+[P211]:https://leetcode.cn/problems/design-add-and-search-words-data-structure/
 
-[P212]:https://leetcode-cn.com/problems/word-search-ii/
+[P212]:https://leetcode.cn/problems/word-search-ii/
 
-[P219]:https://leetcode-cn.com/problems/contains-duplicate-ii/
+[P219]:https://leetcode.cn/problems/contains-duplicate-ii/
 
-[P223]:https://leetcode-cn.com/problems/rectangle-area/
+[P223]:https://leetcode.cn/problems/rectangle-area/
 
-[P229]:https://leetcode-cn.com/problems/majority-element-ii/
+[P229]:https://leetcode.cn/problems/majority-element-ii/
 
-[P230]:https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/
+[P230]:https://leetcode.cn/problems/kth-smallest-element-in-a-bst/
 
-[P233]:https://leetcode-cn.com/problems/number-of-digit-one/
+[P233]:https://leetcode.cn/problems/number-of-digit-one/
 
-[P237]:https://leetcode-cn.com/problems/delete-node-in-a-linked-list/
+[P237]:https://leetcode.cn/problems/delete-node-in-a-linked-list/
 
-[P240]:https://leetcode-cn.com/problems/search-a-2d-matrix-ii/
+[P240]:https://leetcode.cn/problems/search-a-2d-matrix-ii/
 
-[P258]:https://leetcode-cn.com/problems/add-digits/
+[P258]:https://leetcode.cn/problems/add-digits/
 
-[P260]:https://leetcode-cn.com/problems/single-number-iii/
+[P260]:https://leetcode.cn/problems/single-number-iii/
 
-[P268]:https://leetcode-cn.com/problems/missing-number/
+[P268]:https://leetcode.cn/problems/missing-number/
 
-[P273]:https://leetcode-cn.com/problems/integer-to-english-words/
+[P273]:https://leetcode.cn/problems/integer-to-english-words/
 
-[P282]:https://leetcode-cn.com/problems/expression-add-operators/
+[P282]:https://leetcode.cn/problems/expression-add-operators/
 
-[P284]:https://leetcode-cn.com/problems/peeking-iterator/
+[P284]:https://leetcode.cn/problems/peeking-iterator/
 
-[P292]:https://leetcode-cn.com/problems/nim-game/
+[P292]:https://leetcode.cn/problems/nim-game/
 
-[P295]:https://leetcode-cn.com/problems/find-median-from-data-stream/
+[P295]:https://leetcode.cn/problems/find-median-from-data-stream/
 
-[P299]:https://leetcode-cn.com/problems/bulls-and-cows/
+[P299]:https://leetcode.cn/problems/bulls-and-cows/
 
-[P301]:https://leetcode-cn.com/problems/remove-invalid-parentheses/
+[P301]:https://leetcode.cn/problems/remove-invalid-parentheses/
 
-[P306]:https://leetcode-cn.com/problems/additive-number/
+[P306]:https://leetcode.cn/problems/additive-number/
 
-[P307]:https://leetcode-cn.com/problems/range-sum-query-mutable/
+[P307]:https://leetcode.cn/problems/range-sum-query-mutable/
 
-[P310]:https://leetcode-cn.com/problems/minimum-height-trees/
+[P310]:https://leetcode.cn/problems/minimum-height-trees/
 
-[P313]:https://leetcode-cn.com/problems/super-ugly-number/
+[P313]:https://leetcode.cn/problems/super-ugly-number/
 
-[P318]:https://leetcode-cn.com/problems/maximum-product-of-word-lengths/
+[P318]:https://leetcode.cn/problems/maximum-product-of-word-lengths/
 
-[P319]:https://leetcode-cn.com/problems/bulb-switcher/
+[P319]:https://leetcode.cn/problems/bulb-switcher/
 
-[P326]:https://leetcode-cn.com/problems/power-of-three/
+[P326]:https://leetcode.cn/problems/power-of-three/
 
-[P334]:https://leetcode-cn.com/problems/increasing-triplet-subsequence/
+[P334]:https://leetcode.cn/problems/increasing-triplet-subsequence/
 
-[P335]:https://leetcode-cn.com/problems/self-crossing/
+[P335]:https://leetcode.cn/problems/self-crossing/
 
-[P345]:https://leetcode-cn.com/problems/reverse-vowels-of-a-string/
+[P345]:https://leetcode.cn/problems/reverse-vowels-of-a-string/
 
-[P352]:https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/
+[P352]:https://leetcode.cn/problems/data-stream-as-disjoint-intervals/
 
-[P357]:https://leetcode-cn.com/problems/count-numbers-with-unique-digits/
+[P357]:https://leetcode.cn/problems/count-numbers-with-unique-digits/
 
-[P367]:https://leetcode-cn.com/problems/valid-perfect-square/
+[P367]:https://leetcode.cn/problems/valid-perfect-square/
 
-[P371]:https://leetcode-cn.com/problems/sum-of-two-integers/
+[P371]:https://leetcode.cn/problems/sum-of-two-integers/
 
-[P372]:https://leetcode-cn.com/problems/super-pow/
+[P372]:https://leetcode.cn/problems/super-pow/
 
-[P373]:https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/
+[P373]:https://leetcode.cn/problems/find-k-pairs-with-smallest-sums/
 
-[P375]:https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/
+[P375]:https://leetcode.cn/problems/guess-number-higher-or-lower-ii/
 
-[P380]:https://leetcode-cn.com/problems/insert-delete-getrandom-o1/
+[P380]:https://leetcode.cn/problems/insert-delete-getrandom-o1/
 
-[P382]:https://leetcode-cn.com/problems/linked-list-random-node/
+[P382]:https://leetcode.cn/problems/linked-list-random-node/
 
-[P383]:https://leetcode-cn.com/problems/ransom-note/
+[P383]:https://leetcode.cn/problems/ransom-note/
 
-[P384]:https://leetcode-cn.com/problems/shuffle-an-array/
+[P384]:https://leetcode.cn/problems/shuffle-an-array/
 
-[P385]:https://leetcode-cn.com/problems/mini-parser/
+[P385]:https://leetcode.cn/problems/mini-parser/
 
-[P386]:https://leetcode-cn.com/problems/lexicographical-numbers/
+[P386]:https://leetcode.cn/problems/lexicographical-numbers/
 
-[P388]:https://leetcode-cn.com/problems/longest-absolute-file-path/
+[P388]:https://leetcode.cn/problems/longest-absolute-file-path/
 
-[P390]:https://leetcode-cn.com/problems/elimination-game/
+[P390]:https://leetcode.cn/problems/elimination-game/
 
-[P391]:https://leetcode-cn.com/problems/perfect-rectangle/
+[P391]:https://leetcode.cn/problems/perfect-rectangle/
 
-[P393]:https://leetcode-cn.com/problems/utf-8-validation/
+[P393]:https://leetcode.cn/problems/utf-8-validation/
 
-[P396]:https://leetcode-cn.com/problems/rotate-function/
+[P396]:https://leetcode.cn/problems/rotate-function/
 
-[P397]:https://leetcode-cn.com/problems/integer-replacement/
+[P397]:https://leetcode.cn/problems/integer-replacement/
 
-[P398]:https://leetcode-cn.com/problems/random-pick-index/
+[P398]:https://leetcode.cn/problems/random-pick-index/
 
-[P400]:https://leetcode-cn.com/problems/nth-digit/
+[P400]:https://leetcode.cn/problems/nth-digit/
 
-[P405]:https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/
+[P405]:https://leetcode.cn/problems/convert-a-number-to-hexadecimal/
 
-[P407]:https://leetcode-cn.com/problems/trapping-rain-water-ii/
+[P407]:https://leetcode.cn/problems/trapping-rain-water-ii/
 
-[P412]:https://leetcode-cn.com/problems/fizz-buzz/
+[P412]:https://leetcode.cn/problems/fizz-buzz/
 
-[P413]:https://leetcode-cn.com/problems/arithmetic-slices/
+[P413]:https://leetcode.cn/problems/arithmetic-slices/
 
-[P414]:https://leetcode-cn.com/problems/third-maximum-number/
+[P414]:https://leetcode.cn/problems/third-maximum-number/
 
-[P417]:https://leetcode-cn.com/problems/pacific-atlantic-water-flow/
+[P417]:https://leetcode.cn/problems/pacific-atlantic-water-flow/
 
-[P419]:https://leetcode-cn.com/problems/battleships-in-a-board/
+[P419]:https://leetcode.cn/problems/battleships-in-a-board/
 
-[P420]:https://leetcode-cn.com/problems/strong-password-checker/
+[P420]:https://leetcode.cn/problems/strong-password-checker/
 
-[P423]:https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/
+[P423]:https://leetcode.cn/problems/reconstruct-original-digits-from-english/
 
-[P427]:https://leetcode-cn.com/problems/construct-quad-tree/
+[P427]:https://leetcode.cn/problems/construct-quad-tree/
 
-[P429]:https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/
+[P429]:https://leetcode.cn/problems/n-ary-tree-level-order-traversal/
 
-[P430]:https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list/
+[P430]:https://leetcode.cn/problems/flatten-a-multilevel-doubly-linked-list/
 
-[P432]:https://leetcode-cn.com/problems/all-oone-data-structure/
+[P432]:https://leetcode.cn/problems/all-oone-data-structure/
 
-[P433]:https://leetcode-cn.com/problems/minimum-genetic-mutation/
+[P433]:https://leetcode.cn/problems/minimum-genetic-mutation/
 
-[P434]:https://leetcode-cn.com/problems/number-of-segments-in-a-string/
+[P434]:https://leetcode.cn/problems/number-of-segments-in-a-string/
 
-[P437]:https://leetcode-cn.com/problems/path-sum-iii/
+[P437]:https://leetcode.cn/problems/path-sum-iii/
 
-[P438]:https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/
+[P438]:https://leetcode.cn/problems/find-all-anagrams-in-a-string/
 
-[P440]:https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/
+[P440]:https://leetcode.cn/problems/k-th-smallest-in-lexicographical-order/
 
-[P441]:https://leetcode-cn.com/problems/arranging-coins/
+[P441]:https://leetcode.cn/problems/arranging-coins/
 
-[P442]:https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/
+[P442]:https://leetcode.cn/problems/find-all-duplicates-in-an-array/
 
-[P443]:https://leetcode-cn.com/problems/string-compression/
+[P443]:https://leetcode.cn/problems/string-compression/
 
-[P446]:https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/
+[P446]:https://leetcode.cn/problems/arithmetic-slices-ii-subsequence/
 
-[P447]:https://leetcode-cn.com/problems/number-of-boomerangs/
+[P447]:https://leetcode.cn/problems/number-of-boomerangs/
 
-[P453]:https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/
+[P453]:https://leetcode.cn/problems/minimum-moves-to-equal-array-elements/
 
-[P457]:https://leetcode-cn.com/problems/circular-array-loop/
+[P457]:https://leetcode.cn/problems/circular-array-loop/
 
-[P458]:https://leetcode-cn.com/problems/poor-pigs/
+[P458]:https://leetcode.cn/problems/poor-pigs/
 
-[P470]:https://leetcode-cn.com/problems/implement-rand10-using-rand7/
+[P470]:https://leetcode.cn/problems/implement-rand10-using-rand7/
 
-[P472]:https://leetcode-cn.com/problems/concatenated-words/
+[P472]:https://leetcode.cn/problems/concatenated-words/
 
-[P475]:https://leetcode-cn.com/problems/heaters/
+[P475]:https://leetcode.cn/problems/heaters/
 
-[P476]:https://leetcode-cn.com/problems/number-complement/
+[P476]:https://leetcode.cn/problems/number-complement/
 
-[P479]:https://leetcode-cn.com/problems/largest-palindrome-product/
+[P479]:https://leetcode.cn/problems/largest-palindrome-product/
 
-[P482]:https://leetcode-cn.com/problems/license-key-formatting/
+[P482]:https://leetcode.cn/problems/license-key-formatting/
 
-[P488]:https://leetcode-cn.com/problems/zuma-game/
+[P488]:https://leetcode.cn/problems/zuma-game/
 
-[P492]:https://leetcode-cn.com/problems/construct-the-rectangle/
+[P492]:https://leetcode.cn/problems/construct-the-rectangle/
 
-[P495]:https://leetcode-cn.com/problems/teemo-attacking/
+[P495]:https://leetcode.cn/problems/teemo-attacking/
 
-[P496]:https://leetcode-cn.com/problems/next-greater-element-i/
+[P496]:https://leetcode.cn/problems/next-greater-element-i/
 
-[P500]:https://leetcode-cn.com/problems/keyboard-row/
+[P500]:https://leetcode.cn/problems/keyboard-row/
 
-[P502]:https://leetcode-cn.com/problems/ipo/
+[P502]:https://leetcode.cn/problems/ipo/
 
-[P504]:https://leetcode-cn.com/problems/base-7/
+[P504]:https://leetcode.cn/problems/base-7/
 
-[P506]:https://leetcode-cn.com/problems/relative-ranks/
+[P506]:https://leetcode.cn/problems/relative-ranks/
 
-[P507]:https://leetcode-cn.com/problems/perfect-number/
+[P507]:https://leetcode.cn/problems/perfect-number/
 
-[P516]:https://leetcode-cn.com/problems/longest-palindromic-subsequence/
+[P516]:https://leetcode.cn/problems/longest-palindromic-subsequence/
 
-[P517]:https://leetcode-cn.com/problems/super-washing-machines/
+[P517]:https://leetcode.cn/problems/super-washing-machines/
 
-[P519]:https://leetcode-cn.com/problems/random-flip-matrix/
+[P519]:https://leetcode.cn/problems/random-flip-matrix/
 
-[P520]:https://leetcode-cn.com/problems/detect-capital/
+[P520]:https://leetcode.cn/problems/detect-capital/
 
-[P521]:https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/
+[P521]:https://leetcode.cn/problems/longest-uncommon-subsequence-i/
 
-[P524]:https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/
+[P524]:https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting/
 
-[P526]:https://leetcode-cn.com/problems/beautiful-arrangement/
+[P526]:https://leetcode.cn/problems/beautiful-arrangement/
 
-[P528]: https://leetcode-cn.com/problems/random-pick-with-weight/
+[P528]: https://leetcode.cn/problems/random-pick-with-weight/
 
-[P537]:https://leetcode-cn.com/problems/complex-number-multiplication/
+[P537]:https://leetcode.cn/problems/complex-number-multiplication/
 
-[P539]:https://leetcode-cn.com/problems/minimum-time-difference/
+[P539]:https://leetcode.cn/problems/minimum-time-difference/
 
-[P540]:https://leetcode-cn.com/problems/single-element-in-a-sorted-array/
+[P540]:https://leetcode.cn/problems/single-element-in-a-sorted-array/
 
-[P541]:https://leetcode-cn.com/problems/reverse-string-ii/
+[P541]:https://leetcode.cn/problems/reverse-string-ii/
 
-[P551]:https://leetcode-cn.com/problems/student-attendance-record-i/
+[P551]:https://leetcode.cn/problems/student-attendance-record-i/
 
-[P552]:https://leetcode-cn.com/problems/student-attendance-record-ii/
+[P552]:https://leetcode.cn/problems/student-attendance-record-ii/
 
-[P553]:https://leetcode-cn.com/problems/optimal-division/
+[P553]:https://leetcode.cn/problems/optimal-division/
 
-[P559]:https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/
+[P559]:https://leetcode.cn/problems/maximum-depth-of-n-ary-tree/
 
-[P563]:https://leetcode-cn.com/problems/binary-tree-tilt/
+[P563]:https://leetcode.cn/problems/binary-tree-tilt/
 
-[P564]:https://leetcode-cn.com/problems/find-the-closest-palindrome/
+[P564]:https://leetcode.cn/problems/find-the-closest-palindrome/
 
-[P575]:https://leetcode-cn.com/problems/distribute-candies/
+[P575]:https://leetcode.cn/problems/distribute-candies/
 
-[P576]:https://leetcode-cn.com/problems/out-of-boundary-paths/
+[P576]:https://leetcode.cn/problems/out-of-boundary-paths/
 
-[P581]:https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/
+[P581]:https://leetcode.cn/problems/shortest-unsorted-continuous-subarray/
 
-[P583]:https://leetcode-cn.com/problems/delete-operation-for-two-strings/
+[P583]:https://leetcode.cn/problems/delete-operation-for-two-strings/
 
-[P587]:https://leetcode-cn.com/problems/erect-the-fence/
+[P587]:https://leetcode.cn/problems/erect-the-fence/
 
-[P589]:https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/
+[P589]:https://leetcode.cn/problems/n-ary-tree-preorder-traversal/
 
-[P590]:https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/
+[P590]:https://leetcode.cn/problems/n-ary-tree-postorder-traversal/
 
-[P591]:https://leetcode-cn.com/problems/tag-validator/
+[P591]:https://leetcode.cn/problems/tag-validator/
 
-[P594]:https://leetcode-cn.com/problems/longest-harmonious-subsequence/
+[P594]:https://leetcode.cn/problems/longest-harmonious-subsequence/
 
-[P598]:https://leetcode-cn.com/problems/range-addition-ii/
+[P598]:https://leetcode.cn/problems/range-addition-ii/
 
-[P599]:https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/
+[P599]:https://leetcode.cn/problems/minimum-index-sum-of-two-lists/
 
-[P600]:https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/
+[P600]:https://leetcode.cn/problems/non-negative-integers-without-consecutive-ones/
 
-[P606]:https://leetcode-cn.com/problems/construct-string-from-binary-tree/
+[P606]:https://leetcode.cn/problems/construct-string-from-binary-tree/
 
-[P611]:https://leetcode-cn.com/problems/valid-triangle-number/
+[P611]:https://leetcode.cn/problems/valid-triangle-number/
 
-[P629]:https://leetcode-cn.com/problems/k-inverse-pairs-array/
+[P629]:https://leetcode.cn/problems/k-inverse-pairs-array/
 
-[P630]:https://leetcode-cn.com/problems/course-schedule-iii/
+[P630]:https://leetcode.cn/problems/course-schedule-iii/
 
-[P638]:https://leetcode-cn.com/problems/shopping-offers/
+[P638]:https://leetcode.cn/problems/shopping-offers/
 
-[P639]:https://leetcode-cn.com/problems/decode-ways-ii/
+[P639]:https://leetcode.cn/problems/decode-ways-ii/
 
-[P650]:https://leetcode-cn.com/problems/2-keys-keyboard/
+[P650]:https://leetcode.cn/problems/2-keys-keyboard/
 
-[P653]:https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/
+[P653]:https://leetcode.cn/problems/two-sum-iv-input-is-a-bst/
 
-[P661]:https://leetcode-cn.com/problems/image-smoother/
+[P661]:https://leetcode.cn/problems/image-smoother/
 
-[P673]:https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/
+[P673]:https://leetcode.cn/problems/number-of-longest-increasing-subsequence/
 
-[P677]:https://leetcode-cn.com/problems/map-sum-pairs/
+[P677]:https://leetcode.cn/problems/map-sum-pairs/
 
-[P678]:https://leetcode-cn.com/problems/valid-parenthesis-string/
+[P678]:https://leetcode.cn/problems/valid-parenthesis-string/
 
-[P682]:https://leetcode-cn.com/problems/baseball-game/
+[P682]:https://leetcode.cn/problems/baseball-game/
 
-[P686]:https://leetcode-cn.com/problems/repeated-string-match/
+[P686]:https://leetcode.cn/problems/repeated-string-match/
 
-[P688]:https://leetcode-cn.com/problems/knight-probability-in-chessboard/
+[P688]:https://leetcode.cn/problems/knight-probability-in-chessboard/
 
-[P689]:https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+[P689]:https://leetcode.cn/problems/maximum-sum-of-3-non-overlapping-subarrays/
 
-[P693]:https://leetcode-cn.com/problems/binary-number-with-alternating-bits/
+[P693]:https://leetcode.cn/problems/binary-number-with-alternating-bits/
 
-[P700]:https://leetcode-cn.com/problems/search-in-a-binary-search-tree/
+[P700]:https://leetcode.cn/problems/search-in-a-binary-search-tree/
 
-[P704]:https://leetcode-cn.com/problems/binary-search/
+[P704]:https://leetcode.cn/problems/binary-search/
 
-[P709]:https://leetcode-cn.com/problems/to-lower-case/
+[P709]:https://leetcode.cn/problems/to-lower-case/
 
-[P713]:https://leetcode-cn.com/problems/subarray-product-less-than-k/
+[P713]:https://leetcode.cn/problems/subarray-product-less-than-k/
 
-[P717]:https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/
+[P717]:https://leetcode.cn/problems/1-bit-and-2-bit-characters/
 
-[P720]:https://leetcode-cn.com/problems/longest-word-in-dictionary/
+[P720]:https://leetcode.cn/problems/longest-word-in-dictionary/
 
-[P725]:https://leetcode-cn.com/problems/split-linked-list-in-parts/
+[P725]:https://leetcode.cn/problems/split-linked-list-in-parts/
 
-[P728]:https://leetcode-cn.com/problems/self-dividing-numbers/
+[P728]:https://leetcode.cn/problems/self-dividing-numbers/
 
-[P743]:https://leetcode-cn.com/problems/network-delay-time/
+[P743]:https://leetcode.cn/problems/network-delay-time/
 
-[P744]:https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/
+[P744]:https://leetcode.cn/problems/find-smallest-letter-greater-than-target/
 
-[P747]:https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/
+[P747]:https://leetcode.cn/problems/largest-number-at-least-twice-of-others/
 
-[P748]:https://leetcode-cn.com/problems/shortest-completing-word/
+[P748]:https://leetcode.cn/problems/shortest-completing-word/
 
-[P762]:https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/
+[P762]:https://leetcode.cn/problems/prime-number-of-set-bits-in-binary-representation/
 
-[P780]:https://leetcode-cn.com/problems/reaching-points/
+[P780]:https://leetcode.cn/problems/reaching-points/
 
-[P786]:https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/
+[P786]:https://leetcode.cn/problems/k-th-smallest-prime-fraction/
 
-[P787]:https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/
+[P787]:https://leetcode.cn/problems/cheapest-flights-within-k-stops/
 
-[P789]:https://leetcode-cn.com/problems/escape-the-ghosts/
+[P789]:https://leetcode.cn/problems/escape-the-ghosts/
 
-[P794]:https://leetcode-cn.com/problems/valid-tic-tac-toe-state/
+[P794]:https://leetcode.cn/problems/valid-tic-tac-toe-state/
 
-[P796]:https://leetcode-cn.com/problems/rotate-string/
+[P796]:https://leetcode.cn/problems/rotate-string/
 
-[P797]:https://leetcode-cn.com/problems/all-paths-from-source-to-target/
+[P797]:https://leetcode.cn/problems/all-paths-from-source-to-target/
 
-[P798]:https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/
+[P798]:https://leetcode.cn/problems/smallest-rotation-with-highest-score/
 
-[P802]:https://leetcode-cn.com/problems/find-eventual-safe-states/
+[P802]:https://leetcode.cn/problems/find-eventual-safe-states/
 
-[P804]:https://leetcode-cn.com/problems/unique-morse-code-words/
+[P804]:https://leetcode.cn/problems/unique-morse-code-words/
 
-[P806]:https://leetcode-cn.com/problems/number-of-lines-to-write-string/
+[P806]:https://leetcode.cn/problems/number-of-lines-to-write-string/
 
-[P807]:https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/
+[P807]:https://leetcode.cn/problems/max-increase-to-keep-city-skyline/
 
-[P819]:https://leetcode-cn.com/problems/most-common-word/
+[P819]:https://leetcode.cn/problems/most-common-word/
 
-[P821]:https://leetcode-cn.com/problems/shortest-distance-to-a-character/
+[P821]:https://leetcode.cn/problems/shortest-distance-to-a-character/
 
-[P824]:https://leetcode-cn.com/problems/goat-latin/
+[P824]:https://leetcode.cn/problems/goat-latin/
 
-[P825]:https://leetcode-cn.com/problems/friends-of-appropriate-ages/
+[P825]:https://leetcode.cn/problems/friends-of-appropriate-ages/
 
-[P838]:https://leetcode-cn.com/problems/push-dominoes/
+[P838]:https://leetcode.cn/problems/push-dominoes/
 
-[P846]:https://leetcode-cn.com/problems/hand-of-straights/
+[P846]:https://leetcode.cn/problems/hand-of-straights/
 
-[P847]:https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/
+[P847]:https://leetcode.cn/problems/shortest-path-visiting-all-nodes/
 
-[P851]:https://leetcode-cn.com/problems/loud-and-rich/
+[P851]:https://leetcode.cn/problems/loud-and-rich/
 
-[P859]:https://leetcode-cn.com/problems/buddy-strings/
+[P859]:https://leetcode.cn/problems/buddy-strings/
 
-[P868]:https://leetcode-cn.com/problems/binary-gap/
+[P868]:https://leetcode.cn/problems/binary-gap/
 
-[P869]:https://leetcode-cn.com/problems/reordered-power-of-2/
+[P869]:https://leetcode.cn/problems/reordered-power-of-2/
 
-[P881]:https://leetcode-cn.com/problems/boats-to-save-people/
+[P881]:https://leetcode.cn/problems/boats-to-save-people/
 
-[P883]:https://leetcode-cn.com/problems/projection-area-of-3d-shapes/
+[P883]:https://leetcode.cn/problems/projection-area-of-3d-shapes/
 
-[P884]:https://leetcode-cn.com/problems/uncommon-words-from-two-sentences/
+[P884]:https://leetcode.cn/problems/uncommon-words-from-two-sentences/
 
-[P905]:https://leetcode-cn.com/problems/sort-array-by-parity/
+[P905]:https://leetcode.cn/problems/sort-array-by-parity/
 
-[P908]:https://leetcode-cn.com/problems/smallest-range-i/
+[P908]:https://leetcode.cn/problems/smallest-range-i/
 
-[P911]:https://leetcode-cn.com/problems/online-election/
+[P911]:https://leetcode.cn/problems/online-election/
 
-[P913]:https://leetcode-cn.com/problems/cat-and-mouse/
+[P913]:https://leetcode.cn/problems/cat-and-mouse/
 
-[P917]:https://leetcode-cn.com/problems/reverse-only-letters/
+[P917]:https://leetcode.cn/problems/reverse-only-letters/
 
-[P933]:https://leetcode-cn.com/problems/number-of-recent-calls/
+[P933]:https://leetcode.cn/problems/number-of-recent-calls/
 
-[P937]:https://leetcode-cn.com/problems/reorder-data-in-log-files/
+[P937]:https://leetcode.cn/problems/reorder-data-in-log-files/
 
-[P954]:https://leetcode-cn.com/problems/array-of-doubled-pairs/
+[P954]:https://leetcode.cn/problems/array-of-doubled-pairs/
 
-[P969]:https://leetcode-cn.com/problems/pancake-sorting/
+[P969]:https://leetcode.cn/problems/pancake-sorting/
 
-[P997]:https://leetcode-cn.com/problems/find-the-town-judge/
+[P997]:https://leetcode.cn/problems/find-the-town-judge/
 
-[P1001]:https://leetcode-cn.com/problems/grid-illumination/
+[P1001]:https://leetcode.cn/problems/grid-illumination/
 
-[P1005]:https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/
+[P1005]:https://leetcode.cn/problems/maximize-sum-of-array-after-k-negations/
 
-[P1009]:https://leetcode-cn.com/problems/complement-of-base-10-integer/
+[P1009]:https://leetcode.cn/problems/complement-of-base-10-integer/
 
-[P1020]:https://leetcode-cn.com/problems/number-of-enclaves/
+[P1020]:https://leetcode.cn/problems/number-of-enclaves/
 
-[P1034]:https://leetcode-cn.com/problems/coloring-a-border/
+[P1034]:https://leetcode.cn/problems/coloring-a-border/
 
-[P1036]:https://leetcode-cn.com/problems/escape-a-large-maze/
+[P1036]:https://leetcode.cn/problems/escape-a-large-maze/
 
-[P1044]:https://leetcode-cn.com/problems/longest-duplicate-substring/
+[P1044]:https://leetcode.cn/problems/longest-duplicate-substring/
 
-[P1078]:https://leetcode-cn.com/problems/occurrences-after-bigram/
+[P1078]:https://leetcode.cn/problems/occurrences-after-bigram/
 
-[P1109]:https://leetcode-cn.com/problems/corporate-flight-bookings/
+[P1109]:https://leetcode.cn/problems/corporate-flight-bookings/
 
-[P1137]:https://leetcode-cn.com/problems/n-th-tribonacci-number/
+[P1137]:https://leetcode.cn/problems/n-th-tribonacci-number/
 
-[P1154]:https://leetcode-cn.com/problems/day-of-the-year/
+[P1154]:https://leetcode.cn/problems/day-of-the-year/
 
-[P1185]:https://leetcode-cn.com/problems/day-of-the-week/
+[P1185]:https://leetcode.cn/problems/day-of-the-week/
 
-[P1189]:https://leetcode-cn.com/problems/maximum-number-of-balloons/
+[P1189]:https://leetcode.cn/problems/maximum-number-of-balloons/
 
-[P1218]:https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference/
+[P1218]:https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/
 
-[P1219]:https://leetcode-cn.com/problems/path-with-maximum-gold/
+[P1219]:https://leetcode.cn/problems/path-with-maximum-gold/
 
-[P1220]:https://leetcode-cn.com/problems/count-vowels-permutation/
+[P1220]:https://leetcode.cn/problems/count-vowels-permutation/
 
-[P1221]:https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/
+[P1221]:https://leetcode.cn/problems/split-a-string-in-balanced-strings/
 
-[P1305]:https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees/
+[P1305]:https://leetcode.cn/problems/all-elements-in-two-binary-search-trees/
 
-[P1332]:https://leetcode-cn.com/problems/remove-palindromic-subsequences/
+[P1332]:https://leetcode.cn/problems/remove-palindromic-subsequences/
 
-[P1337]:https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix/
+[P1337]:https://leetcode.cn/problems/the-k-weakest-rows-in-a-matrix/
 
-[P1342]:https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+[P1342]:https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-to-zero/
 
-[P1345]:https://leetcode-cn.com/problems/jump-game-iv/
+[P1345]:https://leetcode.cn/problems/jump-game-iv/
 
-[P1380]:https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/
+[P1380]:https://leetcode.cn/problems/lucky-numbers-in-a-matrix/
 
-[P1405]:https://leetcode-cn.com/problems/longest-happy-string/
+[P1405]:https://leetcode.cn/problems/longest-happy-string/
 
-[P1414]:https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
+[P1414]:https://leetcode.cn/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
 
-[P1436]:https://leetcode-cn.com/problems/destination-city/
+[P1436]:https://leetcode.cn/problems/destination-city/
 
-[P1446]:https://leetcode-cn.com/problems/consecutive-characters/
+[P1446]:https://leetcode.cn/problems/consecutive-characters/
 
-[P1447]:https://leetcode-cn.com/problems/simplified-fractions/
+[P1447]:https://leetcode.cn/problems/simplified-fractions/
 
-[P1480]:https://leetcode-cn.com/problems/running-sum-of-1d-array/
+[P1480]:https://leetcode.cn/problems/running-sum-of-1d-array/
 
-[P1518]:https://leetcode-cn.com/problems/water-bottles/
+[P1518]:https://leetcode.cn/problems/water-bottles/
 
-[P1576]:https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
+[P1576]:https://leetcode.cn/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
 
-[P1583]:https://leetcode-cn.com/problems/count-unhappy-friends/
+[P1583]:https://leetcode.cn/problems/count-unhappy-friends/
 
-[P1588]:https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/
+[P1588]:https://leetcode.cn/problems/sum-of-all-odd-length-subarrays/
 
-[P1601]:https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/
+[P1601]:https://leetcode.cn/problems/maximum-number-of-achievable-transfer-requests/
 
-[P1606]:https://leetcode-cn.com/problems/find-servers-that-handled-most-number-of-requests/
+[P1606]:https://leetcode.cn/problems/find-servers-that-handled-most-number-of-requests/
 
-[P1609]:https://leetcode-cn.com/problems/even-odd-tree/
+[P1609]:https://leetcode.cn/problems/even-odd-tree/
 
-[P1610]:https://leetcode-cn.com/problems/maximum-number-of-visible-points/
+[P1610]:https://leetcode.cn/problems/maximum-number-of-visible-points/
 
-[P1614]:https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/
+[P1614]:https://leetcode.cn/problems/maximum-nesting-depth-of-the-parentheses/
 
-[P1629]:https://leetcode-cn.com/problems/slowest-key/
+[P1629]:https://leetcode.cn/problems/slowest-key/
 
-[P1646]:https://leetcode-cn.com/problems/get-maximum-in-generated-array/
+[P1646]:https://leetcode.cn/problems/get-maximum-in-generated-array/
 
-[P1672]:https://leetcode-cn.com/problems/richest-customer-wealth/
+[P1672]:https://leetcode.cn/problems/richest-customer-wealth/
 
-[P1688]:https://leetcode-cn.com/problems/count-of-matches-in-tournament/
+[P1688]:https://leetcode.cn/problems/count-of-matches-in-tournament/
 
-[P1705]:https://leetcode-cn.com/problems/maximum-number-of-eaten-apples/
+[P1705]:https://leetcode.cn/problems/maximum-number-of-eaten-apples/
 
-[P1706]:https://leetcode-cn.com/problems/where-will-the-ball-fall/
+[P1706]:https://leetcode.cn/problems/where-will-the-ball-fall/
 
-[P1716]:https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/
+[P1716]:https://leetcode.cn/problems/calculate-money-in-leetcode-bank/
 
-[P1719]:https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree/
+[P1719]:https://leetcode.cn/problems/number-of-ways-to-reconstruct-a-tree/
 
-[P1725]:https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/
+[P1725]:https://leetcode.cn/problems/number-of-rectangles-that-can-form-the-largest-square/
 
-[P1748]:https://leetcode-cn.com/problems/sum-of-unique-elements/
+[P1748]:https://leetcode.cn/problems/sum-of-unique-elements/
 
-[P1763]:https://leetcode-cn.com/problems/longest-nice-substring/
+[P1763]:https://leetcode.cn/problems/longest-nice-substring/
 
-[P1765]:https://leetcode-cn.com/problems/map-of-highest-peak/
+[P1765]:https://leetcode.cn/problems/map-of-highest-peak/
 
-[P1791]:https://leetcode-cn.com/problems/find-center-of-star-graph/
+[P1791]:https://leetcode.cn/problems/find-center-of-star-graph/
 
-[P1816]:https://leetcode-cn.com/problems/truncate-sentence/
+[P1816]:https://leetcode.cn/problems/truncate-sentence/
 
-[P1823]:https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/
+[P1823]:https://leetcode.cn/problems/find-the-winner-of-the-circular-game/
 
-[P1894]:https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/
+[P1894]:https://leetcode.cn/problems/find-the-student-that-will-replace-the-chalk/
 
-[P1984]:https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
+[P1984]:https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 
-[P1994]:https://leetcode-cn.com/problems/the-number-of-good-subsets/
+[P1994]:https://leetcode.cn/problems/the-number-of-good-subsets/
 
-[P1995]:https://leetcode-cn.com/problems/count-special-quadruplets/
+[P1995]:https://leetcode.cn/problems/count-special-quadruplets/
 
-[P1996]:https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game/
+[P1996]:https://leetcode.cn/problems/the-number-of-weak-characters-in-the-game/
 
-[P2000]:https://leetcode-cn.com/problems/reverse-prefix-of-word/
+[P2000]:https://leetcode.cn/problems/reverse-prefix-of-word/
 
-[P2006]:https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/
+[P2006]:https://leetcode.cn/problems/count-number-of-pairs-with-absolute-difference-k/
 
-[P2013]:https://leetcode-cn.com/problems/detect-squares/
+[P2013]:https://leetcode.cn/problems/detect-squares/
 
-[P2016]:https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/
+[P2016]:https://leetcode.cn/problems/maximum-difference-between-increasing-elements/
 
-[P2022]:https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/
+[P2022]:https://leetcode.cn/problems/convert-1d-array-into-2d-array/
 
-[P2024]:https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam/
+[P2024]:https://leetcode.cn/problems/maximize-the-confusion-of-an-exam/
 
-[P2028]:https://leetcode-cn.com/problems/find-missing-observations/
+[P2028]:https://leetcode.cn/problems/find-missing-observations/
 
-[P2029]:https://leetcode-cn.com/problems/stone-game-ix/
+[P2029]:https://leetcode.cn/problems/stone-game-ix/
 
-[P2034]:https://leetcode-cn.com/problems/stock-price-fluctuation/
+[P2034]:https://leetcode.cn/problems/stock-price-fluctuation/
 
-[P2038]:https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
+[P2038]:https://leetcode.cn/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
 
-[P2039]:https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/
+[P2039]:https://leetcode.cn/problems/the-time-when-the-network-becomes-idle/
 
-[P2043]:https://leetcode-cn.com/problems/simple-bank-system/
+[P2043]:https://leetcode.cn/problems/simple-bank-system/
 
-[P2044]:https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/
+[P2044]:https://leetcode.cn/problems/count-number-of-maximum-bitwise-or-subsets/
 
-[P2045]:https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/
+[P2045]:https://leetcode.cn/problems/second-minimum-time-to-reach-destination/
 
-[P2047]:https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence/
+[P2047]:https://leetcode.cn/problems/number-of-valid-words-in-a-sentence/
 
-[P2049]:https://leetcode-cn.com/problems/count-nodes-with-the-highest-score/
+[P2049]:https://leetcode.cn/problems/count-nodes-with-the-highest-score/
 
-[P2055]:https://leetcode-cn.com/problems/plates-between-candles/
+[P2055]:https://leetcode.cn/problems/plates-between-candles/
 
-[P2100]:https://leetcode-cn.com/problems/find-good-days-to-rob-the-bank/
+[P2100]:https://leetcode.cn/problems/find-good-days-to-rob-the-bank/
 
-[P2104]:https://leetcode-cn.com/problems/sum-of-subarray-ranges/
+[P2104]:https://leetcode.cn/problems/sum-of-subarray-ranges/
 
-[PJZ10]:https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/
+[PJZ10]:https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/
 
-[PJZ22]:https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
+[PJZ22]:https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
 
-[PJZII69]:https://leetcode-cn.com/problems/B1IidL/
+[PJZII69]:https://leetcode.cn/problems/B1IidL/
 
-[PMS1714]:https://leetcode-cn.com/problems/smallest-k-lcci/
+[PMS1714]:https://leetcode.cn/problems/smallest-k-lcci/
 
-[S10]:https://leetcode-cn.com/problems/regular-expression-matching/solution/cong-shi-bai-di-gui-dao-dong-tai-gui-hua-tncj/
+[S10]:https://leetcode.cn/problems/regular-expression-matching/solution/cong-shi-bai-di-gui-dao-dong-tai-gui-hua-tncj/
 
-[S28]:https://leetcode-cn.com/problems/implement-strstr/solution/shua-chuan-lc-shuang-bai-po-su-jie-fa-km-tb86/
+[S28]:https://leetcode.cn/problems/implement-strstr/solution/shua-chuan-lc-shuang-bai-po-su-jie-fa-km-tb86/
 
-[S29]:https://leetcode-cn.com/problems/divide-two-integers/solution/bu-shi-yong-longde-javajie-fa-by-fspaul-yca3/
+[S29]:https://leetcode.cn/problems/divide-two-integers/solution/bu-shi-yong-longde-javajie-fa-by-fspaul-yca3/
 
-[S44]:https://leetcode-cn.com/problems/wildcard-matching/solution/tong-pei-fu-pi-pei-by-leetcode-solution/
+[S44]:https://leetcode.cn/problems/wildcard-matching/solution/tong-pei-fu-pi-pei-by-leetcode-solution/
 
-[S211]:https://leetcode-cn.com/problems/design-add-and-search-words-data-structure/solution/gong-shui-san-xie-yi-ti-shuang-jie-er-we-un94/
+[S211]:https://leetcode.cn/problems/design-add-and-search-words-data-structure/solution/gong-shui-san-xie-yi-ti-shuang-jie-er-we-un94/
 
-[S212]:https://leetcode-cn.com/problems/word-search-ii/solution/dan-ci-sou-suo-ii-by-leetcode-solution-7494/
+[S212]:https://leetcode.cn/problems/word-search-ii/solution/dan-ci-sou-suo-ii-by-leetcode-solution-7494/
 
-[S230]:https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/solution/er-cha-sou-suo-shu-zhong-di-kxiao-de-yua-8o07/
+[S230]:https://leetcode.cn/problems/kth-smallest-element-in-a-bst/solution/er-cha-sou-suo-shu-zhong-di-kxiao-de-yua-8o07/
 
-[S282]:https://leetcode-cn.com/problems/expression-add-operators/solution/gei-biao-da-shi-tian-jia-yun-suan-fu-by-2o1s7/
+[S282]:https://leetcode.cn/problems/expression-add-operators/solution/gei-biao-da-shi-tian-jia-yun-suan-fu-by-2o1s7/
 
-[S301]:https://leetcode-cn.com/problems/remove-invalid-parentheses/solution/shan-chu-wu-xiao-de-gua-hao-by-leetcode-9w8au/
+[S301]:https://leetcode.cn/problems/remove-invalid-parentheses/solution/shan-chu-wu-xiao-de-gua-hao-by-leetcode-9w8au/
 
-[S307]:https://leetcode-cn.com/problems/range-sum-query-mutable/solution/qu-yu-he-jian-suo-shu-zu-ke-xiu-gai-by-l-76xj/
+[S307]:https://leetcode.cn/problems/range-sum-query-mutable/solution/qu-yu-he-jian-suo-shu-zu-ke-xiu-gai-by-l-76xj/
 
-[S313]:https://leetcode-cn.com/problems/super-ugly-number/solution/chao-ji-chou-shu-by-leetcode-solution-uzff/
+[S313]:https://leetcode.cn/problems/super-ugly-number/solution/chao-ji-chou-shu-by-leetcode-solution-uzff/
 
-[S352]:https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/solution/jiang-shu-ju-liu-bian-wei-duo-ge-bu-xian-hm1r/
+[S352]:https://leetcode.cn/problems/data-stream-as-disjoint-intervals/solution/jiang-shu-ju-liu-bian-wei-duo-ge-bu-xian-hm1r/
 
-[S385]:https://leetcode-cn.com/problems/mini-parser/solution/mi-ni-yu-fa-fen-xi-qi-by-leetcode-soluti-l2ma/
+[S385]:https://leetcode.cn/problems/mini-parser/solution/mi-ni-yu-fa-fen-xi-qi-by-leetcode-soluti-l2ma/
 
-[S407]:https://leetcode-cn.com/problems/trapping-rain-water-ii/solution/jie-yu-shui-ii-by-leetcode-solution-vlj3/
+[S407]:https://leetcode.cn/problems/trapping-rain-water-ii/solution/jie-yu-shui-ii-by-leetcode-solution-vlj3/
 
-[S420]:https://leetcode-cn.com/problems/strong-password-checker/solution/qiang-mi-ma-jian-yan-qi-by-leetcode-solu-4fqx/
+[S420]:https://leetcode.cn/problems/strong-password-checker/solution/qiang-mi-ma-jian-yan-qi-by-leetcode-solu-4fqx/
 
-[S437]:https://leetcode-cn.com/problems/path-sum-iii/solution/lu-jing-zong-he-iii-by-leetcode-solution-z9td/
+[S437]:https://leetcode.cn/problems/path-sum-iii/solution/lu-jing-zong-he-iii-by-leetcode-solution-z9td/
 
-[S440]:https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/solution/zi-dian-xu-de-di-kxiao-shu-zi-by-leetcod-bfy0/
+[S440]:https://leetcode.cn/problems/k-th-smallest-in-lexicographical-order/solution/zi-dian-xu-de-di-kxiao-shu-zi-by-leetcod-bfy0/
 
-[S446]:https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/solution/deng-chai-shu-lie-hua-fen-ii-zi-xu-lie-b-77pl/
+[S446]:https://leetcode.cn/problems/arithmetic-slices-ii-subsequence/solution/deng-chai-shu-lie-hua-fen-ii-zi-xu-lie-b-77pl/
 
-[S472]:https://leetcode-cn.com/problems/concatenated-words/solution/lian-jie-ci-by-leetcode-solution-mj4d/
+[S472]:https://leetcode.cn/problems/concatenated-words/solution/lian-jie-ci-by-leetcode-solution-mj4d/
 
-[S488]:https://leetcode-cn.com/problems/zuma-game/solution/gong-shui-san-xie-yi-ti-shuang-jie-sou-s-3ftb/
+[S488]:https://leetcode.cn/problems/zuma-game/solution/gong-shui-san-xie-yi-ti-shuang-jie-sou-s-3ftb/
 
-[S526]:https://leetcode-cn.com/problems/beautiful-arrangement/solution/you-mei-de-pai-lie-by-leetcode-solution-vea2/
+[S526]:https://leetcode.cn/problems/beautiful-arrangement/solution/you-mei-de-pai-lie-by-leetcode-solution-vea2/
 
-[S552]:https://leetcode-cn.com/problems/student-attendance-record-ii/solution/xue-sheng-chu-qin-ji-lu-ii-by-leetcode-s-kdlm/
+[S552]:https://leetcode.cn/problems/student-attendance-record-ii/solution/xue-sheng-chu-qin-ji-lu-ii-by-leetcode-s-kdlm/
 
-[S583]:https://leetcode-cn.com/problems/delete-operation-for-two-strings/solution/liang-ge-zi-fu-chuan-de-shan-chu-cao-zuo-14uw/
+[S583]:https://leetcode.cn/problems/delete-operation-for-two-strings/solution/liang-ge-zi-fu-chuan-de-shan-chu-cao-zuo-14uw/
 
-[S587]:https://leetcode-cn.com/problems/erect-the-fence/solution/an-zhuang-zha-lan-by-leetcode-solution-75s3/
+[S587]:https://leetcode.cn/problems/erect-the-fence/solution/an-zhuang-zha-lan-by-leetcode-solution-75s3/
 
-[S591]:https://leetcode-cn.com/problems/tag-validator/solution/biao-qian-yan-zheng-qi-by-leetcode-solut-fecy/
+[S591]:https://leetcode.cn/problems/tag-validator/solution/biao-qian-yan-zheng-qi-by-leetcode-solut-fecy/
 
-[S629]:https://leetcode-cn.com/problems/k-inverse-pairs-array/solution/kge-ni-xu-dui-shu-zu-by-leetcode-solutio-0hkr/
+[S629]:https://leetcode.cn/problems/k-inverse-pairs-array/solution/kge-ni-xu-dui-shu-zu-by-leetcode-solutio-0hkr/
 
-[S630]:https://leetcode-cn.com/problems/course-schedule-iii/solution/ke-cheng-biao-iii-by-leetcode-solution-yoyz/
+[S630]:https://leetcode.cn/problems/course-schedule-iii/solution/ke-cheng-biao-iii-by-leetcode-solution-yoyz/
 
-[S638]:https://leetcode-cn.com/problems/shopping-offers/solution/da-li-bao-by-leetcode-solution-p1ww/
+[S638]:https://leetcode.cn/problems/shopping-offers/solution/da-li-bao-by-leetcode-solution-p1ww/
 
-[S639]:https://leetcode-cn.com/problems/decode-ways-ii/solution/jie-ma-fang-fa-ii-by-leetcode-solution-23af/
+[S639]:https://leetcode.cn/problems/decode-ways-ii/solution/jie-ma-fang-fa-ii-by-leetcode-solution-23af/
 
-[S673]:https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/solution/zui-chang-di-zeng-zi-xu-lie-de-ge-shu-by-w12f/
+[S673]:https://leetcode.cn/problems/number-of-longest-increasing-subsequence/solution/zui-chang-di-zeng-zi-xu-lie-de-ge-shu-by-w12f/
 
-[S688]:https://leetcode-cn.com/problems/knight-probability-in-chessboard/solution/qi-shi-zai-qi-pan-shang-de-gai-lu-by-lee-2qhk/
+[S688]:https://leetcode.cn/problems/knight-probability-in-chessboard/solution/qi-shi-zai-qi-pan-shang-de-gai-lu-by-lee-2qhk/
 
-[S689]:https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/solution/san-ge-wu-zhong-die-zi-shu-zu-de-zui-da-4a8lb/
+[S689]:https://leetcode.cn/problems/maximum-sum-of-3-non-overlapping-subarrays/solution/san-ge-wu-zhong-die-zi-shu-zu-de-zui-da-4a8lb/
 
-[S787]:https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/solution/k-zhan-zhong-zhuan-nei-zui-bian-yi-de-ha-abzi/
+[S787]:https://leetcode.cn/problems/cheapest-flights-within-k-stops/solution/k-zhan-zhong-zhuan-nei-zui-bian-yi-de-ha-abzi/
 
-[S798]:https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/solution/de-fen-zui-gao-de-zui-xiao-lun-diao-by-l-hbtd/
+[S798]:https://leetcode.cn/problems/smallest-rotation-with-highest-score/solution/de-fen-zui-gao-de-zui-xiao-lun-diao-by-l-hbtd/
 
-[S847]:https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/solution/fang-wen-suo-you-jie-dian-de-zui-duan-lu-mqc2/
+[S847]:https://leetcode.cn/problems/shortest-path-visiting-all-nodes/solution/fang-wen-suo-you-jie-dian-de-zui-duan-lu-mqc2/
 
-[S869]:https://leetcode-cn.com/problems/reordered-power-of-2/solution/zhong-xin-pai-xu-de-dao-2-de-mi-by-leetc-4fvs/
+[S869]:https://leetcode.cn/problems/reordered-power-of-2/solution/zhong-xin-pai-xu-de-dao-2-de-mi-by-leetc-4fvs/
 
-[S913]:https://leetcode-cn.com/problems/cat-and-mouse/solution/mao-he-lao-shu-by-leetcode-solution-444x/
+[S913]:https://leetcode.cn/problems/cat-and-mouse/solution/mao-he-lao-shu-by-leetcode-solution-444x/
 
-[S1001]:https://leetcode-cn.com/problems/grid-illumination/solution/wang-ge-zhao-ming-by-leetcode-solution-7omu/
+[S1001]:https://leetcode.cn/problems/grid-illumination/solution/wang-ge-zhao-ming-by-leetcode-solution-7omu/
 
-[S1034]:https://leetcode-cn.com/problems/coloring-a-border/solution/bian-kuang-zhao-se-by-leetcode-solution-0h5l/
+[S1034]:https://leetcode.cn/problems/coloring-a-border/solution/bian-kuang-zhao-se-by-leetcode-solution-0h5l/
 
-[S1036]:https://leetcode-cn.com/problems/escape-a-large-maze/solution/tao-chi-da-mi-gong-by-leetcode-solution-qxhz/
+[S1036]:https://leetcode.cn/problems/escape-a-large-maze/solution/tao-chi-da-mi-gong-by-leetcode-solution-qxhz/
 
-[S1044]:https://leetcode-cn.com/problems/longest-duplicate-substring/solution/zui-chang-zhong-fu-zi-chuan-by-leetcode-0i9rd/
+[S1044]:https://leetcode.cn/problems/longest-duplicate-substring/solution/zui-chang-zhong-fu-zi-chuan-by-leetcode-0i9rd/
 
-[S1220]:https://leetcode-cn.com/problems/count-vowels-permutation/solution/tong-ji-yuan-yin-zi-mu-xu-lie-de-shu-mu-jxo09/
+[S1220]:https://leetcode.cn/problems/count-vowels-permutation/solution/tong-ji-yuan-yin-zi-mu-xu-lie-de-shu-mu-jxo09/
 
-[S1345]:https://leetcode-cn.com/problems/jump-game-iv/solution/tiao-yue-you-xi-iv-by-leetcode-solution-zsix/
+[S1345]:https://leetcode.cn/problems/jump-game-iv/solution/tiao-yue-you-xi-iv-by-leetcode-solution-zsix/
 
-[S1588]:https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays/solution/gong-shui-san-xie-yi-ti-shuang-jie-qian-18jq3/
+[S1588]:https://leetcode.cn/problems/sum-of-all-odd-length-subarrays/solution/gong-shui-san-xie-yi-ti-shuang-jie-qian-18jq3/
 
-[S1601]:https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/solution/zui-duo-ke-da-cheng-de-huan-lou-qing-qiu-ae0e/
+[S1601]:https://leetcode.cn/problems/maximum-number-of-achievable-transfer-requests/solution/zui-duo-ke-da-cheng-de-huan-lou-qing-qiu-ae0e/
 
-[S1606]:https://leetcode-cn.com/problems/find-servers-that-handled-most-number-of-requests/solution/zhao-dao-chu-li-zui-duo-qing-qiu-de-fu-w-e0a5/
+[S1606]:https://leetcode.cn/problems/find-servers-that-handled-most-number-of-requests/solution/zhao-dao-chu-li-zui-duo-qing-qiu-de-fu-w-e0a5/
 
-[S1610]:https://leetcode-cn.com/problems/maximum-number-of-visible-points/solution/you-xiao-ke-jian-dian-de-zui-da-shu-mu-b-r1qz/
+[S1610]:https://leetcode.cn/problems/maximum-number-of-visible-points/solution/you-xiao-ke-jian-dian-de-zui-da-shu-mu-b-r1qz/
 
-[S1719]:https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree/solution/zhong-gou-yi-ke-shu-de-fang-an-shu-by-le-36e1/
+[S1719]:https://leetcode.cn/problems/number-of-ways-to-reconstruct-a-tree/solution/zhong-gou-yi-ke-shu-de-fang-an-shu-by-le-36e1/
 
-[S1994]:https://leetcode-cn.com/problems/the-number-of-good-subsets/solution/hao-zi-ji-de-shu-mu-by-leetcode-solution-ky65/
+[S1994]:https://leetcode.cn/problems/the-number-of-good-subsets/solution/hao-zi-ji-de-shu-mu-by-leetcode-solution-ky65/
 
-[S2039]:https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle/solution/wang-luo-kong-xian-de-shi-ke-by-leetcode-qttv/
+[S2039]:https://leetcode.cn/problems/the-time-when-the-network-becomes-idle/solution/wang-luo-kong-xian-de-shi-ke-by-leetcode-qttv/
 
-[S2044]:https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/solution/tong-ji-an-wei-huo-neng-de-dao-zui-da-zh-r6zd/
+[S2044]:https://leetcode.cn/problems/count-number-of-maximum-bitwise-or-subsets/solution/tong-ji-an-wei-huo-neng-de-dao-zui-da-zh-r6zd/
 
-[S2045]:https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/solution/dao-da-mu-de-di-de-di-er-duan-shi-jian-b-05i0/
+[S2045]:https://leetcode.cn/problems/second-minimum-time-to-reach-destination/solution/dao-da-mu-de-di-de-di-er-duan-shi-jian-b-05i0/
 
-[S2049]:https://leetcode-cn.com/problems/count-nodes-with-the-highest-score/solution/tong-ji-zui-gao-fen-de-jie-dian-shu-mu-b-n810/
+[S2049]:https://leetcode.cn/problems/count-nodes-with-the-highest-score/solution/tong-ji-zui-gao-fen-de-jie-dian-shu-mu-b-n810/
 
-[S2104]:https://leetcode-cn.com/problems/sum-of-subarray-ranges/solution/zi-shu-zu-fan-wei-he-by-leetcode-solutio-lamr/
+[S2104]:https://leetcode.cn/problems/sum-of-subarray-ranges/solution/zi-shu-zu-fan-wei-he-by-leetcode-solutio-lamr/

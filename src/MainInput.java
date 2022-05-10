@@ -896,6 +896,9 @@ public class MainInput {
             case 1725:
                 run1725();
                 break;
+            case 1728:
+                run1728();
+                break;
             case 1748:
                 run1748();
                 break;
@@ -3230,6 +3233,14 @@ public class MainInput {
         int[][] rectangles = {{5, 8}, {3, 9}, {5, 12}, {16, 5}};
         S1725 run = new S1725();
         int result = run.countGoodRectangles(rectangles);
+        print(result);
+    }
+
+    static void run1728() {
+        String[] grid = {"####F", "#C...", "M...."};
+        int catJump = 1, mouseJump = 2;
+        S1728 run = new S1728();
+        boolean result = run.canMouseWin(grid, catJump, mouseJump);
         print(result);
     }
 

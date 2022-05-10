@@ -304,6 +304,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1716   | 计算力扣银行的钱                           | 简单 | 2022-01-15 | [力扣][P1716]   |                                                              |
 | #1719   | 重构一棵树的方案数                         | 困难 | 2022-02-16 | [力扣][P1719]   | 本题有参考官方Java题解代码<br>[【重构一棵树的方案数】][S1719] |
 | #1725   | 可以形成最大正方形的矩形数目               | 简单 | 2022-02-04 | [力扣][P1725]   |                                                              |
+| #1728   | 猫和老鼠 II                                | 困难 | 2022-05-10 | [力扣][P1728]   | 本题有参考官方Java题解代码<br>[【猫和老鼠 II】][S1728]       |
 | #1748   | 唯一元素的和                               | 简单 | 2022-02-06 | [力扣][P1748]   |                                                              |
 | #1763   | 最长的美好子字符串                         | 简单 | 2022-02-01 | [力扣][P1763]   |                                                              |
 | #1765   | 地图中的最高点                             | 中等 | 2022-01-29 | [力扣][P1765]   |                                                              |
@@ -925,6 +926,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P1725]:https://leetcode.cn/problems/number-of-rectangles-that-can-form-the-largest-square/
 
+[P1728]:https://leetcode.cn/problems/cat-and-mouse-ii/
+
 [P1748]:https://leetcode.cn/problems/sum-of-unique-elements/
 
 [P1763]:https://leetcode.cn/problems/longest-nice-substring/
@@ -1088,6 +1091,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S1610]:https://leetcode.cn/problems/maximum-number-of-visible-points/solution/you-xiao-ke-jian-dian-de-zui-da-shu-mu-b-r1qz/
 
 [S1719]:https://leetcode.cn/problems/number-of-ways-to-reconstruct-a-tree/solution/zhong-gou-yi-ke-shu-de-fang-an-shu-by-le-36e1/
+
+[S1728]:https://leetcode.cn/problems/cat-and-mouse-ii/solution/mao-he-lao-shu-ii-by-leetcode-solution-e5io/
 
 [S1994]:https://leetcode.cn/problems/the-number-of-good-subsets/solution/hao-zi-ji-de-shu-mu-by-leetcode-solution-ky65/
 

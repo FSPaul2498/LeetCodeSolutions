@@ -410,6 +410,9 @@ public class MainInput {
             case 447:
                 run447();
                 break;
+            case 449:
+                run449();
+                break;
             case 453:
                 run453();
                 break;
@@ -2025,6 +2028,14 @@ public class MainInput {
         S447 run = new S447();
         int result = run.numberOfBoomerangs(points);
         print(result);
+    }
+
+    static void run449() {
+        String line = "[2,1,3]";
+        Codec run = new Codec();
+        TreeNode deserialized = run.deserialize(line);
+        String serialized = run.serialize(deserialized);
+        print(serialized);
     }
 
     static void run453() {

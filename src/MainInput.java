@@ -749,6 +749,9 @@ public class MainInput {
             case 942:
                 run942();
                 break;
+            case 944:
+                run944();
+                break;
             case 954:
                 run954();
                 break;
@@ -2869,6 +2872,13 @@ public class MainInput {
         String s = "IDID";
         S942 run = new S942();
         int[] result = run.diStringMatch(s);
+        print(result);
+    }
+
+    static void run944() {
+        String[] strs = {"cba", "daf", "ghi"};
+        S944 run = new S944();
+        int result = run.minDeletionSize(strs);
         print(result);
     }
 

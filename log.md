@@ -255,6 +255,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #933    | 最近的请求次数                             | 简单 | 2022-05-06 | [力扣][P933]    |                                                              |
 | #937    | 重新排列日志文件                           | 简单 | 2022-05-03 | [力扣][P937]    |                                                              |
 | #942    | 增减字符串匹配                             | 简单 | 2022-05-09 | [力扣][P942]    |                                                              |
+| #944    | 删列造序                                   | 简单 | 2022-05-12 | [力扣][P944]    |                                                              |
 | #954    | 二倍数对数组                               | 中等 | 2022-04-01 | [力扣][P954]    |                                                              |
 | #969    | 煎饼排序                                   | 中等 | 2022-02-19 | [力扣][P969]    |                                                              |
 | #997    | 找到小镇的法官                             | 简单 | 2021-12-19 | [力扣][P997]    |                                                              |
@@ -828,6 +829,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P937]:https://leetcode.cn/problems/reorder-data-in-log-files/
 
 [P942]:https://leetcode.cn/problems/di-string-match/
+
+[P944]:https://leetcode.cn/problems/delete-columns-to-make-sorted/
 
 [P954]:https://leetcode.cn/problems/array-of-doubled-pairs/
 

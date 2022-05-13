@@ -1014,6 +1014,9 @@ public class MainInput {
                 break;
             // 3XXXX for Interview Questions
             // 面试题 01.01 -> 30101 -> MS0101
+            case 30105:
+                runMS0105();
+                break;
             case 31714:
                 runMS1714();
                 break;
@@ -3519,6 +3522,13 @@ public class MainInput {
         int[] arr = {0, 1, 0};
         SJZII69 run = new SJZII69();
         int result = run.peakIndexInMountainArray(arr);
+        print(result);
+    }
+
+    static void runMS0105() {
+        String first = "pale", second = "ple";
+        SMS0105 run = new SMS0105();
+        boolean result = run.oneEditAway(first, second);
         print(result);
     }
 

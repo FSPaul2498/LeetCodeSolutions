@@ -605,6 +605,9 @@ public class MainInput {
             case 689:
                 run689();
                 break;
+            case 691:
+                run691();
+                break;
             case 693:
                 run693();
                 break;
@@ -2516,6 +2519,14 @@ public class MainInput {
         int k = 2;
         S689 run = new S689();
         int[] result = run.maxSumOfThreeSubarrays(nums, k);
+        print(result);
+    }
+
+    static void run691() {
+        String[] stickers = {"with", "example", "science"};
+        String target = "thehat";
+        S691 run = new S691();
+        int result = run.minStickers(stickers, target);
         print(result);
     }
 

@@ -686,6 +686,9 @@ public class MainInput {
             case 807:
                 run807();
                 break;
+            case 812:
+                run812();
+                break;
             case 819:
                 run819();
                 break;
@@ -2721,6 +2724,13 @@ public class MainInput {
         int[][] grid = {{3, 0, 8, 4}, {2, 4, 5, 7}, {9, 2, 6, 3}, {0, 3, 1, 0}};
         S807 run = new S807();
         int result = run.maxIncreaseKeepingSkyline(grid);
+        print(result);
+    }
+
+    static void run812() {
+        int[][] points = {{0, 0}, {0, 1}, {1, 0}, {0, 2}, {2, 0}};
+        S812 run = new S812();
+        double result = run.largestTriangleArea(points);
         print(result);
     }
 

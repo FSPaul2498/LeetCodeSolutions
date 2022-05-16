@@ -1023,6 +1023,9 @@ public class MainInput {
             case 30105:
                 runMS0105();
                 break;
+            case 30406:
+                runMS0406();
+                break;
             case 31714:
                 runMS1714();
                 break;
@@ -3551,6 +3554,16 @@ public class MainInput {
         SMS0105 run = new SMS0105();
         boolean result = run.oneEditAway(first, second);
         print(result);
+    }
+
+    static void runMS0406() {
+        String line = "[2,1,3]";
+        TreeNode root = TreeNode.stringToTreeNode(line);
+        assert root != null;
+        TreeNode p = root.left;
+        SMS0406 run = new SMS0406();
+        TreeNode result = run.inorderSuccessor(root, p);
+        print(result == null ? "null" : String.valueOf(result.val));
     }
 
     static void runMS1714() {

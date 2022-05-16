@@ -2043,7 +2043,7 @@ public class MainInput {
     }
 
     static void run449() {
-        String line = "[2,1,3]";
+        String line = "1, 3, 2";
         Codec run = new Codec();
         TreeNode deserialized = run.deserialize(line);
         String serialized = run.serialize(deserialized);

@@ -1,5 +1,4 @@
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 public class TreeNode {
     int val;
@@ -55,5 +54,25 @@ public class TreeNode {
             }
         }
         return root;
+    }
+
+    // Serialize by Layer Order Traverse
+    public static String treeNodeToString(TreeNode root) {
+        List<Integer> list = new ArrayList<>();
+        Deque<TreeNode> deque = new LinkedList<>();
+        deque.add(root);
+        while (!deque.isEmpty()) {
+            TreeNode tmp = deque.poll();
+            if (tmp == null) {
+                list.add(null);
+            } else {
+                list.add(tmp.val);
+                deque.add(tmp.left);
+                deque.add(tmp.right);
+            }
+        }
+        int size = list.size() - 1;
+        while (list.get(size) == null) list.remove(size--);
+        return list.toString();
     }
 }

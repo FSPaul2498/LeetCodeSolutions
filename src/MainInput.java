@@ -758,6 +758,9 @@ public class MainInput {
             case 944:
                 run944();
                 break;
+            case 953:
+                run953();
+                break;
             case 954:
                 run954();
                 break;
@@ -2906,6 +2909,14 @@ public class MainInput {
         String[] strs = {"cba", "daf", "ghi"};
         S944 run = new S944();
         int result = run.minDeletionSize(strs);
+        print(result);
+    }
+
+    static void run953() {
+        String[] words = {"hello", "leetcode"};
+        String order = "hlabcdefgijkmnopqrstuvwxyz";
+        S953 run = new S953();
+        boolean result = run.isAlienSorted(words, order);
         print(result);
     }
 

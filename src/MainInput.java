@@ -584,6 +584,9 @@ public class MainInput {
             case 661:
                 run661();
                 break;
+            case 668:
+                run668();
+                break;
             case 673:
                 run673();
                 break;
@@ -2477,6 +2480,13 @@ public class MainInput {
         int[][] img = {{1, 1, 1}, {1, 0, 1}, {1, 1, 1}};
         S661 run = new S661();
         int[][] result = run.imageSmoother(img);
+        print(result);
+    }
+
+    static void run668() {
+        int m = 3, n = 3, k = 5;
+        S668 run = new S668();
+        int result = run.findKthNumber(m, n, k);
         print(result);
     }
 

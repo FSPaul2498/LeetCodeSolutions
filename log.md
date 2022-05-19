@@ -146,6 +146,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #453    | 最小操作次数使数组元素相等                 | 简单 | 2021-10-20 | [力扣][P453]    |                                                              |
 | #457    | 环形数组是否存在循环                       | 中等 | 2021-08-07 | [力扣][P457]    |                                                              |
 | #458    | 可怜的小猪                                 | 困难 | 2021-11-25 | [力扣][P458]    |                                                              |
+| #462    | 最少移动次数使数组元素相等 II              | 中等 | 2022-05-19 | [力扣][P462]    |                                                              |
 | #470    | 用 Rand7() 实现 Rand10()                   | 中等 | 2021-09-05 | [力扣][P470]    |                                                              |
 | #472    | 连接词                                     | 困难 | 2021-12-28 | [力扣][P472]    | 本题有参考官方Java题解代码<br>[【连接词】][S472]             |
 | #475    | 供暖器                                     | 中等 | 2021-12-20 | [力扣][P475]    |                                                              |
@@ -617,6 +618,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P457]:https://leetcode.cn/problems/circular-array-loop/
 
 [P458]:https://leetcode.cn/problems/poor-pigs/
+
+[P462]:https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/
 
 [P470]:https://leetcode.cn/problems/implement-rand10-using-rand7/
 

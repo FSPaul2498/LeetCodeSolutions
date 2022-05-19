@@ -422,6 +422,9 @@ public class MainInput {
             case 458:
                 run458();
                 break;
+            case 462:
+                run462();
+                break;
             case 470:
                 run470();
                 break;
@@ -2077,6 +2080,13 @@ public class MainInput {
         int buckets = 1000, minutesToDie = 15, minutesToTest = 60;
         S458 run = new S458();
         int result = run.poorPigs(buckets, minutesToDie, minutesToTest);
+        print(result);
+    }
+
+    static void run462() {
+        int[] nums = {1, 2, 3};
+        S462 run = new S462();
+        int result = run.minMoves2(nums);
         print(result);
     }
 

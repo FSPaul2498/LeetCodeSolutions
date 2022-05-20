@@ -386,6 +386,9 @@ public class MainInput {
             case 434:
                 run434();
                 break;
+            case 436:
+                run436();
+                break;
             case 437:
                 run437();
                 break;
@@ -1992,6 +1995,13 @@ public class MainInput {
         String s = "Hello, my name is John";
         S434 run = new S434();
         int result = run.countSegments(s);
+        print(result);
+    }
+
+    static void run436() {
+        int[][] intervals = {{1, 2}};
+        S436 run = new S436();
+        int[] result = run.findRightInterval(intervals);
         print(result);
     }
 

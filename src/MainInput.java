@@ -773,6 +773,9 @@ public class MainInput {
             case 954:
                 run954();
                 break;
+            case 961:
+                run961();
+                break;
             case 969:
                 run969();
                 break;
@@ -2954,6 +2957,13 @@ public class MainInput {
         int[] arr = {3, 1, 3, 6};
         S954 run = new S954();
         boolean result = run.canReorderDoubled(arr);
+        print(result);
+    }
+
+    static void run961() {
+        int[] nums = {1, 2, 3, 3};
+        S961 run = new S961();
+        int result = run.repeatedNTimes(nums);
         print(result);
     }
 

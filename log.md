@@ -148,6 +148,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #457    | 环形数组是否存在循环                       | 中等 | 2021-08-07 | [力扣][P457]    |                                                              |
 | #458    | 可怜的小猪                                 | 困难 | 2021-11-25 | [力扣][P458]    |                                                              |
 | #462    | 最少移动次数使数组元素相等 II              | 中等 | 2022-05-19 | [力扣][P462]    |                                                              |
+| #464    | 我能赢吗                                   | 中等 | 2022-05-22 | [力扣][P464]    | 本题有参考官方Java题解代码<br>[【我能赢吗】][S464]           |
 | #470    | 用 Rand7() 实现 Rand10()                   | 中等 | 2021-09-05 | [力扣][P470]    |                                                              |
 | #472    | 连接词                                     | 困难 | 2021-12-28 | [力扣][P472]    | 本题有参考官方Java题解代码<br>[【连接词】][S472]             |
 | #475    | 供暖器                                     | 中等 | 2021-12-20 | [力扣][P475]    |                                                              |
@@ -625,6 +626,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P462]:https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/
 
+[P464]:https://leetcode.cn/problems/can-i-win/
+
 [P470]:https://leetcode.cn/problems/implement-rand10-using-rand7/
 
 [P472]:https://leetcode.cn/problems/concatenated-words/
@@ -1064,6 +1067,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S440]:https://leetcode.cn/problems/k-th-smallest-in-lexicographical-order/solution/zi-dian-xu-de-di-kxiao-shu-zi-by-leetcod-bfy0/
 
 [S446]:https://leetcode.cn/problems/arithmetic-slices-ii-subsequence/solution/deng-chai-shu-lie-hua-fen-ii-zi-xu-lie-b-77pl/
+
+[S464]:https://leetcode.cn/problems/can-i-win/solution/wo-neng-ying-ma-by-leetcode-solution-ef5v/
 
 [S472]:https://leetcode.cn/problems/concatenated-words/solution/lian-jie-ci-by-leetcode-solution-mj4d/
 

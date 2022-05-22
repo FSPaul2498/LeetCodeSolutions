@@ -428,6 +428,9 @@ public class MainInput {
             case 462:
                 run462();
                 break;
+            case 464:
+                run464();
+                break;
             case 470:
                 run470();
                 break;
@@ -2100,6 +2103,13 @@ public class MainInput {
         int[] nums = {1, 2, 3};
         S462 run = new S462();
         int result = run.minMoves2(nums);
+        print(result);
+    }
+
+    static void run464() {
+        int maxChoosableInteger = 10, desiredTotal = 11;
+        S464 run = new S464();
+        boolean result = run.canIWin(maxChoosableInteger, desiredTotal);
         print(result);
     }
 

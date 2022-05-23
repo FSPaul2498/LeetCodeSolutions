@@ -9,8 +9,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 ## 日志表格
 
-| 序号      | 题目                                       | 难度 | 提交时间       | 链接            | 备注                                                         |
-|---------|--------------------------------------------|------|------------|---------------|--------------------------------------------------------------|
+| 序号    | 题目                                       | 难度 | 提交时间   | 链接            | 备注                                                         |
+|---------|--------------------------------------------|------|------------|-----------------|--------------------------------------------------------------|
 | #1      | 两数之和                                   | 简单 | 2021-08-01 | [力扣][P1]      |                                                              |
 | #2      | 两数相加                                   | 中等 | 2021-08-02 | [力扣][P2]      |                                                              |
 | #3      | 无重复字符的最长子串                       | 中等 | 2021-08-02 | [力扣][P3]      |                                                              |
@@ -205,6 +205,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #661    | 图片平滑器                                 | 简单 | 2022-03-24 | [力扣][P661]    |                                                              |
 | #668    | 乘法表中第k小的数                          | 困难 | 2022-05-18 | [力扣][P668]    |                                                              |
 | #673    | 最长递增子序列的个数                       | 中等 | 2021-09-20 | [力扣][P673]    | 本题有参考官方Java题解代码<br>[【最长递增子序列的个数】][S673] |
+| #675    | 为高尔夫比赛砍树                           | 困难 | 2022-05-23 | [力扣][P675]    | 本题有参考官方Java题解代码<br>[【为高尔夫比赛砍树】][S675]   |
 | #677    | 键值映射                                   | 中等 | 2021-11-14 | [力扣][P677]    |                                                              |
 | #678    | 有效的括号字符串                           | 中等 | 2021-09-12 | [力扣][P678]    |                                                              |
 | #682    | 棒球比赛                                   | 简单 | 2022-03-26 | [力扣][P682]    |                                                              |
@@ -740,6 +741,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P673]:https://leetcode.cn/problems/number-of-longest-increasing-subsequence/
 
+[P675]:https://leetcode.cn/problems/cut-off-trees-for-golf-event/
+
 [P677]:https://leetcode.cn/problems/map-sum-pairs/
 
 [P678]:https://leetcode.cn/problems/valid-parenthesis-string/
@@ -1093,6 +1096,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S639]:https://leetcode.cn/problems/decode-ways-ii/solution/jie-ma-fang-fa-ii-by-leetcode-solution-23af/
 
 [S673]:https://leetcode.cn/problems/number-of-longest-increasing-subsequence/solution/zui-chang-di-zeng-zi-xu-lie-de-ge-shu-by-w12f/
+
+[S675]:https://leetcode.cn/problems/cut-off-trees-for-golf-event/solution/wei-gao-er-fu-bi-sai-kan-shu-by-leetcode-rlrc/
 
 [S688]:https://leetcode.cn/problems/knight-probability-in-chessboard/solution/qi-shi-zai-qi-pan-shang-de-gai-lu-by-lee-2qhk/
 

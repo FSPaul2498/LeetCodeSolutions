@@ -599,6 +599,9 @@ public class MainInput {
             case 673:
                 run673();
                 break;
+            case 675:
+                run675();
+                break;
             case 677:
                 run677();
                 break;
@@ -2476,11 +2479,9 @@ public class MainInput {
     }
 
     static void run638() {
-        List<Integer> price = new ArrayList<>(List.of(new Integer[]{2, 5}));
-        List<List<Integer>> special = new ArrayList<>();
-        special.add(new ArrayList<>(List.of(new Integer[]{3, 0, 5})));
-        special.add(new ArrayList<>(List.of(new Integer[]{1, 2, 10})));
-        List<Integer> needs = new ArrayList<>(List.of(new Integer[]{3, 2}));
+        List<Integer> price = toArrayList(new int[]{2, 5});
+        List<List<Integer>> special = to2DArrayList(new int[][]{{3, 0, 5}, {1, 2, 10}});
+        List<Integer> needs = toArrayList(new int[]{3, 2});
         S638 run = new S638();
         int result = run.shoppingOffers(price, special, needs);
         print(result);
@@ -2527,6 +2528,13 @@ public class MainInput {
         int[] nums = {1, 3, 5, 4, 7};
         S673 run = new S673();
         int result = run.findNumberOfLIS(nums);
+        print(result);
+    }
+
+    static void run675() {
+        List<List<Integer>> forest = to2DArrayList(new int[][]{{1, 2, 3}, {0, 0, 4}, {7, 6, 5}});
+        S675 run = new S675();
+        int result = run.cutOffTree(forest);
         print(result);
     }
 

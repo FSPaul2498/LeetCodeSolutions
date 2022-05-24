@@ -782,6 +782,9 @@ public class MainInput {
             case 961:
                 run961();
                 break;
+            case 965:
+                run965();
+                break;
             case 969:
                 run969();
                 break;
@@ -2982,6 +2985,14 @@ public class MainInput {
         int[] nums = {1, 2, 3, 3};
         S961 run = new S961();
         int result = run.repeatedNTimes(nums);
+        print(result);
+    }
+
+    static void run965() {
+        String line = "[1,1,1,1,1,null,1]";
+        TreeNode root = TreeNode.stringToTreeNode(line);
+        S965 run = new S965();
+        boolean result = run.isUnivalTree(root);
         print(result);
     }
 

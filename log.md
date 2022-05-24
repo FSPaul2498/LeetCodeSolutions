@@ -9,7 +9,7 @@ which I have solved and submitted the solution to LeetCode CN.
 
 ## 日志表格
 
-| 序号    | 题目                                       | 难度 | 提交时间   | 链接            | 备注                                                         |
+| 序号      | 题目                                       | 难度 | 提交时间   | 链接            | 备注                                                         |
 |---------|--------------------------------------------|------|------------|-----------------|--------------------------------------------------------------|
 | #1      | 两数之和                                   | 简单 | 2021-08-01 | [力扣][P1]      |                                                              |
 | #2      | 两数相加                                   | 中等 | 2021-08-02 | [力扣][P2]      |                                                              |
@@ -266,6 +266,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #953    | 验证外星语词典                             | 简单 | 2022-05-17 | [力扣][P953]    |                                                              |
 | #954    | 二倍数对数组                               | 中等 | 2022-04-01 | [力扣][P954]    |                                                              |
 | #961    | 在长度 2N 的数组中找出重复 N 次的元素      | 简单 | 2022-05-21 | [力扣][P961]    |                                                              |
+| #965    | 单值二叉树                                 | 简单 | 2022-05-24 | [力扣][P965]    |                                                              |
 | #969    | 煎饼排序                                   | 中等 | 2022-02-19 | [力扣][P969]    |                                                              |
 | #997    | 找到小镇的法官                             | 简单 | 2021-12-19 | [力扣][P997]    |                                                              |
 | #1001   | 网格照明                                   | 困难 | 2022-02-08 | [力扣][P1001]   | 本题有参考官方Java题解代码<br>[【网格照明】][S1001]          |
@@ -862,6 +863,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P954]:https://leetcode.cn/problems/array-of-doubled-pairs/
 
 [P961]:https://leetcode.cn/problems/n-repeated-element-in-size-2n-array/
+
+[P965]:https://leetcode.cn/problems/univalued-binary-tree/
 
 [P969]:https://leetcode.cn/problems/pancake-sorting/
 

@@ -431,6 +431,9 @@ public class MainInput {
             case 464:
                 run464();
                 break;
+            case 467:
+                run467();
+                break;
             case 470:
                 run470();
                 break;
@@ -2116,6 +2119,13 @@ public class MainInput {
         int maxChoosableInteger = 10, desiredTotal = 11;
         S464 run = new S464();
         boolean result = run.canIWin(maxChoosableInteger, desiredTotal);
+        print(result);
+    }
+
+    static void run467() {
+        String p = "a";
+        S467 run = new S467();
+        int result = run.findSubstringInWraproundString(p);
         print(result);
     }
 

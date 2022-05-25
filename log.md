@@ -9,7 +9,7 @@ which I have solved and submitted the solution to LeetCode CN.
 
 ## 日志表格
 
-| 序号      | 题目                                       | 难度 | 提交时间   | 链接            | 备注                                                         |
+| 序号      | 题目                                       | 难度 | 提交时间       | 链接            | 备注                                                         |
 |---------|--------------------------------------------|------|------------|-----------------|--------------------------------------------------------------|
 | #1      | 两数之和                                   | 简单 | 2021-08-01 | [力扣][P1]      |                                                              |
 | #2      | 两数相加                                   | 中等 | 2021-08-02 | [力扣][P2]      |                                                              |
@@ -149,6 +149,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #458    | 可怜的小猪                                 | 困难 | 2021-11-25 | [力扣][P458]    |                                                              |
 | #462    | 最少移动次数使数组元素相等 II              | 中等 | 2022-05-19 | [力扣][P462]    |                                                              |
 | #464    | 我能赢吗                                   | 中等 | 2022-05-22 | [力扣][P464]    | 本题有参考官方Java题解代码<br>[【我能赢吗】][S464]           |
+| #467    | 环绕字符串中唯一的子字符串                 | 中等 | 2022-05-25 | [力扣][P467]    |                                                              |
 | #470    | 用 Rand7() 实现 Rand10()                   | 中等 | 2021-09-05 | [力扣][P470]    |                                                              |
 | #472    | 连接词                                     | 困难 | 2021-12-28 | [力扣][P472]    | 本题有参考官方Java题解代码<br>[【连接词】][S472]             |
 | #475    | 供暖器                                     | 中等 | 2021-12-20 | [力扣][P475]    |                                                              |
@@ -629,6 +630,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P462]:https://leetcode.cn/problems/minimum-moves-to-equal-array-elements-ii/
 
 [P464]:https://leetcode.cn/problems/can-i-win/
+
+[P467]:https://leetcode.cn/problems/unique-substrings-in-wraparound-string/
 
 [P470]:https://leetcode.cn/problems/implement-rand10-using-rand7/
 

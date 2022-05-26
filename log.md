@@ -215,6 +215,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #689    | 三个无重叠子数组的最大和                   | 困难 | 2021-12-08 | [力扣][P689]    | 本题有参考官方Java题解代码<br>[【三个无重叠子数组的最大和】][S689] |
 | #691    | 贴纸拼词                                   | 困难 | 2022-05-14 | [力扣][P691]    | 本题有参考官方Java题解代码<br>[【贴纸拼词】][S691]           |
 | #693    | 交替位二进制数                             | 简单 | 2022-03-28 | [力扣][P693]    |                                                              |
+| #699    | 掉落的方块                                 | 困难 | 2022-05-26 | [力扣][P699]    | 本题有参考官方Java题解代码<br>[【掉落的方块】][S699]         |
 | #700    | 二叉搜索树中的搜索                         | 简单 | 2021-11-26 | [力扣][P700]    |                                                              |
 | #704    | 二分查找                                   | 简单 | 2021-09-06 | [力扣][P704]    |                                                              |
 | #709    | 转换成小写字母                             | 简单 | 2021-12-12 | [力扣][P709]    |                                                              |
@@ -763,6 +764,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P693]:https://leetcode.cn/problems/binary-number-with-alternating-bits/
 
+[P699]:https://leetcode.cn/problems/falling-squares/
+
 [P700]:https://leetcode.cn/problems/search-in-a-binary-search-tree/
 
 [P704]:https://leetcode.cn/problems/binary-search/
@@ -1110,6 +1113,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S689]:https://leetcode.cn/problems/maximum-sum-of-3-non-overlapping-subarrays/solution/san-ge-wu-zhong-die-zi-shu-zu-de-zui-da-4a8lb/
 
 [S691]:https://leetcode.cn/problems/stickers-to-spell-word/solution/tie-zhi-pin-ci-by-leetcode-solution-9g3z/
+
+[S699]:https://leetcode.cn/problems/falling-squares/solution/diao-luo-de-fang-kuai-by-leetcode-soluti-2dmw/
 
 [S787]:https://leetcode.cn/problems/cheapest-flights-within-k-stops/solution/k-zhan-zhong-zhuan-nei-zui-bian-yi-de-ha-abzi/
 

@@ -629,6 +629,9 @@ public class MainInput {
             case 693:
                 run693();
                 break;
+            case 699:
+                run699();
+                break;
             case 700:
                 run700();
                 break;
@@ -2607,6 +2610,13 @@ public class MainInput {
         int n = 5;
         S693 run = new S693();
         boolean result = run.hasAlternatingBits(n);
+        print(result);
+    }
+
+    static void run699() {
+        int[][] positions = {{1, 2}, {2, 3}, {6, 1}};
+        S699 run = new S699();
+        List<Integer> result = run.fallingSquares(positions);
         print(result);
     }
 

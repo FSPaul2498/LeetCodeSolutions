@@ -1036,31 +1036,31 @@ public class MainInput {
             // LCS 01 -> 11001 -> LCS01
             case 10001:
                 break;
-            // 2XXXX for JianZhi Offer
-            // 剑指 Offer 01 -> 20001 -> JZ1
-            // 剑指 Offer II 001 -> 21001 -> JZII1
+            // 2XXXX for JianZhi Offer (II)
+            // 剑指 Offer 01 -> 20001 -> OF1
+            // 剑指 Offer II 001 -> 21001 -> OFII1
             case 20010:
-                runJZ10();
+                runOF10();
                 break;
             case 20022:
-                runJZ22();
+                runOF22();
                 break;
             case 21069:
-                runJZII69();
+                runOFII69();
                 break;
-            // 3XXXX for Interview Questions
-            // 面试题 01.01 -> 30101 -> MS0101
+            // 3XXXX for Case Interview
+            // 面试题 01.01 -> 30101 -> CI0101
             case 30105:
-                runMS0105();
+                runCI0105();
                 break;
             case 30406:
-                runMS0406();
+                runCI0406();
                 break;
             case 31711:
-                runMS1711();
+                runCI1711();
                 break;
             case 31714:
-                runMS1714();
+                runCI1714();
                 break;
             default:
                 print("Wrong Problem Num");
@@ -3629,58 +3629,58 @@ public class MainInput {
         print(result);
     }
 
-    static void runJZ10() {
+    static void runOF10() {
         int n = 2;
-        SJZ10 run = new SJZ10();
+        SOF10 run = new SOF10();
         int result = run.fib(n);
         print(result);
     }
 
-    static void runJZ22() {
+    static void runOF22() {
         int[] nums = {1, 2, 3, 4, 5};
         int k = 2;
         ListNode head = ListNode.makeList(nums);
-        SJZ22 run = new SJZ22();
+        SOF22 run = new SOF22();
         ListNode result = run.getKthFromEnd(head, k);
         print(result);
     }
 
-    static void runJZII69() {
+    static void runOFII69() {
         int[] arr = {0, 1, 0};
-        SJZII69 run = new SJZII69();
+        SOFII69 run = new SOFII69();
         int result = run.peakIndexInMountainArray(arr);
         print(result);
     }
 
-    static void runMS0105() {
+    static void runCI0105() {
         String first = "pale", second = "ple";
-        SMS0105 run = new SMS0105();
+        SCI0105 run = new SCI0105();
         boolean result = run.oneEditAway(first, second);
         print(result);
     }
 
-    static void runMS0406() {
+    static void runCI0406() {
         String line = "[2,1,3]";
         TreeNode root = TreeNode.stringToTreeNode(line);
         assert root != null;
         TreeNode p = root.left;
-        SMS0406 run = new SMS0406();
+        SCI0406 run = new SCI0406();
         TreeNode result = run.inorderSuccessor(root, p);
         print(result == null ? "null" : String.valueOf(result.val));
     }
 
-    static void runMS1711() {
+    static void runCI1711() {
         String[] words = {"I", "am", "a", "student", "from", "a", "university", "in", "a", "city"};
         String word1 = "a", word2 = "student";
-        SMS1711 run = new SMS1711();
+        SCI1711 run = new SCI1711();
         int result = run.findClosest(words, word1, word2);
         print(result);
     }
 
-    static void runMS1714() {
+    static void runCI1714() {
         int[] arr = {1, 3, 5, 7, 2, 4, 6, 8};
         int k = 4;
-        SMS1714 run = new SMS1714();
+        SCI1714 run = new SCI1714();
         int[] result = run.smallestK(arr, k);
         print(result);
     }

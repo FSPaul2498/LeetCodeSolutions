@@ -1,4 +1,4 @@
-public class SMS1711 {
+public class SCI1711 {
     public int findClosest(String[] words, String word1, String word2) {
         int idx1 = -100000, idx2 = -200000, closest = words.length;
         for (int i = 0; i < words.length; i++) {

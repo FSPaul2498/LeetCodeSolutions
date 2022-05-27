@@ -349,13 +349,13 @@ which I have solved and submitted the solution to LeetCode CN.
 | #2055   | 蜡烛之间的盘子                             | 中等 | 2022-03-08 | [力扣][P2055]   |                                                              |
 | #2100   | 适合打劫银行的日子                         | 中等 | 2022-03-06 | [力扣][P2100]   |                                                              |
 | #2104   | 子数组范围和                               | 中等 | 2022-03-04 | [力扣][P2104]   | 本题有参考官方Java题解代码<br>[【子数组范围和】][S2104]      |
-| #JZ10   | 斐波那契数列                               | 简单 | 2021-09-04 | [力扣][PJZ10]   |                                                              |
-| #JZ22   | 链表中倒数第k个节点                        | 简单 | 2021-09-02 | [力扣][PJZ22]   |                                                              |
-| #JZII69 | 山峰数组的顶部                             | 简单 | 2021-10-14 | [力扣][PJZII69] |                                                              |
-| #MS0105 | 一次编辑                                   | 中等 | 2022-05-13 | [力扣][PMS0105] |                                                              |
-| #MS0406 | 后继者                                     | 中等 | 2022-05-16 | [力扣][PMS0406] |                                                              |
-| #MS1711 | 单词距离                                   | 中等 | 2022-05-27 | [力扣][PMS1711] |                                                              |
-| #MS1714 | 最小K个数                                  | 中等 | 2021-09-03 | [力扣][PMS1714] |                                                              |
+| #OF10   | 斐波那契数列                               | 简单 | 2021-09-04 | [力扣][POF10]   |                                                              |
+| #OF22   | 链表中倒数第k个节点                        | 简单 | 2021-09-02 | [力扣][POF22]   |                                                              |
+| #OFII69 | 山峰数组的顶部                             | 简单 | 2021-10-14 | [力扣][POFII69] |                                                              |
+| #CI0105 | 一次编辑                                   | 中等 | 2022-05-13 | [力扣][PCI0105] |                                                              |
+| #CI0406 | 后继者                                     | 中等 | 2022-05-16 | [力扣][PCI0406] |                                                              |
+| #CI1711 | 单词距离                                   | 中等 | 2022-05-27 | [力扣][PCI1711] |                                                              |
+| #CI1714 | 最小K个数                                  | 中等 | 2021-09-03 | [力扣][PCI1714] |                                                              |
 
 [P1]:https://leetcode.cn/problems/two-sum/
 
@@ -1033,19 +1033,19 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P2104]:https://leetcode.cn/problems/sum-of-subarray-ranges/
 
-[PJZ10]:https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/
+[POF10]:https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/
 
-[PJZ22]:https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
+[POF22]:https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
 
-[PJZII69]:https://leetcode.cn/problems/B1IidL/
+[POFII69]:https://leetcode.cn/problems/B1IidL/
 
-[PMS0105]:https://leetcode.cn/problems/one-away-lcci/
+[PCI0105]:https://leetcode.cn/problems/one-away-lcci/
 
-[PMS0406]:https://leetcode.cn/problems/successor-lcci/
+[PCI0406]:https://leetcode.cn/problems/successor-lcci/
 
-[PMS1711]:https://leetcode.cn/problems/find-closest-lcci/
+[PCI1711]:https://leetcode.cn/problems/find-closest-lcci/
 
-[PMS1714]:https://leetcode.cn/problems/smallest-k-lcci/
+[PCI1714]:https://leetcode.cn/problems/smallest-k-lcci/
 
 [S10]:https://leetcode.cn/problems/regular-expression-matching/solution/cong-shi-bai-di-gui-dao-dong-tai-gui-hua-tncj/
 

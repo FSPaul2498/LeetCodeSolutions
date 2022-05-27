@@ -1,7 +1,7 @@
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-public class SMS0406 {
+public class SCI0406 {
     public TreeNode inorderSuccessor(TreeNode root, TreeNode p) {
         Deque<TreeNode> stack = new ArrayDeque<>();
         TreeNode prev = null, curr = root;

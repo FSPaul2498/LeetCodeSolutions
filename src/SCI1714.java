@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class SMS1714 {
+public class SCI1714 {
     public int[] smallestK(int[] arr, int k) {
         int[] result = new int[k];
         Arrays.sort(arr);

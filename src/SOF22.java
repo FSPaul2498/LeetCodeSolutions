@@ -1,4 +1,4 @@
-public class SJZ22 {
+public class SOF22 {
     public ListNode getKthFromEnd(ListNode head, int k) {
         ListNode result = head;
         while (k > 1) {

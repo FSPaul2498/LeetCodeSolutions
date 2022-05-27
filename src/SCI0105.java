@@ -1,4 +1,4 @@
-public class SMS0105 {
+public class SCI0105 {
     public boolean oneEditAway(String first, String second) {
         if (first.length() > second.length()) {
             String tmp = first;

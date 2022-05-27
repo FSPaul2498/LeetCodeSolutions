@@ -1,4 +1,4 @@
-public class SJZII69 {
+public class SOFII69 {
     public int peakIndexInMountainArray(int[] arr) {
         if (arr.length == 1) return 0;
         if (arr[0] > arr[1]) return 0;

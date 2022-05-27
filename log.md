@@ -354,6 +354,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #JZII69 | 山峰数组的顶部                             | 简单 | 2021-10-14 | [力扣][PJZII69] |                                                              |
 | #MS0105 | 一次编辑                                   | 中等 | 2022-05-13 | [力扣][PMS0105] |                                                              |
 | #MS0406 | 后继者                                     | 中等 | 2022-05-16 | [力扣][PMS0406] |                                                              |
+| #MS1711 | 单词距离                                   | 中等 | 2022-05-27 | [力扣][PMS1711] |                                                              |
 | #MS1714 | 最小K个数                                  | 中等 | 2021-09-03 | [力扣][PMS1714] |                                                              |
 
 [P1]:https://leetcode.cn/problems/two-sum/
@@ -1041,6 +1042,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [PMS0105]:https://leetcode.cn/problems/one-away-lcci/
 
 [PMS0406]:https://leetcode.cn/problems/successor-lcci/
+
+[PMS1711]:https://leetcode.cn/problems/find-closest-lcci/
 
 [PMS1714]:https://leetcode.cn/problems/smallest-k-lcci/
 

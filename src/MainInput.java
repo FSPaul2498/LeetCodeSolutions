@@ -1056,6 +1056,9 @@ public class MainInput {
             case 30406:
                 runMS0406();
                 break;
+            case 31711:
+                runMS1711();
+                break;
             case 31714:
                 runMS1714();
                 break;
@@ -3664,6 +3667,14 @@ public class MainInput {
         SMS0406 run = new SMS0406();
         TreeNode result = run.inorderSuccessor(root, p);
         print(result == null ? "null" : String.valueOf(result.val));
+    }
+
+    static void runMS1711() {
+        String[] words = {"I", "am", "a", "student", "from", "a", "university", "in", "a", "city"};
+        String word1 = "a", word2 = "student";
+        SMS1711 run = new SMS1711();
+        int result = run.findClosest(words, word1, word2);
+        print(result);
     }
 
     static void runMS1714() {

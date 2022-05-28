@@ -809,6 +809,9 @@ public class MainInput {
             case 1020:
                 run1020();
                 break;
+            case 1021:
+                run1021();
+                break;
             case 1034:
                 run1034();
                 break;
@@ -3061,6 +3064,13 @@ public class MainInput {
         int[][] grid = {{0, 0, 0, 0}, {1, 0, 1, 0}, {0, 1, 1, 0}, {0, 0, 0, 0}};
         S1020 run = new S1020();
         int result = run.numEnclaves(grid);
+        print(result);
+    }
+
+    static void run1021() {
+        String s = "(()())(())";
+        S1021 run = new S1021();
+        String result = run.removeOuterParentheses(s);
         print(result);
     }
 

@@ -150,6 +150,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #462    | 最少移动次数使数组元素相等 II              | 中等 | 2022-05-19 | [力扣][P462]    |                                                              |
 | #464    | 我能赢吗                                   | 中等 | 2022-05-22 | [力扣][P464]    | 本题有参考官方Java题解代码<br>[【我能赢吗】][S464]           |
 | #467    | 环绕字符串中唯一的子字符串                 | 中等 | 2022-05-25 | [力扣][P467]    |                                                              |
+| #468    | 验证IP地址                                 | 中等 | 2022-05-29 | [力扣][P468]    |                                                              |
 | #470    | 用 Rand7() 实现 Rand10()                   | 中等 | 2021-09-05 | [力扣][P470]    |                                                              |
 | #472    | 连接词                                     | 困难 | 2021-12-28 | [力扣][P472]    | 本题有参考官方Java题解代码<br>[【连接词】][S472]             |
 | #475    | 供暖器                                     | 中等 | 2021-12-20 | [力扣][P475]    |                                                              |
@@ -635,6 +636,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P464]:https://leetcode.cn/problems/can-i-win/
 
 [P467]:https://leetcode.cn/problems/unique-substrings-in-wraparound-string/
+
+[P468]:https://leetcode.cn/problems/validate-ip-address/
 
 [P470]:https://leetcode.cn/problems/implement-rand10-using-rand7/
 

@@ -434,6 +434,9 @@ public class MainInput {
             case 467:
                 run467();
                 break;
+            case 468:
+                run468();
+                break;
             case 470:
                 run470();
                 break;
@@ -2135,6 +2138,13 @@ public class MainInput {
         String p = "a";
         S467 run = new S467();
         int result = run.findSubstringInWraproundString(p);
+        print(result);
+    }
+
+    static void run468() {
+        String queryIP = "172.16.254.1";
+        S468 run = new S468();
+        String result = run.validIPAddress(queryIP);
         print(result);
     }
 

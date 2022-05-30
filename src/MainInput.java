@@ -815,6 +815,9 @@ public class MainInput {
             case 1021:
                 run1021();
                 break;
+            case 1022:
+                run1022();
+                break;
             case 1034:
                 run1034();
                 break;
@@ -3081,6 +3084,13 @@ public class MainInput {
         String s = "(()())(())";
         S1021 run = new S1021();
         String result = run.removeOuterParentheses(s);
+        print(result);
+    }
+
+    static void run1022() {
+        TreeNode root = TreeNode.stringToTreeNode("[1,0,1,0,1,0,1]");
+        S1022 run = new S1022();
+        int result = run.sumRootToLeaf(root);
         print(result);
     }
 

@@ -1057,6 +1057,9 @@ public class MainInput {
             case 21069:
                 runOFII69();
                 break;
+            case 21114:
+                runOFII114();
+                break;
             // 3XXXX for Case Interview
             // 面试题 01.01 -> 30101 -> CI0101
             case 30105:
@@ -3679,6 +3682,13 @@ public class MainInput {
         int[] arr = {0, 1, 0};
         SOFII69 run = new SOFII69();
         int result = run.peakIndexInMountainArray(arr);
+        print(result);
+    }
+
+    static void runOFII114() {
+        String[] words = {"wrt","wrf","er","ett","rftt"};
+        SOFII114 run = new SOFII114();
+        String result = run.alienOrder(words);
         print(result);
     }
 

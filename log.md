@@ -9,7 +9,7 @@ which I have solved and submitted the solution to LeetCode CN.
 
 ## 日志表格（1-500）
 
-| 序号     | 题目                                       | 难度 | 提交时间   | 链接             | 备注                                                         |
+| 序号     | 题目                                       | 难度 | 提交时间       | 链接             | 备注                                                         |
 |----------|--------------------------------------------|------|------------|------------------|--------------------------------------------------------------|
 | #1       | 两数之和                                   | 简单 | 2021-08-01 | [力扣][P1]       |                                                              |
 | #2       | 两数相加                                   | 中等 | 2021-08-02 | [力扣][P2]       |                                                              |
@@ -153,6 +153,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #468     | 验证IP地址                                 | 中等 | 2022-05-29 | [力扣][P468]     |                                                              |
 | #470     | 用 Rand7() 实现 Rand10()                   | 中等 | 2021-09-05 | [力扣][P470]     |                                                              |
 | #472     | 连接词                                     | 困难 | 2021-12-28 | [力扣][P472]     | 本题有参考官方Java题解代码<br>[【连接词】][S472]             |
+| #473     | 火柴拼正方形                               | 中等 | 2022-06-01 | [力扣][P473]     | 本题有参考官方Java题解代码<br>[【火柴拼正方形】][S473]       |
 | #475     | 供暖器                                     | 中等 | 2021-12-20 | [力扣][P475]     |                                                              |
 | #476     | 数字的补数                                 | 简单 | 2021-10-18 | [力扣][P476]     |                                                              |
 | #479     | 最大回文数乘积                             | 困难 | 2022-04-16 | [力扣][P479]     |                                                              |
@@ -665,6 +666,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P472]:https://leetcode.cn/problems/concatenated-words/
 
+[P473]:https://leetcode.cn/problems/matchsticks-to-square/
+
 [P475]:https://leetcode.cn/problems/heaters/
 
 [P476]:https://leetcode.cn/problems/number-complement/
@@ -1118,6 +1121,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S464]:https://leetcode.cn/problems/can-i-win/solution/wo-neng-ying-ma-by-leetcode-solution-ef5v/
 
 [S472]:https://leetcode.cn/problems/concatenated-words/solution/lian-jie-ci-by-leetcode-solution-mj4d/
+
+[S473]:https://leetcode.cn/problems/matchsticks-to-square/solution/huo-chai-pin-zheng-fang-xing-by-leetcode-szdp/
 
 [S488]:https://leetcode.cn/problems/zuma-game/solution/gong-shui-san-xie-yi-ti-shuang-jie-sou-s-3ftb/
 

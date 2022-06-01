@@ -443,6 +443,9 @@ public class MainInput {
             case 472:
                 run472();
                 break;
+            case 473:
+                run473();
+                break;
             case 475:
                 run475();
                 break;
@@ -2169,6 +2172,13 @@ public class MainInput {
         print(result);
     }
 
+    static void run473() {
+        int[] matchsticks = {1, 1, 2, 2, 2};
+        S473 run = new S473();
+        boolean result = run.makesquare(matchsticks);
+        print(result);
+    }
+
     static void run475() {
         int[] houses = {1, 2, 3}, heaters = {2};
         S475 run = new S475();
@@ -3686,7 +3696,7 @@ public class MainInput {
     }
 
     static void runOFII114() {
-        String[] words = {"wrt","wrf","er","ett","rftt"};
+        String[] words = {"wrt", "wrf", "er", "ett", "rftt"};
         SOFII114 run = new SOFII114();
         String result = run.alienOrder(words);
         print(result);

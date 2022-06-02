@@ -144,6 +144,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #446     | 等差数列划分 II - 子序列                   | 困难 | 2021-08-11 | [力扣][P446]     | 本题有参考官方Java题解代码<br>[【等差数列划分 II - 子序列】][S446] |
 | #447     | 回旋镖的数量                               | 中等 | 2021-09-13 | [力扣][P447]     |                                                              |
 | #449     | 序列化和反序列化二叉搜索树                 | 中等 | 2022-05-11 | [力扣][P449]     |                                                              |
+| #450     | 删除二叉搜索树中的节点                     | 中等 | 2022-06-02 | [力扣][P450]     |                                                              |
 | #453     | 最小操作次数使数组元素相等                 | 简单 | 2021-10-20 | [力扣][P453]     |                                                              |
 | #457     | 环形数组是否存在循环                       | 中等 | 2021-08-07 | [力扣][P457]     |                                                              |
 | #458     | 可怜的小猪                                 | 困难 | 2021-11-25 | [力扣][P458]     |                                                              |
@@ -647,6 +648,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P447]:https://leetcode.cn/problems/number-of-boomerangs/
 
 [P449]:https://leetcode.cn/problems/serialize-and-deserialize-bst/
+
+[P450]:https://leetcode.cn/problems/delete-node-in-a-bst/
 
 [P453]:https://leetcode.cn/problems/minimum-moves-to-equal-array-elements/
 

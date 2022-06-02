@@ -416,6 +416,9 @@ public class MainInput {
             case 449:
                 run449();
                 break;
+            case 450:
+                run450();
+                break;
             case 453:
                 run453();
                 break;
@@ -2106,6 +2109,14 @@ public class MainInput {
         TreeNode deserialized = run.deserialize(line);
         String serialized = run.serialize(deserialized);
         print(serialized);
+    }
+
+    static void run450() {
+        TreeNode root = TreeNode.stringToTreeNode("[5,3,6,2,4,null,7]");
+        int key = 3;
+        S450 run = new S450();
+        TreeNode result = run.deleteNode(root, key);
+        print(TreeNode.treeNodeToString(result));
     }
 
     static void run453() {

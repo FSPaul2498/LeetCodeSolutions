@@ -254,6 +254,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #821     | 字符的最短距离                             | 简单 | 2022-04-19 | [力扣][P821]     |                                                              |
 | #824     | 山羊拉丁文                                 | 简单 | 2022-04-21 | [力扣][P824]     |                                                              |
 | #825     | 适龄的朋友                                 | 中等 | 2021-12-27 | [力扣][P825]     |                                                              |
+| #829     | 连续整数求和                               | 困难 | 2022-06-03 | [力扣][P829]     |                                                              |
 | #838     | 推多米诺                                   | 中等 | 2022-02-21 | [力扣][P838]     |                                                              |
 | #846     | 一手顺子                                   | 中等 | 2021-12-30 | [力扣][P846]     |                                                              |
 | #847     | 访问所有节点的最短路径                     | 困难 | 2021-08-06 | [力扣][P847]     | 本题有参考官方Java题解代码<br>[【访问所有节点的最短路径】][S847] |
@@ -858,6 +859,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P824]:https://leetcode.cn/problems/goat-latin/
 
 [P825]:https://leetcode.cn/problems/friends-of-appropriate-ages/
+
+[P829]:https://leetcode.cn/problems/consecutive-numbers-sum/
 
 [P838]:https://leetcode.cn/problems/push-dominoes/
 

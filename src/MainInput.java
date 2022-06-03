@@ -731,6 +731,9 @@ public class MainInput {
             case 825:
                 run825();
                 break;
+            case 829:
+                run829();
+                break;
             case 838:
                 run838();
                 break;
@@ -2884,6 +2887,13 @@ public class MainInput {
         int[] ages = {16, 16};
         S825 run = new S825();
         int result = run.numFriendRequests(ages);
+        print(result);
+    }
+
+    static void run829() {
+        int n = 5;
+        S829 run = new S829();
+        int result = run.consecutiveNumbersSum(n);
         print(result);
     }
 

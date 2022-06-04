@@ -779,6 +779,9 @@ public class MainInput {
             case 917:
                 run917();
                 break;
+            case 929:
+                run929();
+                break;
             case 933:
                 run933();
                 break;
@@ -3007,6 +3010,13 @@ public class MainInput {
         String s = "ab-cd";
         S917 run = new S917();
         String result = run.reverseOnlyLetters(s);
+        print(result);
+    }
+
+    static void run929() {
+        String[] emails = {"test.email+alex@leetcode.com", "test.e.mail+bob.cathy@leetcode.com", "testemail+david@lee.tcode.com"};
+        S929 run = new S929();
+        int result = run.numUniqueEmails(emails);
         print(result);
     }
 

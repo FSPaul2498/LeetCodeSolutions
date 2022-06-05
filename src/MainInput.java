@@ -455,6 +455,9 @@ public class MainInput {
             case 476:
                 run476();
                 break;
+            case 478:
+                run478();
+                break;
             case 479:
                 run479();
                 break;
@@ -2210,6 +2213,13 @@ public class MainInput {
         print(result);
     }
 
+    static void run478() {
+        S478 run = new S478(1.0, 0.0, 0.0);
+        print(run.randPoint());
+        print(run.randPoint());
+        print(run.randPoint());
+    }
+
     static void run479() {
         int n = 5;
         S479 run = new S479();
@@ -3796,6 +3806,10 @@ public class MainInput {
 
     static void print(double input) {
         System.out.println(input);
+    }
+
+    static void print(double[] input) {
+        print(Arrays.toString(input));
     }
 
     static void print(char[] input) {

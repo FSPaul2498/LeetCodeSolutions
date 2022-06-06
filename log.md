@@ -233,6 +233,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #720 | 词典中最长的单词                           | 简单 | 2022-03-17 | [力扣][P720] |                                                              |
 | #725 | 分隔链表                                   | 中等 | 2021-09-22 | [力扣][P725] |                                                              |
 | #728 | 自除数                                     | 简单 | 2022-03-31 | [力扣][P728] |                                                              |
+| #732 | 我的日程安排表 III                          | 困难 | 2022-06-06 | [力扣][P732] | 本题有参考官方Java题解代码<br>[【我的日程安排表 III】][S732]  |
 | #743 | 网络延迟时间                               | 中等 | 2021-08-02 | [力扣][P743] |                                                              |
 | #744 | 寻找比目标字母大的最小字母                 | 简单 | 2022-04-03 | [力扣][P744] |                                                              |
 | #747 | 至少是其他数字两倍的最大数                 | 简单 | 2022-01-13 | [力扣][P747] |                                                              |
@@ -820,6 +821,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P728]:https://leetcode.cn/problems/self-dividing-numbers/
 
+[P732]:https://leetcode.cn/problems/my-calendar-iii/
+
 [P743]:https://leetcode.cn/problems/network-delay-time/
 
 [P744]:https://leetcode.cn/problems/find-smallest-letter-greater-than-target/
@@ -1167,6 +1170,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S691]:https://leetcode.cn/problems/stickers-to-spell-word/solution/tie-zhi-pin-ci-by-leetcode-solution-9g3z/
 
 [S699]:https://leetcode.cn/problems/falling-squares/solution/diao-luo-de-fang-kuai-by-leetcode-soluti-2dmw/
+
+[S732]:https://leetcode.cn/problems/my-calendar-iii/solution/wo-de-ri-cheng-an-pai-biao-iii-by-leetco-9rif/
 
 [S787]:https://leetcode.cn/problems/cheapest-flights-within-k-stops/solution/k-zhan-zhong-zhuan-nei-zui-bian-yi-de-ha-abzi/
 

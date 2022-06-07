@@ -761,6 +761,9 @@ public class MainInput {
             case 869:
                 run869();
                 break;
+            case 875:
+                run875();
+                break;
             case 881:
                 run881();
                 break;
@@ -2971,6 +2974,14 @@ public class MainInput {
         int n = 1;
         S869 run = new S869();
         boolean result = run.reorderedPowerOf2(n);
+        print(result);
+    }
+
+    static void run875() {
+        int[] piles = {3, 6, 7, 11};
+        int h = 8;
+        S875 run = new S875();
+        int result = run.minEatingSpeed(piles, h);
         print(result);
     }
 

@@ -264,6 +264,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #859 | 亲密字符串                                 | 简单 | 2021-11-23 | [力扣][P859] |                                                              |
 | #868 | 二进制间距                                 | 简单 | 2022-04-24 | [力扣][P868] |                                                              |
 | #869 | 重新排序得到 2 的幂                        | 中等 | 2021-10-28 | [力扣][P869] | 本题有参考官方Java题解代码<br>[【重新排序得到 2 的幂】][S869] |
+| #875 | 爱吃香蕉的珂珂                             | 中等 | 2022-06-07 | [力扣][P875] |                                                              |
 | #881 | 救生艇                                     | 中等 | 2021-08-26 | [力扣][P881] |                                                              |
 | #883 | 三维形体投影面积                           | 简单 | 2022-04-26 | [力扣][P883] |                                                              |
 | #884 | 两句话中的不常见单词                       | 简单 | 2022-01-30 | [力扣][P884] |                                                              |
@@ -882,6 +883,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P868]:https://leetcode.cn/problems/binary-gap/
 
 [P869]:https://leetcode.cn/problems/reordered-power-of-2/
+
+[P875]:https://leetcode.cn/problems/koko-eating-bananas/
 
 [P881]:https://leetcode.cn/problems/boats-to-save-people/
 

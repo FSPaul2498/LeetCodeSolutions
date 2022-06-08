@@ -845,6 +845,9 @@ public class MainInput {
             case 1036:
                 run1036();
                 break;
+            case 1037:
+                run1037();
+                break;
             case 1044:
                 run1044();
                 break;
@@ -3185,6 +3188,13 @@ public class MainInput {
         int[] source = {0, 0}, target = {0, 2};
         S1036 run = new S1036();
         boolean result = run.isEscapePossible(blocked, source, target);
+        print(result);
+    }
+
+    static void run1037() {
+        int[][] points = {{1, 1}, {2, 3}, {3, 2}};
+        S1037 run = new S1037();
+        boolean result = run.isBoomerang(points);
         print(result);
     }
 

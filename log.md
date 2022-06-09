@@ -164,6 +164,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #492 | 构造矩形                                   | 简单 | 2021-10-23 | [力扣][P492] |                                                              |
 | #495 | 提莫攻击                                   | 简单 | 2021-11-10 | [力扣][P495] |                                                              |
 | #496 | 下一个更大元素 I                           | 简单 | 2021-10-26 | [力扣][P496] |                                                              |
+| #497 | 非重叠矩形中的随机点                       | 中等 | 2022-06-09 | [力扣][P497] | 本题有参考官方Java题解代码<br>[【非重叠矩形中的随机点】][S497] |
 | #500 | 键盘行                                     | 简单 | 2021-10-31 | [力扣][P500] |                                                              |
 
 ## 日志表格（501-999）
@@ -695,6 +696,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P496]:https://leetcode.cn/problems/next-greater-element-i/
 
+[P497]:https://leetcode.cn/problems/random-point-in-non-overlapping-rectangles/
+
 [P500]:https://leetcode.cn/problems/keyboard-row/
 
 [P502]:https://leetcode.cn/problems/ipo/
@@ -1146,6 +1149,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S473]:https://leetcode.cn/problems/matchsticks-to-square/solution/huo-chai-pin-zheng-fang-xing-by-leetcode-szdp/
 
 [S488]:https://leetcode.cn/problems/zuma-game/solution/gong-shui-san-xie-yi-ti-shuang-jie-sou-s-3ftb/
+
+[S497]:https://leetcode.cn/problems/random-point-in-non-overlapping-rectangles/solution/fei-zhong-die-ju-xing-zhong-de-sui-ji-di-6s33/
 
 [S526]:https://leetcode.cn/problems/beautiful-arrangement/solution/you-mei-de-pai-lie-by-leetcode-solution-vea2/
 

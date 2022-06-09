@@ -476,6 +476,9 @@ public class MainInput {
             case 496:
                 run496();
                 break;
+            case 497:
+                run497();
+                break;
             case 500:
                 run500();
                 break;
@@ -2272,6 +2275,15 @@ public class MainInput {
         S496 run = new S496();
         int[] result = run.nextGreaterElement(nums1, nums2);
         print(result);
+    }
+
+    static void run497() {
+        S497 run = new S497(new int[][]{{-2, -2, 1, 1}, {2, 2, 4, 6}});
+        print(run.pick());
+        print(run.pick());
+        print(run.pick());
+        print(run.pick());
+        print(run.pick());
     }
 
     static void run500() {

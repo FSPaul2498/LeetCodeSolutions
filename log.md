@@ -234,6 +234,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #720 | 词典中最长的单词                           | 简单 | 2022-03-17 | [力扣][P720] |                                                              |
 | #725 | 分隔链表                                   | 中等 | 2021-09-22 | [力扣][P725] |                                                              |
 | #728 | 自除数                                     | 简单 | 2022-03-31 | [力扣][P728] |                                                              |
+| #730 | 统计不同回文子序列                         | 困难 | 2022-06-10 | [力扣][P730] | 本题有参考官方Java题解代码<br>[【统计不同回文子序列】][S730] |
 | #732 | 我的日程安排表 III                          | 困难 | 2022-06-06 | [力扣][P732] | 本题有参考官方Java题解代码<br>[【我的日程安排表 III】][S732]  |
 | #743 | 网络延迟时间                               | 中等 | 2021-08-02 | [力扣][P743] |                                                              |
 | #744 | 寻找比目标字母大的最小字母                 | 简单 | 2022-04-03 | [力扣][P744] |                                                              |
@@ -826,6 +827,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P728]:https://leetcode.cn/problems/self-dividing-numbers/
 
+[P730]:https://leetcode.cn/problems/count-different-palindromic-subsequences/
+
 [P732]:https://leetcode.cn/problems/my-calendar-iii/
 
 [P743]:https://leetcode.cn/problems/network-delay-time/
@@ -1181,6 +1184,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S691]:https://leetcode.cn/problems/stickers-to-spell-word/solution/tie-zhi-pin-ci-by-leetcode-solution-9g3z/
 
 [S699]:https://leetcode.cn/problems/falling-squares/solution/diao-luo-de-fang-kuai-by-leetcode-soluti-2dmw/
+
+[S730]:https://leetcode.cn/problems/count-different-palindromic-subsequences/solution/tong-ji-bu-tong-hui-wen-zi-xu-lie-by-lee-7slg/
 
 [S732]:https://leetcode.cn/problems/my-calendar-iii/solution/wo-de-ri-cheng-an-pai-biao-iii-by-leetco-9rif/
 

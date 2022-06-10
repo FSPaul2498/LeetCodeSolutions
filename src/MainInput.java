@@ -671,6 +671,9 @@ public class MainInput {
             case 728:
                 run728();
                 break;
+            case 730:
+                run730();
+                break;
             case 732:
                 run732();
                 break;
@@ -2758,6 +2761,13 @@ public class MainInput {
         int left = 1, right = 22;
         S728 run = new S728();
         List<Integer> result = run.selfDividingNumbers(left, right);
+        print(result);
+    }
+
+    static void run730() {
+        String s = "bccb";
+        S730 run = new S730();
+        int result = run.countPalindromicSubsequences(s);
         print(result);
     }
 

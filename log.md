@@ -275,6 +275,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #911 | 在线选举                                   | 中等 | 2021-12-11 | [力扣][P911] |                                                              |
 | #913 | 猫和老鼠                                   | 困难 | 2022-01-04 | [力扣][P913] | 本题有参考官方Java题解代码<br>[【猫和老鼠】][S913]           |
 | #917 | 仅仅反转字母                               | 简单 | 2022-02-23 | [力扣][P917] |                                                              |
+| #926 | 将字符串翻转到单调递增                     | 中等 | 2022-06-11 | [力扣][P926] |                                                              |
 | #929 | 独特的电子邮件地址                         | 简单 | 2022-06-04 | [力扣][P929] |                                                              |
 | #933 | 最近的请求次数                             | 简单 | 2022-05-06 | [力扣][P933] |                                                              |
 | #937 | 重新排列日志文件                           | 简单 | 2022-05-03 | [力扣][P937] |                                                              |
@@ -908,6 +909,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P913]:https://leetcode.cn/problems/cat-and-mouse/
 
 [P917]:https://leetcode.cn/problems/reverse-only-letters/
+
+[P926]:https://leetcode.cn/problems/flip-string-to-monotone-increasing/
 
 [P929]:https://leetcode.cn/problems/unique-email-addresses/
 

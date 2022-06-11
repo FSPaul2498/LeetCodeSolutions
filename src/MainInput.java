@@ -794,6 +794,9 @@ public class MainInput {
             case 917:
                 run917();
                 break;
+            case 926:
+                run926();
+                break;
             case 929:
                 run929();
                 break;
@@ -3069,6 +3072,13 @@ public class MainInput {
         String s = "ab-cd";
         S917 run = new S917();
         String result = run.reverseOnlyLetters(s);
+        print(result);
+    }
+
+    static void run926() {
+        String s = "00110";
+        S926 run = new S926();
+        int result = run.minFlipsMonoIncr(s);
         print(result);
     }
 

@@ -779,6 +779,9 @@ public class MainInput {
             case 884:
                 run884();
                 break;
+            case 890:
+                run890();
+                break;
             case 905:
                 run905();
                 break;
@@ -3032,6 +3035,14 @@ public class MainInput {
         String s1 = "this apple is sweet", s2 = "this apple is sour";
         S884 run = new S884();
         String[] result = run.uncommonFromSentences(s1, s2);
+        print(result);
+    }
+
+    static void run890() {
+        String[] words = {"abc", "deq", "mee", "aqq", "dkd", "ccc"};
+        String pattern = "abb";
+        S890 run = new S890();
+        List<String> result = run.findAndReplacePattern(words, pattern);
         print(result);
     }
 

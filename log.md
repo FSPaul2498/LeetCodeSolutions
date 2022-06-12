@@ -270,6 +270,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #881 | 救生艇                                     | 中等 | 2021-08-26 | [力扣][P881] |                                                              |
 | #883 | 三维形体投影面积                           | 简单 | 2022-04-26 | [力扣][P883] |                                                              |
 | #884 | 两句话中的不常见单词                       | 简单 | 2022-01-30 | [力扣][P884] |                                                              |
+| #890 | 查找和替换模式                             | 中等 | 2022-06-12 | [力扣][P890] |                                                              |
 | #905 | 按奇偶排序数组                             | 简单 | 2022-04-28 | [力扣][P905] |                                                              |
 | #908 | 最小差值 I                                 | 简单 | 2022-04-30 | [力扣][P908] |                                                              |
 | #911 | 在线选举                                   | 中等 | 2021-12-11 | [力扣][P911] |                                                              |
@@ -899,6 +900,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P883]:https://leetcode.cn/problems/projection-area-of-3d-shapes/
 
 [P884]:https://leetcode.cn/problems/uncommon-words-from-two-sentences/
+
+[P890]:https://leetcode.cn/problems/find-and-replace-pattern/
 
 [P905]:https://leetcode.cn/problems/sort-array-by-parity/
 

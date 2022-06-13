@@ -863,6 +863,9 @@ public class MainInput {
             case 1044:
                 run1044();
                 break;
+            case 1051:
+                run1051();
+                break;
             case 1078:
                 run1078();
                 break;
@@ -3245,6 +3248,13 @@ public class MainInput {
         String s = "banana";
         S1044 run = new S1044();
         String result = run.longestDupSubstring(s);
+        print(result);
+    }
+
+    static void run1051() {
+        int[] heights = {1, 1, 4, 2, 1, 3};
+        S1051 run = new S1051();
+        int result = run.heightChecker(heights);
         print(result);
     }
 

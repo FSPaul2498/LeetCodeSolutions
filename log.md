@@ -303,6 +303,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1036 | 逃离大迷宫                                 | 困难 | 2022-01-11 | [力扣][P1036] | 本题有参考官方Java题解代码<br>[【逃离大迷宫】][S1036]        |
 | #1037 | 有效的回旋镖                               | 简单 | 2022-06-08 | [力扣][P1037] |                                                              |
 | #1044 | 最长重复子串                               | 困难 | 2021-12-23 | [力扣][P1044] | 本题有参考官方Java题解代码<br>[【最长重复子串】][S1044]      |
+| #1051 | 高度检查器                                 | 简单 | 2022-06-13 | [力扣][P1051] |                                                              |
 | #1078 | Bigram 分词                                | 简单 | 2021-12-26 | [力扣][P1078] |                                                              |
 | #1109 | 航班预订统计                               | 中等 | 2021-08-31 | [力扣][P1109] |                                                              |
 | #1137 | 第 N 个泰波那契数                          | 简单 | 2021-08-08 | [力扣][P1137] |                                                              |
@@ -956,6 +957,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1037]:https://leetcode.cn/problems/valid-boomerang/
 
 [P1044]:https://leetcode.cn/problems/longest-duplicate-substring/
+
+[P1051]:https://leetcode.cn/problems/height-checker/
 
 [P1078]:https://leetcode.cn/problems/occurrences-after-bigram/
 

@@ -479,6 +479,9 @@ public class MainInput {
             case 497:
                 run497();
                 break;
+            case 498:
+                run498();
+                break;
             case 500:
                 run500();
                 break;
@@ -2296,6 +2299,13 @@ public class MainInput {
         print(run.pick());
         print(run.pick());
         print(run.pick());
+    }
+
+    static void run498() {
+        int[][] mat = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+        S498 run = new S498();
+        int[] result = run.findDiagonalOrder(mat);
+        print(result);
     }
 
     static void run500() {

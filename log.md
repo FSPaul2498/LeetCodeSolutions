@@ -165,6 +165,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #495 | 提莫攻击                                   | 简单 | 2021-11-10 | [力扣][P495] |                                                              |
 | #496 | 下一个更大元素 I                           | 简单 | 2021-10-26 | [力扣][P496] |                                                              |
 | #497 | 非重叠矩形中的随机点                       | 中等 | 2022-06-09 | [力扣][P497] | 本题有参考官方Java题解代码<br>[【非重叠矩形中的随机点】][S497] |
+| #498 | 对角线遍历                                 | 中等 | 2022-06-14 | [力扣][P498] |                                                              |
 | #500 | 键盘行                                     | 简单 | 2021-10-31 | [力扣][P500] |                                                              |
 
 ## 日志表格（501-999）
@@ -701,6 +702,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P496]:https://leetcode.cn/problems/next-greater-element-i/
 
 [P497]:https://leetcode.cn/problems/random-point-in-non-overlapping-rectangles/
+
+[P498]:https://leetcode.cn/problems/diagonal-traverse/
 
 [P500]:https://leetcode.cn/problems/keyboard-row/
 

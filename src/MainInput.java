@@ -665,6 +665,9 @@ public class MainInput {
             case 717:
                 run717();
                 break;
+            case 719:
+                run719();
+                break;
             case 720:
                 run720();
                 break;
@@ -2757,6 +2760,14 @@ public class MainInput {
         int[] bits = {1, 0, 0};
         S717 run = new S717();
         boolean result = run.isOneBitCharacter(bits);
+        print(result);
+    }
+
+    static void run719() {
+        int[] nums = {1, 3, 1};
+        int k = 1;
+        S719 run = new S719();
+        int result = run.smallestDistancePair(nums, k);
         print(result);
     }
 

@@ -521,6 +521,9 @@ public class MainInput {
             case 528:
                 run528();
                 break;
+            case 532:
+                run532();
+                break;
             case 537:
                 run537();
                 break;
@@ -2406,6 +2409,14 @@ public class MainInput {
         int[] result = new int[w.length];
         for (int i = 0; i < 10000; i++)
             result[run.pickIndex()]++;
+        print(result);
+    }
+
+    static void run532() {
+        int[] nums = {3, 1, 4, 1, 5};
+        int k = 2;
+        S532 run = new S532();
+        int result = run.findPairs(nums, k);
         print(result);
     }
 

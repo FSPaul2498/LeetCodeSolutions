@@ -878,6 +878,9 @@ public class MainInput {
             case 1078:
                 run1078();
                 break;
+            case 1089:
+                run1089();
+                break;
             case 1109:
                 run1109();
                 break;
@@ -3295,6 +3298,13 @@ public class MainInput {
         S1078 run = new S1078();
         String[] result = run.findOcurrences(text, first, second);
         print(result);
+    }
+
+    static void run1089() {
+        int[] arr = {1, 0, 2, 3, 0, 4, 5, 0};
+        S1089 run = new S1089();
+        run.duplicateZeros(arr);
+        print(arr);
     }
 
     static void run1109() {

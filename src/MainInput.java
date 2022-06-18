@@ -3862,10 +3862,10 @@ public class MainInput {
     }
 
     static void runOFII29() {
-        ListNode head = ListNode.makeCircularList(new int[]{3, 4, 1});
+        Node head = Node.makeCircularList(new int[]{3, 4, 1});
         int insertVal = 2;
         SOFII29 run = new SOFII29();
-        ListNode result = run.insert(head, insertVal);
+        Node result = run.insert(head, insertVal);
         print(result);
     }
 
@@ -3970,6 +3970,10 @@ public class MainInput {
 
     static void print(List<?> input) {
         System.out.println(input);
+    }
+
+    static void print(Node head) {
+        for (Node now = head; now != null; now = now.next) System.out.print(now.val + " ");
     }
 
     static void print(ListNode head) {

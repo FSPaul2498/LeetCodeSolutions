@@ -1,6 +1,6 @@
 public class SOFII29 {
-    public ListNode insert(ListNode head, int insertVal) {
-        ListNode insert = new ListNode(insertVal);
+    public Node insert(Node head, int insertVal) {
+        Node insert = new Node(insertVal);
         if (head == null) {
             insert.next = insert;
             return insert;
@@ -10,7 +10,7 @@ public class SOFII29 {
             insert.next = head;
             return head;
         }
-        ListNode curr = head, next = head.next;
+        Node curr = head, next = head.next;
         while (next != head) {
             if (insertVal >= curr.val && insertVal <= next.val) break;
             if (curr.val > next.val && (insertVal > curr.val || insertVal < next.val)) break;

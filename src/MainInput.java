@@ -1105,6 +1105,9 @@ public class MainInput {
             case 20022:
                 runOF22();
                 break;
+            case 21029:
+                runOFII29();
+                break;
             case 21069:
                 runOFII69();
                 break;
@@ -3855,6 +3858,14 @@ public class MainInput {
         ListNode head = ListNode.makeList(nums);
         SOF22 run = new SOF22();
         ListNode result = run.getKthFromEnd(head, k);
+        print(result);
+    }
+
+    static void runOFII29() {
+        ListNode head = ListNode.makeCircularList(new int[]{3, 4, 1});
+        int insertVal = 2;
+        SOFII29 run = new SOFII29();
+        ListNode result = run.insert(head, insertVal);
         print(result);
     }
 

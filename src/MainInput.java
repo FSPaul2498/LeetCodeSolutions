@@ -497,6 +497,9 @@ public class MainInput {
             case 507:
                 run507();
                 break;
+            case 508:
+                run508();
+                break;
             case 516:
                 run516();
                 break;
@@ -2353,6 +2356,13 @@ public class MainInput {
         int num = 28;
         S507 run = new S507();
         boolean result = run.checkPerfectNumber(num);
+        print(result);
+    }
+
+    static void run508() {
+        TreeNode root = TreeNode.stringToTreeNode("[5,2,-3]");
+        S508 run = new S508();
+        int[] result = run.findFrequentTreeSum(root);
         print(result);
     }
 

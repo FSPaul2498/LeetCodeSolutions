@@ -668,6 +668,9 @@ public class MainInput {
             case 713:
                 run713();
                 break;
+            case 715:
+                run715();
+                break;
             case 717:
                 run717();
                 break;
@@ -2781,6 +2784,15 @@ public class MainInput {
         S713 run = new S713();
         int result = run.numSubarrayProductLessThanK(nums, k);
         print(result);
+    }
+
+    static void run715() {
+        RangeModule run = new RangeModule();
+        run.addRange(10, 20);
+        run.removeRange(14, 16);
+        print(run.queryRange(10, 14));
+        print(run.queryRange(13, 15));
+        print(run.queryRange(16, 17));
     }
 
     static void run717() {

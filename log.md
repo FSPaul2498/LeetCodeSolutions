@@ -233,6 +233,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #704 | 二分查找                                   | 简单 | 2021-09-06 | [力扣][P704] |                                                              |
 | #709 | 转换成小写字母                             | 简单 | 2021-12-12 | [力扣][P709] |                                                              |
 | #713 | 乘积小于 K 的子数组                        | 中等 | 2022-05-05 | [力扣][P713] |                                                              |
+| #715 | Range 模块                                 | 困难 | 2022-06-20 | [力扣][P715] | 本题有参考官方Java题解代码<br>[【Range 模块】][S715]         |
 | #717 | 1比特与2比特字符                           | 简单 | 2022-02-20 | [力扣][P717] |                                                              |
 | #719 | 找出第 K 小的数对距离                      | 困难 | 2022-06-15 | [力扣][P719] | 本题有参考官方Java题解代码<br>[【找出第 K 小的数对距离】][S719] |
 | #720 | 词典中最长的单词                           | 简单 | 2022-03-17 | [力扣][P720] |                                                              |
@@ -834,6 +835,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P713]:https://leetcode.cn/problems/subarray-product-less-than-k/
 
+[P715]:https://leetcode.cn/problems/range-module/
+
 [P717]:https://leetcode.cn/problems/1-bit-and-2-bit-characters/
 
 [P719]:https://leetcode.cn/problems/find-k-th-smallest-pair-distance/
@@ -1211,6 +1214,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S691]:https://leetcode.cn/problems/stickers-to-spell-word/solution/tie-zhi-pin-ci-by-leetcode-solution-9g3z/
 
 [S699]:https://leetcode.cn/problems/falling-squares/solution/diao-luo-de-fang-kuai-by-leetcode-soluti-2dmw/
+
+[S715]:https://leetcode.cn/problems/range-module/solution/range-mo-kuai-by-leetcode-solution-4utf/
 
 [S719]:https://leetcode.cn/problems/find-k-th-smallest-pair-distance/solution/zhao-chu-di-k-xiao-de-shu-dui-ju-chi-by-xwfgf/
 

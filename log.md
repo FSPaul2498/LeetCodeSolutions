@@ -311,6 +311,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1051 | 高度检查器                                 | 简单 | 2022-06-13 | [力扣][P1051] |                                                              |
 | #1078 | Bigram 分词                                | 简单 | 2021-12-26 | [力扣][P1078] |                                                              |
 | #1089 | 复写零                                     | 简单 | 2022-06-17 | [力扣][P1089] |                                                              |
+| #1108 | IP 地址无效化                              | 简单 | 2022-06-21 | [力扣][P1108] |                                                              |
 | #1109 | 航班预订统计                               | 中等 | 2021-08-31 | [力扣][P1109] |                                                              |
 | #1137 | 第 N 个泰波那契数                          | 简单 | 2021-08-08 | [力扣][P1137] |                                                              |
 | #1154 | 一年中的第几天                             | 简单 | 2021-12-21 | [力扣][P1154] |                                                              |
@@ -980,6 +981,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1078]:https://leetcode.cn/problems/occurrences-after-bigram/
 
 [P1089]:https://leetcode.cn/problems/duplicate-zeros/
+
+[P1108]:https://leetcode.cn/problems/defanging-an-ip-address/
 
 [P1109]:https://leetcode.cn/problems/corporate-flight-bookings/
 

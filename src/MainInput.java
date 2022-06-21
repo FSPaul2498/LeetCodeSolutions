@@ -887,6 +887,9 @@ public class MainInput {
             case 1089:
                 run1089();
                 break;
+            case 1108:
+                run1108();
+                break;
             case 1109:
                 run1109();
                 break;
@@ -3330,6 +3333,13 @@ public class MainInput {
         S1089 run = new S1089();
         run.duplicateZeros(arr);
         print(arr);
+    }
+
+    static void run1108() {
+        String address = "1.1.1.1";
+        S1108 run = new S1108();
+        String result = run.defangIPaddr(address);
+        print(result);
     }
 
     static void run1109() {

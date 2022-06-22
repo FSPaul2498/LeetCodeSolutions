@@ -177,6 +177,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #506 | 相对名次                                   | 简单 | 2021-12-02 | [力扣][P506] |                                                              |
 | #507 | 完美数                                     | 简单 | 2021-12-31 | [力扣][P507] |                                                              |
 | #508 | 出现次数最多的子树元素和                   | 中等 | 2022-06-19 | [力扣][P508] |                                                              |
+| #513 | 找树左下角的值                             | 中等 | 2022-06-22 | [力扣][P513] |                                                              |
 | #516 | 最长回文子序列                             | 中等 | 2021-08-12 | [力扣][P516] |                                                              |
 | #517 | 超级洗衣机                                 | 困难 | 2021-09-29 | [力扣][P517] |                                                              |
 | #519 | 随机翻转矩阵                               | 中等 | 2021-11-27 | [力扣][P519] |                                                              |
@@ -723,6 +724,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P507]:https://leetcode.cn/problems/perfect-number/
 
 [P508]:https://leetcode.cn/problems/most-frequent-subtree-sum/
+
+[P513]:https://leetcode.cn/problems/find-bottom-left-tree-value/
 
 [P516]:https://leetcode.cn/problems/longest-palindromic-subsequence/
 

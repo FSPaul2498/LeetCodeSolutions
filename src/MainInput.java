@@ -500,6 +500,9 @@ public class MainInput {
             case 508:
                 run508();
                 break;
+            case 513:
+                run513();
+                break;
             case 516:
                 run516();
                 break;
@@ -2369,6 +2372,13 @@ public class MainInput {
         TreeNode root = TreeNode.stringToTreeNode("[5,2,-3]");
         S508 run = new S508();
         int[] result = run.findFrequentTreeSum(root);
+        print(result);
+    }
+
+    static void run513() {
+        TreeNode root = TreeNode.stringToTreeNode("[2,1,3]");
+        S513 run = new S513();
+        int result = run.findBottomLeftValue(root);
         print(result);
     }
 

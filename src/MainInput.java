@@ -158,6 +158,9 @@ public class MainInput {
             case 47:
                 run47();
                 break;
+            case 48:
+                run48();
+                break;
             case 58:
                 run58();
                 break;
@@ -1511,6 +1514,13 @@ public class MainInput {
         S47 run = new S47();
         List<List<Integer>> result = run.permuteUnique(nums);
         print(result);
+    }
+
+    static void run48() {
+        int[][] matrix = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+        S48 run = new S48();
+        run.rotate(matrix);
+        print(matrix);
     }
 
     static void run58() {

@@ -399,6 +399,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #OF22    | 链表中倒数第k个节点                        | 简单 | 2021-09-02 | [力扣][POF22]    |                                                              |
 | #OFII29  | 排序的循环链表                             | 中等 | 2022-06-18 | [力扣][POFII29]  |                                                              |
 | #OFII69  | 山峰数组的顶部                             | 简单 | 2021-10-14 | [力扣][POFII69]  |                                                              |
+| #OFII91  | 粉刷房子                                   | 中等 | 2022-06-25 | [力扣][POFII91]  |                                                              |
 | #OFII114 | 外星文字典                                 | 困难 | 2022-05-31 | [力扣][POFII114] | 本题有参考官方Java题解代码<br>[【外星文字典】][SOFII114]     |
 | #CI0105  | 一次编辑                                   | 中等 | 2022-05-13 | [力扣][PCI0105]  |                                                              |
 | #CI0406  | 后继者                                     | 中等 | 2022-05-16 | [力扣][PCI0406]  |                                                              |
@@ -1140,6 +1141,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [POFII29]:https://leetcode.cn/problems/4ueAj6/
 
 [POFII69]:https://leetcode.cn/problems/B1IidL/
+
+[POFII91]:https://leetcode.cn/problems/JEj789/
 
 [POFII114]:https://leetcode.cn/problems/Jf1JuT/
 

@@ -1129,6 +1129,9 @@ public class MainInput {
             case 21069:
                 runOFII69();
                 break;
+            case 21091:
+                runOFII91();
+                break;
             case 21114:
                 runOFII114();
                 break;
@@ -3935,6 +3938,13 @@ public class MainInput {
         int[] arr = {0, 1, 0};
         SOFII69 run = new SOFII69();
         int result = run.peakIndexInMountainArray(arr);
+        print(result);
+    }
+
+    static void runOFII91() {
+        int[][] costs = {{17, 2, 17}, {16, 16, 5}, {14, 3, 19}};
+        SOFII91 run = new SOFII91();
+        int result = run.minCost(costs);
         print(result);
     }
 

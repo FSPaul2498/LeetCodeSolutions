@@ -235,6 +235,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #700 | 二叉搜索树中的搜索                         | 简单 | 2021-11-26 | [力扣][P700] |                                                              |
 | #704 | 二分查找                                   | 简单 | 2021-09-06 | [力扣][P704] |                                                              |
 | #709 | 转换成小写字母                             | 简单 | 2021-12-12 | [力扣][P709] |                                                              |
+| #710 | 黑名单中的随机数                           | 困难 | 2022-06-26 | [力扣][P710] |                                                              |
 | #713 | 乘积小于 K 的子数组                        | 中等 | 2022-05-05 | [力扣][P713] |                                                              |
 | #715 | Range 模块                                 | 困难 | 2022-06-20 | [力扣][P715] | 本题有参考官方Java题解代码<br>[【Range 模块】][S715]         |
 | #717 | 1比特与2比特字符                           | 简单 | 2022-02-20 | [力扣][P717] |                                                              |
@@ -843,6 +844,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P704]:https://leetcode.cn/problems/binary-search/
 
 [P709]:https://leetcode.cn/problems/to-lower-case/
+
+[P710]:https://leetcode.cn/problems/random-pick-with-blacklist/
 
 [P713]:https://leetcode.cn/problems/subarray-product-less-than-k/
 

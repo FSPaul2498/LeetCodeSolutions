@@ -674,6 +674,9 @@ public class MainInput {
             case 709:
                 run709();
                 break;
+            case 710:
+                run710();
+                break;
             case 713:
                 run713();
                 break;
@@ -2812,6 +2815,19 @@ public class MainInput {
         S709 run = new S709();
         String result = run.toLowerCase(s);
         print(result);
+    }
+
+    static void run710() {
+        int n = 7;
+        int[] blacklist = {2, 3, 5};
+        S710 run = new S710(n, blacklist);
+        print(run.pick());
+        print(run.pick());
+        print(run.pick());
+        print(run.pick());
+        print(run.pick());
+        print(run.pick());
+        print(run.pick());
     }
 
     static void run713() {

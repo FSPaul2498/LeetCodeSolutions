@@ -524,6 +524,9 @@ public class MainInput {
             case 521:
                 run521();
                 break;
+            case 522:
+                run522();
+                break;
             case 524:
                 run524();
                 break;
@@ -2442,6 +2445,13 @@ public class MainInput {
         String a = "aba", b = "cdc";
         S521 run = new S521();
         int result = run.findLUSlength(a, b);
+        print(result);
+    }
+
+    static void run522() {
+        String[] strs = {"aba", "cdc", "eae"};
+        S522 run = new S522();
+        int result = run.findLUSlength(strs);
         print(result);
     }
 

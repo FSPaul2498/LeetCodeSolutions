@@ -185,6 +185,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #519 | 随机翻转矩阵                               | 中等 | 2021-11-27 | [力扣][P519] |                                                              |
 | #520 | 检测大写字母                               | 简单 | 2021-11-13 | [力扣][P520] |                                                              |
 | #521 | 最长特殊序列 Ⅰ                            | 简单 | 2022-03-05 | [力扣][P521] |                                                              |
+| #522 | 最长特殊序列 II                            | 中等 | 2022-06-27 | [力扣][P522] | 本题有参考官方Java题解代码<br>[【最长特殊序列 II】][S522]    |
 | #524 | 通过删除字母匹配到字典里最长单词           | 中等 | 2021-09-14 | [力扣][P524] |                                                              |
 | #526 | 优美的排列                                 | 中等 | 2021-08-16 | [力扣][P526] | 本题有参考官方Java题解代码<br>[【优美的排列】][S526]         |
 | #528 | 按权重随机选择                             | 中等 | 2021-08-30 | [力扣][P528] |                                                              |
@@ -745,6 +746,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P521]:https://leetcode.cn/problems/longest-uncommon-subsequence-i/
 
+[P522]:https://leetcode.cn/problems/longest-uncommon-subsequence-ii/
+
 [P524]:https://leetcode.cn/problems/longest-word-in-dictionary-through-deleting/
 
 [P526]:https://leetcode.cn/problems/beautiful-arrangement/
@@ -1202,6 +1205,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S488]:https://leetcode.cn/problems/zuma-game/solution/gong-shui-san-xie-yi-ti-shuang-jie-sou-s-3ftb/
 
 [S497]:https://leetcode.cn/problems/random-point-in-non-overlapping-rectangles/solution/fei-zhong-die-ju-xing-zhong-de-sui-ji-di-6s33/
+
+[S522]:https://leetcode.cn/problems/longest-uncommon-subsequence-ii/solution/zui-chang-te-shu-xu-lie-ii-by-leetcode-s-bo2e/
 
 [S526]:https://leetcode.cn/problems/beautiful-arrangement/solution/you-mei-de-pai-lie-by-leetcode-solution-vea2/
 

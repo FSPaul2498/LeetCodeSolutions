@@ -269,6 +269,9 @@ public class MainInput {
             case 319:
                 run319();
                 break;
+            case 324:
+                run324();
+                break;
             case 326:
                 run326();
                 break;
@@ -1811,6 +1814,13 @@ public class MainInput {
         S319 run = new S319();
         int result = run.bulbSwitch(n);
         print(result);
+    }
+
+    static void run324() {
+        int[] nums = {1, 5, 1, 1, 6, 4};
+        S324 run = new S324();
+        run.wiggleSort(nums);
+        print(nums);
     }
 
     static void run326() {

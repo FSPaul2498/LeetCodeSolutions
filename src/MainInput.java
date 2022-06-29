@@ -542,6 +542,9 @@ public class MainInput {
             case 532:
                 run532();
                 break;
+            case 535:
+                run535();
+                break;
             case 537:
                 run537();
                 break;
@@ -2197,7 +2200,7 @@ public class MainInput {
 
     static void run449() {
         String line = "1, 3, 2";
-        Codec run = new Codec();
+        CodecBST run = new CodecBST();
         TreeNode deserialized = run.deserialize(line);
         String serialized = run.serialize(deserialized);
         print(serialized);
@@ -2495,6 +2498,14 @@ public class MainInput {
         int k = 2;
         S532 run = new S532();
         int result = run.findPairs(nums, k);
+        print(result);
+    }
+
+    static void run535() {
+        String url = "https://leetcode.com/problems/design-tinyurl";
+        CodecTinyURL run = new CodecTinyURL();
+        String tiny = run.encode(url);
+        String result = run.decode(tiny);
         print(result);
     }
 

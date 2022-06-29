@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Deque;
 import java.util.List;
 
-class Codec {
+class CodecBST {
     public String serialize(TreeNode root) {
         List<Integer> list = new ArrayList<>();
         postOrder(root, list);

@@ -322,6 +322,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1109 | 航班预订统计                               | 中等 | 2021-08-31 | [力扣][P1109] |                                                              |
 | #1137 | 第 N 个泰波那契数                          | 简单 | 2021-08-08 | [力扣][P1137] |                                                              |
 | #1154 | 一年中的第几天                             | 简单 | 2021-12-21 | [力扣][P1154] |                                                              |
+| #1175 | 质数排列                                   | 简单 | 2022-06-30 | [力扣][P1175] |                                                              |
 | #1185 | 一周中的第几天                             | 简单 | 2022-01-03 | [力扣][P1185] |                                                              |
 | #1189 | “气球” 的最大数量                          | 简单 | 2022-02-13 | [力扣][P1189] |                                                              |
 | #1218 | 最长定差子序列                             | 中等 | 2021-11-05 | [力扣][P1218] |                                                              |
@@ -1011,6 +1012,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1137]:https://leetcode.cn/problems/n-th-tribonacci-number/
 
 [P1154]:https://leetcode.cn/problems/day-of-the-year/
+
+[P1175]:https://leetcode.cn/problems/prime-arrangements/
 
 [P1185]:https://leetcode.cn/problems/day-of-the-week/
 

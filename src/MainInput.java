@@ -920,6 +920,9 @@ public class MainInput {
             case 1154:
                 run1154();
                 break;
+            case 1175:
+                run1175();
+                break;
             case 1185:
                 run1185();
                 break;
@@ -3441,6 +3444,13 @@ public class MainInput {
         String date = "2019-01-09";
         S1154 run = new S1154();
         int result = run.dayOfYear(date);
+        print(result);
+    }
+
+    static void run1175() {
+        int n = 5;
+        S1175 run = new S1175();
+        int result = run.numPrimeArrangements(n);
         print(result);
     }
 

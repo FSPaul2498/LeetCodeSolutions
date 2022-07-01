@@ -221,6 +221,9 @@ public class MainInput {
             case 240:
                 run240();
                 break;
+            case 241:
+                run241();
+                break;
             case 258:
                 run258();
                 break;
@@ -1696,6 +1699,13 @@ public class MainInput {
         int target = 5;
         S240 run = new S240();
         boolean result = run.searchMatrix(matrix, target);
+        print(result);
+    }
+
+    static void run241() {
+        String expression = "2-1-1";
+        S241 run = new S241();
+        List<Integer> result = run.diffWaysToCompute(expression);
         print(result);
     }
 

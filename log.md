@@ -79,6 +79,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #233 | 数字 1 的个数                              | 困难 | 2021-08-13 | [力扣][P233] |                                                              |
 | #237 | 删除链表中的节点                           | 简单 | 2021-11-02 | [力扣][P237] |                                                              |
 | #240 | 搜索二维矩阵 II                            | 中等 | 2021-10-25 | [力扣][P240] |                                                              |
+| #241 | 为运算表达式设计优先级                     | 中等 | 2022-07-01 | [力扣][P241] | 本题有参考官方Java题解代码<br>[【为运算表达式设计优先级】][S241] |
 | #258 | 各位相加                                   | 简单 | 2022-03-03 | [力扣][P258] |                                                              |
 | #260 | 只出现一次的数字 III                       | 中等 | 2021-10-30 | [力扣][P260] |                                                              |
 | #268 | 丢失的数字                                 | 简单 | 2021-11-06 | [力扣][P268] |                                                              |
@@ -546,6 +547,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P237]:https://leetcode.cn/problems/delete-node-in-a-linked-list/
 
 [P240]:https://leetcode.cn/problems/search-a-2d-matrix-ii/
+
+[P241]:https://leetcode.cn/problems/different-ways-to-add-parentheses/
 
 [P258]:https://leetcode.cn/problems/add-digits/
 
@@ -1182,6 +1185,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S212]:https://leetcode.cn/problems/word-search-ii/solution/dan-ci-sou-suo-ii-by-leetcode-solution-7494/
 
 [S230]:https://leetcode.cn/problems/kth-smallest-element-in-a-bst/solution/er-cha-sou-suo-shu-zhong-di-kxiao-de-yua-8o07/
+
+[S241]:https://leetcode.cn/problems/different-ways-to-add-parentheses/solution/wei-yun-suan-biao-da-shi-she-ji-you-xian-lyw6/
 
 [S282]:https://leetcode.cn/problems/expression-add-operators/solution/gei-biao-da-shi-tian-jia-yun-suan-fu-by-2o1s7/
 

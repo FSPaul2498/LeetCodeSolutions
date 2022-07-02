@@ -806,6 +806,9 @@ public class MainInput {
             case 869:
                 run869();
                 break;
+            case 871:
+                run871();
+                break;
             case 875:
                 run875();
                 break;
@@ -3164,6 +3167,14 @@ public class MainInput {
         int n = 1;
         S869 run = new S869();
         boolean result = run.reorderedPowerOf2(n);
+        print(result);
+    }
+
+    static void run871() {
+        int target = 1, startFuel = 1;
+        int[][] stations = {};
+        S871 run = new S871();
+        int result = run.minRefuelStops(target, startFuel, stations);
         print(result);
     }
 

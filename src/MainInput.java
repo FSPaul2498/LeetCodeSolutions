@@ -569,6 +569,9 @@ public class MainInput {
             case 553:
                 run553();
                 break;
+            case 556:
+                run556();
+                break;
             case 559:
                 run559();
                 break;
@@ -2573,6 +2576,13 @@ public class MainInput {
         int[] nums = {1000, 100, 10, 2};
         S553 run = new S553();
         String result = run.optimalDivision(nums);
+        print(result);
+    }
+
+    static void run556() {
+        int n = 12;
+        S556 run = new S556();
+        int result = run.nextGreaterElement(n);
         print(result);
     }
 

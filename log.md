@@ -328,6 +328,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1175 | 质数排列                                   | 简单 | 2022-06-30 | [力扣][P1175] |                                                              |
 | #1185 | 一周中的第几天                             | 简单 | 2022-01-03 | [力扣][P1185] |                                                              |
 | #1189 | “气球” 的最大数量                          | 简单 | 2022-02-13 | [力扣][P1189] |                                                              |
+| #1200 | 最小绝对差                                 | 简单 | 2022-07-04 | [力扣][P1200] |                                                              |
 | #1218 | 最长定差子序列                             | 中等 | 2021-11-05 | [力扣][P1218] |                                                              |
 | #1219 | 黄金矿工                                   | 中等 | 2022-02-05 | [力扣][P1219] |                                                              |
 | #1220 | 统计元音字母序列的数目                     | 困难 | 2022-01-17 | [力扣][P1220] | 本题有参考社区Java题解代码<br/>[【统计元音字母序列的数目】][S1220] |
@@ -1027,6 +1028,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1185]:https://leetcode.cn/problems/day-of-the-week/
 
 [P1189]:https://leetcode.cn/problems/maximum-number-of-balloons/
+
+[P1200]:https://leetcode.cn/problems/minimum-absolute-difference/
 
 [P1218]:https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/
 

@@ -938,6 +938,9 @@ public class MainInput {
             case 1189:
                 run1189();
                 break;
+            case 1200:
+                run1200();
+                break;
             case 1218:
                 run1218();
                 break;
@@ -3496,6 +3499,13 @@ public class MainInput {
         String text = "nlaebolko";
         S1189 run = new S1189();
         int result = run.maxNumberOfBalloons(text);
+        print(result);
+    }
+
+    static void run1200() {
+        int[] arr = {4, 2, 1, 3};
+        S1200 run = new S1200();
+        List<List<Integer>> result = run.minimumAbsDifference(arr);
         print(result);
     }
 

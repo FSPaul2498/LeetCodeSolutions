@@ -248,6 +248,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #720 | 词典中最长的单词                           | 简单 | 2022-03-17 | [力扣][P720] |                                                              |
 | #725 | 分隔链表                                   | 中等 | 2021-09-22 | [力扣][P725] |                                                              |
 | #728 | 自除数                                     | 简单 | 2022-03-31 | [力扣][P728] |                                                              |
+| #729 | 我的日程安排表 I                            | 中等 | 2022-07-05 | [力扣][P729] |                                                              |
 | #730 | 统计不同回文子序列                         | 困难 | 2022-06-10 | [力扣][P730] | 本题有参考官方Java题解代码<br>[【统计不同回文子序列】][S730] |
 | #732 | 我的日程安排表 III                          | 困难 | 2022-06-06 | [力扣][P732] | 本题有参考官方Java题解代码<br>[【我的日程安排表 III】][S732]  |
 | #743 | 网络延迟时间                               | 中等 | 2021-08-02 | [力扣][P743] |                                                              |
@@ -878,6 +879,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P725]:https://leetcode.cn/problems/split-linked-list-in-parts/
 
 [P728]:https://leetcode.cn/problems/self-dividing-numbers/
+
+[P729]:https://leetcode.cn/problems/my-calendar-i/
 
 [P730]:https://leetcode.cn/problems/count-different-palindromic-subsequences/
 

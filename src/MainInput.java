@@ -713,6 +713,9 @@ public class MainInput {
             case 728:
                 run728();
                 break;
+            case 729:
+                run729();
+                break;
             case 730:
                 run730();
                 break;
@@ -2943,6 +2946,13 @@ public class MainInput {
         S728 run = new S728();
         List<Integer> result = run.selfDividingNumbers(left, right);
         print(result);
+    }
+
+    static void run729() {
+        MyCalendar run = new MyCalendar();
+        print(run.book(10, 20));
+        print(run.book(15, 25));
+        print(run.book(20, 30));
     }
 
     static void run730() {

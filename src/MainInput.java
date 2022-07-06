@@ -722,6 +722,9 @@ public class MainInput {
             case 732:
                 run732();
                 break;
+            case 736:
+                run736();
+                break;
             case 743:
                 run743();
                 break;
@@ -2970,6 +2973,13 @@ public class MainInput {
         print(run.book(5, 15));
         print(run.book(5, 10));
         print(run.book(25, 55));
+    }
+
+    static void run736() {
+        String expression = "(let x 2 (mult x (let x 3 y 4 (add x y))))";
+        S736 run = new S736();
+        int result = run.evaluate(expression);
+        print(result);
     }
 
     static void run743() {

@@ -251,6 +251,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #729 | 我的日程安排表 I                            | 中等 | 2022-07-05 | [力扣][P729] |                                                              |
 | #730 | 统计不同回文子序列                         | 困难 | 2022-06-10 | [力扣][P730] | 本题有参考官方Java题解代码<br>[【统计不同回文子序列】][S730] |
 | #732 | 我的日程安排表 III                          | 困难 | 2022-06-06 | [力扣][P732] | 本题有参考官方Java题解代码<br>[【我的日程安排表 III】][S732]  |
+| #736 | Lisp 语法解析                              | 困难 | 2022-07-06 | [力扣][P736] | 本题有参考官方Java题解代码<br>[【Lisp 语法解析】][S736]      |
 | #743 | 网络延迟时间                               | 中等 | 2021-08-02 | [力扣][P743] |                                                              |
 | #744 | 寻找比目标字母大的最小字母                 | 简单 | 2022-04-03 | [力扣][P744] |                                                              |
 | #747 | 至少是其他数字两倍的最大数                 | 简单 | 2022-01-13 | [力扣][P747] |                                                              |
@@ -886,6 +887,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P732]:https://leetcode.cn/problems/my-calendar-iii/
 
+[P736]:https://leetcode.cn/problems/parse-lisp-expression/
+
 [P743]:https://leetcode.cn/problems/network-delay-time/
 
 [P744]:https://leetcode.cn/problems/find-smallest-letter-greater-than-target/
@@ -1271,6 +1274,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S730]:https://leetcode.cn/problems/count-different-palindromic-subsequences/solution/tong-ji-bu-tong-hui-wen-zi-xu-lie-by-lee-7slg/
 
 [S732]:https://leetcode.cn/problems/my-calendar-iii/solution/wo-de-ri-cheng-an-pai-biao-iii-by-leetco-9rif/
+
+[S736]:https://leetcode.cn/problems/parse-lisp-expression/solution/lisp-yu-fa-jie-xi-by-leetcode-solution-zycb/
 
 [S787]:https://leetcode.cn/problems/cheapest-flights-within-k-stops/solution/k-zhan-zhong-zhuan-nei-zui-bian-yi-de-ha-abzi/
 

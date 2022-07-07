@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.List;
 
 public class S472 {
-    Trie472 trie = new Trie472();
+    Trie trie = new Trie();
 
     public List<String> findAllConcatenatedWordsInADict(String[] words) {
         List<String> ans = new ArrayList<>();
@@ -22,7 +22,7 @@ public class S472 {
         if (word.length() == start) return true;
         if (visited[start]) return false;
         visited[start] = true;
-        Trie472 node = trie;
+        Trie node = trie;
         for (int i = start; i < word.length(); i++) {
             char ch = word.charAt(i);
             int index = ch - 'a';
@@ -34,23 +34,23 @@ public class S472 {
     }
 
     public void insert(String word) {
-        Trie472 node = trie;
+        Trie node = trie;
         for (int i = 0; i < word.length(); i++) {
             char ch = word.charAt(i);
             int index = ch - 'a';
-            if (node.children[index] == null) node.children[index] = new Trie472();
+            if (node.children[index] == null) node.children[index] = new Trie();
             node = node.children[index];
         }
         node.isEnd = true;
     }
-}
 
-class Trie472 {
-    Trie472[] children;
-    boolean isEnd;
+    static class Trie {
+        Trie[] children;
+        boolean isEnd;
 
-    public Trie472() {
-        children = new Trie472[26];
-        isEnd = false;
+        public Trie() {
+            children = new Trie[26];
+            isEnd = false;
+        }
     }
 }

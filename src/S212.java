@@ -7,7 +7,7 @@ public class S212 {
     int[][] dirs = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
 
     public List<String> findWords(char[][] board, String[] words) {
-        Trie212 trie = new Trie212();
+        Trie trie = new Trie();
         for (String word : words)
             trie.insert(word);
         HashSet<String> ans = new HashSet<>();
@@ -17,7 +17,7 @@ public class S212 {
         return new ArrayList<>(ans);
     }
 
-    public void dfs(char[][] board, Trie212 now, int i1, int j1, HashSet<String> ans) {
+    public void dfs(char[][] board, Trie now, int i1, int j1, HashSet<String> ans) {
         if (!now.children.containsKey(board[i1][j1])) return;
         char ch = board[i1][j1];
         now = now.children.get(ch);
@@ -30,24 +30,24 @@ public class S212 {
         }
         board[i1][j1] = ch;
     }
-}
 
-class Trie212 {
-    String word;
-    HashMap<Character, Trie212> children;
+    static class Trie {
+        String word;
+        HashMap<Character, Trie> children;
 
-    public Trie212() {
-        this.word = "";
-        this.children = new HashMap<>();
-    }
-
-    public void insert(String word) {
-        Trie212 cur = this;
-        for (int i = 0; i < word.length(); ++i) {
-            char c = word.charAt(i);
-            if (!cur.children.containsKey(c)) cur.children.put(c, new Trie212());
-            cur = cur.children.get(c);
+        public Trie() {
+            this.word = "";
+            this.children = new HashMap<>();
         }
-        cur.word = word;
+
+        public void insert(String word) {
+            Trie cur = this;
+            for (int i = 0; i < word.length(); ++i) {
+                char c = word.charAt(i);
+                if (!cur.children.containsKey(c)) cur.children.put(c, new Trie());
+                cur = cur.children.get(c);
+            }
+            cur.word = word;
+        }
     }
 }

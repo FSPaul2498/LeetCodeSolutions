@@ -635,6 +635,9 @@ public class MainInput {
             case 639:
                 run639();
                 break;
+            case 648:
+                run648();
+                break;
             case 650:
                 run650();
                 break;
@@ -2499,7 +2502,7 @@ public class MainInput {
     static void run524() {
         String s = "abpcplea";
         String[] dict = {"ale", "apple", "monkey", "plea"};
-        List<String> dictionary = new ArrayList<>(List.of(dict));
+        List<String> dictionary = toArrayList(dict);
         S524 run = new S524();
         String result = run.findLongestWord(s, dictionary);
         print(result);
@@ -2546,7 +2549,7 @@ public class MainInput {
 
     static void run539() {
         String[] tp = {"23:59", "00:00"};
-        List<String> timePoints = new ArrayList<>(List.of(tp));
+        List<String> timePoints = toArrayList(tp);
         S539 run = new S539();
         int result = run.findMinDifference(timePoints);
         print(result);
@@ -2747,6 +2750,15 @@ public class MainInput {
         String s = "*";
         S639 run = new S639();
         int result = run.numDecodings(s);
+        print(result);
+    }
+
+    static void run648() {
+        String[] dict = {"cat", "bat", "rat"};
+        List<String> dictionary = toArrayList(dict);
+        String sentence = "the cattle was rattled by the battery";
+        S648 run = new S648();
+        String result = run.replaceWords(dictionary, sentence);
         print(result);
     }
 
@@ -3622,11 +3634,11 @@ public class MainInput {
     }
 
     static void run1436() {
-        // Test Env Sample Not Ready
-        List<List<String>> paths = new ArrayList<>();
+        String[][] p = {{"London", "New York"}, {"New York", "Lima"}, {"Lima", "Sao Paulo"}};
+        List<List<String>> paths = to2DArrayList(p);
         S1436 run = new S1436();
         String result = run.destCity(paths);
-        print("Test Env Sample Not Ready");
+        print(result);
     }
 
     static void run1446() {
@@ -4114,6 +4126,16 @@ public class MainInput {
     static List<List<Integer>> to2DArrayList(int[][] input) {
         List<List<Integer>> output = new ArrayList<>(input.length);
         for (int[] i : input) output.add(toArrayList(i));
+        return output;
+    }
+
+    static List<String> toArrayList(String[] input) {
+        return new ArrayList<>(List.of(input));
+    }
+
+    static List<List<String>> to2DArrayList(String[][] input) {
+        List<List<String>> output = new ArrayList<>(input.length);
+        for (String[] i : input) output.add(toArrayList(i));
         return output;
     }
 

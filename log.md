@@ -222,6 +222,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #630 | 课程表 III                                 | 困难 | 2021-12-14 | [力扣][P630] | 本题有参考官方Java题解代码<br>[【课程表 III】][S630]         |
 | #638 | 大礼包                                     | 中等 | 2021-10-24 | [力扣][P638] | 本题有参考官方Java题解代码<br>[【大礼包】][S638]             |
 | #639 | 解码方法 II                                | 困难 | 2021-09-27 | [力扣][P639] | 本题有参考官方Java题解代码<br>[【解码方法 II】][S639]        |
+| #648 | 单词替换                                   | 中等 | 2022-07-07 | [力扣][P648] |                                                              |
 | #650 | 只有两个键的键盘                           | 中等 | 2021-09-19 | [力扣][P650] |                                                              |
 | #653 | 两数之和 IV - 输入 BST                     | 简单 | 2022-03-21 | [力扣][P653] |                                                              |
 | #661 | 图片平滑器                                 | 简单 | 2022-03-24 | [力扣][P661] |                                                              |
@@ -828,6 +829,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P638]:https://leetcode.cn/problems/shopping-offers/
 
 [P639]:https://leetcode.cn/problems/decode-ways-ii/
+
+[P648]:https://leetcode.cn/problems/replace-words/
 
 [P650]:https://leetcode.cn/problems/2-keys-keyboard/
 

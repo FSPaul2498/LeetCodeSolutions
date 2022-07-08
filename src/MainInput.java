@@ -950,6 +950,9 @@ public class MainInput {
             case 1200:
                 run1200();
                 break;
+            case 1217:
+                run1217();
+                break;
             case 1218:
                 run1218();
                 break;
@@ -3538,6 +3541,13 @@ public class MainInput {
         int[] arr = {4, 2, 1, 3};
         S1200 run = new S1200();
         List<List<Integer>> result = run.minimumAbsDifference(arr);
+        print(result);
+    }
+
+    static void run1217() {
+        int[] position = {1, 2, 3};
+        S1217 run = new S1217();
+        int result = run.minCostToMoveChips(position);
         print(result);
     }
 

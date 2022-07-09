@@ -821,6 +821,9 @@ public class MainInput {
             case 871:
                 run871();
                 break;
+            case 873:
+                run873();
+                break;
             case 875:
                 run875();
                 break;
@@ -3223,6 +3226,13 @@ public class MainInput {
         int[][] stations = {};
         S871 run = new S871();
         int result = run.minRefuelStops(target, startFuel, stations);
+        print(result);
+    }
+
+    static void run873() {
+        int[] arr = {1, 2, 3, 4, 5, 6, 7, 8};
+        S873 run = new S873();
+        int result = run.lenLongestFibSubseq(arr);
         print(result);
     }
 

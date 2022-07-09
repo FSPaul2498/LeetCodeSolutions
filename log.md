@@ -284,6 +284,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #868 | 二进制间距                                 | 简单 | 2022-04-24 | [力扣][P868] |                                                              |
 | #869 | 重新排序得到 2 的幂                        | 中等 | 2021-10-28 | [力扣][P869] | 本题有参考官方Java题解代码<br>[【重新排序得到 2 的幂】][S869] |
 | #871 | 最低加油次数                               | 困难 | 2022-07-02 | [力扣][P871] |                                                              |
+| #873 | 最长的斐波那契子序列的长度                 | 中等 | 2022-07-09 | [力扣][P873] |                                                              |
 | #875 | 爱吃香蕉的珂珂                             | 中等 | 2022-06-07 | [力扣][P875] |                                                              |
 | #881 | 救生艇                                     | 中等 | 2021-08-26 | [力扣][P881] |                                                              |
 | #883 | 三维形体投影面积                           | 简单 | 2022-04-26 | [力扣][P883] |                                                              |
@@ -954,6 +955,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P869]:https://leetcode.cn/problems/reordered-power-of-2/
 
 [P871]:https://leetcode.cn/problems/minimum-number-of-refueling-stops/
+
+[P873]:https://leetcode.cn/problems/length-of-longest-fibonacci-subsequence/
 
 [P875]:https://leetcode.cn/problems/koko-eating-bananas/
 

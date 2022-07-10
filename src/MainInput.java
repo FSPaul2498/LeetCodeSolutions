@@ -728,6 +728,9 @@ public class MainInput {
             case 736:
                 run736();
                 break;
+            case 741:
+                run741();
+                break;
             case 743:
                 run743();
                 break;
@@ -2997,6 +3000,13 @@ public class MainInput {
         String expression = "(let x 2 (mult x (let x 3 y 4 (add x y))))";
         S736 run = new S736();
         int result = run.evaluate(expression);
+        print(result);
+    }
+
+    static void run741() {
+        int[][] grid = {{0, 1, -1}, {1, 0, -1}, {1, 1, 1}};
+        S741 run = new S741();
+        int result = run.cherryPickup(grid);
         print(result);
     }
 

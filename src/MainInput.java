@@ -656,6 +656,9 @@ public class MainInput {
             case 675:
                 run675();
                 break;
+            case 676:
+                run676();
+                break;
             case 677:
                 run677();
                 break;
@@ -2813,6 +2816,15 @@ public class MainInput {
         S675 run = new S675();
         int result = run.cutOffTree(forest);
         print(result);
+    }
+
+    static void run676() {
+        MagicDictionary run = new MagicDictionary();
+        run.buildDict(new String[]{"hello", "leetcode"});
+        print(run.search("hello"));
+        print(run.search("hhllo"));
+        print(run.search("hell"));
+        print(run.search("leetcoded"));
     }
 
     static void run677() {

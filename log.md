@@ -229,6 +229,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #668 | 乘法表中第k小的数                          | 困难 | 2022-05-18 | [力扣][P668] |                                                              |
 | #673 | 最长递增子序列的个数                       | 中等 | 2021-09-20 | [力扣][P673] | 本题有参考官方Java题解代码<br>[【最长递增子序列的个数】][S673] |
 | #675 | 为高尔夫比赛砍树                           | 困难 | 2022-05-23 | [力扣][P675] | 本题有参考官方Java题解代码<br>[【为高尔夫比赛砍树】][S675]   |
+| #676 | 实现一个魔法字典                           | 中等 | 2022-07-11 | [力扣][P676] |                                                              |
 | #677 | 键值映射                                   | 中等 | 2021-11-14 | [力扣][P677] |                                                              |
 | #678 | 有效的括号字符串                           | 中等 | 2021-09-12 | [力扣][P678] |                                                              |
 | #682 | 棒球比赛                                   | 简单 | 2022-03-26 | [力扣][P682] |                                                              |
@@ -846,6 +847,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P673]:https://leetcode.cn/problems/number-of-longest-increasing-subsequence/
 
 [P675]:https://leetcode.cn/problems/cut-off-trees-for-golf-event/
+
+[P676]:https://leetcode.cn/problems/implement-magic-dictionary/
 
 [P677]:https://leetcode.cn/problems/map-sum-pairs/
 

@@ -974,6 +974,9 @@ public class MainInput {
             case 1221:
                 run1221();
                 break;
+            case 1252:
+                run1252();
+                break;
             case 1305:
                 run1305();
                 break;
@@ -3609,6 +3612,14 @@ public class MainInput {
         String s = "RLRRLLRLRL";
         S1221 run = new S1221();
         int result = run.balancedStringSplit(s);
+        print(result);
+    }
+
+    static void run1252() {
+        int m = 2, n = 3;
+        int[][] indices = {{0, 1}, {1, 1}};
+        S1252 run = new S1252();
+        int result = run.oddCells(m, n, indices);
         print(result);
     }
 

@@ -728,6 +728,9 @@ public class MainInput {
             case 732:
                 run732();
                 break;
+            case 735:
+                run735();
+                break;
             case 736:
                 run736();
                 break;
@@ -3009,6 +3012,13 @@ public class MainInput {
         print(run.book(5, 15));
         print(run.book(5, 10));
         print(run.book(25, 55));
+    }
+
+    static void run735() {
+        int[] asteroids = {5, 10, -5};
+        S735 run = new S735();
+        int[] result = run.asteroidCollision(asteroids);
+        print(result);
     }
 
     static void run736() {

@@ -253,6 +253,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #729 | 我的日程安排表 I                            | 中等 | 2022-07-05 | [力扣][P729] |                                                              |
 | #730 | 统计不同回文子序列                         | 困难 | 2022-06-10 | [力扣][P730] | 本题有参考官方Java题解代码<br>[【统计不同回文子序列】][S730] |
 | #732 | 我的日程安排表 III                          | 困难 | 2022-06-06 | [力扣][P732] | 本题有参考官方Java题解代码<br>[【我的日程安排表 III】][S732]  |
+| #735 | 行星碰撞                                   | 中等 | 2022-07-13 | [力扣][P735] |                                                              |
 | #736 | Lisp 语法解析                              | 困难 | 2022-07-06 | [力扣][P736] | 本题有参考官方Java题解代码<br>[【Lisp 语法解析】][S736]      |
 | #741 | 摘樱桃                                     | 困难 | 2022-07-10 | [力扣][P741] | 本题有参考官方Java题解代码<br>[【摘樱桃】][S741]             |
 | #743 | 网络延迟时间                               | 中等 | 2021-08-02 | [力扣][P743] |                                                              |
@@ -896,6 +897,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P730]:https://leetcode.cn/problems/count-different-palindromic-subsequences/
 
 [P732]:https://leetcode.cn/problems/my-calendar-iii/
+
+[P735]:https://leetcode.cn/problems/asteroid-collision/
 
 [P736]:https://leetcode.cn/problems/parse-lisp-expression/
 

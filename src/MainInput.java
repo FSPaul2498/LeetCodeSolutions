@@ -743,6 +743,9 @@ public class MainInput {
             case 744:
                 run744();
                 break;
+            case 745:
+                run745();
+                break;
             case 747:
                 run747();
                 break;
@@ -3049,6 +3052,11 @@ public class MainInput {
         S744 run = new S744();
         char result = run.nextGreatestLetter(letters, target);
         print(result);
+    }
+
+    static void run745() {
+        WordFilter run = new WordFilter(new String[]{"apple"});
+        print(run.f("a", "e"));
     }
 
     static void run747() {

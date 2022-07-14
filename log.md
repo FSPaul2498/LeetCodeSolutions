@@ -258,6 +258,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #741 | 摘樱桃                                     | 困难 | 2022-07-10 | [力扣][P741] | 本题有参考官方Java题解代码<br>[【摘樱桃】][S741]             |
 | #743 | 网络延迟时间                               | 中等 | 2021-08-02 | [力扣][P743] |                                                              |
 | #744 | 寻找比目标字母大的最小字母                 | 简单 | 2022-04-03 | [力扣][P744] |                                                              |
+| #745 | 前缀和后缀搜索                             | 困难 | 2022-07-14 | [力扣][P745] |                                                              |
 | #747 | 至少是其他数字两倍的最大数                 | 简单 | 2022-01-13 | [力扣][P747] |                                                              |
 | #748 | 最短补全词                                 | 简单 | 2021-12-10 | [力扣][P748] |                                                              |
 | #762 | 二进制表示中质数个计算置位                 | 简单 | 2022-04-05 | [力扣][P762] |                                                              |
@@ -907,6 +908,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P743]:https://leetcode.cn/problems/network-delay-time/
 
 [P744]:https://leetcode.cn/problems/find-smallest-letter-greater-than-target/
+
+[P745]:https://leetcode.cn/problems/prefix-and-suffix-search/
 
 [P747]:https://leetcode.cn/problems/largest-number-at-least-twice-of-others/
 

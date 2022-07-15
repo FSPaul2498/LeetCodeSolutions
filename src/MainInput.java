@@ -572,6 +572,9 @@ public class MainInput {
             case 556:
                 run556();
                 break;
+            case 558:
+                run558();
+                break;
             case 559:
                 run559();
                 break;
@@ -2617,6 +2620,15 @@ public class MainInput {
         S556 run = new S556();
         int result = run.nextGreaterElement(n);
         print(result);
+    }
+
+    static void run558() {
+        // Test Env Print Function Not Ready
+        String qT1 = "[[1,0]]", qT2 = "[[1,0]]";
+        QuadTreeNode quadTree1 = new QuadTreeNode(), quadTree2 = new QuadTreeNode();
+        S558 run = new S558();
+        QuadTreeNode result = run.intersect(quadTree1, quadTree2);
+        print("Test Env Print Function Not Ready");
     }
 
     static void run559() {

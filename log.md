@@ -201,6 +201,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #552 | 学生出勤记录 II                            | 困难 | 2021-08-18 | [力扣][P552] | 本题有参考官方Java题解代码<br>[【学生出勤记录 II】][S552]    |
 | #553 | 最优除法                                   | 中等 | 2022-02-27 | [力扣][P553] |                                                              |
 | #556 | 下一个更大元素 III                         | 中等 | 2022-07-03 | [力扣][P556] |                                                              |
+| #558 | 四叉树交集                                 | 中等 | 2022-07-15 | [力扣][P558] |                                                              |
 | #559 | N 叉树的最大深度                           | 简单 | 2021-11-21 | [力扣][P559] |                                                              |
 | #563 | 二叉树的坡度                               | 简单 | 2021-11-18 | [力扣][P563] |                                                              |
 | #564 | 寻找最近的回文数                           | 困难 | 2022-03-02 | [力扣][P564] |                                                              |
@@ -794,6 +795,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P553]:https://leetcode.cn/problems/optimal-division/
 
 [P556]:https://leetcode.cn/problems/next-greater-element-iii/
+
+[P558]:https://leetcode.cn/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/
 
 [P559]:https://leetcode.cn/problems/maximum-depth-of-n-ary-tree/
 

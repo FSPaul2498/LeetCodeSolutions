@@ -418,6 +418,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #OF10    | 斐波那契数列                               | 简单 | 2021-09-04 | [力扣][POF10]    |                                                              |
 | #OF22    | 链表中倒数第k个节点                        | 简单 | 2021-09-02 | [力扣][POF22]    |                                                              |
 | #OFII29  | 排序的循环链表                             | 中等 | 2022-06-18 | [力扣][POFII29]  |                                                              |
+| #OFII41  | 滑动窗口的平均值                           | 中等 | 2022-07-16 | [力扣][POFII41]  |                                                              |
 | #OFII69  | 山峰数组的顶部                             | 简单 | 2021-10-14 | [力扣][POFII69]  |                                                              |
 | #OFII91  | 粉刷房子                                   | 中等 | 2022-06-25 | [力扣][POFII91]  |                                                              |
 | #OFII114 | 外星文字典                                 | 困难 | 2022-05-31 | [力扣][POFII114] | 本题有参考官方Java题解代码<br>[【外星文字典】][SOFII114]     |
@@ -1199,6 +1200,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [POF22]:https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
 
 [POFII29]:https://leetcode.cn/problems/4ueAj6/
+
+[POFII41]:https://leetcode.cn/problems/qIsx9U/
 
 [POFII69]:https://leetcode.cn/problems/B1IidL/
 

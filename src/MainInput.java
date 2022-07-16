@@ -1186,6 +1186,9 @@ public class MainInput {
             case 21029:
                 runOFII29();
                 break;
+            case 21041:
+                runOFII41();
+                break;
             case 21069:
                 runOFII69();
                 break;
@@ -4145,6 +4148,14 @@ public class MainInput {
         SOFII29 run = new SOFII29();
         Node result = run.insert(head, insertVal);
         print(result);
+    }
+
+    static void runOFII41() {
+        MovingAverage run = new MovingAverage(3);
+        print(run.next(1));
+        print(run.next(10));
+        print(run.next(3));
+        print(run.next(5));
     }
 
     static void runOFII69() {

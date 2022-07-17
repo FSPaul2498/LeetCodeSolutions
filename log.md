@@ -205,6 +205,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #559 | N 叉树的最大深度                           | 简单 | 2021-11-21 | [力扣][P559] |                                                              |
 | #563 | 二叉树的坡度                               | 简单 | 2021-11-18 | [力扣][P563] |                                                              |
 | #564 | 寻找最近的回文数                           | 困难 | 2022-03-02 | [力扣][P564] |                                                              |
+| #565 | 数组嵌套                                   | 中等 | 2022-07-17 | [力扣][P565] |                                                              |
 | #575 | 分糖果                                     | 简单 | 2021-11-01 | [力扣][P575] |                                                              |
 | #576 | 出界的路径数                               | 中等 | 2021-08-15 | [力扣][P576] |                                                              |
 | #581 | 最短无序连续子数组                         | 中等 | 2021-08-03 | [力扣][P581] |                                                              |
@@ -804,6 +805,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P563]:https://leetcode.cn/problems/binary-tree-tilt/
 
 [P564]:https://leetcode.cn/problems/find-the-closest-palindrome/
+
+[P565]:https://leetcode.cn/problems/array-nesting/
 
 [P575]:https://leetcode.cn/problems/distribute-candies/
 

@@ -584,6 +584,9 @@ public class MainInput {
             case 564:
                 run564();
                 break;
+            case 565:
+                run565();
+                break;
             case 575:
                 run575();
                 break;
@@ -2654,6 +2657,13 @@ public class MainInput {
         String n = "123";
         S564 run = new S564();
         String result = run.nearestPalindromic(n);
+        print(result);
+    }
+
+    static void run565() {
+        int[] A = {5, 4, 0, 3, 1, 6, 2};
+        S565 run = new S565();
+        int result = run.arrayNesting(A);
         print(result);
     }
 

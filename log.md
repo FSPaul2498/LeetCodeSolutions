@@ -263,6 +263,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #745 | 前缀和后缀搜索                             | 困难 | 2022-07-14 | [力扣][P745] |                                                              |
 | #747 | 至少是其他数字两倍的最大数                 | 简单 | 2022-01-13 | [力扣][P747] |                                                              |
 | #748 | 最短补全词                                 | 简单 | 2021-12-10 | [力扣][P748] |                                                              |
+| #749 | 隔离病毒                                   | 困难 | 2022-07-18 | [力扣][P749] | 本题有参考官方Java题解代码<br>[【隔离病毒】][S749]           |
 | #762 | 二进制表示中质数个计算置位                 | 简单 | 2022-04-05 | [力扣][P762] |                                                              |
 | #780 | 到达终点                                   | 困难 | 2022-04-09 | [力扣][P780] |                                                              |
 | #786 | 第 K 个最小的素数分数                      | 困难 | 2021-11-29 | [力扣][P786] |                                                              |
@@ -922,6 +923,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [P748]:https://leetcode.cn/problems/shortest-completing-word/
 
+[P749]:https://leetcode.cn/problems/contain-virus/
+
 [P762]:https://leetcode.cn/problems/prime-number-of-set-bits-in-binary-representation/
 
 [P780]:https://leetcode.cn/problems/reaching-points/
@@ -1311,6 +1314,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [S736]:https://leetcode.cn/problems/parse-lisp-expression/solution/lisp-yu-fa-jie-xi-by-leetcode-solution-zycb/
 
 [S741]:https://leetcode.cn/problems/cherry-pickup/solution/zhai-ying-tao-by-leetcode-solution-1h3k/
+
+[S749]:https://leetcode.cn/problems/contain-virus/solution/ge-chi-bing-du-by-leetcode-solution-vn9m/
 
 [S787]:https://leetcode.cn/problems/cheapest-flights-within-k-stops/solution/k-zhan-zhong-zhuan-nei-zui-bian-yi-de-ha-abzi/
 

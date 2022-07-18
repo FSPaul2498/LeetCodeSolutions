@@ -758,6 +758,9 @@ public class MainInput {
             case 748:
                 run748();
                 break;
+            case 749:
+                run749();
+                break;
             case 762:
                 run762();
                 break;
@@ -3096,6 +3099,13 @@ public class MainInput {
         String[] words = {"step", "steps", "stripe", "stepple"};
         S748 run = new S748();
         String result = run.shortestCompletingWord(licensePlate, words);
+        print(result);
+    }
+
+    static void run749() {
+        int[][] isInfected = {{0, 1, 0, 0, 0, 0, 0, 1}, {0, 1, 0, 0, 0, 0, 0, 1}, {0, 0, 0, 0, 0, 0, 0, 1}, {0, 0, 0, 0, 0, 0, 0, 0}};
+        S749 run = new S749();
+        int result = run.containVirus(isInfected);
         print(result);
     }
 

@@ -254,6 +254,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #728 | 自除数                                     | 简单 | 2022-03-31 | [力扣][P728] |                                                              |
 | #729 | 我的日程安排表 I                            | 中等 | 2022-07-05 | [力扣][P729] |                                                              |
 | #730 | 统计不同回文子序列                         | 困难 | 2022-06-10 | [力扣][P730] | 本题有参考官方Java题解代码<br>[【统计不同回文子序列】][S730] |
+| #731 | 我的日程安排表 II                           | 中等 | 2022-07-19 | [力扣][P731] |                                                              |
 | #732 | 我的日程安排表 III                          | 困难 | 2022-06-06 | [力扣][P732] | 本题有参考官方Java题解代码<br>[【我的日程安排表 III】][S732]  |
 | #735 | 行星碰撞                                   | 中等 | 2022-07-13 | [力扣][P735] |                                                              |
 | #736 | Lisp 语法解析                              | 困难 | 2022-07-06 | [力扣][P736] | 本题有参考官方Java题解代码<br>[【Lisp 语法解析】][S736]      |
@@ -904,6 +905,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P729]:https://leetcode.cn/problems/my-calendar-i/
 
 [P730]:https://leetcode.cn/problems/count-different-palindromic-subsequences/
+
+[P731]:https://leetcode.cn/problems/my-calendar-ii/
 
 [P732]:https://leetcode.cn/problems/my-calendar-iii/
 

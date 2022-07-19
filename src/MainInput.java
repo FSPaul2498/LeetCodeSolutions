@@ -731,6 +731,9 @@ public class MainInput {
             case 730:
                 run730();
                 break;
+            case 731:
+                run731();
+                break;
             case 732:
                 run732();
                 break;
@@ -3033,6 +3036,16 @@ public class MainInput {
         S730 run = new S730();
         int result = run.countPalindromicSubsequences(s);
         print(result);
+    }
+
+    static void run731() {
+        MyCalendarTwo run = new MyCalendarTwo();
+        print(run.book(10, 20));
+        print(run.book(50, 60));
+        print(run.book(10, 40));
+        print(run.book(5, 15));
+        print(run.book(5, 10));
+        print(run.book(25, 55));
     }
 
     static void run732() {

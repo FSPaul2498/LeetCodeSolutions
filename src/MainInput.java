@@ -995,6 +995,9 @@ public class MainInput {
             case 1252:
                 run1252();
                 break;
+            case 1260:
+                run1260();
+                break;
             case 1305:
                 run1305();
                 break;
@@ -3686,6 +3689,14 @@ public class MainInput {
         int[][] indices = {{0, 1}, {1, 1}};
         S1252 run = new S1252();
         int result = run.oddCells(m, n, indices);
+        print(result);
+    }
+
+    static void run1260() {
+        int[][] grid = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+        int k = 1;
+        S1260 run = new S1260();
+        List<List<Integer>> result = run.shiftGrid(grid, k);
         print(result);
     }
 

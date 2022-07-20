@@ -347,6 +347,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1220 | 统计元音字母序列的数目                     | 困难 | 2022-01-17 | [力扣][P1220] | 本题有参考社区Java题解代码<br/>[【统计元音字母序列的数目】][S1220] |
 | #1221 | 分割平衡字符串                             | 简单 | 2021-09-07 | [力扣][P1221] |                                                              |
 | #1252 | 奇数值单元格的数目                         | 简单 | 2022-07-12 | [力扣][P1252] |                                                              |
+| #1260 | 二维网格迁移                               | 简单 | 2022-07-20 | [力扣][P1260] |                                                              |
 | #1305 | 两棵二叉搜索树中的所有元素                 | 中等 | 2022-05-01 | [力扣][P1305] |                                                              |
 | #1332 | 删除回文子序列                             | 简单 | 2022-01-22 | [力扣][P1332] |                                                              |
 | #1337 | 矩阵中战斗力最弱的 K 行                    | 简单 | 2021-08-01 | [力扣][P1337] |                                                              |
@@ -1081,6 +1082,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1221]:https://leetcode.cn/problems/split-a-string-in-balanced-strings/
 
 [P1252]:https://leetcode.cn/problems/cells-with-odd-values-in-a-matrix/
+
+[P1260]:https://leetcode.cn/problems/shift-2d-grid/
 
 [P1305]:https://leetcode.cn/problems/all-elements-in-two-binary-search-trees/
 

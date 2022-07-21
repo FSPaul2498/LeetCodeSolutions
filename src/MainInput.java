@@ -806,6 +806,9 @@ public class MainInput {
             case 812:
                 run812();
                 break;
+            case 814:
+                run814();
+                break;
             case 819:
                 run819();
                 break;
@@ -2281,7 +2284,7 @@ public class MainInput {
         int key = 3;
         S450 run = new S450();
         TreeNode result = run.deleteNode(root, key);
-        print(TreeNode.treeNodeToString(result));
+        print(result.toString());
     }
 
     static void run453() {
@@ -3225,6 +3228,14 @@ public class MainInput {
         S812 run = new S812();
         double result = run.largestTriangleArea(points);
         print(result);
+    }
+
+    static void run814() {
+        String line = "[1,null,0,0,1]";
+        TreeNode root = TreeNode.stringToTreeNode(line);
+        S814 run = new S814();
+        TreeNode result = run.pruneTree(root);
+        print(result.toString());
     }
 
     static void run819() {

@@ -279,6 +279,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #806 | 写字符串需要的行数                         | 简单 | 2022-04-12 | [力扣][P806] |                                                              |
 | #807 | 保持城市天际线                             | 中等 | 2021-12-13 | [力扣][P807] |                                                              |
 | #812 | 最大三角形面积                             | 简单 | 2022-05-15 | [力扣][P812] | 本题有参考官方Java题解代码<br>[【最大三角形面积】][S812]     |
+| #814 | 二叉树剪枝                                 | 中等 | 2022-07-21 | [力扣][P814] |                                                              |
 | #819 | 最常见的单词                               | 简单 | 2022-04-17 | [力扣][P819] |                                                              |
 | #821 | 字符的最短距离                             | 简单 | 2022-04-19 | [力扣][P821] |                                                              |
 | #824 | 山羊拉丁文                                 | 简单 | 2022-04-21 | [力扣][P824] |                                                              |
@@ -956,6 +957,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P807]:https://leetcode.cn/problems/max-increase-to-keep-city-skyline/
 
 [P812]:https://leetcode.cn/problems/largest-triangle-area/
+
+[P814]:https://leetcode.cn/problems/binary-tree-pruning/
 
 [P819]:https://leetcode.cn/problems/most-common-word/
 

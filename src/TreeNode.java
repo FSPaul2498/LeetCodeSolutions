@@ -18,6 +18,11 @@ public class TreeNode {
         this.right = right;
     }
 
+    @Override
+    public String toString() {
+        return treeNodeToString(this);
+    }
+
     // Based on LeetCode Playground Official Code
     public static TreeNode stringToTreeNode(String input) {
         input = input.trim();

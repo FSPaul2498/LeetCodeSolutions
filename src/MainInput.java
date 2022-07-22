@@ -764,6 +764,9 @@ public class MainInput {
             case 749:
                 run749();
                 break;
+            case 757:
+                run757();
+                break;
             case 762:
                 run762();
                 break;
@@ -3125,6 +3128,13 @@ public class MainInput {
         int[][] isInfected = {{0, 1, 0, 0, 0, 0, 0, 1}, {0, 1, 0, 0, 0, 0, 0, 1}, {0, 0, 0, 0, 0, 0, 0, 1}, {0, 0, 0, 0, 0, 0, 0, 0}};
         S749 run = new S749();
         int result = run.containVirus(isInfected);
+        print(result);
+    }
+
+    static void run757() {
+        int[][] intervals = {{1, 3}, {1, 4}, {2, 5}, {3, 5}};
+        S757 run = new S757();
+        int result = run.intersectionSizeTwo(intervals);
         print(result);
     }
 

@@ -428,6 +428,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #OFII69  | 山峰数组的顶部                             | 简单 | 2021-10-14 | [力扣][POFII69]  |                                                              |
 | #OFII91  | 粉刷房子                                   | 中等 | 2022-06-25 | [力扣][POFII91]  |                                                              |
 | #OFII114 | 外星文字典                                 | 困难 | 2022-05-31 | [力扣][POFII114] | 本题有参考官方Java题解代码<br>[【外星文字典】][SOFII114]     |
+| #OFII115 | 重建序列                                   | 中等 | 2022-07-23 | [力扣][POFII115] | 本题有参考官方Java题解代码<br>[【重建序列】][SOFII115]       |
 | #CI0105  | 一次编辑                                   | 中等 | 2022-05-13 | [力扣][PCI0105]  |                                                              |
 | #CI0406  | 后继者                                     | 中等 | 2022-05-16 | [力扣][PCI0406]  |                                                              |
 | #CI1711  | 单词距离                                   | 中等 | 2022-05-27 | [力扣][PCI1711]  |                                                              |
@@ -1227,6 +1228,8 @@ which I have solved and submitted the solution to LeetCode CN.
 
 [POFII114]:https://leetcode.cn/problems/Jf1JuT/
 
+[POFII115]:https://leetcode.cn/problems/ur2n8P/
+
 [PCI0105]:https://leetcode.cn/problems/one-away-lcci/
 
 [PCI0406]:https://leetcode.cn/problems/successor-lcci/
@@ -1380,3 +1383,5 @@ which I have solved and submitted the solution to LeetCode CN.
 [S2104]:https://leetcode.cn/problems/sum-of-subarray-ranges/solution/zi-shu-zu-fan-wei-he-by-leetcode-solutio-lamr/
 
 [SOFII114]:https://leetcode.cn/problems/Jf1JuT/solution/wai-xing-wen-zi-dian-by-leetcode-solutio-to66/
+
+[SOFII115]:https://leetcode.cn/problems/ur2n8P/solution/zhong-jian-xu-lie-by-leetcode-solution-urxc/

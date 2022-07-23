@@ -1216,6 +1216,9 @@ public class MainInput {
             case 21114:
                 runOFII114();
                 break;
+            case 21115:
+                runOFII115();
+                break;
             // 3XXXX for Case Interview
             // 面试题 01.01 -> 30101 -> CI0101
             case 30105:
@@ -4241,6 +4244,14 @@ public class MainInput {
         String[] words = {"wrt", "wrf", "er", "ett", "rftt"};
         SOFII114 run = new SOFII114();
         String result = run.alienOrder(words);
+        print(result);
+    }
+
+    static void runOFII115() {
+        int[] nums = {1, 2, 3};
+        int[][] sequences = {{1, 2}, {1, 3}};
+        SOFII115 run = new SOFII115();
+        boolean result = run.sequenceReconstruction(nums, sequences);
         print(result);
     }
 

@@ -974,6 +974,9 @@ public class MainInput {
             case 1175:
                 run1175();
                 break;
+            case 1184:
+                run1184();
+                break;
             case 1185:
                 run1185();
                 break;
@@ -3648,6 +3651,14 @@ public class MainInput {
         int n = 5;
         S1175 run = new S1175();
         int result = run.numPrimeArrangements(n);
+        print(result);
+    }
+
+    static void run1184() {
+        int[] distance = {1, 2, 3, 4};
+        int start = 0, destination = 1;
+        S1184 run = new S1184();
+        int result = run.distanceBetweenBusStops(distance, start, destination);
         print(result);
     }
 

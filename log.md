@@ -340,6 +340,7 @@ which I have solved and submitted the solution to LeetCode CN.
 | #1137 | 第 N 个泰波那契数                          | 简单 | 2021-08-08 | [力扣][P1137] |                                                              |
 | #1154 | 一年中的第几天                             | 简单 | 2021-12-21 | [力扣][P1154] |                                                              |
 | #1175 | 质数排列                                   | 简单 | 2022-06-30 | [力扣][P1175] |                                                              |
+| #1184 | 公交站间的距离                             | 简单 | 2022-07-24 | [力扣][P1184] |                                                              |
 | #1185 | 一周中的第几天                             | 简单 | 2022-01-03 | [力扣][P1185] |                                                              |
 | #1189 | “气球” 的最大数量                          | 简单 | 2022-02-13 | [力扣][P1189] |                                                              |
 | #1200 | 最小绝对差                                 | 简单 | 2022-07-04 | [力扣][P1200] |                                                              |
@@ -1071,6 +1072,8 @@ which I have solved and submitted the solution to LeetCode CN.
 [P1154]:https://leetcode.cn/problems/day-of-the-year/
 
 [P1175]:https://leetcode.cn/problems/prime-arrangements/
+
+[P1184]:https://leetcode.cn/problems/distance-between-bus-stops/
 
 [P1185]:https://leetcode.cn/problems/day-of-the-week/
 

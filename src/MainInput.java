@@ -884,6 +884,9 @@ public class MainInput {
             case 917:
                 run917();
                 break;
+            case 919:
+                run919();
+                break;
             case 926:
                 run926();
                 break;
@@ -3433,6 +3436,14 @@ public class MainInput {
         S917 run = new S917();
         String result = run.reverseOnlyLetters(s);
         print(result);
+    }
+
+    static void run919() {
+        TreeNode root = TreeNode.stringToTreeNode("[1,2]");
+        CBTInserter run = new CBTInserter(root);
+        print(run.insert(3));
+        print(run.insert(4));
+        print(run.get_root().toString());
     }
 
     static void run926() {
